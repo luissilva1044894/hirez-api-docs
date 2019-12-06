@@ -147,7 +147,7 @@ We recommend using this field value as an unique identifier for errors, with the
   </tr>
   <tr>
     <td align='center'> Approved </td>
-    <td style='text-align:center;vertical-align:middle'> Indicates that you have successfully created a new <a href="#session-authentication" title="Session">Session</a>. </td>
+    <td style='text-align:center;vertical-align:middle'> Indicates that a new <a href="#session-authentication" title="Session">Session</a> has been created sucessful. </td>
     <td style='text-align:center;vertical-align:middle'> You may store the “session_id” is a local variable and use while it is valid. </td>
   </tr>
   <tr>
@@ -207,10 +207,7 @@ We recommend using this field value as an unique identifier for errors, with the
   </tr>
   <tr>
     <td align='center'> Maximum number of active sessions reached </td>
-    <!--
-    <td> Indicates that you have exceeded the concurrent Sessions limit and you may be unable to create new <a href="#session-authentication" title="Session">Sessions</a> </td>
-    -->
-    <td style='text-align:center;vertical-align:middle'> Indicates that you have too many <a href="#session-authentication" title="Session">Sessions</a> alive and you may be unable to create a new. </td>
+    <td style='text-align:center;vertical-align:middle'> Indicates that you have exceeded rate limits for <a href="#session-authentication" title="Session">Session</a> creation and you may be unable to create a new. </td>
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
   <tr>
