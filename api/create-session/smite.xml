@@ -1,0 +1,5 @@
+<Session xmlns="http://schemas.datacontract.org/2004/07/SmiteApi" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<ret_msg>Approved</ret_msg>
+	<session_id>2391209F7AAE4AC3997E17C7712BCE48</session_id>
+	<timestamp>2/28/2019 3:12:38 PM</timestamp>
+</Session>
