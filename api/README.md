@@ -7,6 +7,13 @@ The [Hi-Rez Studios][hi_rez_studios] API returns JSON (or XML) data with players
 
 *If you are interested in creating an App that is paid and/or contains monetization features, please contact us at monetization_requests@hirezstudios.com to discuss a potential business relationship. All for-profit Apps must be pre-approved in writing by Hi-Rez (such approval to be granted or withheld in Hi-Rez's sole discretion). To the extent any for-profit Apps are approved in writing by Hi-Rez (in its sole discretion), you will be solely responsible for any and all taxes due in connection with the distribution of such App in any territory.*
 
+## Registration
+><i>An</i> [<b>``API Key``</b>](#api-key) <i>that will provide access to API.</i> The process of obtaining [<b>``API Key``</b>](#api-key) should be an one-time activity.
+
+If you don't already have a dev_id and auth_key, [<b>click here</b>](https://fs12.formsite.com/HiRez/form48/secure_index.html "Register to become developer") to become developer.
+
+If your application is accepted, you will receive an e-mail from [Hi-Rez Studios][hi_rez_studios] containing your personal [<b>``API Key``</b>](#api-key) within a few days.
+
 ## API Key
 To access the API you'll need your own set of Credentials which consist of a <i>Developer ID</i> (dev_id) and an <i>Authentication Key</i> (auth_key).
 
@@ -28,41 +35,40 @@ Use your personal Credentials to access the API via a <i>Representational State 
 <i>**NOTE**</i>: The same dev_id and auth_key combination should work for SmiteAPI, PaladinsAPI and RealmAPI, across all supported platforms. Do not request a new, If you already have a Credentials.
 
 ## Endpoint Base URLs
-To retrieve all information from the [Hi-Rez Studios][hi_rez_studios] API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you're wanting to access concatenated with the response type you're wanting. This documentation will consume a JSON response.
+To retrieve all information from the API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you are wanting to access concatenated with the response type you are wanting. This documentation will consume a JSON response.
 
   [Paladins](https://www.paladins.com/ "Paladins"): `http://api.paladins.com/paladinsapi.svc` <br/>
   [Realm Royale](https://www.realmroyale.com/ "Realm Royale"): `http://api.realmroyale.com/realmapi.svc` <br/>
   [Smite](https://www.smitegame.com/ "Smite"): `http://api.smitegame.com/smiteapi.svc` <br/>
 
 ## Calling API Methods
-><i>BaseURLEndpoint/MethodPattern[ResponseFormat]/Params</i><br/>The url format for calling a method from the api
+
+><i>base_url_endpoint/method_pattern[response_format]/params</i><br/>The url format for calling a method from the api
 
 <table>
   <tr>
-    <th>Name</th>
+    <th>URI Parameter</th>
     <th>Description</th>
     <th>Example</th>
   </tr>
   <tr>
-    <td>BaseURLEndpoint</td>
-    <td>The <a href="#endpoint-base-urls" title="Endpoint">Endpoint</a> that you want to use</td>
+    <td>base_url_endpoint</td>
+    <td>The <a href="#endpoint-base-urls" title="Endpoints">Endpoint</a> that you want to use</td>
     <td>http://api.paladins.com/paladinsapi.svc</td>
   </tr>
   <tr>
-    <td><a href="./create-session#create-session" title="MethodPattern">MethodPattern</a></td>
-    <td>The pattern for the method above, where [ResponseFormat] is replaced by the formatting that you want returned (either JSON or XML).</td>
+    <td><a href="./create-session.md#create-session" title="Create Session">method_pattern</a></td>
+    <td>The pattern for the method above, where [response_format] is replaced by the formatting that you want returned (either JSON or XML).</td>
     <td>/CreateSessionJSON</td>
   </tr>
   <tr>
-    <td>Params</td>
+    <td>params</td>
     <td>The method params</td>
     <td>/{dev_id}/{signature}/{timestamp}</td>
   </tr>
 </table>
 
 ##### URI example: http://api.paladins.com/paladinsapi.svc/CreateSessionJSON/{dev_id}/{signature}/{timestamp}
-
-
 
 ## Rate Limiting
 The API rate limits in order to prevent abuse and over use of the API (either intentional, more likely unintentional “over use”). All API requests are subject to rate limits.
@@ -229,11 +235,15 @@ We recommend using this field value as an unique identifier for errors, with the
 
 API keys should be treated as secret data and not exposed to users. To ensure the security of your [API key](#api-key), we strongly suggest that you make requests to the API server-side whenever possible.
 
+Any requests to the API made via client-side present the risk of your API key being compromised. Most importantly, never include your [api_key](#api-key) inline in your code. For additional security, don't have the key itself contained anywhere in your code, keep it in a variable stored in a privately scoped method.
+
+<!--
 Any requests to the API made via client-side JavaScript present the risk of your API key being compromised. It is possible to partially obfuscate the key, but anything sent to the browser can be read by a determined user. Most importantly, never include your [api_key](#api-key) inline in the page. Keep any references to your [api_key](#api-key) in code that is contained in external javascript files which are included in the page. For additional security, don't have the key itself contained anywhere in your javascript code, but rather make an ajax call to load it, and keep it in a variable stored in a privately scoped method.
+-->
 
 ### Avoiding API Calls on Page Loads
 
-Most rate limiting issues are caused by extraneous API calls. For example, don’t try to call the [Hi-Rez Studios][hi_rez_studios] API on every page load of your website landing page. Instead, call the API infrequently and load the response into a [local cache](#caching). When users hit your website load the cached version of the results.
+Most rate limiting issues are caused by extraneous API calls. For example, don’t try to call the API on every page load of your website landing page. Instead, call the API infrequently and load the response into a [local cache](#caching). When users hit your website load the cached version of the results.
 
 ### Caching
 
@@ -250,7 +260,10 @@ If your site keeps track of many player (for example, fetching their current sta
 ## Frequently Asked Questions (FAQ)
 
 ### What do we consider an API call?
-- With the exception of using the [``Ping``](./ping), all calls count towards the rate limits.
+- With the exception of using the [``Ping``](./ping#ping), all calls count towards the rate limits.
+
+### Do all methods work with all endpoints?
+- No. PC is the only endpoint guaranteed to work with all methods.
 
 ### How do I get my API Key?
 - If you don't already have a [``API Key``](#api-key) (dev_id and auth_key) for PaladinsAPI, SmiteAPI or even RealmAPI, [click here](./../README.md#registration). If you already have, you can use your [``API Key``](#api-key) to connect to RealmAPI as well.
@@ -269,6 +282,12 @@ If your site keeps track of many player (for example, fetching their current sta
 
 ### I'm getting successful responses for the calls but the JSON / XML responses is null. What is happening?
 - Did you already checked the ret_msg message? It's used to return a message error when the server-side catch an issue. You can check the ret_msg messages [**here**](#ret_msg).
+
+### Why am I getting a null dataset for a player that exists?
+- If a player has “Hide My Profile” enabled in-game, methods will return a null dataset.
+
+### When using methods such as [``Get Match Details``](./get-match-details#get-match-details), some player info is missing. Why?
+- If a player has “Hide My Profile” enabled in-game, some of their data will be unavailable for match history etc.
 
 ### How I could increase my API Access Limit?
 - The first recommendation would be to use something like page caching or saving the data to a Database so you can poll it from your own database as often as needed. But if you already are doing it and think that is needed to increase your limit, drop an e-mail to [Aaron](mailto:apugh@hirezstudios.com).
