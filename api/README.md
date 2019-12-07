@@ -241,21 +241,21 @@ If your site keeps track of many player (for example, fetching their current sta
 The following table illustrates this concept.
 <table>
   <tr>
-    <th> Example Request(s) </th>
-    <th> Number of API Calls </th>
+    <th align='center'>Example Request(s)</th>
+    <th align='center'>Number of API Calls</th>
   </tr>
   <tr>
-    <td>
+    <td style='text-align:center;vertical-align:middle'>
       /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
       /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
       /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
     </td>
-    <td align='center'> 3 </td>
+    <td align='center'>3</td>
   </tr>
-    <td>
+    <td style='text-align:center;vertical-align:middle'>
       /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
     </td>
-    <td align='center'> 1 </td>
+    <td align='center'>1</td>
   </tr>
 </table>
 
