@@ -107,27 +107,6 @@ See [Best Practices](#best-practices)
   - Spread out queries evenly between two time intervals to avoid sending traffic in spikes.
   - If Users are being throttled, be sure your app is not the cause. Reduce the user’s calls or spread the user’s calls more evenly over time.
   - Verify the error code and API endpoint to confirm the throttling type.
-  - We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
-  The following table illustrates this concept.
-  <table>
-  <tr>
-    <th> Example Request(s) </th>
-    <th> Number of API Calls </th>
-  </tr>
-  <tr>
-    <td>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
-    </td>
-    <td> 3 </td>
-  </tr>
-    <td>
-      GET /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
-    </td>
-    <td> 1 </td>
-  </tr>
-</table>
 -->
 
 ## Session (Authentication)
@@ -256,6 +235,29 @@ An invalid or rate limited request to the API will return a non-null [ret_msg](#
 ### Prioritize active users
 
 If your site keeps track of many player (for example, fetching their current status or statistics about their game stats), consider only requesting data for users who have recently signed into your site.
+
+### We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
+
+The following table illustrates this concept.
+<table>
+  <tr>
+    <th> Example Request(s) </th>
+    <th> Number of API Calls </th>
+  </tr>
+  <tr>
+    <td>
+      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
+      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
+      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
+    </td>
+    <td> 3 </td>
+  </tr>
+    <td>
+      GET /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
+    </td>
+    <td> 1 </td>
+  </tr>
+</table>
 
 ## Frequently Asked Questions (FAQ)
 
