@@ -23,7 +23,7 @@ Pinging the API is used to ensure that you have access to the API as you do not 
 **Response**: JSON
 
 ```json
-PaladinsAPI (ver 0.0.41.18898) [PATCH - 2.11] - Ping successful. Server Date:11/28/2019 3:09:16 PM
+"PaladinsAPI (ver 0.0.41.18898) [PATCH - 2.11] - Ping successful. Server Date:11/28/2019 3:09:16 PM"
 ```
 
 **Response**: XML

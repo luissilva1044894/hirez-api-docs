@@ -7,12 +7,7 @@ The purpose of this Wiki is to provide Developers with the necessary information
 
 This Wiki holds the Methods Documentation and Source Code Examples.
 
-### Registration
-><i>An</i> [<b>``API Key``</b>](./api#api-key) <i>that will provide access to API.</i> The process of obtaining [<b>``API Key``</b>](./api#api-key) should be an one-time activity.
-
-If you don't already have a dev_id and auth_key, [<b>click here</b>](https://fs12.formsite.com/HiRez/form48/secure_index.html "Register to become developer") to become developer.
-
-If your application is accepted, you will receive an e-mail from [Hi-Rez Studios][hi_rez_studios] containing your personal [<b>``API Key``</b>](./api#api-key) within a few days.
+### [Registration](./api#registration)
 
 ### [Getting Started](./api#api-reference)
 
