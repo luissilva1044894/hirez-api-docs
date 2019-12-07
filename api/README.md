@@ -53,7 +53,7 @@ To retrieve all information from the API, you will need to append all requests t
   </tr>
   <tr>
     <td>base_url_endpoint</td>
-    <td>The <a href="#endpoint-base-urls" title="Endpoints">Endpoint</a> that you want to use</td>
+    <td>The URL prefix for the <a href="#endpoint-base-urls" title="Endpoints">Endpoint</a> that you want to use</td>
     <td>http://api.paladins.com/paladinsapi.svc</td>
   </tr>
   <tr>
