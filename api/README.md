@@ -246,16 +246,16 @@ The following table illustrates this concept.
   </tr>
   <tr>
     <td>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
-      GET /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
     </td>
-    <td> 3 </td>
+    <td align='center'> 3 </td>
   </tr>
     <td>
-      GET /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
+      /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
     </td>
-    <td> 1 </td>
+    <td align='center'> 1 </td>
   </tr>
 </table>
 
