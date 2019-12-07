@@ -236,7 +236,11 @@ An invalid or rate limited request to the API will return a non-null [ret_msg](#
 
 If your site keeps track of many player (for example, fetching their current status or statistics about their game stats), consider only requesting data for users who have recently signed into your site.
 
-### We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
+### Batch Processing
+
+The API does not support requesting more than one resource with a single API call. However,  many ids can be handled in one API call using the [Get Player Batch](./get-player-batch#get-player-batch), [Get Player Batch From Match](./get-player-batch#get-player-batch) and [Get Match Details Batch](./get-player-batch#get-player-batch) endpoints.
+
+We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
 
 The following table illustrates this concept.
 <table>
