@@ -354,10 +354,10 @@ There are currently 44 playable champions (Updated in 12-08-2019):
 
 ### Realm Royale
 
-There are multiple Classes in Realm Royale. Each one has its own unique abilities and fighting style.<br/><br/>Each class has a unique passive bonus, movement ability, and 4 special abilities.<br/>Additionally each class can craft a unique weapon at the forge.
-
 <details markdown="1">
 <summary>Classes</summary>
+
+There are multiple Classes in Realm Royale. Each one has its own unique abilities and fighting style.<br/><br/>Each class has a unique passive bonus, movement ability, and 4 special abilities.<br/>Additionally each class can craft a unique weapon at the forge.
 
 There are currently 4 playable classes:
 <table>
