@@ -520,6 +520,10 @@ There are currently 106 playable gods (Updated in 12/08/2019 16:06:58):
 ## Language
 ><i>The language Id that you want results returned in. Default is 1.</i>
 
+<!--
+https://flagpedia.net/emoji
+https://emojipedia.org/flags/
+-->
 Valid values:
 <table>
 	<tr>
@@ -528,43 +532,43 @@ Valid values:
 	</tr>
 	<tr>
 		<td>1</td>
-		<td>English</td>
+		<td>English 🇺🇸</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>German</td>
+		<td>German 🇩🇪</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>French</td>
+		<td>French 🇫🇷</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>Chinese</td>
+		<td>Chinese 🇨🇳</td>
 	</tr>
 	<tr>
 		<td>7</td>
-		<td>Spanish</td>
+		<td>Spanish 🇪🇸</td>
 	</tr>
 	<tr>
 		<td>9</td>
-		<td>Spanish (Latin America)</td>
+		<td>Spanish (Latin America) 🇦🇷</td>
 	</tr>
 	<tr>
 		<td>10</td>
-		<td>Portuguese</td>
+		<td>Portuguese 🇧🇷</td>
 	</tr>
 	<tr>
 		<td>11</td>
-		<td>Russian</td>
+		<td>Russian 🇷🇺</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td>Polish</td>
+		<td>Polish 🇵🇱</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>Turkish</td>
+		<td>Turkish 🇹🇷</td>
 	</tr>
 </table>
 
@@ -654,6 +658,7 @@ Represents Platform as follows:
   </tr>
 </table>
 
+<!--
 ## Platform type
 
 Windows = 1
@@ -661,7 +666,7 @@ Mac = 2
 Xbox_Nintendo = 3
 PSN = 4
 #9: ????? #10: ?????
-
+-->
 
 ## Season
 The season of a league. Starts at 1 and increases by 1 for each calendar year.  As of 2017-02-01 we are currently on season 4.
