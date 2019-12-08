@@ -5,7 +5,7 @@ A quick way of validating access (establish connectivity) to the API, which indi
 
 Pinging the API is used to ensure that you have access to the API as you do not need to [authenticate](api-parameter-details.md#session-authentication) your [API Key](api-parameter-details.md#api-key).
 
-**Request**: <i>/**Ping**[response_format]</i> `GET` 
+**Request**: <i>/**Ping**[response_type]</i> `GET` 
 <table>
 	<tr>
 		<th>URI Parameter</th>
@@ -13,8 +13,8 @@ Pinging the API is used to ensure that you have access to the API as you do not 
 		<th>Example</th>
 	</tr>
 	<tr>
-		<td>response_format</td>
-		<td>JSON or XML</td>
+		<td>response_type</td>
+		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
 		<td>json</td>
 	</tr>
 	</tr>
@@ -29,6 +29,6 @@ Pinging the API is used to ensure that you have access to the API as you do not 
 **Response**: XML
 ```xml
 <string>
-SmiteAPI (ver 3.24.0.26013) [PATCH - 6.12] - Ping successful. Server Date:11/28/2019 3:09:19 PM
+ SmiteAPI (ver 3.24.0.26013) [PATCH - 6.12] - Ping successful. Server Date:11/28/2019 3:09:16 PM
 </string>
 ```
