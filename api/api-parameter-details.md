@@ -3,7 +3,7 @@
 
 ## Response Type
 
-The API supports both [JSON][json_website] and XML responses. However, we strongly suggest only using [JSON][json_website] when requesting resources.
+The API supports both [JSON][json_website] and [XML][xml_website] responses. However, we strongly suggest only using [JSON][json_website] when requesting resources.
 
 ## Date
 ><i>A DateTime formatted to ``yyyyMMdd``</i><br/><br/>Will be like “20180711” - for Jul 11, 2018
@@ -44,7 +44,7 @@ There are currently 44 playable champions (Updated in 12-08-2019):
 		<td>Androxus</td>
 		<td>Flank</td>
 		<td>The Godslayer</td>
-		<td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="64" width="64"/></td>
+		<td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="32" width="32"/></td>
 	</tr>
 	<tr>
 		<td>2404</td>
@@ -926,3 +926,4 @@ timeStamp = getTimeStamp()
 </details>
 
 [json_website]: https://json.org/ "Visit json.org"
+[xml_website]: https://www.w3.org/XML/ "Visit w3.org/XML"
