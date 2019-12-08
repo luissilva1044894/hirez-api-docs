@@ -529,46 +529,57 @@ Valid values:
 	<tr>
 		<th>ID</th>
 		<th>Language</th>
+		<th>Flag</th>
 	</tr>
 	<tr>
 		<td>1</td>
-		<td>English 🇺🇸</td>
+		<td>English</td>
+		<td>🇺🇸</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td>German 🇩🇪</td>
+		<td>German</td>
+		<td>🇩🇪</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td>French 🇫🇷</td>
+		<td>French</td>
+		<td>🇫🇷</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td>Chinese 🇨🇳</td>
+		<td>Chinese</td>
+		<td>🇨🇳</td>
 	</tr>
 	<tr>
 		<td>7</td>
-		<td>Spanish 🇪🇸</td>
+		<td>Spanish</td>
+		<td>🇪🇸</td>
 	</tr>
 	<tr>
 		<td>9</td>
-		<td>Spanish (Latin America) 🇦🇷</td>
+		<td>Spanish (Latin America)</td>
+		<td>🇦🇷</td>
 	</tr>
 	<tr>
 		<td>10</td>
-		<td>Portuguese 🇧🇷</td>
+		<td>Portuguese</td>
+		<td>🇧🇷</td>
 	</tr>
 	<tr>
 		<td>11</td>
-		<td>Russian 🇷🇺</td>
+		<td>Russian</td>
+		<td>🇷🇺</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td>Polish 🇵🇱</td>
+		<td>Polish</td>
+		<td>🇵🇱</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>Turkish 🇹🇷</td>
+		<td>Turkish</td>
+		<td>🇹🇷</td>
 	</tr>
 </table>
 
