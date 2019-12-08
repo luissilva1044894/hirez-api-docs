@@ -399,7 +399,7 @@ There are currently 4 playable classes:
 <details markdown="1">
 <summary>Gods</summary>
 
-There are currently 106 playable gods (Updated in 12/08/2019 15:25:09):
+There are currently 106 playable gods (Updated in 12/08/2019 16:06:58):
 <table>
   <tr>
     <th>ID</th>
@@ -516,7 +516,6 @@ There are currently 106 playable gods (Updated in 12/08/2019 15:25:09):
     <tr><td>1926</td><td>Zhong Kui</td><td>Mage</td><td>the Demon Queller</td><td><img src="https://web2.hirez.com/smite/god-icons/zhong-kui.jpg" height="64" width="64"/></td></tr>
   </table>
 </details>
-
 
 ## Language
 ><i>The language Id that you want results returned in. Default is 1.</i>
