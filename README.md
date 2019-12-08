@@ -8,7 +8,7 @@ This documentation holds the Methods Documentation and Source Code Examples, and
 This documentation will consume a [JSON][json_website] response and therefore detailed descriptions of each data field are included where possible.
 
 ### Mantainance 🛠
-As long as [Hi-Rez Studios][hi_rez_studios] doesn't change its APIs simpliest functions won't be changed.
+As long as [Hi-Rez Studios][hi_rez_studios] doesn't change its APIs this documentation won't be changed. However, resources could be updated, added or removed when needed.
 
 ### [Getting Started][project_api_reference]
 
@@ -32,7 +32,7 @@ You can find any graphics [here][project_assets].
 Feel free to contribute to this project, a helping hand is always appreciated.
 
  1. Check for open issues or open a fresh issue to start a discussion around a feature idea or a bug.
- 2. Fork [the repository][github_repo] on GitHub to start making your changes to the **master** branch (or branch off of it).
+ 2. Fork [the repository][project_github_repo] on GitHub to start making your changes to the **master** branch (or branch off of it).
  3. Send a [pull request][github_help_pull_request] and bug the maintainer until it gets merged.
 
 By contributing contents to this Wiki you shall implicitly accept that others might reuse these contents in other projects without restrictions.
