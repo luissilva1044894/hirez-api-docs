@@ -3,7 +3,7 @@
 
 Returns all Talents.
 
-**Request**: <i>/**GetTalents**[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{language_code}</i> `GET`
+**Request**: <i>/**GetTalents**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{language_code}</i> `GET`
 
 <table>
 	<tr>
@@ -12,8 +12,8 @@ Returns all Talents.
 		<th>Example</th>
 	</tr>
 	<tr>
-		<td>response_format</td>
-		<td>JSON or XML</td>
+		<td>response_type</td>
+		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
 		<td>json</td>
 	</tr>
 	<tr>
@@ -23,8 +23,8 @@ Returns all Talents.
 	</tr>
 	<tr>
 		<td>signature</td>
-		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>“TestSession”</b> method</td>
-		<td>776593aeca54002ea815a1b6ea4c7c7e</td>
+		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>“GetTalents”</b> method</td>
+		<td>0bfa7e5d058b6f824bc1a1553897e13b</td>
 	</tr>
 	<tr>
 		<td>session_id</td>
@@ -47,13 +47,18 @@ Returns all Talents.
 **Response**: JSON
 ```json
 [
-  {
-    "category_name":"Talent Vendor Assassin",
-    "item_id":23770,
-    "loot_table_item_id":49323,
-    "ret_msg":null,
-    "talent_description":"Forge abilities for 20 less shards.",
-    "talent_name":"Ability Efficiency"
-  }
+ {
+  "category_name":"Talent Vendor Assassin",
+  "item_id":23770,
+  "loot_table_item_id":49323,
+  "ret_msg":null,
+  "talent_description":"Forge abilities for 20 less shards.",
+  "talent_name":"Ability Efficiency"
+ }
 ]
 ```
+
+<!--
+20191128030916
+11/28/2019 3:09:16 PM
+-->
