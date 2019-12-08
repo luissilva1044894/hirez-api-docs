@@ -28,12 +28,12 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 	<tr>
 		<td>signature</td>
 		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>“CreateSession”</b> method</td>
-		<td>de9a8114c56e02abd057a0f2d9671b7d</td>
+		<td>2bd92e62f3703da55f8b117f8a6228bd</td>
 	</tr>
 	<tr>
 		<td>timestamp</td>
 		<td>The current UTC <a href="./../api-parameter-details.md#timestamp" title="Timestamp">Timestamp</a></td>
-		<td>20180628012612</td>
+		<td>20191128030916</td>
 	</tr>
 </table>
 
@@ -42,7 +42,7 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 {
  "ret_msg":"Approved",
  "session_id":"4D3064CF27D0473CA4CF142330E97FB5",
- "timestamp":"2/28/2019 3:12:38 PM"
+ "timestamp":"11/28/2019 3:09:16 PM"
 }
 ```
 
@@ -51,6 +51,6 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 <Session xmlns="http://schemas.datacontract.org/2004/07/PaladinsApi" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
  <ret_msg>Approved</ret_msg>
  <session_id>4D3064CF27D0473CA4CF142330E97FB5</session_id>
- <timestamp>2/28/2019 3:12:38 PM</timestamp>
+ <timestamp>11/28/2019 3:09:16 PM</timestamp>
 </Session>
 ```
