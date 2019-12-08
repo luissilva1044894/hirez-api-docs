@@ -147,10 +147,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_cpp_hirezcpp]: https://img.shields.io/badge/C%2B%2B-hirezcpp-blueviolet?logo=github&style=plastic&link=https://github.com/p-groarke/hirezcpp
 [wrapper_cpp_hirezcpp]: https://github.com/p-groarke/hirezcpp
 
-[badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/badge/Paladins.NET-blueviolet?logo=.net&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
+[badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/badge/C%23-Paladins.NET-blueviolet?logo=.net&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
 [wrapper_dotnet_paladins_dotnet]: https://github.com/PaladinsDev/Paladins.NET
 
-[badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/badge/RealmRoyale.NET-blueviolet?logo=.net&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
+[badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=RealmRoyale_NET&color=blueviolet&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
 [wrapper_dotnet_realm_royale_dotnet]: https://github.com/fossilz/RealmRoyale.NET
 
 [badge_wrapper_elixir_exrez]: https://img.shields.io/badge/Elixir-exrez-blueviolet?logo=github&logoWidth=20&style=plastic&link=https://github.com/luishendrix92/exrez
@@ -208,4 +208,3 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_vue_realm_royale_first_vue_app]: https://img.shields.io/badge/Vue-realm_royale_first_vue_app-blueviolet?logo=github&logoColor=white&style=plastic&link=https://github.com/djlax805/realm_royale_first_vue_app
 
 [badge_wrapper_x_query_smite_api]: https://img.shields.io/badge/XQuery-smite_api-blueviolet?logo=github&logoColor=white&style=plastic&link=https://github.com/LumielGR/smite-api
--->
