@@ -414,742 +414,742 @@ There are currently 4 playable classes:
       <td>Achilles<td>
       <td>Warrior</td>
       <td>Hero of the Trojan War</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Achilles.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/achilles.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1737</td>
       <td>Agni<td>
       <td>Mage</td>
       <td>God of Fire</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Agni.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/agni.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1956</td>
       <td>Ah Muzen Cab<td>
       <td>Hunter</td>
       <td>God of Bees</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ah_Muzen_Cab.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ah-muzen-cab.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2056</td>
       <td>Ah Puch<td>
       <td>Mage</td>
       <td>Horrific God of Decay</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ah_Puch.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ah-puch.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2110</td>
       <td>Amaterasu<td>
       <td>Warrior</td>
       <td>The Shining Light</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Amaterasu.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/amaterasu.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1773</td>
       <td>Anhur<td>
       <td>Hunter</td>
       <td>Slayer of Enemies</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Anhur.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/anhur.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1668</td>
       <td>Anubis<td>
       <td>Mage</td>
       <td>God of the Dead</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Anubis.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/anubis.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2034</td>
       <td>Ao Kuang<td>
       <td>Mage</td>
       <td>Dragon King of the Eastern Seas</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ao_Kuang.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ao-kuang.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1898</td>
       <td>Aphrodite<td>
       <td>Mage</td>
       <td>Goddess of Beauty</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Aphrodite.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/aphrodite.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1899</td>
       <td>Apollo<td>
       <td>Hunter</td>
       <td>God of Music</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Apollo.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/apollo.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1699</td>
       <td>Arachne<td>
       <td>Assassin</td>
       <td>the Weaver</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Arachne.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/arachne.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1782</td>
       <td>Ares<td>
       <td>Guardian</td>
       <td>God of War</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ares.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ares.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1748</td>
       <td>Artemis<td>
       <td>Hunter</td>
       <td>Goddess of the Hunt</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Artemis.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/artemis.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3336</td>
       <td>Artio<td>
       <td>Guardian</td>
       <td>The Bear Goddess</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Artio.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/artio.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1919</td>
       <td>Athena<td>
       <td>Guardian</td>
       <td>Goddess of Wisdom</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Athena.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/athena.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2037</td>
       <td>Awilix<td>
       <td>Assassin</td>
       <td>Goddess of the Moon</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Awilix.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/awilix.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1809</td>
       <td>Bacchus<td>
       <td>Guardian</td>
       <td>God of Wine</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Bacchus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/bacchus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1755</td>
       <td>Bakasura<td>
       <td>Assassin</td>
       <td>the Great Devourer</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Bakasura.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/bakasura.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3518</td>
       <td>Baron Samedi<td>
       <td>Mage</td>
       <td>God of Life and Death</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Baron_Samedi.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/baron-samedi.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1678</td>
       <td>Bastet<td>
       <td>Assassin</td>
       <td>Goddess of Cats</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Bastet.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/bastet.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2047</td>
       <td>Bellona<td>
       <td>Warrior</td>
       <td>Goddess of War</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Bellona.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/bellona.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2008</td>
       <td>Cabrakan<td>
       <td>Guardian</td>
       <td>Destroyer of Mountains</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Cabrakan.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/cabrakan.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2189</td>
       <td>Camazotz<td>
       <td>Assassin</td>
       <td>Deadly God of Bats</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Camazotz.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/camazotz.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3419</td>
       <td>Cerberus<td>
       <td>Guardian</td>
       <td>Warden of the Underworld</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Cerberus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/cerberus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2268</td>
       <td>Cernunnos<td>
       <td>Hunter</td>
       <td>The Horned God</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Cernunnos.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/cernunnos.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1966</td>
       <td>Chaac<td>
       <td>Warrior</td>
       <td>God of Rain</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Chaac.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/chaac.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1921</td>
       <td>Chang'e<td>
       <td>Mage</td>
       <td>Faerie of the Moon</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Change.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/change.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3509</td>
       <td>Chernobog<td>
       <td>Hunter</td>
       <td>Lord of Darkness</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Chernobog.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/chernobog.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2075</td>
       <td>Chiron<td>
       <td>Hunter</td>
       <td>The Great Teacher</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Chiron.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/chiron.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1920</td>
       <td>Chronos<td>
       <td>Mage</td>
       <td>Keeper of Time</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Chronos.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/chronos.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2319</td>
       <td>Cu Chulainn<td>
       <td>Warrior</td>
       <td>Hound of Ulster</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Cu_Chulainn.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/cu-chulainn.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1778</td>
       <td>Cupid<td>
       <td>Hunter</td>
       <td>God of Love</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Cupid.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/cupid.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2270</td>
       <td>Da Ji<td>
       <td>Assassin</td>
       <td>The Nine-Tailed Fox</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Da_Ji.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/da-ji.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3377</td>
       <td>Discordia<td>
       <td>Mage</td>
       <td>Goddess of Strife</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Discordia.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/discordia.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2138</td>
       <td>Erlang Shen<td>
       <td>Warrior</td>
       <td>The Illustrious Sage</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Erlang_Shen.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/erlang-shen.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2136</td>
       <td>Fafnir<td>
       <td>Guardian</td>
       <td>The Lord of Glittering Gold</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Fafnir.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/fafnir.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1843</td>
       <td>Fenrir<td>
       <td>Assassin</td>
       <td>the Unbound</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Fenrir.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/fenrir.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1784</td>
       <td>Freya<td>
       <td>Mage</td>
       <td>Queen of the Valkyries</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Freya.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/freya.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2269</td>
       <td>Ganesha<td>
       <td>Guardian</td>
       <td>God of Success</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ganesha.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ganesha.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1978</td>
       <td>Geb<td>
       <td>Guardian</td>
       <td>God of Earth</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Geb.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/geb.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1763</td>
       <td>Guan Yu<td>
       <td>Warrior</td>
       <td>Saint of War</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Guan_Yu.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/guan-yu.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3344</td>
       <td>Hachiman<td>
       <td>Hunter</td>
       <td>Lord of the Eight Banners</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hachiman.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hachiman.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1676</td>
       <td>Hades<td>
       <td>Mage</td>
       <td>King of the Underworld</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hades.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hades.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1674</td>
       <td>He Bo<td>
       <td>Mage</td>
       <td>God of the Yellow River</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/He_Bo.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/he-bo.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1718</td>
       <td>Hel<td>
       <td>Mage</td>
       <td>Goddess of the Underworld</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hel.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hel.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3558</td>
       <td>Hera<td>
       <td>Mage</td>
       <td>Queen of the Gods</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hera.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hera.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1848</td>
       <td>Hercules<td>
       <td>Warrior</td>
       <td>Champion of Rome</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hercules.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hercules.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3611</td>
       <td>Horus<td>
       <td>Warrior</td>
       <td>The Rightful Heir</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Horus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/horus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2040</td>
       <td>Hou Yi<td>
       <td>Hunter</td>
       <td>Defender of the Earth</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hou_Yi.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hou-yi.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1673</td>
       <td>Hun Batz<td>
       <td>Assassin</td>
       <td>the Howler Monkey God</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Hun_Batz.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/hun-batz.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1918</td>
       <td>Isis<td>
       <td>Mage</td>
       <td>Goddess of Magic</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Isis.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/isis.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2179</td>
       <td>Izanami<td>
       <td>Hunter</td>
       <td>Matron of the Dead</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Izanami.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/izanami.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1999</td>
       <td>Janus<td>
       <td>Mage</td>
       <td>God of Portals and Transitions</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Janus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/janus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2122</td>
       <td>Jing Wei<td>
       <td>Hunter</td>
       <td>The Oathkeeper</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Jing_Wei.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/jing-wei.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3585</td>
       <td>Jormungandr<td>
       <td>Guardian</td>
       <td>The World Serpent</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Jormungandr.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/jormungandr.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1649</td>
       <td>Kali<td>
       <td>Assassin</td>
       <td>Goddess of Destruction</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Kali.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/kali.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2066</td>
       <td>Khepri<td>
       <td>Guardian</td>
       <td>The Dawn Bringer</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Khepri.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/khepri.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3565</td>
       <td>King Arthur<td>
       <td>Warrior</td>
       <td>Wielder of Excalibur</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/King_Arthur.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/king-arthur.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1677</td>
       <td>Kukulkan<td>
       <td>Mage</td>
       <td>Serpent of the Nine Winds</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Kukulkan.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/kukulkan.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1993</td>
       <td>Kumbhakarna<td>
       <td>Guardian</td>
       <td>The Sleeping Giant</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Kumbhakarna.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/kumbhakarna.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2260</td>
       <td>Kuzenbo<td>
       <td>Guardian</td>
       <td>King Kappa</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Kuzenbo.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/kuzenbo.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1797</td>
       <td>Loki<td>
       <td>Assassin</td>
       <td>The Trickster God</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Loki.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/loki.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2051</td>
       <td>Medusa<td>
       <td>Hunter</td>
       <td>The Gorgon</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Medusa.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/medusa.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1941</td>
       <td>Mercury<td>
       <td>Assassin</td>
       <td>Messenger of the Gods</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Mercury.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/mercury.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3566</td>
       <td>Merlin<td>
       <td>Mage</td>
       <td>The Master Wizard</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Merlin.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/merlin.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1915</td>
       <td>Ne Zha<td>
       <td>Assassin</td>
       <td>the Third Lotus Prince</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ne_Zha.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ne-zha.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1872</td>
       <td>Neith<td>
       <td>Hunter</td>
       <td>Weaver of Fate</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Neith.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/neith.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1980</td>
       <td>Nemesis<td>
       <td>Assassin</td>
       <td>Goddess of Vengeance</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Nemesis.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/nemesis.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2214</td>
       <td>Nike<td>
       <td>Warrior</td>
       <td>Goddess of Victory</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Nike.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/nike.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2036</td>
       <td>Nox<td>
       <td>Mage</td>
       <td>Goddess of Night</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Nox.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/nox.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1958</td>
       <td>Nu Wa<td>
       <td>Mage</td>
       <td>Guardian of Heaven</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Nu_Wa.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/nu-wa.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1669</td>
       <td>Odin<td>
       <td>Warrior</td>
       <td>The Allfather</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Odin.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/odin.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3664</td>
       <td>Olorun<td>
       <td>Mage</td>
       <td>Ruler of the Heavens</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Olorun.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/olorun.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2000</td>
       <td>Osiris<td>
       <td>Warrior</td>
       <td>Broken God of the Afterlife</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Osiris.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/osiris.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3543</td>
       <td>Pele<td>
       <td>Assassin</td>
       <td>Goddess of Volcanoes</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Pele.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/pele.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3705</td>
       <td>Persephone<td>
       <td>Mage</td>
       <td>Queen of the Underworld</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Persephone.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/persephone.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1881</td>
       <td>Poseidon<td>
       <td>Mage</td>
       <td>God of the Oceans</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Poseidon.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/poseidon.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1698</td>
       <td>Ra<td>
       <td>Mage</td>
       <td>Sun God</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ra.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ra.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2113</td>
       <td>Raijin<td>
       <td>Mage</td>
       <td>Master of Thunder</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Raijin.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/raijin.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2002</td>
       <td>Rama<td>
       <td>Hunter</td>
       <td>Seventh Avatar of Vishnu</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Rama.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/rama.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2063</td>
       <td>Ratatoskr<td>
       <td>Assassin</td>
       <td>The Sly Messenger</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ratatoskr.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ratatoskr.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2065</td>
       <td>Ravana<td>
       <td>Assassin</td>
       <td>Demon King of Lanka</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ravana.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ravana.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1988</td>
       <td>Scylla<td>
       <td>Mage</td>
       <td>Horror of the Sea</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Scylla.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/scylla.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2005</td>
       <td>Serqet<td>
       <td>Assassin</td>
       <td>Goddess of Venom</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Serqet.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/serqet.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3612</td>
       <td>Set<td>
       <td>Assassin</td>
       <td>The Usurper</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Set.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/set.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2107</td>
       <td>Skadi<td>
       <td>Hunter</td>
       <td>Goddess of Winter</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Skadi.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/skadi.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1747</td>
       <td>Sobek<td>
       <td>Guardian</td>
       <td>God of the Nile</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Sobek.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/sobek.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2074</td>
       <td>Sol<td>
       <td>Mage</td>
       <td>Goddess of the Sun</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Sol.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/sol.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1944</td>
       <td>Sun Wukong<td>
       <td>Warrior</td>
       <td>the Monkey King</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Sun_Wukong.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/sun-wukong.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2123</td>
       <td>Susano<td>
       <td>Assassin</td>
       <td>God of the Summer Storm</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Susano.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/susano.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2030</td>
       <td>Sylvanus<td>
       <td>Guardian</td>
       <td>Keeper of the Wild</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Sylvanus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/sylvanus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2147</td>
       <td>Terra<td>
       <td>Guardian</td>
       <td>The Earth Mother</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Terra.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/terra.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1943</td>
       <td>Thanatos<td>
       <td>Assassin</td>
       <td>Hand of Death</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Thanatos.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/thanatos.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2226</td>
       <td>The Morrigan<td>
       <td>Mage</td>
       <td>Phantom Queen</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/The_Morrigan.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/the-morrigan.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1779</td>
       <td>Thor<td>
       <td>Assassin</td>
       <td>God of Thunder</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Thor.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/thor.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2203</td>
       <td>Thoth<td>
       <td>Mage</td>
       <td>Arbiter of the Damned</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Thoth.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/thoth.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1924</td>
       <td>Tyr<td>
       <td>Warrior</td>
       <td>the Lawgiver</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Tyr.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/tyr.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1991</td>
       <td>Ullr<td>
       <td>Hunter</td>
       <td>The Glorious One</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ullr.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ullr.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1723</td>
       <td>Vamana<td>
       <td>Warrior</td>
       <td>Fifth Avatar of Vishnu</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Vamana.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/vamana.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1869</td>
       <td>Vulcan<td>
       <td>Mage</td>
       <td>Smith of the Gods</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Vulcan.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/vulcan.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1864</td>
       <td>Xbalanque<td>
       <td>Hunter</td>
       <td>Hidden Jaguar Sun</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Xbalanque.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/xbalanque.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>2072</td>
       <td>Xing Tian<td>
       <td>Guardian</td>
       <td>The Relentless</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Xing_Tian.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/xing-tian.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>3811</td>
       <td>Yemoja<td>
       <td>Guardian</td>
       <td>Goddess of Rivers</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Yemoja.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/yemoja.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1670</td>
       <td>Ymir<td>
       <td>Guardian</td>
       <td>Father of the Frost Giants</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Ymir.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/ymir.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1672</td>
       <td>Zeus<td>
       <td>Mage</td>
       <td>God of the Sky</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Zeus.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/zeus.jpg" height="64" width="64"/></td>
     </tr>
   <tr>
       <td>1926</td>
       <td>Zhong Kui<td>
       <td>Mage</td>
       <td>the Demon Queller</td>
-      <td><img src="https://web2.hirez.com/smite/god-icons/Zhong_Kui.jpg" height="64" width="64"/></td>
+      <td><img src="https://web2.hirez.com/smite/god-icons/zhong-kui.jpg" height="64" width="64"/></td>
     </tr>
   </table>
 </details>
