@@ -12,7 +12,7 @@ A means of validating that a session is established.
 		<th>Example</th>
 	</tr>
 	<tr>
-		<td>ResponseFormat</td>
+		<td>response_format</td>
 		<td>JSON or XML</td>
 		<td>json</td>
 	</tr>
@@ -40,6 +40,6 @@ A means of validating that a session is established.
 <br/><br/>
 
 **Response**: Text Plain
-````
+```
 This was a successful test with the following parameters added: developer: 1004 time: 6/28/2018 1:26:12 AM signature: 776593aeca54002ea815a1b6ea4c7c7e session: 1465AFCA32DBDB800CEF8C72F296C52C
-````
+```
