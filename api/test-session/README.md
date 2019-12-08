@@ -3,7 +3,7 @@
 
 A means of validating that a session is established.
 
-**Request**: <i>/**TestSession**[response_format]/{dev_id}/{signature}/{sessionId}/{timestamp}</i> `GET`
+**Request**: <i>/**TestSession**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}</i> `GET`
 
 <table>
 	<tr>
@@ -12,8 +12,8 @@ A means of validating that a session is established.
 		<th>Example</th>
 	</tr>
 	<tr>
-		<td>response_format</td>
-		<td>JSON or XML</td>
+		<td>response_type</td>
+		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
 		<td>json</td>
 	</tr>
 	<tr>
@@ -24,7 +24,7 @@ A means of validating that a session is established.
 	<tr>
 		<td>signature</td>
 		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>“TestSession”</b> method</td>
-		<td>776593aeca54002ea815a1b6ea4c7c7e</td>
+		<td>c345ed71f9b01d104ea34512c06e36ec</td>
 	</tr>
 	<tr>
 		<td>session_id</td>
@@ -34,12 +34,12 @@ A means of validating that a session is established.
 	<tr>
 		<td>timestamp</td>
 		<td>The current UTC <a href="./../api-parameter-details.md#timestamp" title="Timestamp">Timestamp</a></td>
-		<td>20180628012612</td>
+		<td>20191128030916</td>
 	</tr>
 </table>
 <br/><br/>
 
 **Response**: Text Plain
 ```
-This was a successful test with the following parameters added: developer: 1004 time: 6/28/2018 1:26:12 AM signature: 776593aeca54002ea815a1b6ea4c7c7e session: 1465AFCA32DBDB800CEF8C72F296C52C
+This was a successful test with the following parameters added: developer: 1004 time:11/28/2019 3:09:16 PM signature: c345ed71f9b01d104ea34512c06e36ec session: 1465AFCA32DBDB800CEF8C72F296C52C
 ```
