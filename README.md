@@ -62,10 +62,13 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 
 #### Wrappers
 
-* C++: [hirezcpp](https://github.com/p-groarke/hirezcpp)
-* C# / .Net: [Paladins.NET](https://github.com/PaladinsDev/Paladins.NET), [RealmRoyale.NET](https://github.com/fossilz/RealmRoyale.NET)
-* Elixir: [exrez](https://github.com/luishendrix92/exrez)
-* Go: [PaladinsGo](https://github.com/danieljimenez/PaladinsGo), [SMITE-Paladins-Realm-API-Usagev](https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage), [go-smite-api](https://github.com/duncanleo/go-smite-api)
+* ![wrapper_cpp_hirezcpp][badge_wrapper_cpp_hirezcpp]
+* ![wrapper_dotnet_paladins_dotnet][badge_wrapper_dotnet_paladins_dotnet]
+  ![wrapper_dotnet_realm_royale_dotnet][badge_wrapper_dotnet_realm_royale_dotnet]
+* ![wrapper_elixir_exrez][badge_wrapper_elixir_exrez]
+* ![wrapper_go_paladins_go][badge_wrapper_go_paladins_go]
+  ![wrapper_go_smite_paladins_realm_api_usage][badge_wrapper_go_smite_paladins_realm_api_usage]
+  ![wrapper_go_go_smite_api][badge_wrapper_go_go_smite_api]
 * Java: [HiRezAPI](https://github.com/stachu540/HiRezAPI), [Paladins-Java-API](https://github.com/HeyZeer0/Paladins-Java-API) [smite-api](https://github.com/Rabrg/smite-api)
 * Javascript / NodeJS: [paladins-api](https://github.com/itspauloroberto/paladins-api), [paladins.js](https://github.com/PaladinsDev/paladins.js), [paladins-api-node](https://github.com/barenddt/paladins-api-node), [hirez.js](https://github.com/messyfresh/hirez.js)
 * Kotlin: [Hirez-sdk-kotlin](https://github.com/tafel-io/Hirez-sdk-kotlin), [Paladins-Api-Kotlin](https://github.com/geek0x90/Paladins-Api-Kotlin)
@@ -137,3 +140,11 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [hi_rez_studios_api_podio_group]: https://podio.com/hirezstudioscom/smite-api-developer-collaboration "SMITE, Paladins, & Realm API Developer Collaboration"
 [hi_rez_studios_api_terms_of_use]: https://www.hirezstudios.com/wp-content/themes/hi-rez-studios/pdf/api-terms-of-use-agreement.pdf "Hi-Rez Studios API · Terms of Use"
 [hi_rez_studios_press]: http://www.hirezstudios.com/press
+
+[badge_wrapper_cpp_hirezcpp]: https://img.shields.io/badge/C%2B%2B-hirezcpp-blueviolet?logo=c&logoColor=white&style=plastic&link=https://github.com/p-groarke/hirezcpp
+[badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/badge/C%23-Paladins.NET-blueviolet?logo=.net&logoColor=white&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
+[badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/badge/C%23-RealmRoyale.NET-blueviolet?logo=.net&logoColor=white&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
+[badge_wrapper_elixir_exrez]: https://img.shields.io/badge/Elixir-exrez-blueviolet?logo=github&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/luishendrix92/exrez
+[badge_wrapper_go_paladins_go]: https://img.shields.io/badge/Go-PaladinsGo-blueviolet?logo=go&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/danieljimenez/PaladinsGo
+[badge_wrapper_go_smite_paladins_realm_api_usage]: https://img.shields.io/badge/Go-SMITE_Paladins_Realm_API_Usage-blueviolet?logo=go&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
+[badge_wrapper_go_go_smite_api]: https://img.shields.io/badge/Go-go_smite_api-blueviolet?logo=go&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/duncanleo/go-smite-api
