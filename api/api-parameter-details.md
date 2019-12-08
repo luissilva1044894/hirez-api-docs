@@ -533,52 +533,52 @@ Valid values:
 	</tr>
 	<tr>
 		<td>1</td>
-		<td style='text-align:center;vertical-align:middle'>English</td>
+		<td align='center'>English</td>
 		<td>🇺🇸</td>
 	</tr>
 	<tr>
 		<td>2</td>
-		<td style='text-align:center;vertical-align:middle'>German</td>
+		<td align='center'>German</td>
 		<td>🇩🇪</td>
 	</tr>
 	<tr>
 		<td>3</td>
-		<td style='text-align:center;vertical-align:middle'>French</td>
+		<td align='center'>French</td>
 		<td>🇫🇷</td>
 	</tr>
 	<tr>
 		<td>5</td>
-		<td style='text-align:center;vertical-align:middle'>Chinese</td>
+		<td align='center'>Chinese</td>
 		<td>🇨🇳</td>
 	</tr>
 	<tr>
 		<td>7</td>
-		<td style='text-align:center;vertical-align:middle'>Spanish</td>
+		<td align='center'>Spanish</td>
 		<td>🇪🇸</td>
 	</tr>
 	<tr>
 		<td>9</td>
-		<td style='text-align:center;vertical-align:middle'>Spanish (Latin America)</td>
+		<td align='center'>Spanish (Latin America)</td>
 		<td>🇦🇷</td>
 	</tr>
 	<tr>
 		<td>10</td>
-		<td style='text-align:center;vertical-align:middle'>Portuguese</td>
+		<td align='center'>Portuguese</td>
 		<td>🇧🇷</td>
 	</tr>
 	<tr>
 		<td>11</td>
-		<td style='text-align:center;vertical-align:middle'>Russian</td>
+		<td align='center'>Russian</td>
 		<td>🇷🇺</td>
 	</tr>
 	<tr>
 		<td>12</td>
-		<td style='text-align:center;vertical-align:middle'>Polish</td>
+		<td align='center'>Polish</td>
 		<td>🇵🇱</td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td style='text-align:center;vertical-align:middle'>Turkish</td>
+		<td align='center'>Turkish</td>
 		<td>🇹🇷</td>
 	</tr>
 </table>
