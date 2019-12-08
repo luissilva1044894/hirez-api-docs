@@ -147,13 +147,13 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_cpp_hirezcpp]: https://img.shields.io/static/v1?label=C%2B%2B&logo=github&message=hirezcpp&color=blueviolet&style=plastic&link=https://github.com/p-groarke/hirezcpp
 [wrapper_cpp_hirezcpp]: https://github.com/p-groarke/hirezcpp
 
-[badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/badge/C%23-Paladins.NET-blueviolet?logo=.net&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
+[badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=Paladins.NET&color=blueviolet&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
 [wrapper_dotnet_paladins_dotnet]: https://github.com/PaladinsDev/Paladins.NET
 
 [badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=RealmRoyale.NET&color=blueviolet&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
 [wrapper_dotnet_realm_royale_dotnet]: https://github.com/fossilz/RealmRoyale.NET
 
-[badge_wrapper_elixir_exrez]: https://img.shields.io/badge/Elixir-exrez-blueviolet?logo=github&logoWidth=20&style=plastic&link=https://github.com/luishendrix92/exrez
+[badge_wrapper_elixir_exrez]: https://img.shields.io/static/v1?label=Elixir&logo=github&logoWidth=20&message=exrez&color=blueviolet&style=plastic&link=https://github.com/luishendrix92/exrez
 [wrapper_elixir_exrez]: https://github.com/luishendrix92/exrez
 
 [badge_wrapper_go_paladins_go]: https://img.shields.io/badge/PaladinsGo-blueviolet?logo=go&logoWidth=20&style=plastic&link=https://github.com/danieljimenez/PaladinsGo
