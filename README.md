@@ -115,6 +115,14 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 	https://img.shields.io/pypi/pyversions/boolify.svg?logo=cpp&logoColor=white&logoWidth=15&style=plastic
 	https://img.shields.io/badge/Python-3.7.5-orange.svg?logo=python&logoColor=white&style=plastic
 	https://img.shields.io/badge/hirezcpp-00bb88.svg?logo=python&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/p-groarke/hirezcpp
+
+	https://pixlr.com/x/
+	https://logodownload.org/
+
+	https://www.hiclipart.com/free-transparent-background-png-clipart-gknlr
+	https://www.pinpng.com/search/smite/
+	https://www.pinpng.com/download/ibhxoo_logo-paladins-beta-black-sm-logo-paladins-beta/
+	https://www.flaticon.com/search/2?word=mixer
 -->
 
 [discord]: https://discordapp.com/ "Discord App"
