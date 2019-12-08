@@ -535,6 +535,7 @@ There are currently 4 playable classes:
 </details>
 """
 import requests
+import sys
 
 def fix_name(o):
   return str(o).replace(' ', '-').replace("'", '').lower()
@@ -552,9 +553,8 @@ finally:
   r.withdraw()
   r.clipboard_clear()
   r.clipboard_append(__)
-  r.update() # now it stays on the clipboard after the window is closed
-  r.destroy()
-  import sys
+  r.update()
+  #r.destroy()
   sys.exit(0)
 -->
 
