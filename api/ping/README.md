@@ -27,7 +27,7 @@ Pinging the API is used to ensure that you have access to the API as you do not 
 ```
 
 **Response**: XML
-```XML
+```xml
 <string>
 SmiteAPI (ver 3.24.0.26013) [PATCH - 6.12] - Ping successful. Server Date:11/28/2019 3:09:19 PM
 </string>
