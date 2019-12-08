@@ -301,7 +301,7 @@ The following table illustrates this concept.
 ### I have a question you didn't answer.
 - [**Click here**](#getting-help) to check how you can get help!
 
-## Known Bugs
+## Known Bugs 🐞
 
 The interface for each endpoint is identical. Therefore, a single application code-base should be able to support all supported platforms
 
