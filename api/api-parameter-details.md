@@ -651,7 +651,7 @@ Represents Platform as follows:
   <tr>
   	<td>25</td>
   	<td>Discord</td>
-		<td><img src="./../_assets/logos/discord.png" height="32" width="32"/></td>
+		<td><img src="./../_assets/logos/discord-black.png" height="32" width="32"/></td>
   </tr>
 </table>
 
