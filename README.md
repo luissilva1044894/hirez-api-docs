@@ -153,16 +153,16 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=RealmRoyale.NET&color=blueviolet&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
 [wrapper_dotnet_realm_royale_dotnet]: https://github.com/fossilz/RealmRoyale.NET
 
-[badge_wrapper_elixir_exrez]: https://img.shields.io/static/v1?label=Elixir&logo=github&logoWidth=20&message=exrez&color=blueviolet&style=plastic&link=https://github.com/luishendrix92/exrez
+[badge_wrapper_elixir_exrez]: https://img.shields.io/static/v1?label=Elixir&logo=github&logoWidth=20&message=Exrez&color=blueviolet&style=plastic&link=https://github.com/luishendrix92/exrez
 [wrapper_elixir_exrez]: https://github.com/luishendrix92/exrez
 
 [badge_wrapper_go_paladins_go]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=PaladinsGo&color=blueviolet&style=plastic&link=https://github.com/danieljimenez/PaladinsGo
 [wrapper_go_paladins_go]: https://github.com/danieljimenez/PaladinsGo
 
-[badge_wrapper_go_smite_paladins_realm_api_usage]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=SMITE_Paladins_Realm_API_Usage&color=blueviolet&style=plastic&link=https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
+[badge_wrapper_go_smite_paladins_realm_api_usage]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=SMITE-Paladins-Realm-API-Usage&color=blueviolet&style=plastic&link=https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
 [wrapper_go_smite_paladins_realm_api_usage]: https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
 
-[badge_wrapper_go_go_smite_api]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=go_smite_api&color=blueviolet&style=plastic&link=https://github.com/duncanleo/go-smite-api
+[badge_wrapper_go_go_smite_api]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=go-smite-api&color=blueviolet&style=plastic&link=https://github.com/duncanleo/go-smite-api
 [wrapper_go_go_smite_api]: https://github.com/duncanleo/go-smite-api
 
 [badge_wrapper_java_hi_rez_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/stachu540/HiRezAPI
