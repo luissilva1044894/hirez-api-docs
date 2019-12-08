@@ -168,7 +168,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_java_hi_rez_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/stachu540/HiRezAPI
 [wrapper_java_hi_rez_api]: https://github.com/stachu540/HiRezAPI
 
-[badge_wrapper_java_paladins_java_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=Paladins_Java_API&color=blueviolet&style=plastic&link=https://github.com/HeyZeer0/Paladins-Java-API
+[badge_wrapper_java_paladins_java_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=Paladins%20Java%20API&color=blueviolet&style=plastic&link=https://github.com/HeyZeer0/Paladins-Java-API
 [wrapper_java_paladins_java_api]: https://github.com/HeyZeer0/Paladins-Java-API
 
 [badge_wrapper_java_smite_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=smite-api&color=blueviolet&style=plastic&link=https://github.com/Rabrg/smite-api
