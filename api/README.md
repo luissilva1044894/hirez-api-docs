@@ -21,25 +21,25 @@ Here are the Credentials for a sample account:
 
 <table>
   <tr>
-    <th> dev_id </th>
-    <th> auth_key </th>
+    <th>dev_id</th>
+    <th>auth_key</th>
   </tr>
   <tr>
-    <td> 1004 </td>
-    <td> 23DF3C7E9BD14D84BF892AD206B6755C </td>
+    <td>1004</td>
+    <td>23DF3C7E9BD14D84BF892AD206B6755C</td>
   </tr>
 </table>
 
-Use your personal Credentials to access the API via a <i>Representational State Transfer</i> (<b>REST</b>) Web Service hosted at [http://api.paladins.com/paladinsapi.svc](#endpoint-base-urls).
+Use your personal Credentials to access the API via a <i>Representational State Transfer</i> (<b>REST</b>) Web Service hosted at [http://api.{game}.com/{game}api.svc](#endpoint-base-urls).
 
-<i>**NOTE**</i>: The same dev_id and auth_key combination should work for SmiteAPI, PaladinsAPI and RealmAPI, across all supported platforms. Do not request a new, If you already have a Credentials.
+<i>**NOTE**</i>: The same dev_id and auth_key combination should work for SmiteAPI, PaladinsAPI and RealmAPI, across all supported platforms. Do not request a new, if you already have a Credentials.
 
 ## Endpoint Base URLs
-To retrieve all information from the API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you are wanting to access concatenated with the response type you are wanting. This documentation will consume a JSON response.
+To retrieve all information from the API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you are wanting to access concatenated with the response type you are wanting.
 
-  [Paladins](https://www.paladins.com/ "Paladins"): `http://api.paladins.com/paladinsapi.svc` <br/>
-  [Realm Royale](https://www.realmroyale.com/ "Realm Royale"): `http://api.realmroyale.com/realmapi.svc` <br/>
-  [Smite](https://www.smitegame.com/ "Smite"): `http://api.smitegame.com/smiteapi.svc` <br/>
+  - [Paladins](https://www.paladins.com/ "Paladins"): `http://api.paladins.com/paladinsapi.svc`
+  - [Realm Royale](https://www.realmroyale.com/ "Realm Royale"): `http://api.realmroyale.com/realmapi.svc`
+  - [Smite](https://www.smitegame.com/ "Smite"): `http://api.smitegame.com/smiteapi.svc`
 
 ## Calling API Methods
 
@@ -101,7 +101,7 @@ In the case that a rate limit is exceeded, the API will return a [``ret_msg``](#
 
 ### Tips to avoid being Rate Limited
 
-See [Best Practices](#best-practices)
+See [Best Practices](#best-practices).
 
 <!-- ### Best practices
   - Spread out queries evenly between two time intervals to avoid sending traffic in spikes.
@@ -122,7 +122,7 @@ More details regarding Session creation are provided in [``CreateSession``](./cr
 ## ret_msg
 The API expose a field called “`ret_msg`” to represent an error or rate limit being encountered.
 
-We recommend using this field value as an unique identifier for errors, with the exception of using the [``CreateSession``](./create-session#create-session) method or when the request completes without any error, the ret_msg will not be null when the request was not successful.
+We recommend using this field value as an unique identifier for errors, with the exception of using the [``CreateSession``](./create-session#create-session) method or when the request completes without any error, the ret_msg will be not null when the request was not successful.
 
 <table>
   <tr>
@@ -197,7 +197,7 @@ We recommend using this field value as an unique identifier for errors, with the
   </tr>
   <tr>
     <td align='center'> No Match Details:{match_id} </td>
-    <td style='text-align:center;vertical-align:middle'> The player has private account or haven't played any matches in the last 30 days </td>
+    <td style='text-align:center;vertical-align:middle'> The player was not found, has private account or haven't played any matches in the last 30 days </td>
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@ The following table illustrates this concept.
 - Nop, Sessions are divided into 15 minute intervals. You may store the session_id and use it while is valid.
 
 ### I'm getting successful responses for the calls but the JSON / XML responses is null. What is happening?
-- Did you already checked the ret_msg message? It's used to return a message error when the server-side catch an issue. You can check the ret_msg messages [**here**](#ret_msg).
+- Did you already checked the ret_msg message? It's used to return a message error when the server-side catch an issue. You can check the ret_msg messages [**here**](#ret_msg). See also []().
 
 ### Why am I getting a null dataset for a player that exists?
 - If a player has “Hide My Profile” enabled in-game, methods will return a null dataset.
