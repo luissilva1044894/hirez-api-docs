@@ -1,0 +1,1282 @@
+[
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23770,
+    "loot_table_item_id":49323,
+    "ret_msg":null,
+    "talent_description":"Forge abilities for 20 less shards.",
+    "talent_name":"Ability Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23776,
+    "loot_table_item_id":49354,
+    "ret_msg":null,
+    "talent_description":"Forge Potions 20s faster.",
+    "talent_name":"Alchemy"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23801,
+    "loot_table_item_id":49336,
+    "ret_msg":null,
+    "talent_description":"Heirloom Rifles deal 40% increased damage within 3s of using a Movement ability.",
+    "talent_name":"Ancient Power"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23800,
+    "loot_table_item_id":49326,
+    "ret_msg":null,
+    "talent_description":"Deal 20% more damage with Heirloom Rifles, Shredders, and Sniper Rifles.",
+    "talent_name":"Assassin's Arsenal"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23807,
+    "loot_table_item_id":49329,
+    "ret_msg":null,
+    "talent_description":"Blink and Hidden have 35% reduced Cooldown.",
+    "talent_name":"Assassin's Speed"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23775,
+    "loot_table_item_id":49344,
+    "ret_msg":null,
+    "talent_description":"Gain 25 shards for eliminating a chicken.",
+    "talent_name":"Bok Bucks"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23761,
+    "loot_table_item_id":49325,
+    "ret_msg":null,
+    "talent_description":"Move 25% faster as a Chicken.",
+    "talent_name":"Chicken Run"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23810,
+    "loot_table_item_id":49359,
+    "ret_msg":null,
+    "talent_description":"Activating Hidden or Blink reduces the cooldown of your Basic Ability by 5s.",
+    "talent_name":"Cold Blooded"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23856,
+    "loot_table_item_id":49358,
+    "ret_msg":null,
+    "talent_description":"Move 15% faster during ADS.",
+    "talent_name":"Combat Training"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23796,
+    "loot_table_item_id":49352,
+    "ret_msg":null,
+    "talent_description":"Concussion Grenade will now slow enemies by 50% for 3s.",
+    "talent_name":"Concussed"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23774,
+    "loot_table_item_id":49334,
+    "ret_msg":null,
+    "talent_description":"Forge 5s faster.",
+    "talent_name":"Craftsmanship"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23808,
+    "loot_table_item_id":49339,
+    "ret_msg":null,
+    "talent_description":"Activating Blink now grants you a 4s shield that absorbs 300 damage.",
+    "talent_name":"Ephemeral Protection"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23811,
+    "loot_table_item_id":49340,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Blink.",
+    "talent_name":"Forge Blink"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23799,
+    "loot_table_item_id":49353,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Concussion Grenade.",
+    "talent_name":"Forge Concussion Grenade"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23804,
+    "loot_table_item_id":49337,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be an Heirloom Rifle.",
+    "talent_name":"Forge Heirloom Rifle"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23812,
+    "loot_table_item_id":49350,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Hidden.",
+    "talent_name":"Forge Hidden"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23798,
+    "loot_table_item_id":49343,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Sensor Drone.",
+    "talent_name":"Forge Sensor Drone"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23805,
+    "loot_table_item_id":49347,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Shredder.",
+    "talent_name":"Forge Shredder"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23797,
+    "loot_table_item_id":49333,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Smoke Screen.",
+    "talent_name":"Forge Smoke Screen"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23806,
+    "loot_table_item_id":49357,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Sniper Rifle.",
+    "talent_name":"Forge Sniper Rifle"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23855,
+    "loot_table_item_id":49345,
+    "ret_msg":null,
+    "talent_description":"Return to full health after reviving as a Chicken.",
+    "talent_name":"Healthy Hatchling"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23763,
+    "loot_table_item_id":49355,
+    "ret_msg":null,
+    "talent_description":"Revive 5s faster as a Chicken.",
+    "talent_name":"Incubation"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23809,
+    "loot_table_item_id":49349,
+    "ret_msg":null,
+    "talent_description":"Hidden now has a 200% increased duration.",
+    "talent_name":"Infiltrator"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23760,
+    "loot_table_item_id":49351,
+    "ret_msg":null,
+    "talent_description":"Take 25% reduced headshot damage.",
+    "talent_name":"Juggernaut"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23764,
+    "loot_table_item_id":49328,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster.",
+    "talent_name":"Leg Day"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23792,
+    "loot_table_item_id":49360,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Legendary rarity.",
+    "talent_name":"Legendary Swiftness"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23803,
+    "loot_table_item_id":49356,
+    "ret_msg":null,
+    "talent_description":"Sniper Rifles will deal 50% increased damage on headshots.",
+    "talent_name":"Marksmanship"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23765,
+    "loot_table_item_id":49348,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster while mounted.",
+    "talent_name":"Master Riding"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23789,
+    "loot_table_item_id":49330,
+    "ret_msg":null,
+    "talent_description":"Forge movement abilities for 20 less shards.",
+    "talent_name":"Movement Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23758,
+    "loot_table_item_id":49324,
+    "ret_msg":null,
+    "talent_description":"Gain 1 extra shard for every item disenchanted.",
+    "talent_name":"Pennywise"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23853,
+    "loot_table_item_id":49338,
+    "ret_msg":null,
+    "talent_description":"Enter ADS 25% faster.",
+    "talent_name":"Reflexes"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23757,
+    "loot_table_item_id":49321,
+    "ret_msg":null,
+    "talent_description":"Increase Healing Taken by 25%.",
+    "talent_name":"Rejuvenate"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23759,
+    "loot_table_item_id":49331,
+    "ret_msg":null,
+    "talent_description":"Passively regenerate 10 Health per second.",
+    "talent_name":"Restoration"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23793,
+    "loot_table_item_id":49322,
+    "ret_msg":null,
+    "talent_description":"Grenades and Drones have 50% reduced Cooldown.",
+    "talent_name":"Saboteur"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23794,
+    "loot_table_item_id":49332,
+    "ret_msg":null,
+    "talent_description":"Entering Smoke Screen grants you 40% movement speed for 3s.",
+    "talent_name":"Subterfuge"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23802,
+    "loot_table_item_id":49346,
+    "ret_msg":null,
+    "talent_description":"Shredders will increase all damage a target takes by 25% for 3s.",
+    "talent_name":"Toxicology"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23795,
+    "loot_table_item_id":49342,
+    "ret_msg":null,
+    "talent_description":"Increase the duration of Sensor Drone\u2019s reveal by 10s.",
+    "talent_name":"Tracker"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23762,
+    "loot_table_item_id":49335,
+    "ret_msg":null,
+    "talent_description":"Gain 500 Health as a Chicken.",
+    "talent_name":"Unbeakable"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23854,
+    "loot_table_item_id":49341,
+    "ret_msg":null,
+    "talent_description":"Increase maximum Health by 300.",
+    "talent_name":"Vigor"
+  },
+  {
+    "category_name":"Talent Vendor Assassin",
+    "item_id":23781,
+    "loot_table_item_id":49327,
+    "ret_msg":null,
+    "talent_description":"Forge weapons for 20 less shards.",
+    "talent_name":"Weapon Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23770,
+    "loot_table_item_id":49363,
+    "ret_msg":null,
+    "talent_description":"Forge abilities for 20 less shards.",
+    "talent_name":"Ability Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23776,
+    "loot_table_item_id":49394,
+    "ret_msg":null,
+    "talent_description":"Forge Potions 20s faster.",
+    "talent_name":"Alchemy"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23775,
+    "loot_table_item_id":49384,
+    "ret_msg":null,
+    "talent_description":"Gain 25 shards for eliminating a chicken.",
+    "talent_name":"Bok Bucks"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23761,
+    "loot_table_item_id":49365,
+    "ret_msg":null,
+    "talent_description":"Move 25% faster as a Chicken.",
+    "talent_name":"Chicken Run"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23856,
+    "loot_table_item_id":49398,
+    "ret_msg":null,
+    "talent_description":"Move 15% faster during ADS.",
+    "talent_name":"Combat Training"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23774,
+    "loot_table_item_id":49374,
+    "ret_msg":null,
+    "talent_description":"Forge 5s faster.",
+    "talent_name":"Craftsmanship"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23829,
+    "loot_table_item_id":49389,
+    "ret_msg":null,
+    "talent_description":"Gain 40% movement speed for 4s after using Withdraw.",
+    "talent_name":"Desert Shadow"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23828,
+    "loot_table_item_id":49379,
+    "ret_msg":null,
+    "talent_description":"Dodge Roll increases the damage of your next attack by 30% for 3s.",
+    "talent_name":"Exaction"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23814,
+    "loot_table_item_id":49372,
+    "ret_msg":null,
+    "talent_description":"Increase the damage of Blast Arrow by 300.",
+    "talent_name":"Explosive Tips"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23825,
+    "loot_table_item_id":49387,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be an Arbalest.",
+    "talent_name":"Forge Arbalest"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23817,
+    "loot_table_item_id":49373,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Blast Arrow.",
+    "talent_name":"Forge Blast Arrow"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23824,
+    "loot_table_item_id":49377,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Crossbow.",
+    "talent_name":"Forge Crossbow"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23831,
+    "loot_table_item_id":49380,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Dodge Roll.",
+    "talent_name":"Forge Dodge Roll"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23819,
+    "loot_table_item_id":49393,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Flare.",
+    "talent_name":"Forge Flare"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23826,
+    "loot_table_item_id":49397,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Longbow.",
+    "talent_name":"Forge Longbow"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23818,
+    "loot_table_item_id":49383,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Proximity Trap.",
+    "talent_name":"Forge Proximity Trap"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23832,
+    "loot_table_item_id":49390,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Withdraw.",
+    "talent_name":"Forge Withdraw"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23822,
+    "loot_table_item_id":49386,
+    "ret_msg":null,
+    "talent_description":"Arbalests will deal 50% increased damage on headshots.",
+    "talent_name":"Headhunter"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23855,
+    "loot_table_item_id":49385,
+    "ret_msg":null,
+    "talent_description":"Return to full health after reviving as a Chicken.",
+    "talent_name":"Healthy Hatchling"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23820,
+    "loot_table_item_id":49366,
+    "ret_msg":null,
+    "talent_description":"Deal 20% more damage with Crossbows, Longbows, and Arbalests.",
+    "talent_name":"Hunter's Arsenal"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23827,
+    "loot_table_item_id":49369,
+    "ret_msg":null,
+    "talent_description":"Withdraw and Dodge Roll have 35% reduced Cooldown.",
+    "talent_name":"Hunter's Speed"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23763,
+    "loot_table_item_id":49395,
+    "ret_msg":null,
+    "talent_description":"Revive 5s faster as a Chicken.",
+    "talent_name":"Incubation"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23760,
+    "loot_table_item_id":49391,
+    "ret_msg":null,
+    "talent_description":"Take 25% reduced headshot damage.",
+    "talent_name":"Juggernaut"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23764,
+    "loot_table_item_id":49368,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster.",
+    "talent_name":"Leg Day"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23792,
+    "loot_table_item_id":49400,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Legendary rarity.",
+    "talent_name":"Legendary Swiftness"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23816,
+    "loot_table_item_id":49392,
+    "ret_msg":null,
+    "talent_description":"Increase the duration of Flare by 100%.",
+    "talent_name":"Light 'Em Up"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23765,
+    "loot_table_item_id":49388,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster while mounted.",
+    "talent_name":"Master Riding"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23789,
+    "loot_table_item_id":49370,
+    "ret_msg":null,
+    "talent_description":"Forge movement abilities for 20 less shards.",
+    "talent_name":"Movement Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23758,
+    "loot_table_item_id":49364,
+    "ret_msg":null,
+    "talent_description":"Gain 1 extra shard for every item disenchanted.",
+    "talent_name":"Pennywise"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23821,
+    "loot_table_item_id":49376,
+    "ret_msg":null,
+    "talent_description":"Crossbows will increase all damage a target takes by 25% for 3s.",
+    "talent_name":"Pincushion"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23813,
+    "loot_table_item_id":49362,
+    "ret_msg":null,
+    "talent_description":"Flare, Proximity Trap, and Blast Arrow have 50% reduced Cooldown.",
+    "talent_name":"Ranger"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23823,
+    "loot_table_item_id":49396,
+    "ret_msg":null,
+    "talent_description":"The damage of fully charged Longbow shots is increased by 35%.",
+    "talent_name":"Recurve"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23853,
+    "loot_table_item_id":49378,
+    "ret_msg":null,
+    "talent_description":"Enter ADS 25% faster.",
+    "talent_name":"Reflexes"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23757,
+    "loot_table_item_id":49361,
+    "ret_msg":null,
+    "talent_description":"Increase Healing Taken by 25%.",
+    "talent_name":"Rejuvenate"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23759,
+    "loot_table_item_id":49371,
+    "ret_msg":null,
+    "talent_description":"Passively regenerate 10 Health per second.",
+    "talent_name":"Restoration"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23830,
+    "loot_table_item_id":49399,
+    "ret_msg":null,
+    "talent_description":"Activating Withdraw or Dodge Roll now grants you a 4s shield that absorbs 300 damage.",
+    "talent_name":"Survivalist"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23815,
+    "loot_table_item_id":49382,
+    "ret_msg":null,
+    "talent_description":"Proximity Traps now slow enemies by 50% and reveal them for 3s.",
+    "talent_name":"Trapper"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23762,
+    "loot_table_item_id":49375,
+    "ret_msg":null,
+    "talent_description":"Gain 500 Health as a Chicken.",
+    "talent_name":"Unbeakable"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23854,
+    "loot_table_item_id":49381,
+    "ret_msg":null,
+    "talent_description":"Increase maximum Health by 300.",
+    "talent_name":"Vigor"
+  },
+  {
+    "category_name":"Talent Vendor Hunter",
+    "item_id":23781,
+    "loot_table_item_id":49367,
+    "ret_msg":null,
+    "talent_description":"Forge weapons for 20 less shards.",
+    "talent_name":"Weapon Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23770,
+    "loot_table_item_id":49403,
+    "ret_msg":null,
+    "talent_description":"Forge abilities for 20 less shards.",
+    "talent_name":"Ability Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23836,
+    "loot_table_item_id":49432,
+    "ret_msg":null,
+    "talent_description":"Being healed by Healing Station grants you and your allies 15% damage reduction for 2s.",
+    "talent_name":"Alchemic Ward"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23776,
+    "loot_table_item_id":49434,
+    "ret_msg":null,
+    "talent_description":"Forge Potions 20s faster.",
+    "talent_name":"Alchemy"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23849,
+    "loot_table_item_id":49429,
+    "ret_msg":null,
+    "talent_description":"Increase the movement speed of Ghost Walk by 50%.",
+    "talent_name":"Astral Traveler"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23775,
+    "loot_table_item_id":49424,
+    "ret_msg":null,
+    "talent_description":"Gain 25 shards for eliminating a chicken.",
+    "talent_name":"Bok Bucks"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23761,
+    "loot_table_item_id":49405,
+    "ret_msg":null,
+    "talent_description":"Move 25% faster as a Chicken.",
+    "talent_name":"Chicken Run"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23856,
+    "loot_table_item_id":49438,
+    "ret_msg":null,
+    "talent_description":"Move 15% faster during ADS.",
+    "talent_name":"Combat Training"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23774,
+    "loot_table_item_id":49414,
+    "ret_msg":null,
+    "talent_description":"Forge 5s faster.",
+    "talent_name":"Craftsmanship"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23850,
+    "loot_table_item_id":49439,
+    "ret_msg":null,
+    "talent_description":"Activating Soar or Ghost Walk reduces the cooldown of your Basic Ability by 5s.",
+    "talent_name":"Feedback Loop"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23844,
+    "loot_table_item_id":49417,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Bolt Staff.",
+    "talent_name":"Forge Bolt Staff"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23857,
+    "loot_table_item_id":49430,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Ghost Walk.",
+    "talent_name":"Forge Ghost Walk"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23839,
+    "loot_table_item_id":49433,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Healing Station.",
+    "talent_name":"Forge Healing Station"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23837,
+    "loot_table_item_id":49413,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Ice Block.",
+    "talent_name":"Forge Ice Block"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23846,
+    "loot_table_item_id":49437,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be an Ice Staff.",
+    "talent_name":"Forge Ice Staff"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23838,
+    "loot_table_item_id":49423,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Ice Wall.",
+    "talent_name":"Forge Ice Wall"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23851,
+    "loot_table_item_id":49420,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Soar.",
+    "talent_name":"Forge Soar"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23845,
+    "loot_table_item_id":49427,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Stone Staff.",
+    "talent_name":"Forge Stone Staff"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23834,
+    "loot_table_item_id":49412,
+    "ret_msg":null,
+    "talent_description":"Ice Block now grants you a 2s shield that absorbs 300 damage when it ends.",
+    "talent_name":"Frostbite"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23855,
+    "loot_table_item_id":49425,
+    "ret_msg":null,
+    "talent_description":"Return to full health after reviving as a Chicken.",
+    "talent_name":"Healthy Hatchling"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23848,
+    "loot_table_item_id":49419,
+    "ret_msg":null,
+    "talent_description":"Increase the duration of Soar by 100%.",
+    "talent_name":"High Flyer"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23763,
+    "loot_table_item_id":49435,
+    "ret_msg":null,
+    "talent_description":"Revive 5s faster as a Chicken.",
+    "talent_name":"Incubation"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23760,
+    "loot_table_item_id":49431,
+    "ret_msg":null,
+    "talent_description":"Take 25% reduced headshot damage.",
+    "talent_name":"Juggernaut"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23843,
+    "loot_table_item_id":49436,
+    "ret_msg":null,
+    "talent_description":"Increase the area of effect and damage of Frost Staves by 30%.",
+    "talent_name":"Killing Frost"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23764,
+    "loot_table_item_id":49408,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster.",
+    "talent_name":"Leg Day"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23792,
+    "loot_table_item_id":49440,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Legendary rarity.",
+    "talent_name":"Legendary Swiftness"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23840,
+    "loot_table_item_id":49406,
+    "ret_msg":null,
+    "talent_description":"Deal 20% more damage with Stone Staves, Frost Staves, and Bolt Staves.",
+    "talent_name":"Mage's Arsenal"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23847,
+    "loot_table_item_id":49409,
+    "ret_msg":null,
+    "talent_description":"Soar and Ghost Walk have 35% reduced Cooldown.",
+    "talent_name":"Mage's Speed"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23765,
+    "loot_table_item_id":49428,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster while mounted.",
+    "talent_name":"Master Riding"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23789,
+    "loot_table_item_id":49410,
+    "ret_msg":null,
+    "talent_description":"Forge movement abilities for 20 less shards.",
+    "talent_name":"Movement Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23758,
+    "loot_table_item_id":49404,
+    "ret_msg":null,
+    "talent_description":"Gain 1 extra shard for every item disenchanted.",
+    "talent_name":"Pennywise"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23835,
+    "loot_table_item_id":49422,
+    "ret_msg":null,
+    "talent_description":"Increase the duration and reduce the cooldown of Ice Wall by 50%.",
+    "talent_name":"Permafrost"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23853,
+    "loot_table_item_id":49418,
+    "ret_msg":null,
+    "talent_description":"Enter ADS 25% faster.",
+    "talent_name":"Reflexes"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23757,
+    "loot_table_item_id":49401,
+    "ret_msg":null,
+    "talent_description":"Increase Healing Taken by 25%.",
+    "talent_name":"Rejuvenate"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23759,
+    "loot_table_item_id":49411,
+    "ret_msg":null,
+    "talent_description":"Passively regenerate 10 Health per second.",
+    "talent_name":"Restoration"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23833,
+    "loot_table_item_id":49402,
+    "ret_msg":null,
+    "talent_description":"Ice Block, Ice Wall, and Healing Station have 50% reduced Cooldown.",
+    "talent_name":"Sorcerer"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23842,
+    "loot_table_item_id":49426,
+    "ret_msg":null,
+    "talent_description":"Stone Staves will deal 300 bonus damage if all 3 shots connect.",
+    "talent_name":"Strength of Stone"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23841,
+    "loot_table_item_id":49416,
+    "ret_msg":null,
+    "talent_description":"Bolt Staves will increase all damage a target takes by 30% for 3s.",
+    "talent_name":"Thunderstruck"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23762,
+    "loot_table_item_id":49415,
+    "ret_msg":null,
+    "talent_description":"Gain 500 Health as a Chicken.",
+    "talent_name":"Unbeakable"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23854,
+    "loot_table_item_id":49421,
+    "ret_msg":null,
+    "talent_description":"Increase maximum Health by 300.",
+    "talent_name":"Vigor"
+  },
+  {
+    "category_name":"Talent Vendor Mage",
+    "item_id":23781,
+    "loot_table_item_id":49407,
+    "ret_msg":null,
+    "talent_description":"Forge weapons for 20 less shards.",
+    "talent_name":"Weapon Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23770,
+    "loot_table_item_id":49283,
+    "ret_msg":null,
+    "talent_description":"Forge abilities for 20 less shards.",
+    "talent_name":"Ability Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23776,
+    "loot_table_item_id":49314,
+    "ret_msg":null,
+    "talent_description":"Forge Potions 20s faster.",
+    "talent_name":"Alchemy"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23775,
+    "loot_table_item_id":49304,
+    "ret_msg":null,
+    "talent_description":"Gain 25 shards for eliminating a chicken.",
+    "talent_name":"Bok Bucks"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23788,
+    "loot_table_item_id":49319,
+    "ret_msg":null,
+    "talent_description":"Heroic Leap and Charge deal 600 damage on impact.",
+    "talent_name":"Brutality"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23761,
+    "loot_table_item_id":49285,
+    "ret_msg":null,
+    "talent_description":"Move 25% faster as a Chicken.",
+    "talent_name":"Chicken Run"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23856,
+    "loot_table_item_id":49318,
+    "ret_msg":null,
+    "talent_description":"Move 15% faster during ADS.",
+    "talent_name":"Combat Training"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23774,
+    "loot_table_item_id":49294,
+    "ret_msg":null,
+    "talent_description":"Forge 5s faster.",
+    "talent_name":"Craftsmanship"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23780,
+    "loot_table_item_id":49316,
+    "ret_msg":null,
+    "talent_description":"Swords deal 30% increased damage and grant you 10% increased Movement Speed.",
+    "talent_name":"Edgemaster"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23768,
+    "loot_table_item_id":49302,
+    "ret_msg":null,
+    "talent_description":"Net Shot now roots enemies for 1s.",
+    "talent_name":"Entrapment"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23791,
+    "loot_table_item_id":49310,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Charge.",
+    "talent_name":"Forge Charge"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23773,
+    "loot_table_item_id":49313,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Healing Shout.",
+    "talent_name":"Forge Healing Shout"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23783,
+    "loot_table_item_id":49307,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Heavy Hammer.",
+    "talent_name":"Forge Heavy Hammer"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23790,
+    "loot_table_item_id":49300,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Heroic Leap.",
+    "talent_name":"Forge Heroic Leap"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23772,
+    "loot_table_item_id":49303,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Net Shot.",
+    "talent_name":"Forge Net Shot"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23771,
+    "loot_table_item_id":49293,
+    "ret_msg":null,
+    "talent_description":"Your first forged ability is guaranteed to be Shielding Shout.",
+    "talent_name":"Forge Shielding Shout"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23784,
+    "loot_table_item_id":49317,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Sword.",
+    "talent_name":"Forge Sword"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23782,
+    "loot_table_item_id":49297,
+    "ret_msg":null,
+    "talent_description":"Your first forged weapon is guaranteed to be a Throwing Axe.",
+    "talent_name":"Forge Throwing Axe"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23778,
+    "loot_table_item_id":49296,
+    "ret_msg":null,
+    "talent_description":"Throwing Axes will deal up to 40% increased damage over range.",
+    "talent_name":"Game Grover"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23766,
+    "loot_table_item_id":49282,
+    "ret_msg":null,
+    "talent_description":"Shielding Shout, Healing Shout, and Net Shot have 50% reduced Cooldown.",
+    "talent_name":"Gladiator"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23779,
+    "loot_table_item_id":49306,
+    "ret_msg":null,
+    "talent_description":"Heavy Hammers deal 40% increased damage for 3s after using a movement ability.",
+    "talent_name":"Hammertime"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23855,
+    "loot_table_item_id":49305,
+    "ret_msg":null,
+    "talent_description":"Return to full health after reviving as a Chicken.",
+    "talent_name":"Healthy Hatchling"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23786,
+    "loot_table_item_id":49299,
+    "ret_msg":null,
+    "talent_description":"Activating Heroic Leap now grants you a 2s shield that absorbs 300 damage.",
+    "talent_name":"Heroic Resolve"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23763,
+    "loot_table_item_id":49315,
+    "ret_msg":null,
+    "talent_description":"Revive 5s faster as a Chicken.",
+    "talent_name":"Incubation"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23769,
+    "loot_table_item_id":49312,
+    "ret_msg":null,
+    "talent_description":"Healing Shout heals allies for a burst of 400 health.",
+    "talent_name":"Inspire"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23767,
+    "loot_table_item_id":49292,
+    "ret_msg":null,
+    "talent_description":"Shielding Shout increases the Movement Speed of allies by 35% for 4s.",
+    "talent_name":"Into the Fray"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23760,
+    "loot_table_item_id":49311,
+    "ret_msg":null,
+    "talent_description":"Take 25% reduced headshot damage.",
+    "talent_name":"Juggernaut"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23764,
+    "loot_table_item_id":49288,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster.",
+    "talent_name":"Leg Day"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23792,
+    "loot_table_item_id":49320,
+    "ret_msg":null,
+    "talent_description":"Your first forged movement ability is guaranteed to be Legendary rarity.",
+    "talent_name":"Legendary Swiftness"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23765,
+    "loot_table_item_id":49308,
+    "ret_msg":null,
+    "talent_description":"Move 10% faster while mounted.",
+    "talent_name":"Master Riding"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23789,
+    "loot_table_item_id":49290,
+    "ret_msg":null,
+    "talent_description":"Forge movement abilities for 20 less shards.",
+    "talent_name":"Movement Efficiency"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23787,
+    "loot_table_item_id":49309,
+    "ret_msg":null,
+    "talent_description":"Charge now increases the damage of your next attack by 20%.",
+    "talent_name":"Onslaught"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23758,
+    "loot_table_item_id":49284,
+    "ret_msg":null,
+    "talent_description":"Gain 1 extra shard for every item disenchanted.",
+    "talent_name":"Pennywise"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23853,
+    "loot_table_item_id":49298,
+    "ret_msg":null,
+    "talent_description":"Enter ADS 25% faster.",
+    "talent_name":"Reflexes"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23757,
+    "loot_table_item_id":49281,
+    "ret_msg":null,
+    "talent_description":"Increase Healing Taken by 25%.",
+    "talent_name":"Rejuvenate"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23759,
+    "loot_table_item_id":49291,
+    "ret_msg":null,
+    "talent_description":"Passively regenerate 10 Health per second.",
+    "talent_name":"Restoration"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23762,
+    "loot_table_item_id":49295,
+    "ret_msg":null,
+    "talent_description":"Gain 500 Health as a Chicken.",
+    "talent_name":"Unbeakable"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23854,
+    "loot_table_item_id":49301,
+    "ret_msg":null,
+    "talent_description":"Increase maximum Health by 300.",
+    "talent_name":"Vigor"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23777,
+    "loot_table_item_id":49286,
+    "ret_msg":null,
+    "talent_description":"Deal 20% more damage with Throwing Axes, Swords, and Heavy Hammers.",
+    "talent_name":"Warrior's Arsenal"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23785,
+    "loot_table_item_id":49289,
+    "ret_msg":null,
+    "talent_description":"Heroic Leap and Charge have 35% reduced Cooldown.",
+    "talent_name":"Warrior's Speed"
+  },
+  {
+    "category_name":"Talent Vendor Warrior",
+    "item_id":23781,
+    "loot_table_item_id":49287,
+    "ret_msg":null,
+    "talent_description":"Forge weapons for 20 less shards.",
+    "talent_name":"Weapon Efficiency"
+  }
+]
