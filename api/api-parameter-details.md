@@ -221,7 +221,7 @@ https://flagpedia.net/emoji
 https://emojipedia.org/flags/
 -->
 <details markdown="1">
-<summary>Language</summary>
+<summary>Languages</summary>
 
 Valid values are:
 <table>
@@ -281,6 +281,9 @@ Typically an alphanumeric descriptor of an individual on a [Portal](#portal-id).
 
 A “Portal” is a gateway into our games via an identifier.  In the past it would have been synonymous with a hardware platform... but because of gateways such as “Steam” it is more than just a hardware platform.
 
+<details markdown="1">
+<summary>Platforms</summary>
+
 Represents Platform as follows:
 <table>
   <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
@@ -292,6 +295,7 @@ Represents Platform as follows:
   <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../_assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
   <tr><td>25</td><td>Discord</td><td><img src="./../_assets/logos/discord.png" height="32" width="32"/></td></tr>
 </table>
+</details>
 
 <!--
 ## Platform type
@@ -309,7 +313,7 @@ The season of a league. Starts at 1 and increases by 1 for each calendar year.  
 ## League Tier
 
 <details markdown="1">
-<summary>Tier</summary>
+<summary>Tiers</summary>
 
 Valid values are:
 <table>
@@ -359,7 +363,7 @@ Represents Player Status as follows:
 </table>
 
 ## Signature
-><i>A MD5 hash of (dev_id + method + auth_key + [Timestamp](#timestamp.md))</i>
+><i>A MD5 hash of (dev_id + method + auth_key + [Timestamp](#timestamp))</i>
 
 A distinct signature is required for each API method called.
 
@@ -372,7 +376,7 @@ The Signature is created by concatenating several fields and then hashing the re
   <!-- The method name being called -->
   - This will not include the ResponseType, just the name of the method.
 - auth_key
-- Current UTC [**Timestamp**](https://github.com/luissilva1044894/PaladinsAPI-demo/blob/master/getting-started/Timestamp.md)
+- Current UTC [**Timestamp**](#timestamp)
 
 <details>
  <summary>C# Sample</summary>
@@ -461,7 +465,7 @@ signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206
 ## Timestamp
 ><i>Current UTC time (GMT+0) formatted to '**``YYYYMMDDHHmmss``**'.</i>
 
-**Timestamps** are used by [**Signatures**](#signatures.md) and embedded into URLs when sending requests, they have to be formatted properly to ensure the request completes without error.
+**Timestamps** are used by [**Signatures**](#signature) and embedded into URLs when sending requests, they have to be formatted properly to ensure the request completes without error.
 
 <details>
  <summary>C# Sample</summary>
