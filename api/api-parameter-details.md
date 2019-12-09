@@ -26,7 +26,7 @@ Can be obtained from [``GetGods``](./../get-gods.md#get-gods) & [``GetChampions`
 
 ### Paladins
 
-Champions are the playable characters in Paladins.
+Champions are the playable characters in [Paladins][paladins].
 
 Each one has their own unique abilities and fighting style. Champions use Cards to increase their performance and enhance their skills, and Items to help them adapt to specific situations in every match.
 
@@ -87,7 +87,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
 
 ### Realm Royale
 
-There are multiple Classes in Realm Royale.
+There are multiple Classes in [Realm Royale][realm_royale].
 
 Each one has its own unique abilities and fighting style. Each class has a unique passive bonus, movement ability, and 4 special abilities.<br/>Additionally each class can craft a unique weapon at the forge.
 
@@ -97,17 +97,17 @@ Each one has its own unique abilities and fighting style. Each class has a uniqu
 There are currently 4 playable classes in the game:
 <table>
 	<tr><th>ID</th><th>Name</th><th>In-Game Name</th><th>Image</th></tr>
-	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../_assets/realm-royale/class-warrior.png" height="64" width="64"/></td></tr>
-	<tr><td>2493</td><td>Female Damage</td><td>Hunter</td><td><img src="./../_assets/realm-royale/class-hunter.png" height="64" width="64"/></td></tr>
-	<tr><td>2494</td><td>Female Support</td><td>Mage</td><td><img src="./../_assets/realm-royale/class-mage.png" height="64" width="64"/></td></tr>
-	<tr><td>2496</td><td>Male Flank</td><td>Assassin</td><td><img src="./../_assets/realm-royale/class-assassin.png" height="64" width="64"/></td></tr>
+	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../_assets/realm-royale/characters/warrior.png" height="64" width="64"/></td></tr>
+	<tr><td>2493</td><td>Female Damage</td><td>Hunter</td><td><img src="./../_assets/realm-royale/characters/hunter.png" height="64" width="64"/></td></tr>
+	<tr><td>2494</td><td>Female Support</td><td>Mage</td><td><img src="./../_assets/realm-royale/characters/mage.png" height="64" width="64"/></td></tr>
+	<tr><td>2496</td><td>Male Flank</td><td>Assassin</td><td><img src="./../_assets/realm-royale/characters/assassin.png" height="64" width="64"/></td></tr>
 </table>
 
 </details>
 
 ### Smite
 
-Gods are the playable characters in Smite.
+Gods are the playable characters in [Smite][smite].
 
 Each god is unique, with different strengths and weaknesses, and their own playstyle. The statistics of certain gods are geared for offense, while others are better suited for defense.
 
@@ -283,7 +283,14 @@ Valid values are:
 
 The Match ID is an unique id for each map that’s created by the server for a set of players.
 
-Can be obtained from [``GetMatchHistory``](./../get-match-history.md#get-match-history), [``GetMatchIdsByQueue``](./../get-match-ids-by-queue.md#get-match-ids-by-queue), [``GetPlayerMatchHistory``](./../get-player-match-history.md#get-player-match-history), [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime), [``GetPlayerStatus``](./../get-player-status.md#get-player-status), [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime) & [``GetTopMatches``](./../get-top-matches.md#get-top-matches).
+Can be obtained from:
+  - [``GetMatchHistory``](./../get-match-history.md#get-match-history)
+  - [``GetMatchIdsByQueue``](./../get-match-ids-by-queue.md#get-match-ids-by-queue)
+  - [``GetPlayerMatchHistory``](./../get-player-match-history.md#get-player-match-history)
+  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
+  - [``GetPlayerStatus``](./../get-player-status.md#get-player-status)
+  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
+  - [``GetTopMatches``](./../get-top-matches.md#get-top-matches).
 
 ## Player
 
@@ -346,7 +353,10 @@ PSN = 4
 -->
 
 ## Season
-The season of a league. Starts at 1 and increases by 1 for each calendar year.  As of 2017-02-01 we are currently on season 4.
+The season of a league. Starts at 1 and increases by 1 for each calendar year.
+
+- [Paladins][paladins]: As of 2019-12-09 we are currently on season 3.
+- [Smite][smite]: As of 2019-12-09 we are currently on season 6.
 
 ## League Tier
 
@@ -401,20 +411,41 @@ Represents Player Status as follows:
 </table>
 
 ## Signature
-><i>A MD5 hash of (dev_id + method + auth_key + [Timestamp](#timestamp))</i>
+
+The Signature is created by concatenating several fields and then hashing the result with an MD5 algorithm.
 
 A distinct signature is required for each API method called.
 
-Actually the auth_key isn't passed directly, but instead embedded and hashed in another parameter (Signature).
-
-The Signature is created by concatenating several fields and then hashing the result with an MD5 algorithm. The components of this hash are (in order):
-- dev_id
-- Method
-  - Which “method” means the resource you want to retrieve data (eg, “createsession”)
-  <!-- The method name being called -->
-  - This will not include the [Response Type](#response-type), just the name of the method.
-- auth_key
-- Current UTC [**Timestamp**](#timestamp)
+The components of this hash are (in order):
+<table>
+  <tr>
+  	<th>Name</th>
+  	<th>Description</th>
+  	<th>Example</th>
+  </tr>
+  <tr>
+  	<td>dev_id</td>
+  	<td></td>
+  	<td>1004</td>
+  </tr>
+  <tr>
+  	<td>Method</td>
+  	<!-- The method name being called -->
+  	<td>Which “method” means the resource you want to retrieve data<br/>This will not include the [Response Type](#response-type), just the name of the method.
+   </td>
+  	<td>“createsession”</td>
+  </tr>
+  <tr>
+  	<td>auth_key</td>
+  	<td></td>
+  	<td>23DF3C7E9BD14D84BF892AD206B6755C</td>
+  </tr>
+  <tr>
+  	<td>timestamp</td>
+  	<td>20191128030916</td>
+  	<td>Current UTC [Timestamp](#timestamp)</td>
+  </tr>
+</table>
 
 <details>
  <summary>C# Sample</summary>
@@ -429,8 +460,8 @@ private static string GetMD5Hash(string input) {
     return stringBuilder.ToString();
   }
 }
-public string generateSignature(int devId, string method, string authKey, string timestamp) {
-  return GetMD5Hash(devKey + method + authKey + timestamp);
+public string generateSignature(int dev_id, string method, string auth_key, string timestamp) {
+  return GetMD5Hash(dev_id + method + auth_key.ToLower() + timestamp);
 }
 var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
 ```
@@ -440,8 +471,8 @@ var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892A
  <summary>Java Sample</summary>
 
 ```java
-private static String generateSignature(int devId, String authKey, String method, String timestamp) {
-  String templateSignature = devId + method + authKey + timestamp;
+private static String generateSignature(int dev_id, String auth_key, String method, String timestamp) {
+  String templateSignature = dev_id + method + auth_key + timestamp;
   StringBuilder signatureBuilder = new StringBuilder();
   try {
     MessageDigest md = MessageDigest.getInstance("MD5");
@@ -470,8 +501,8 @@ public final String signature = generateSignature(1004, "createsession", "23DF3C
 
 ```js
 const md5 = require("md5");
-function generateSignature(devId, method, authKey, timestamp) {
-  return md5(`${devId}${method}${apiKey}${timestamp}`);
+function generateSignature(dev_id, method, auth_key, timestamp) {
+  return md5(`${dev_id}${method}${auth_key}${timestamp}`);
 }
 var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
 ```
@@ -481,8 +512,8 @@ var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892A
  <summary>PHP Sample</summary>
 
 ```php
-private function getSignature($devId, $method, $authKey, $timestamp) {
-    return md5($devId . $method . $authKey . $timestamp);
+private function getSignature($dev_id, $method, $auth_key, $timestamp) {
+    return md5($dev_id . $method . $auth_key . $timestamp);
 }
 ```
 </details>
@@ -491,12 +522,10 @@ private function getSignature($devId, $method, $authKey, $timestamp) {
  <summary>Python Sample</summary>
 
 ```python
-from hashlib import md5 as GetMD5Hash
-def __encode__(_input, encodeType="utf-8"):
-  return str(_input).encode(encodeType)
-def generateSignature(devId, method, authKey, timestamp):
-  return GetMD5Hash(__encode__("{0}{1}{2}{3}".format(devId, method, authKey, timestamp)).hexdigest()
-signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp())
+def generateSignature(dev_id, method, auth_key, timestamp):
+	from hashlib import md5
+	return md5(f'{dev_id}{method.lower()}{auth_key}{timestamp}'.encode('utf-8')).hexdigest()
+signature = generateSignature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD206B6755C', getTimestamp())
 ```
 </details>
 
@@ -565,3 +594,6 @@ timeStamp = getTimeStamp()
 
 [json_website]: https://json.org/ "Visit json.org"
 [xml_website]: https://www.w3.org/XML/ "Visit w3.org/XML"
+[paladins]: https://www.paladins.com/ "Paladins"
+[realm_royale]: https://www.realmroyale.com/ "Realm Royale"
+[smite]: https://www.smitegame.com/ "Smite"
