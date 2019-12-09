@@ -31,13 +31,7 @@ Can be obtained from [``GetGods``](./../get-gods.md#get-gods) & [``GetChampions`
 
 There are currently 44 playable champions (Updated in 12/09/2019 13:31:38):
 <table>
-  <tr>
-    <th>ID</th>
-    <th>Name</th>
-    <th>Role</th>
-    <th>Title</th>
-    <th>Image</th>
-  </tr>
+  <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
   <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="64" width="64"/></td></tr>
     <tr><td>2404</td><td>Ash</td><td>Front Line</td><td>The War Machine</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ash.jpg" height="64" width="64"/></td></tr>
     <tr><td>2512</td><td>Atlas</td><td>Front Line</td><td>The Man Out of Time</td><td><img src="https://web2.hirez.com/paladins/champion-icons/atlas.jpg" height="64" width="64"/></td></tr>
@@ -94,12 +88,7 @@ There are multiple Classes in Realm Royale. Each one has its own unique abilitie
 
 There are currently 4 playable classes:
 <table>
-	<tr>
-		<th>ID</th>
-		<th>Name</th>
-		<th>In-Game Name</th>
-		<th>Image</th>
-	</tr>
+	<tr><th>ID</th><th>Name</th><th>In-Game Name</th><th>Image</th></tr>
 	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../_assets/realm-royale/class-warrior.png" height="64" width="64"/></td></tr>
 	<tr><td>2493</td><td>Female Damage</td><td>Hunter</td><td><img src="./../_assets/realm-royale/class-hunter.png" height="64" width="64"/></td></tr>
 	<tr><td>2494</td><td>Female Support</td><td>Mage</td><td><img src="./../_assets/realm-royale/class-mage.png" height="64" width="64"/></td></tr>
@@ -114,13 +103,7 @@ There are currently 4 playable classes:
 
 There are currently 106 playable gods (Updated in 12/08/2019 16:06:58):
 <table>
-  <tr>
-    <th>ID</th>
-    <th>Name</th>
-    <th>Role</th>
-    <th>Title</th>
-    <th>Image</th>
-  </tr>
+  <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
   <tr><td>3492</td><td>Achilles</td><td>Warrior</td><td>Hero of the Trojan War</td><td><img src="https://web2.hirez.com/smite/god-icons/achilles.jpg" height="64" width="64"/></td></tr>
     <tr><td>1737</td><td>Agni</td><td>Mage</td><td>God of Fire</td><td><img src="https://web2.hirez.com/smite/god-icons/agni.jpg" height="64" width="64"/></td></tr>
     <tr><td>1956</td><td>Ah Muzen Cab</td><td>Hunter</td><td>God of Bees</td><td><img src="https://web2.hirez.com/smite/god-icons/ah-muzen-cab.jpg" height="64" width="64"/></td></tr>
@@ -239,61 +222,17 @@ https://emojipedia.org/flags/
 -->
 Valid values:
 <table>
-	<tr>
-		<th>ID</th>
-		<th>Language</th>
-		<th>Flag</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td align='center'>English</td>
-		<td>🇺🇸</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td align='center'>German</td>
-		<td>🇩🇪</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td align='center'>French</td>
-		<td>🇫🇷</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td align='center'>Chinese</td>
-		<td>🇨🇳</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td align='center'>Spanish</td>
-		<td>🇪🇸</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td align='center'>Spanish (Latin America)</td>
-		<td>🇦🇷</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td align='center'>Portuguese</td>
-		<td>🇧🇷</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td align='center'>Russian</td>
-		<td>🇷🇺</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td align='center'>Polish</td>
-		<td>🇵🇱</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td align='center'>Turkish</td>
-		<td>🇹🇷</td>
-	</tr>
+	<tr><th>ID</th><th>Language</th><th>Flag</th></tr>
+	<tr><td>1</td><td align='center'>English</td><td>🇺🇸</td></tr>
+	<tr><td>2</td><td align='center'>German</td><td>🇩🇪</td></tr>
+	<tr><td>3</td><td align='center'>French</td><td>🇫🇷</td></tr>
+	<tr><td>5</td><td align='center'>Chinese</td><td>🇨🇳</td></tr>
+	<tr><td>7</td><td align='center'>Spanish</td><td>🇪🇸</td></tr>
+	<tr><td>9</td><td align='center'>Spanish (Latin America)</td><td>🇦🇷</td></tr>
+	<tr><td>10</td><td align='center'>Portuguese</td><td>🇧🇷</td></tr>
+	<tr><td>11</td><td align='center'>Russian</td><td>🇷🇺</td></tr>
+	<tr><td>12</td><td align='center'>Polish</td><td>🇵🇱</td></tr>
+	<tr><td>13</td><td align='center'>Turkish</td><td>🇹🇷</td></tr>
 </table>
 
 ## Match ID
@@ -340,46 +279,14 @@ A “Portal” is a gateway into our games via an identifier.  In the past it wo
 
 Represents Platform as follows:
 <table>
-  <tr>
-    <th>ID</th>
-    <th>Platform</th>
-		<th>Image</th>
-  </tr>
-  <tr>
-  	<td>1</td>
-  	<td>Hi-Rez</td>
-		<td><img src="./../_assets/logos/hirez.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>5</td>
-  	<td>Steam</td>
-		<td><img src="./../_assets/logos/steam.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>9</td>
-  	<td>PS4</td>
-		<td><img src="./../_assets/logos/psn.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>10</td>
-  	<td>Xbox</td>
-		<td><img src="./../_assets/logos/xbox.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>14</td>
-  	<td>Mixer</td>
-		<td><img src="./../_assets/logos/mixer.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>22</td>
-  	<td>Nintendo Switch</td>
-		<td><img src="./../_assets/logos/nintendo-switch.png" height="32" width="32"/></td>
-  </tr>
-  <tr>
-  	<td>25</td>
-  	<td>Discord</td>
-		<td><img src="./../_assets/logos/discord.png" height="32" width="32"/></td>
-  </tr>
+  <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
+  <tr><td>1</td><td>Hi-Rez</td><td><img src="./../_assets/logos/hirez.png" height="32" width="32"/></td></tr>
+  <tr><td>5</td><td>Steam</td><td><img src="./../_assets/logos/steam.png" height="32" width="32"/></td></tr>
+  <tr><td>9</td><td>PS4</td><td><img src="./../_assets/logos/psn.png" height="32" width="32"/></td></tr>
+  <tr><td>10</td><td>Xbox</td><td><img src="./../_assets/logos/xbox.png" height="32" width="32"/></td></tr>
+  <tr><td>14</td><td>Mixer</td><td><img src="./../_assets/logos/mixer.png" height="32" width="32"/></td></tr>
+  <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../_assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
+  <tr><td>25</td><td>Discord</td><td><img src="./../_assets/logos/discord.png" height="32" width="32"/></td></tr>
 </table>
 
 <!--
@@ -399,11 +306,7 @@ The season of a league. Starts at 1 and increases by 1 for each calendar year.  
 
 Valid values:
 <table>
-  <tr>
-    <th>ID</th>
-    <th>Description</th>
-    <th>Image</th>
-  </tr>
+  <tr><th>ID</th><th>Description</th><th>Image</th></tr>
   <tr><td>0</td><td>Unranked</td><td><img src="./../_assets/paladins/league-tier/0.png" height="32" width="32"/></td></tr>
     <tr><td>1</td><td>Bronze V</td><td><img src="./../_assets/paladins/league-tier/1.png" height="32" width="32"/></td></tr>
     <tr><td>2</td><td>Bronze IV</td><td><img src="./../_assets/paladins/league-tier/2.png" height="32" width="32"/></td></tr>
@@ -434,48 +337,18 @@ Valid values:
     <tr><td>27</td><td>Grandmaster</td><td><img src="./../_assets/paladins/league-tier/27.png" height="32" width="32"/></td></tr>
 </table>
 
-
 ## Status
 
 Represents Player Status as follows:
 <table>
-  <tr>
-    <th>ID</th>
-    <th>Type</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-  	<td>0</td>
-  	<td>Offline</td>
-  	<td></td>
-  </tr>
-  <tr>
-  	<td>1</td>
-  	<td>In Lobby</td>
-  	<td>Basically anywhere except god selection or in game.</td>
-  </tr>
-  <tr>
-  	<td>2</td>
-  	<td>God Selection</td>
-  	<td>Player has accepted match and is selecting god before start of game.</td>
-  </tr>
-  <tr>
-  	<td>3</td>
-  	<td>In Game</td>
-  	<td>Match has started.</td>
-  </tr>
-  <tr>
-  	<td>4</td>
-  	<td>Online</td>
-  	<td>Player is logged in, but may be blocking broadcast of player state.</td>
-  </tr>
-  <tr>
-  	<td>5</td>
-  	<td>Unknown</td>
-  	<td>Player not found.</td>
-  </tr>
+  <tr><th>ID</th><th>Type</th><th>Description</th></tr>
+  <tr><td>0</td><td>Offline</td><td></td></tr>
+  <tr><td>1</td><td>In Lobby</td><td>Basically anywhere except god selection or in game.</td></tr>
+  <tr><td>2</td><td>God Selection</td><td>Player has accepted match and is selecting god before start of game.</td></tr>
+  <tr><td>3</td><td>In Game</td><td>Match has started.</td></tr>
+  <tr><td>4</td><td>Online</td><td>Player is logged in, but may be blocking broadcast of player state.</td></tr>
+  <tr><td>5</td><td>Unknown</td><td>Player not found.</td></tr>
 </table>
-
 
 ## Signature
 ><i>A MD5 hash of (dev_id + method + auth_key + [Timestamp](#timestamp.md))</i>
@@ -576,7 +449,6 @@ def generateSignature(devId, method, authKey, timestamp):
 signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
 ```
 </details>
-
 
 ## Timestamp
 ><i>Current UTC time (GMT+0) formatted to '**``YYYYMMDDHHmmss``**'.</i>
