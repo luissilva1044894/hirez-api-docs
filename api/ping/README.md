@@ -1,7 +1,8 @@
 
 ## Ping
 
-A quick way of validating access (establish connectivity) to the API, which indicates whether the request was successful.
+<!--A quick way of validating access (establish connectivity) to the API, which indicates whether the request was successful.-->
+A quick way of validating availabiltiy of the API, which indicates whether the request was successful.
 
 Pinging the API is used to ensure that you have access to the API as you do not need to [authenticate](api-parameter-details.md#session-authentication) your [API Key](api-parameter-details.md#api-key).
 
