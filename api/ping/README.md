@@ -15,7 +15,7 @@ Pinging the API is used to ensure that you have access to the API as you do not 
 	<tr>
 		<td>response_type</td>
 		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
-		<td>json</td>
+		<td>“json”</td>
 	</tr>
 	</tr>
 </table>

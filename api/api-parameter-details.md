@@ -22,7 +22,9 @@ To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) 
 
 The God ID is an unique id for each playable character in a game.
 
-Can be obtained from [``GetGods``](./../get-gods.md#get-gods) & [``GetChampions``](./../get-champions.md#get-champions).
+Can be obtained from:
+  - [``GetChampions``](./../get-champions.md#get-champions) - Returns a list of all playable characters in [Paladins](#paladins).
+  - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#paladins) / [Smite](#smite).
 
 ### Paladins
 
@@ -306,9 +308,22 @@ This is the Player Name.
 
 The Player ID is an unique id for each player that's is created and internally stored by Hi-Rez.
 
-Can be obtained from [``GetPlayer``](./../get-player.md#get-player) & [``GetTopMatches``](./../get-top-matches.md#get-top-matches).
-
-This is the Player ID. The player_id (available to API developers via the /getplayer API method).
+<!--available to API developers via the /getplayer API method-->
+The “player_id” can be obtained from:
+  - [``GetPlayer``](./../get-player.md#get-player)
+  - [``Get Champion Leaderboard``](./../get-champion-leaderboard#get-champion-leaderboard)
+  - [``Get Friends``](./../get-friends#get-friends)
+  - [``Get God Leaderboard``](./../get-god-leaderboard#get-god-leaderboard)
+  <!--- [``Get Leaderboard``](./../get-leaderboard#get-leaderboard)-->
+  - [``Get League Leaderboard``](./../get-league-leaderboard#get-league-leaderboard)
+  - [``Get Match Details``](./../get-match-details#get-match-details)
+  - [``Get Player Batch From Match``](./../get-player-batch-from-match#get-player-batch-from-match)
+  - [``Get Player Id By Name``](./../get-player-id-by-name#get-player-id-by-name)
+  - [``Get Player Id By Portal User Id``](./../get-player-id-by-portal-user-id#get-player-id-by-portal-user-id)
+  - [``Get Player Id Info For Xbox And Switch``](./../get-player-id-info-for-xbox-and-switch#get-player-id-info-for-xbox-and-switch)
+  - [``Get Player Ids By Gamer Tag``](./../get-player-ids-by-gamer-tag#get-player-ids-by-gamer-tag)
+  - [``Get Team Players``](./../get-team-players#get-team-players)
+  - [``Search players``](./../search-players#search-players)
 
 ### Portal User Id
 The (usually) 3rd-Party identifier for a Portal.  Examples:  Steam ID, PS4 GamerTag, Xbox GamerTag, Switch GamerTag.
@@ -426,7 +441,7 @@ The components of this hash are (in order):
   <tr>
   	<td>dev_id</td>
   	<td></td>
-  	<td>1004</td>
+  	<td>“1004”</td>
   </tr>
   <tr>
   	<td>Method</td>
@@ -438,12 +453,12 @@ The components of this hash are (in order):
   <tr>
   	<td>auth_key</td>
   	<td></td>
-  	<td>23DF3C7E9BD14D84BF892AD206B6755C</td>
+  	<td>“23DF3C7E9BD14D84BF892AD206B6755C”</td>
   </tr>
   <tr>
   	<td>timestamp</td>
-  	<td>20191128030916</td>
   	<td>Current UTC [Timestamp](#timestamp)</td>
+  	<td>“20191128030916”</td>
   </tr>
 </table>
 
@@ -534,7 +549,7 @@ signature = generate_signature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD20
 </details>
 
 ## Timestamp
-><i>Current UTC time (GMT+0) formatted to '**``YYYYMMDDHHmmss``**'.</i>
+><i>Current UTC time (GMT+0) formatted to “**``YYYYMMDDHHmmss``**”.</i>
 
 **Timestamps** are used by [**Signatures**](#signature) and embedded into URLs when sending requests, they have to be formatted properly to ensure the request completes without error.
 

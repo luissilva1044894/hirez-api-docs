@@ -14,32 +14,32 @@ Returns all friends of a given player.
 	<tr>
 		<td>response_type</td>
 		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
-		<td>json</td>
+		<td>“json”</td>
 	</tr>
 	<tr>
 		<td>dev_id</td>
 		<td>The dev_id from your <a href="./../api-parameter-details.md#credentials" title="Credentials">Credentials</a></td>
-		<td>1004</td>
+		<td>“1004”</td>
 	</tr>
 	<tr>
 		<td>signature</td>
 		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>“GetFriends”</b> method</td>
-		<td>1105efae92f8db89460895d976292940</td>
+		<td>“1105efae92f8db89460895d976292940”</td>
 	</tr>
 	<tr>
 		<td>session_id</td>
 		<td>A valid <a href="https://github.com/apugh/realm-api-proposal/wiki/Getting-Started#sessions">Session</a></td>
-		<td>1465AFCA32DBDB800CEF8C72F296C52C</td>
+		<td>“1465AFCA32DBDB800CEF8C72F296C52C”</td>
 	</tr>
 	<tr>
 		<td>timestamp</td>
 		<td>The current UTC <a href="./../api-parameter-details.md#timestamp" title="Timestamp">Timestamp</a></td>
-		<td>20191128030916</td>
+		<td>“20191128030916”</td>
 	</tr>
 	<tr>
 		<td>player_id</td>
 		<td>A valid <a href="./../api-parameter-details.md#player-id" title="Player ID">Player ID</a></td>
-		<td>987654321</td>
+		<td>“987654321”</td>
 	</tr>
 </table>
 <br/><br/>

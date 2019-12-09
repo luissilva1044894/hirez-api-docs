@@ -73,7 +73,7 @@ To retrieve all information from the API, you will need to append all requests t
 ## Rate Limiting
 The API rate limits in order to prevent abuse and over use of the API (either intentional, more likely unintentional “over use”). All API requests are subject to rate limits.
 
-Rate limits are applied on a per-user basis  — or more accurately described, per dev_id / auth_key combination. By "per-user," we mean that rate limits are shared across different endpoints and all supported platforms using the same dev_id.
+Rate limits are applied on a per-user basis  — or more accurately described, per dev_id / auth_key combination. By “per-user”, we mean that rate limits are shared across different endpoints and all supported platforms using the same dev_id.
 
 Here are the default initial limitations for API Developers:
 <table>
