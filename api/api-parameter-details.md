@@ -451,19 +451,16 @@ The components of this hash are (in order):
  <summary>C# Sample</summary>
 
 ```csharp
-private static string GetMD5Hash(string input) {
+private static string generate_signature(int dev_id, string method, string auth_key, string timestamp) {
   using (var md5 = System.Security.Cryptography.MD5.Create()) {
-    var bytes = md5.ComputeHash(System.Text.Encoding.UTF8.GetBytes(input));
-    var stringBuilder = new System.Text.StringBuilder();
+    var bytes = md5.ComputeHash(System.Text.Encoding.UTF8.GetBytes(dev_id + method + auth_key.ToLower() + timestamp));
+    var string_builder = new System.Text.StringBuilder();
     foreach (byte b in bytes)
-      stringBuilder.Append(b.ToString("x2").ToLower());
-    return stringBuilder.ToString();
+      string_builder.Append(b.ToString("x2").ToLower());
+    return string_builder.ToString();
   }
 }
-public string generateSignature(int dev_id, string method, string auth_key, string timestamp) {
-  return GetMD5Hash(dev_id + method + auth_key.ToLower() + timestamp);
-}
-var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
+var signature = generate_signature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", get_timestamp());
 ```
 </details>
 
@@ -471,28 +468,28 @@ var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892A
  <summary>Java Sample</summary>
 
 ```java
-private static String generateSignature(int dev_id, String auth_key, String method, String timestamp) {
-  String templateSignature = dev_id + method + auth_key + timestamp;
-  StringBuilder signatureBuilder = new StringBuilder();
+private static String generate_signature(int dev_id, String auth_key, String method, String timestamp) {
+  String template_signature = dev_id + method + auth_key + timestamp;
+  StringBuilder string_builder = new StringBuilder();
   try {
     MessageDigest md = MessageDigest.getInstance("MD5");
-    md.update (templateSignature.getBytes());
+    md.update (template_signature.getBytes());
     byte [] bytes = md.digest();
 
     for (byte b : bytes) {
       String hex = Integer.toHexString(0xff & b);
       if (hex.length () == 1)
-        signatureBuilder.append("0");
-      signatureBuilder.append(hex);
+        string_builder.append("0");
+      string_builder.append(hex);
     }
   } catch (NoSuchAlgorithmException e) {
     e.printStackTrace();
   }
 
-  return signatureBuilder.toString();
+  return string_builder.toString();
 }
 
-public final String signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
+public final String signature = generate_signature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", get_timestamp());
 ```
 </details>
 
@@ -501,10 +498,10 @@ public final String signature = generateSignature(1004, "createsession", "23DF3C
 
 ```js
 const md5 = require("md5");
-function generateSignature(dev_id, method, auth_key, timestamp) {
+function generate_signature(dev_id, method, auth_key, timestamp) {
   return md5(`${dev_id}${method}${auth_key}${timestamp}`);
 }
-var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
+var signature = generate_signature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", get_timestamp());
 ```
 </details>
 
@@ -512,7 +509,7 @@ var signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892A
  <summary>PHP Sample</summary>
 
 ```php
-private function getSignature($dev_id, $method, $auth_key, $timestamp) {
+private function generate_signature($dev_id, $method, $auth_key, $timestamp) {
     return md5($dev_id . $method . $auth_key . $timestamp);
 }
 ```
@@ -522,11 +519,18 @@ private function getSignature($dev_id, $method, $auth_key, $timestamp) {
  <summary>Python Sample</summary>
 
 ```python
-def generateSignature(dev_id, method, auth_key, timestamp):
+def generate_signature(dev_id, method, auth_key, timestamp):
 	from hashlib import md5
 	return md5(f'{dev_id}{method.lower()}{auth_key}{timestamp}'.encode('utf-8')).hexdigest()
-signature = generateSignature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD206B6755C', getTimestamp())
+signature = generate_signature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD206B6755C', get_timestamp())
 ```
+<!--
+	>>> def sign(method, timestamp='20191128030916', encoding='utf-8'):
+	  from hashlib import md5
+	  return md5(f'1004{method.lower()}23DF3C7E9BD14D84BF892AD206B6755C{timestamp}'.encode(encoding)).hexdigest()
+	>>> sign('createsession')
+	'2bd92e62f3703da55f8b117f8a6228bd'
+-->
 </details>
 
 ## Timestamp
@@ -538,10 +542,10 @@ signature = generateSignature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD206
  <summary>C# Sample</summary>
 
 ```csharp
-public static string getTimestamp(string tmFormat="yyyyMMddHHmmss") {
-  return System.DateTime.UtcNow.ToString(tmFormat);
+public static string get_timestamp(string _format="yyyyMMddHHmmss") {
+  return System.DateTime.UtcNow.ToString(_format);
 }
-var timestamp = getTimeStamp();
+var timestamp = get_timestamp();
 ```
 </details>
 
@@ -549,12 +553,12 @@ var timestamp = getTimeStamp();
  <summary>Java Sample</summary>
 
 ```java
-private static String getTimestamp() {
+private static String get_timestamp() {
   SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
   sdf.setTimeZone(new SimpleTimeZone(SimpleTimeZone.UTC_TIME, "UTC"));
   return sdf.format(new Date());
 }
-public final String timestamp = getTimestamp();
+public final String timestamp = get_timestamp();
 ```
 </details>
 
@@ -564,10 +568,10 @@ public final String timestamp = getTimestamp();
 
 ```js
 const moment = require("moment");
-function getTimestamp() {
+function get_timestamp() {
   return moment.utc().format("YYYYMMDDHHmmss");
 }
-var timestamp = getTimeStamp();
+var timestamp = get_timestamp();
 ```
 </details>
 
@@ -575,7 +579,7 @@ var timestamp = getTimeStamp();
  <summary>PHP Sample</summary>
 
 ```php
-private function getTimestamp() {
+private function get_timestamp() {
   return Carbon::now()->format('Ymdhis');
 }
 ```
@@ -585,10 +589,10 @@ private function getTimestamp() {
  <summary>Python Sample</summary>
 
 ```python
-def getTimestamp(tmFormat='%Y%m%d%H%M%S'):
+def get_timestamp(_format='%Y%m%d%H%M%S'):
   from datetime import datetime
-  return datetime.utcnow().strftime(tmFormat)
-timeStamp = getTimeStamp()
+  return datetime.utcnow().strftime(_format)
+timeStamp = get_timestamp()
 ```
 </details>
 
