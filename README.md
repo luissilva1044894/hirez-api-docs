@@ -211,10 +211,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_rust_hi_rust]: https://img.shields.io/badge/HiRust-blueviolet?logo=rust&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/JackStillwell/HiRust
 [badge_wrapper_rust_smite_motd]: https://img.shields.io/badge/smite_motd-blueviolet?logo=rust&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/kdar/smitemotd
 
-[badge_wrapper_swift_swifty_smite_api]: https://img.shields.io/badge/C%2B%2B-Swifty_Smite_API-blueviolet?logo=Swift&logoColor=white&style=plastic&link=https://github.com/OddMagnet/SwiftySmiteAPI
+[badge_wrapper_swift_swifty_smite_api]: https://img.shields.io/static/v1?label=Swift&logo=Swift&message=Swifty_Smite_API&color=blueviolet&style=plastic&link=https://github.com/OddMagnet/SwiftySmiteAPI
 
-[badge_wrapper_visual_basic_smite_vb]: https://img.shields.io/badge/Visual_Basic-Smite_Vb-blueviolet?logo=github&logoColor=white&style=plastic&link=https://github.com/crimson-med/Smite-Vb
+[badge_wrapper_visual_basic_smite_vb]: https://img.shields.io/static/v1?label=Visual_Basic&logo=github&message=Smite_Vb&color=blueviolet&style=plastic&link=https://github.com/crimson-med/Smite-Vb
 
-[badge_wrapper_vue_realm_royale_first_vue_app]: https://img.shields.io/badge/Vue-realm_royale_first_vue_app-blueviolet?logo=github&logoColor=white&style=plastic&link=https://github.com/djlax805/realm_royale_first_vue_app
+[badge_wrapper_vue_realm_royale_first_vue_app]: https://img.shields.io/static/v1?label=Vue&logo=github&message=realm_royale_first_vue_app&color=blueviolet&style=plastic&link=https://github.com/djlax805/realm_royale_first_vue_app
 
-[badge_wrapper_x_query_smite_api]: https://img.shields.io/badge/XQuery-smite_api-blueviolet?logo=github&logoColor=white&style=plastic&link=https://github.com/LumielGR/smite-api
+[badge_wrapper_x_query_smite_api]: https://img.shields.io/static/v1?label=XQuery&logo=github&message=smite_api&color=blueviolet&style=plastic&link=https://github.com/LumielGR/smite-api
