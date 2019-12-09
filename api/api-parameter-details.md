@@ -446,7 +446,7 @@ def __encode__(_input, encodeType="utf-8"):
   return str(_input).encode(encodeType)
 def generateSignature(devId, method, authKey, timestamp):
   return GetMD5Hash(__encode__("{0}{1}{2}{3}".format(devId, method, authKey, timestamp)).hexdigest()
-signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp());
+signature = generateSignature(1004, "createsession", "23DF3C7E9BD14D84BF892AD206B6755C", getTimestamp())
 ```
 </details>
 
