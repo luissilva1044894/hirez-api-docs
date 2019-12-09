@@ -26,10 +26,16 @@ Can be obtained from [``GetGods``](./../get-gods.md#get-gods) & [``GetChampions`
 
 ### Paladins
 
+Champions are the playable characters in Paladins.
+
+Each one has their own unique abilities and fighting style. Champions use Cards to increase their performance and enhance their skills, and Items to help them adapt to specific situations in every match.
+
+Champions are organized into 4 different classes: Damage, Flank, Front Line and Support.
+
 <details markdown="1">
 <summary>Champions</summary>
 
-There are currently 44 playable champions (Updated in 12/09/2019 13:31:38):
+There are currently 44 playable champions in the game (Updated in 12/09/2019 13:31:38):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
   <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="64" width="64"/></td></tr>
@@ -81,12 +87,14 @@ There are currently 44 playable champions (Updated in 12/09/2019 13:31:38):
 
 ### Realm Royale
 
+There are multiple Classes in Realm Royale.
+
+Each one has its own unique abilities and fighting style. Each class has a unique passive bonus, movement ability, and 4 special abilities.<br/>Additionally each class can craft a unique weapon at the forge.
+
 <details markdown="1">
 <summary>Classes</summary>
 
-There are multiple Classes in Realm Royale. Each one has its own unique abilities and fighting style.<br/><br/>Each class has a unique passive bonus, movement ability, and 4 special abilities.<br/>Additionally each class can craft a unique weapon at the forge.
-
-There are currently 4 playable classes:
+There are currently 4 playable classes in the game:
 <table>
 	<tr><th>ID</th><th>Name</th><th>In-Game Name</th><th>Image</th></tr>
 	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../_assets/realm-royale/class-warrior.png" height="64" width="64"/></td></tr>
@@ -98,10 +106,40 @@ There are currently 4 playable classes:
 </details>
 
 ### Smite
+
+Gods are the playable characters in Smite.
+
+Each god is unique, with different strengths and weaknesses, and their own playstyle. The statistics of certain gods are geared for offense, while others are better suited for defense.
+
+Gods are organized in 5 different classes:
+ - Assassins (mostly melee junglers and gankers).
+ - Guardians (mostly melee supports, tanks and initiators).
+ - Hunters (mostly ranged carries and fighters).
+ - Mages (mostly ranged spellcasters).
+ - Warriors (mostly melee bruisers).
+
+<!--
+Gods are sorted by their Pantheons:
+  - Arthurian
+  - Celtic
+  - Chinese
+  - Egyptian
+  - Greek
+  - Hindu
+  - Japanese
+  - Mayan
+  - Norse
+  - Polynesian
+  - Roman
+  - Slavic
+  - Voodoo
+  - Yoruba
+-->
+
 <details markdown="1">
 <summary>Gods</summary>
 
-There are currently 106 playable gods (Updated in 12/08/2019 16:06:58):
+There are currently 106 playable gods in the game (Updated in 12/08/2019 16:06:58):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
   <tr><td>3492</td><td>Achilles</td><td>Warrior</td><td>Hero of the Trojan War</td><td><img src="https://web2.hirez.com/smite/god-icons/achilles.jpg" height="64" width="64"/></td></tr>
