@@ -220,7 +220,10 @@ There are currently 106 playable gods (Updated in 12/08/2019 16:06:58):
 https://flagpedia.net/emoji
 https://emojipedia.org/flags/
 -->
-Valid values:
+<details markdown="1">
+<summary>Language</summary>
+
+Valid values are:
 <table>
 	<tr><th>ID</th><th>Language</th><th>Flag</th></tr>
 	<tr><td>1</td><td align='center'>English</td><td>🇺🇸</td></tr>
@@ -234,6 +237,7 @@ Valid values:
 	<tr><td>12</td><td align='center'>Polish</td><td>🇵🇱</td></tr>
 	<tr><td>13</td><td align='center'>Turkish</td><td>🇹🇷</td></tr>
 </table>
+</details>
 
 ## Match ID
 
@@ -304,7 +308,10 @@ The season of a league. Starts at 1 and increases by 1 for each calendar year.  
 
 ## League Tier
 
-Valid values:
+<details markdown="1">
+<summary>Tier</summary>
+
+Valid values are:
 <table>
   <tr><th>ID</th><th>Description</th><th>Image</th></tr>
   <tr><td>0</td><td>Unranked</td><td><img src="./../_assets/paladins/league-tier/0.png" height="32" width="32"/></td></tr>
@@ -336,6 +343,7 @@ Valid values:
     <tr><td>26</td><td>Master</td><td><img src="./../_assets/paladins/league-tier/26.png" height="32" width="32"/></td></tr>
     <tr><td>27</td><td>Grandmaster</td><td><img src="./../_assets/paladins/league-tier/27.png" height="32" width="32"/></td></tr>
 </table>
+</details>
 
 ## Status
 
