@@ -28,7 +28,7 @@ Returns all friends of a given player.
 	</tr>
 	<tr>
 		<td>session_id</td>
-		<td>A valid <a href="https://github.com/apugh/realm-api-proposal/wiki/Getting-Started#sessions">Session</a></td>
+		<td>A valid <a href="./../#sessions">Session</a></td>
 		<td>“1465AFCA32DBDB800CEF8C72F296C52C”</td>
 	</tr>
 	<tr>

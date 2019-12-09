@@ -26,7 +26,7 @@ Can be obtained from:
   - [``GetChampions``](./../get-champions.md#get-champions) - Returns a list of all playable characters in [Paladins](#paladins).
   - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#paladins) / [Smite](#smite).
 
-### Paladins
+### God ID - Paladins
 
 Champions are the playable characters in [Paladins][paladins].
 
@@ -87,7 +87,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
   </table>
 </details>
 
-### Realm Royale
+### God ID - Realm Royale
 
 There are multiple Classes in [Realm Royale][realm_royale].
 
@@ -107,7 +107,7 @@ There are currently 4 playable classes in the game:
 
 </details>
 
-### Smite
+### God ID - Smite
 
 Gods are the playable characters in [Smite][smite].
 
@@ -285,7 +285,7 @@ Valid values are:
 
 The Match ID is an unique id for each map that’s created by the server for a set of players.
 
-Can be obtained from:
+The “match_id” can be obtained from:
   - [``GetMatchHistory``](./../get-match-history.md#get-match-history)
   - [``GetMatchIdsByQueue``](./../get-match-ids-by-queue.md#get-match-ids-by-queue)
   - [``GetPlayerMatchHistory``](./../get-player-match-history.md#get-player-match-history)
