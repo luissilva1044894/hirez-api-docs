@@ -374,7 +374,7 @@ The Signature is created by concatenating several fields and then hashing the re
 - Method
   - Which “method” means the resource you want to retrieve data (eg, “createsession”)
   <!-- The method name being called -->
-  - This will not include the ResponseType, just the name of the method.
+  - This will not include the [Response Type](#response-type), just the name of the method.
 - auth_key
 - Current UTC [**Timestamp**](#timestamp)
 
