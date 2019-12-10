@@ -398,7 +398,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   <tr><td>469</td><td id='game-modes-paladins-team-deathmatch-description'>LIVE Team Deathmatch</td><td>Team Deathmatch is a classic deathmatch game mode.<br/>In Team Deathmatch, the first team to achieve 40 kills wins.</td><td><img src="./../_assets/paladins/game-modes/team-deathmatch.png" height="75" width="75"/></td></tr>
   <tr><td>470</td><td>LIVE Team Deathmatch Pratice</td><td>This version of <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> is Co-op vs AI.</td><td><img src="./../_assets/paladins/game-modes/team-deathmatch.png" height="75" width="75"/></td></tr>
   <tr><td>485</td><td>Custom Siege - Warders Gate</td><td>Custom allows players to open up own matches - with own game settings.<br/>But no game progress can be achieved in these matches.</td><td><img src="./../_assets/paladins/maps/warders-gate.png" height="75" width="75"/></td></tr>
-  <tr><td>486</td><td>LIVE Competitive KBM</td><td>Ranked is a system in Paladins designed to provide higher quality matches for competitive players.<br/>The current season of competitive play is Season 3.</td><td><img src="./../_assets/paladins/game-modes/ranked.png" height="75" width="75"/></td></tr>
+  <tr><td>486</td><td>LIVE Competitive KBM</td><td>Ranked is a system in Paladins designed to provide higher quality matches for competitive players.<br/>The current season of competitive play is <a href="#season">Season</a> 3.</td><td><img src="./../_assets/paladins/game-modes/ranked.png" height="75" width="75"/></td></tr>
 </table>
 </details>
 
