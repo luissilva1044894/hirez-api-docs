@@ -307,7 +307,7 @@ The interface for each endpoint is identical. Therefore, a single application co
 
 However, since each endpoint is serviced by a unique Web Service, applications must create and maintain separate Sessions for each endpoint.  In other words, <del>you cannot use a Session ID created by the SmiteAPI endpoint (via the /createsession method) to make method calls to the PaladinsAPI endpoint.</del><sup id="session_id_exploit" class="reference"><a href="https://gist.github.com/luissilva1044894/c259d71fc7e7595d70d424c00ff5716b"  target="_blank"><span>[</span>1<span>]</span></a></sup>
 
-[hi_rez_studios]: https://www.hirezstudios.com "Hi-Rez Studios Website"
-[paladins]: https://www.paladins.com/ "Paladins"
-[realm_royale]: https://www.realmroyale.com/ "Realm Royale"
-[smite]: https://www.smitegame.com/ "Smite"
+[hi_rez_studios]: https://www.hirezstudios.com "Visit Hi-Rez Studios Website"
+[paladins]: https://www.paladins.com/ "Paladins Game · Website"
+[realm_royale]: https://www.realmroyale.com/ "Realm Royale Game · Website"
+[smite]: https://www.smitegame.com/ "Smite Game · Website"
