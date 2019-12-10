@@ -1,6 +1,11 @@
 
 # Unofficial Hi-Rez Studios API Developer Guide
 
+[![License][project_bagde_license]][project_license]
+[![*Nonsocial's support server*][project_bagde_discord_support_server]][project_discord_support_server]
+
+> :construction: **It's a work in progress, still undergoing some change, documentation is in-progress.**
+
 Due to [Hi-Rez Studios][hi_rez_studios] not providing a detailed documentation for their API, this Developer Guide is here to assist those attempting to make their own API wrapper for their [API][hi_rez_studios_api_developer_guide].
 
 This documentation holds the Methods Documentation and Source Code Examples, and its purpose is to provide Developers with the necessary information to access and utilize the API methods.
@@ -61,7 +66,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 
 #### Wrappers
 
-* [![wrapper_cpp_hirezcpp_][badge_wrapper_cpp_hirezcpp]][wrapper_cpp_hirezcpp]
+* [![wrapper_cpp_hirezcpp][badge_wrapper_cpp_hirezcpp]][wrapper_cpp_hirezcpp_github]
 * ![wrapper_dotnet_paladins_dotnet][badge_wrapper_dotnet_paladins_dotnet]
   ![wrapper_dotnet_realm_royale_dotnet][badge_wrapper_dotnet_realm_royale_dotnet]
 * ![wrapper_elixir_exrez][badge_wrapper_elixir_exrez]
@@ -71,8 +76,6 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 * [![wrapper_java_hi_rez_api_][badge_wrapper_java_hi_rez_api]][wrapper_java_hi_rez_api]
 [![wrapper_java_paladins_java_api_][badge_wrapper_java_paladins_java_api]][wrapper_java_paladins_java_api]
 [![wrapper_java_smite_api_][badge_wrapper_java_smite_api]][wrapper_java_smite_api]
-
-[Paladins-Java-API](https://github.com/HeyZeer0/Paladins-Java-API) [smite-api](https://github.com/Rabrg/smite-api)
 * Javascript / NodeJS: [paladins-api](https://github.com/itspauloroberto/paladins-api), [paladins.js](https://github.com/PaladinsDev/paladins.js), [paladins-api-node](https://github.com/barenddt/paladins-api-node), [hirez.js](https://github.com/messyfresh/hirez.js)
 * Kotlin: [Hirez-sdk-kotlin](https://github.com/tafel-io/Hirez-sdk-kotlin), [Paladins-Api-Kotlin](https://github.com/geek0x90/Paladins-Api-Kotlin)
 * PHP: [PHP-API](https://github.com/PaladinsDev/PHP-API), [paladins-api-php-wrapper](https://github.com/lyrip/paladins-api-php-wrapper), [smite-api-php-client](https://github.com/dant89/smite-api-php-client), [PaladinsPHP](https://github.com/teamreflex/PaladinsPHP), [PaladinsPHP](https://github.com/bennetgallein/PaladinsPHP), [SmitePHP](https://github.com/CurseStaff/SmitePHP), [smite-php](https://github.com/AlekzB/smite-php), [smite-api-wp](https://github.com/hirezstudios/smite-api-wp)
@@ -125,10 +128,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 	https://www.flaticon.com/search/2?word=mixer
 -->
 
-[discord]: https://discordapp.com/ "Discord App"
+[discord]: https://discordapp.com/ "Discord App · Website"
 [json_website]: https://json.org/ "Visit json.org"
-[json_formatter]: https://jsonformatter.curiousconcept.com "JSON Formatter & Validator"
-[xml_formatter]: https://jsonformatter.org/xml-formatter "XML Formatter & Validator"
+[json_formatter]: https://jsonformatter.curiousconcept.com "JSON Formatter & Validator · Website"
+[xml_formatter]: https://jsonformatter.org/xml-formatter "XML Formatter & Validator · Website"
 [open_source_definition]: https://www.opensource.org "See http://www.opensource.org for the Open Source Definition"
 [open_source_icon]: https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png
 [github_help_pull_request]: https://help.github.com/en/articles/creating-a-pull-request-from-a-fork
@@ -142,74 +145,102 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [project_code_samples_java]: ./code-samples/java.md
 [project_code_samples_python]: ./code-samples/python.md
 [project_discord_support_server]: https://discord.gg/XkydRPS "Support Server · Discord"
-[project_github_repo]: https://github.com/luissilva1044894/hirez-api-docs ""
-[project_license]: https://github.com/luissilva1044894/hirez-api-docs ""
+[project_bagde_discord_support_server]: https://img.shields.io/discord/549020573846470659.svg?logo=discordlogoWidth=15&style=plastic
+[project_github_repo]: https://github.com/luissilva1044894/hirez-api-docs "hirez-api-docs · Github repo"
+[project_license]: ./LICENSE "Hi-Rez API Docs · License"
+[project_bagde_license]: https://img.shields.io/github/license/luissilva1044894/hirez-api-docs.svg?logo=githublogoWidth=10style=plastic
 
-[hi_rez_studios]: https://www.hirezstudios.com "Hi-Rez Studios Website"
-[hi_rez_studios_api_application_form]: https://fs12.formsite.com/HiRez/form48/secure_index.html
+[hi_rez_studios]: https://www.hirezstudios.com "Visit Hi-Rez Studios Website"
+[hi_rez_studios_api_application_form]: https://fs12.formsite.com/HiRez/form48/secure_index.html "Hi-Rez Studios API · Application Form"
 [hi_rez_studios_api_developer_guide]: https://docs.google.com/document/d/1OFS-3ocSx-1Rvg4afAnEHlT3917MAK_6eJTR6rzr-BM "Smite / Paladins / Realm API Developer Guide"
 [hi_rez_studios_api_podio_group]: https://podio.com/hirezstudioscom/smite-api-developer-collaboration "SMITE, Paladins, & Realm API Developer Collaboration"
 [hi_rez_studios_api_terms_of_use]: https://www.hirezstudios.com/wp-content/themes/hi-rez-studios/pdf/api-terms-of-use-agreement.pdf "Hi-Rez Studios API · Terms of Use"
-[hi_rez_studios_press]: https://www.hirezstudios.com/press
+[hi_rez_studios_press]: https://www.hirezstudios.com/press "Hi-Rez Studios API · Press"
 
 [badge_wrapper_cpp_hirezcpp]: https://img.shields.io/static/v1?label=C%2B%2B&logo=github&message=hirezcpp&color=blueviolet&style=plastic&link=https://github.com/p-groarke/hirezcpp
-[wrapper_cpp_hirezcpp]: https://github.com/p-groarke/hirezcpp
+[badge_wrapper_cpp_hirezcpp_github]: https://github.com/p-groarke/hirezcpp "hirezcpp · Github repo"
 
 [badge_wrapper_dotnet_paladins_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=Paladins.NET&color=blueviolet&style=plastic&link=https://github.com/PaladinsDev/Paladins.NET
-[wrapper_dotnet_paladins_dotnet]: https://github.com/PaladinsDev/Paladins.NET
+[badge_wrapper_dotnet_paladins_dotnet_github]: https://github.com/PaladinsDev/Paladins.NET "Paladins.NET · Github repo"
 
 [badge_wrapper_dotnet_realm_royale_dotnet]: https://img.shields.io/static/v1?label=C%23&logo=.net&message=RealmRoyale.NET&color=blueviolet&style=plastic&link=https://github.com/fossilz/RealmRoyale.NET
-[wrapper_dotnet_realm_royale_dotnet]: https://github.com/fossilz/RealmRoyale.NET
+[badge_wrapper_dotnet_realm_royale_dotnet_github]: https://github.com/fossilz/RealmRoyale.NET "RealmRoyale.NET · Github repo"
 
 [badge_wrapper_elixir_exrez]: https://img.shields.io/static/v1?label=Elixir&logo=github&logoWidth=20&message=Exrez&color=blueviolet&style=plastic&link=https://github.com/luishendrix92/exrez
-[wrapper_elixir_exrez]: https://github.com/luishendrix92/exrez
+[badge_wrapper_elixir_exrez_github]: https://github.com/luishendrix92/exrez "exrez · Github repo"
 
 [badge_wrapper_go_paladins_go]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=PaladinsGo&color=blueviolet&style=plastic&link=https://github.com/danieljimenez/PaladinsGo
-[wrapper_go_paladins_go]: https://github.com/danieljimenez/PaladinsGo
+[badge_wrapper_go_paladins_go_github]: https://github.com/danieljimenez/PaladinsGo "PaladinsGo · Github repo"
 
 [badge_wrapper_go_smite_paladins_realm_api_usage]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=SMITE-Paladins-Realm-API-Usage&color=blueviolet&style=plastic&link=https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
-[wrapper_go_smite_paladins_realm_api_usage]: https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage
+[badge_wrapper_go_smite_paladins_realm_api_usage_github]: https://github.com/matin-n/SMITE-Paladins-Realm-API-Usage "SMITE-Paladins-Realm-API-Usage · Github repo"
 
 [badge_wrapper_go_go_smite_api]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=go-smite-api&color=blueviolet&style=plastic&link=https://github.com/duncanleo/go-smite-api
-[wrapper_go_go_smite_api]: https://github.com/duncanleo/go-smite-api
+[badge_wrapper_go_go_smite_api_github]: https://github.com/duncanleo/go-smite-api "go-smite-api · Github repo"
 
-[badge_wrapper_java_hi_rez_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/stachu540/HiRezAPI
-[wrapper_java_hi_rez_api]: https://github.com/stachu540/HiRezAPI
+[badge_wrapper_java_hi_rez_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/stachu540/HiRezAPI
+[badge_wrapper_java_hi_rez_api_github]: https://github.com/stachu540/HiRezAPI "HiRezAPI · Github repo"
 
-[badge_wrapper_java_paladins_java_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=Paladins%20Java%20API&color=blueviolet&style=plastic&link=https://github.com/HeyZeer0/Paladins-Java-API
-[wrapper_java_paladins_java_api]: https://github.com/HeyZeer0/Paladins-Java-API
+[badge_wrapper_java_paladins_java_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=Paladins%20Java%20API&color=blueviolet&style=plastic&link=https://github.com/HeyZeer0/Paladins-Java-API
+[badge_wrapper_java_paladins_java_api_github]: https://github.com/HeyZeer0/Paladins-Java-API "Paladins-Java-API · Github repo"
 
-[badge_wrapper_java_smite_api]: https://img.shields.io/static/v1?label=Java&logo=Java&logoWidth=20&message=smite-api&color=blueviolet&style=plastic&link=https://github.com/Rabrg/smite-api
-[wrapper_java_smite_api]: https://github.com/Rabrg/smite-api
+[badge_wrapper_java_smite_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=smite-api&color=blueviolet&style=plastic&link=https://github.com/Rabrg/smite-api
+[badge_wrapper_java_smite_api_github]: https://github.com/Rabrg/smite-api "smite-api · Github repo"
 
-[badge_wrapper_javascript_paladins_api]: https://img.shields.io/badge/paladins_api-blueviolet?logo=javascript&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/itspauloroberto/paladins-api
-[badge_wrapper_javascript_paladins.js]: https://img.shields.io/badge/paladins.js-blueviolet?logo=javascript&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/PaladinsDev/paladins.js
-[badge_wrapper_javascript_paladins_api_node]: https://img.shields.io/badge/paladins_api_node-blueviolet?logo=javascript&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/barenddt/paladins-api-node
-[badge_wrapper_javascript_hirez.js]: https://img.shields.io/badge/hirez.js-blueviolet?logo=javascript&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/messyfresh/hirez.js
+[badge_wrapper_javascript_paladins_api]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins_api&color=blueviolet&style=plastic&link=https://github.com/itspauloroberto/paladins-api
+[badge_wrapper_javascript_paladins_api_github]: https://github.com/itspauloroberto/paladins-api "paladins-api · Github repo"
 
-[badge_wrapper_kotlin_hirez_sdk_kotlin]: https://img.shields.io/badge/Hirez_sdk_kotlin-blueviolet?logo=kotlin&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/tafel-io/Hirez-sdk-kotlin
-[badge_wrapper_kotlin_paladins_api_kotlin]: https://img.shields.io/badge/Paladins_Api_Kotlin-blueviolet?logo=kotlin&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/geek0x90/Paladins-Api-Kotlin
+[badge_wrapper_javascript_paladins.js]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins.js&color=blueviolet&style=plastic&link=https://github.com/PaladinsDev/paladins.js
+[badge_wrapper_javascript_paladins.js_github]: https://github.com/PaladinsDev/paladins.js "paladins.js · Github repo"
 
-[badge_wrapper_php_php_api]: https://img.shields.io/badge/PHP_API-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/PaladinsDev/PHP-API
-[badge_wrapper_php_paladins_api_php_wrapper]: https://img.shields.io/badge/paladins_api_php_wrapper-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/lyrip/paladins-api-php-wrapper
-[badge_wrapper_php_smite_api_php_client]: https://img.shields.io/badge/smite_api_php_client-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/dant89/smite-api-php-client
-[badge_wrapper_php_paladins_php]: https://img.shields.io/badge/PaladinsPHP-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/teamreflex/PaladinsPHP
-[badge_wrapper_php_paladinsphp]: https://img.shields.io/badge/PaladinsPHP-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/bennetgallein/PaladinsPHP
-[badge_wrapper_php_smitephp]: https://img.shields.io/badge/SmitePHP-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/CurseStaff/SmitePHP
-[badge_wrapper_php_smite_php]: https://img.shields.io/badge/smite_php-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/AlekzB/smite-php
-[badge_wrapper_php_smite_api_wp]: https://img.shields.io/badge/smite_api_wp-blueviolet?logo=php&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/hirezstudios/smite-api-wp
+[badge_wrapper_javascript_paladins_api_node]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins_api_node&color=blueviolet&style=plastic&link=https://github.com/barenddt/paladins-api-node
+[badge_wrapper_javascript_paladins_api_node_github]: https://github.com/barenddt/paladins-api-node "paladins-api-node · Github repo"
 
-[badge_wrapper_python_pyrez]: https://img.shields.io/badge/Pyrez-blueviolet?logo=python&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/luissilva1044894/Pyrez
-[badge_wrapper_python_hirez_api]: https://img.shields.io/badge/HiRezAPI-blueviolet?logo=python&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/DevilXD/HiRezAPI
-[badge_wrapper_python_hi_rez_api]: https://img.shields.io/badge/Hi_Rez_API-blueviolet?logo=python&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/iforvard/Hi-RezAPI
+[badge_wrapper_javascript_hirez.js]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=hirez.js&color=blueviolet&style=plastic&link=https://github.com/messyfresh/hirez.js
+[badge_wrapper_javascript_hirez.js_github]: https://github.com/messyfresh/hirez.js "hirez.js · Github repo"
 
-[badge_wrapper_python_smite_r_files]: https://img.shields.io/badge/smiteRfiles-blueviolet?logo=r&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/rwiedwald/smiteRfiles
+[badge_wrapper_kotlin_hirez_sdk_kotlin]: https://img.shields.io/static/v1?label=Kotlin&logo=kotlin&logoWidth=20&message=Hirez_sdk_kotlin&color=blueviolet&style=plastic&link=https://github.com/tafel-io/Hirez-sdk-kotlin
+[badge_wrapper_kotlin_hirez_sdk_kotlin_github]: https://github.com/tafel-io/Hirez-sdk-kotlin "Hirez-sdk-kotlin · Github repo"
 
-[badge_wrapper_ruby_paladins]: https://img.shields.io/badge/paladins-blueviolet?logo=ruby&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/davideghz/paladins
-[badge_wrapper_ruby_smite_ruby]: https://img.shields.io/badge/smite_ruby-blueviolet?logo=ruby&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/NcUltimate/smite_ruby
+[badge_wrapper_kotlin_paladins_api_kotlin]: https://img.shields.io/static/v1?label=Kotlin&logo=kotlin&logoWidth=20&message=Paladins_Api_Kotlin&color=blueviolet&style=plastic&link=https://github.com/geek0x90/Paladins-Api-Kotlin
+[badge_wrapper_kotlin_paladins_api_kotlin_github]: https://github.com/geek0x90/Paladins-Api-Kotlin "Paladins-Api-Kotlin · Github repo"
 
-[badge_wrapper_rust_hi_rust]: https://img.shields.io/badge/HiRust-blueviolet?logo=rust&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/JackStillwell/HiRust
-[badge_wrapper_rust_smite_motd]: https://img.shields.io/badge/smite_motd-blueviolet?logo=rust&logoColor=white&logoWidth=20&style=plastic&link=https://github.com/kdar/smitemotd
+[badge_wrapper_php_php_api]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=PHP_API&color=blueviolet&style=plastic&link=https://github.com/PaladinsDev/PHP-API
+[badge_wrapper_php_php_api_github]: https://github.com/PaladinsDev/PHP-API "PHP-API · Github repo"
+
+[badge_wrapper_php_paladins_api_php_wrapper]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=paladins_api_php_wrapper&color=blueviolet&style=plastic&link=https://github.com/lyrip/paladins-api-php-wrapper
+[badge_wrapper_php_paladins_api_php_wrapper_github]: https://github.com/lyrip/paladins-api-php-wrapper "paladins-api-php · Github repo"
+
+[badge_wrapper_php_smite_api_php_client]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=smite_api_php_client&color=blueviolet&style=plastic&link=https://github.com/dant89/smite-api-php-client
+[badge_wrapper_php_smite_api_php_client_github]:https://github.com/dant89/smite-api-php-client "smite-api-php-client · Github repo"
+
+[badge_wrapper_php_paladins_php]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=PaladinsPHP&color=blueviolet&style=plastic&link=https://github.com/teamreflex/PaladinsPHP
+[badge_wrapper_php_paladins_php_github]: https://github.com/teamreflex/PaladinsPHP "PaladinsPHP · Github repo"
+
+[badge_wrapper_php_paladinsphp]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=PaladinsPHP&color=blueviolet&style=plastic&link=https://github.com/bennetgallein/PaladinsPHP
+[badge_wrapper_php_paladinsphp_github]: https://github.com/bennetgallein/PaladinsPHP "PaladinsPHP · Github repo"
+
+[badge_wrapper_php_smitephp]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=SmitePHP&color=blueviolet&style=plastic&link=https://github.com/CurseStaff/SmitePHP
+
+[badge_wrapper_php_smite_php]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=smite_php&color=blueviolet&style=plastic&link=https://github.com/AlekzB/smite-php
+
+[badge_wrapper_php_smite_api_wp]: https://img.shields.io/static/v1?label=PHP&logo=php&logoWidth=20&message=smite_api_wp&color=blueviolet&style=plastic&link=https://github.com/hirezstudios/smite-api-wp
+
+[badge_wrapper_python_pyrez]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=Pyrez&color=blueviolet&style=plastic&link=https://github.com/luissilva1044894/Pyrez
+
+[badge_wrapper_python_hirez_api]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/DevilXD/HiRezAPI
+
+[badge_wrapper_python_hi_rez_api]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=Hi_Rez_API&color=blueviolet&style=plastic&link=https://github.com/iforvard/Hi-RezAPI
+
+[badge_wrapper_python_smite_r_files]: https://img.shields.io/static/v1?label=R&logo=r&logoWidth=20&message=smiteRfiles&color=blueviolet&style=plastic&link=https://github.com/rwiedwald/smiteRfiles
+
+[badge_wrapper_ruby_paladins]: https://img.shields.io/static/v1?label=Ruby&logo=ruby&logoWidth=20&message=paladins&color=blueviolet&style=plastic&link=https://github.com/davideghz/paladins
+
+[badge_wrapper_ruby_smite_ruby]: https://img.shields.io/static/v1?label=Ruby&logo=ruby&logoWidth=20&message=smite_ruby&color=blueviolet&style=plastic&link=https://github.com/NcUltimate/smite_ruby
+
+[badge_wrapper_rust_hi_rust]: https://img.shields.io/static/v1?label=Rust&logo=rust&logoWidth=20&message=HiRust&color=blueviolet&style=plastic&link=https://github.com/JackStillwell/HiRust
+
+[badge_wrapper_rust_smite_motd]: https://img.shields.io/static/v1?label=Rust&logo=rust&logoWidth=20&message=smite_motd&color=blueviolet&style=plastic&link=https://github.com/kdar/smitemotd
 
 [badge_wrapper_swift_swifty_smite_api]: https://img.shields.io/static/v1?label=Swift&logo=Swift&message=Swifty_Smite_API&color=blueviolet&style=plastic&link=https://github.com/OddMagnet/SwiftySmiteAPI
 
