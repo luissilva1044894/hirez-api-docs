@@ -1,0 +1,4 @@
+
+# Everything needed in production
+
+-r flask.txt
