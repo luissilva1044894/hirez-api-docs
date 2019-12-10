@@ -1,0 +1,10 @@
+
+/test
+/.circleci
+/.github
+/_scripts
+/code-samples
+
+*.md
+*.xml
+*.json
