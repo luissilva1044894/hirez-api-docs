@@ -18,7 +18,7 @@ A means of validating that a session is established.
 	</tr>
 	<tr>
 		<td>dev_id</td>
-		<td>The dev_id from your <a href="./../api-parameter-details.md#credentials" title="Credentials">Credentials</a></td>
+		<td>The unique dev_id that you received from Hi-Rez Studios. See: <a href="./../api-parameter-details.md#credentials" title="Credentials">Credentials</a>.</td>
 		<td>“1004”</td>
 	</tr>
 	<tr>
