@@ -6,6 +6,10 @@
 
 > :construction: **It's a work in progress, still undergoing some change, documentation is in-progress.**
 
+Unofficial Hi-Rez Studios API [documentation](#gettings-started) (and [assets](#graphics) where possible) for [Paladins][paladins], [Realm Royale][realm_royale], and [Smite][smite].
+
+## Purpose
+
 Due to [Hi-Rez Studios][hi_rez_studios] not providing a detailed documentation for their API, this Developer Guide is here to assist those attempting to make their own API wrapper for their [API][hi_rez_studios_api_developer_guide].
 
 This documentation holds the Methods Documentation and Source Code Examples, and its purpose is to provide Developers with the necessary information to access and utilize the API methods.
@@ -87,9 +91,11 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
   [![wrapper_php_smite_api_php_client][badge_wrapper_php_smite_api_php_client]][badge_wrapper_php_smite_api_php_client_github]
   [![wrapper_php_paladins_php][badge_wrapper_php_paladins_php]][badge_wrapper_php_paladins_php_github]
   [![wrapper_php_paladinsphp][badge_wrapper_php_paladinsphp]][badge_wrapper_php_paladinsphp_github]
+<!--
   [![wrapper_php_smitephp][badge_wrapper_php_smitephp]][badge_wrapper_php_smitephp_github]
   [![wrapper_php_smite_php][badge_wrapper_php_smite_php]][badge_wrapper_php_smite_php_github]
   [![wrapper_php_smite_api_wp][badge_wrapper_php_smite_api_wp]][badge_wrapper_php_smite_api_wp_github]
+-->
 * [![wrapper_python_pyrez][badge_wrapper_python_pyrez]][badge_wrapper_python_pyrez_github]
   [![wrapper_python_hirez_api][badge_wrapper_python_hirez_api]][badge_wrapper_python_hirez_api_github]
   [![wrapper_python_hi_rez_api][badge_wrapper_python_hi_rez_api]][badge_wrapper_python_hi_rez_api_github]
@@ -171,6 +177,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [hi_rez_studios_api_podio_group]: https://podio.com/hirezstudioscom/smite-api-developer-collaboration "SMITE, Paladins, & Realm API Developer Collaboration"
 [hi_rez_studios_api_terms_of_use]: https://www.hirezstudios.com/wp-content/themes/hi-rez-studios/pdf/api-terms-of-use-agreement.pdf "Hi-Rez Studios API · Terms of Use"
 [hi_rez_studios_press]: https://www.hirezstudios.com/press "Hi-Rez Studios API · Press"
+
+[paladins]: https://www.paladins.com/ "Paladins Game · Website"
+[realm_royale]: https://www.realmroyale.com/ "Realm Royale Game · Website"
+[smite]: https://www.smitegame.com/ "Smite Game · Website"
 
 [badge_wrapper_cpp_hirezcpp]: https://img.shields.io/static/v1?label=C%2B%2B&logo=github&message=hirezcpp&color=blueviolet&style=plastic&link=https://github.com/p-groarke/hirezcpp
 [badge_wrapper_cpp_hirezcpp_github]: https://github.com/p-groarke/hirezcpp "hirezcpp · Github repo"
