@@ -378,6 +378,38 @@ PSN = 4
 #9: ????? #10: ?????
 -->
 
+## Queue ID
+> int
+
+The queue_id is an unique id for each playable game mode in a game (last updated 2019-12-10).
+
+### Queue ID - Realm Royale
+> int
+
+<details markdown="1">
+<summary>Game Modes</summary>
+
+<table>
+  <tr><th>ID</th><th>Name</th><th>Description</th></tr>
+  <tr><td>474</td><td>LIVE Solo</td><td>A mode where you fly solo. No teammates, just you and your gun against 99 other solos.</td></tr>
+  <tr><td>475</td><td>LIVE Duo</td><td>A mode where teams of two play to the end with 49 other duos.</td></tr>
+  <tr><td>476</td><td>LIVE Quad</td><td>A mode where teams of four battle it out against 24 other squads.</td></tr>
+  <tr><td>477</td><td>Live Wars</td><td></td></tr>
+  <tr><td>478</td><td>Live Tutorial</td><td></td></tr>
+  <tr><td>479</td><td>Live Solo Mid Level</td><td></td></tr>
+  <tr><td>480</td><td>Live Solo Low Level</td><td></td></tr>
+  <tr><td>481</td><td>Live Squad Mid Level</td><td></td></tr>
+  <tr><td>482</td><td>Live Squad Low Level</td><td></td></tr>
+  <tr><td>483</td><td>Live Duo Mid Level</td><td></td></tr>
+  <tr><td>484</td><td>Live Duo Low Level</td><td></td></tr>
+
+  <tr><td>10188</td><td>Custom Game Solo</td><td></td></tr>
+  <tr><td>10189</td><td>Custom Game Duo</td><td></td></tr>
+  <tr><td>10190</td><td>Custom Game Quad</td><td></td></tr>
+  <tr><td>10205</td><td>Custom Game Trio</td><td></td></tr>
+</table>
+</details>
+
 ## Season
 > int
 
