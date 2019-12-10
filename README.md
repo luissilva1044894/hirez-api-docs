@@ -91,11 +91,6 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
   [![wrapper_php_smite_api_php_client][badge_wrapper_php_smite_api_php_client]][badge_wrapper_php_smite_api_php_client_github]
   [![wrapper_php_paladins_php][badge_wrapper_php_paladins_php]][badge_wrapper_php_paladins_php_github]
   [![wrapper_php_paladinsphp][badge_wrapper_php_paladinsphp]][badge_wrapper_php_paladinsphp_github]
-<!--
-[![wrapper_php_smitephp][badge_wrapper_php_smitephp]][badge_wrapper_php_smitephp_github]
-[![wrapper_php_smite_php][badge_wrapper_php_smite_php]][badge_wrapper_php_smite_php_github]
-[![wrapper_php_smite_api_wp][badge_wrapper_php_smite_api_wp]][badge_wrapper_php_smite_api_wp_github]
--->
 * [![wrapper_python_pyrez][badge_wrapper_python_pyrez]][badge_wrapper_python_pyrez_github]
   [![wrapper_python_hirez_api][badge_wrapper_python_hirez_api]][badge_wrapper_python_hirez_api_github]
   [![wrapper_python_hi_rez_api][badge_wrapper_python_hi_rez_api]][badge_wrapper_python_hi_rez_api_github]
@@ -108,6 +103,11 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 * [![wrapper_visual_basic_smite_vb][badge_wrapper_visual_basic_smite_vb]][badge_wrapper_visual_basic_smite_vb_github]
 * [![wrapper_vue_realm_royale_first_vue_app][badge_wrapper_vue_realm_royale_first_vue_app]][badge_wrapper_vue_realm_royale_first_vue_app]
 * [![wrapper_x_query_smite_api][badge_wrapper_x_query_smite_api]][badge_wrapper_x_query_smite_api]
+<!--
+  [![wrapper_php_smitephp][badge_wrapper_php_smitephp]][badge_wrapper_php_smitephp_github]
+  [![wrapper_php_smite_php][badge_wrapper_php_smite_php]][badge_wrapper_php_smite_php_github]
+  [![wrapper_php_smite_api_wp][badge_wrapper_php_smite_api_wp]][badge_wrapper_php_smite_api_wp_github]
+-->
 
 #### <pre>External Links</pre>
 
