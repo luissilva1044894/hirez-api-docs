@@ -383,6 +383,19 @@ PSN = 4
 
 The queue_id is an unique id for each playable game mode in a game (last updated 2019-12-10).
 
+### Queue ID - Paladins
+> int
+
+<details markdown="1">
+<summary>Game Modes</summary>
+
+<table>
+  <tr><th>ID</th><th>Name</th><th>Description</th><<th>Image</th></tr>
+  <tr><td>424</td><td>LIVE Siege</td><td>Siege is a round based game mode where each team works to earn Objective Points to win the match. 4 Objective Point are needed to win a match.</td><td><img src="./../_assets/paladins/game-modes/siege.png" height="128" width="128"/></td></tr>
+  <tr><td>485</td><td>Custom Siege Warders Gate</td><td>Custom allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td><td><img src="./../_assets/paladins/maps/warders-gate.png" height="128" width="128"/></td></tr>
+</table>
+</details>
+
 ### Queue ID - Realm Royale
 > int
 
