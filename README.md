@@ -6,7 +6,7 @@
 
 > :construction: **It's a work in progress, still undergoing some change, documentation is in-progress.**
 
-Unofficial Hi-Rez Studios API [documentation](#gettings-started) (and [assets](#graphics) where possible) for [Paladins][paladins], [Realm Royale][realm_royale], and [Smite][smite].
+Unofficial Hi-Rez Studios API [documentation](#getting-started) (and [assets](#graphics) where possible) for [Paladins][paladins], [Realm Royale][realm_royale], and [Smite][smite].
 
 ## Purpose
 
