@@ -25,8 +25,8 @@ To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) 
 The God ID is an unique id for each playable character in a game.
 
 Can be obtained from:
-  - [``GetChampions``](./../get-champions.md#get-champions) - Returns a list of all playable characters in [Paladins](#paladins).
-  - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#paladins) / [Smite](#smite).
+  - [``GetChampions``](./../get-champions.md#get-champions) - Returns a list of all playable characters in [Paladins](#god-id---paladins).
+  - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#god-id---paladins) / [Smite](#god-id---smite).
 
 ### God ID - Paladins
 > int
