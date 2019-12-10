@@ -513,7 +513,7 @@ The components of this hash are (in order):
   	<td>“1004”</td>
   </tr>
   <tr>
-  	<td>Method</td>
+  	<td>method</td>
   	<!-- The method name being called -->
   	<td>Which “method” means the resource you want to retrieve data<br/>This will not include the [Response Type](#response-type), just the name of the method.
    </td>
