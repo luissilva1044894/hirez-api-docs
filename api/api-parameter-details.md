@@ -526,7 +526,7 @@ The components of this hash are (in order):
   </tr>
   <tr>
   	<td>timestamp</td>
-  	<td>Current UTC [Timestamp](#timestamp)</td>
+  	<td>Current UTC <a href="#timestamp">Timestamp</a></td>
   	<td>“20191128030916”</td>
   </tr>
 </table>
