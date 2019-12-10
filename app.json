@@ -1,3 +1,14 @@
 {
-	
+  "addons": [
+    { "plan": "heroku-postgresql:hobby-dev", "options": { "version": "11" }, "as": "DATABASE" }
+  ],
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-python" }
+  ],
+  "description": "Unofficial Hi-Rez Studios API documentation (and assets where possible) for Paladins, Realm Royale, and Smite.",
+  "image": "heroku/python",
+  "logo": "https://raw.githubusercontent.com/luissilva1044894/hirez-api-docs/master/_assets/logos/hirez.png",
+  "name": "hirez-api-docs",
+  "repository": "https://github.com/luissilva1044894/hirez-api-docs",
+  "success_url": "https://github.com/luissilva1044894/hirez-api-docs/blob/master/README.md"
 }
