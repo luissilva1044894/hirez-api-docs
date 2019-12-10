@@ -2,15 +2,17 @@
 # API Parameter Details
 
 ## Response Type
+> string
 
 The API supports both [JSON][json_website] and [XML][xml_website] responses. However, we strongly suggest only using [JSON][json_website] when requesting resources.
 
-## Date
-><i>A DateTime formatted to ``yyyyMMdd``</i><br/><br/>Will be like “20180711” - for Jul 11, 2018
+## Date Format
+> string
 
-date - a string in the format “20171231” (for Dec 31, 2017, as an example)
+A DateTime in the following format: ``yyyyMMdd`` - “20191210” (for Dec 10, 2019, as an example)
 
 ## Hour
+> string
 
 To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) method, you can now specify a 10-minute window within the specified {hour} field to lessen the size of data returned by appending a “,mm” value to the end of {hour}. For example, to get the match Ids for the first 10 minutes of hour 3, you would specify {hour} as “3,00”.  This would only return the Ids between the time 3:00 to 3:09.  Rules below:
 			Only valid values for mm are “00”, “10”, “20”, “30”, “40”, “50”
@@ -27,6 +29,7 @@ Can be obtained from:
   - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#paladins) / [Smite](#smite).
 
 ### God ID - Paladins
+> int
 
 Champions are the playable characters in [Paladins][paladins].
 
@@ -92,6 +95,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
 </details>
 
 ### God ID - Realm Royale
+> int
 
 There are multiple Classes in [Realm Royale][realm_royale].
 
@@ -112,6 +116,7 @@ There are currently 4 playable classes in the game:
 </details>
 
 ### God ID - Smite
+> int
 
 Gods are the playable characters in [Smite][smite].
 
@@ -258,8 +263,9 @@ There are currently 106 playable gods in the game (Updated in 12/08/2019 16:06:5
 </details>
 
 ## Language
-><i>The language Id that you want results returned in. Default is 1.</i>
+> int
 
+The language Id that you want results returned in. Default is 1.
 <!--
 https://flagpedia.net/emoji
 https://emojipedia.org/flags/
@@ -284,8 +290,7 @@ Valid values are:
 </details>
 
 ## Match ID
-
-><i>The id of a match.</i><br/>
+> int: <i>The id of a match.</i><br/>
 
 The Match ID is an unique id for each map that’s created by the server for a set of players.
 
@@ -338,6 +343,8 @@ The (usually) 3rd-Party identifier for a Portal.  Examples:  Steam ID, PS4 Gamer
 This is the Player Steam ID.
 
 ### Gamer Tag
+> string
+
 Typically an alphanumeric descriptor of an individual on a [Portal](#portal-id). This value might not be unique depending on [Portal](#portal-id).
 
 ## Portal
@@ -372,12 +379,15 @@ PSN = 4
 -->
 
 ## Season
+> int
+
 The season of a league. Starts at 1 and increases by 1 for each calendar year.
 
 - [Paladins][paladins]: As of 2019-12-09 we are currently on season 3.
 - [Smite][smite]: As of 2019-12-09 we are currently on season 6.
 
 ## League Tier
+> int
 
 <details markdown="1">
 <summary>Tiers</summary>
@@ -417,6 +427,7 @@ Valid values are:
 </details>
 
 ## Status
+> int
 
 Represents Player Status as follows:
 <table>
@@ -430,6 +441,7 @@ Represents Player Status as follows:
 </table>
 
 ## Signature
+> string
 
 The Signature is created by concatenating several fields and then hashing the result with an MD5 algorithm.
 
@@ -553,7 +565,9 @@ signature = generate_signature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD20
 </details>
 
 ## Timestamp
-><i>Current UTC time (GMT+0) formatted to “**``YYYYMMDDHHmmss``**”.</i>
+> string
+
+Current UTC time (GMT+0) in the following format: “**``YYYYMMDDHHmmss``**”.
 
 **Timestamps** are used by [**Signatures**](#signature) and embedded into URLs when sending requests, they have to be formatted properly to ensure the request completes without error.
 
