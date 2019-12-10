@@ -123,11 +123,11 @@ Gods are the playable characters in [Smite][smite].
 Each god is unique, with different strengths and weaknesses, and their own playstyle. The statistics of certain gods are geared for offense, while others are better suited for defense.
 
 Gods are organized in 5 different classes:
- - <img src="./../_assets/smite/icons/class/assassin.png" height="64" width="64"/>Assassins (mostly melee junglers and gankers).
- - Guardians (mostly melee supports, tanks and initiators).
- - Hunters (mostly ranged carries and fighters).
- - Mages (mostly ranged spellcasters).
- - Warriors (mostly melee bruisers).
+ - <img src="./../_assets/smite/icons/class/assassin.png"/>Assassins (mostly melee junglers and gankers).
+ - <img src="./../_assets/smite/icons/class/guardian.png"/>Guardians (mostly melee supports, tanks and initiators).
+ - <img src="./../_assets/smite/icons/class/hunter.png"/>Hunters (mostly ranged carries and fighters).
+ - <img src="./../_assets/smite/icons/class/mage.png"/>Mages (mostly ranged spellcasters).
+ - <img src="./../_assets/smite/icons/class/warrior.png"/>Warriors (mostly melee bruisers).
 
 <!--
 Gods are sorted by their Pantheons:
