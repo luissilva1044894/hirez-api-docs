@@ -323,7 +323,7 @@ The “player_id” can be obtained from:
   - [``Get Champion Leaderboard``](./../get-champion-leaderboard#get-champion-leaderboard)
   - [``Get Friends``](./../get-friends#get-friends)
   - [``Get God Leaderboard``](./../get-god-leaderboard#get-god-leaderboard)
-  <!--- [``Get Leaderboard``](./../get-leaderboard#get-leaderboard)-->
+  - [``Get Leaderboard``](./../get-leaderboard#get-leaderboard)
   - [``Get League Leaderboard``](./../get-league-leaderboard#get-league-leaderboard)
   - [``Get Match Details``](./../get-match-details#get-match-details)
   - [``Get Player Batch From Match``](./../get-player-batch-from-match#get-player-batch-from-match)
