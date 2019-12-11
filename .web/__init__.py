@@ -9,15 +9,15 @@ def create_app(*args, **kw):
   def root():
     return redirect('https://github.com/luissilva1044894/hirez-api-docs/blob/master/README.md')
 
-  @app.route('/paladins/avatar/<avatar_id>/', strict_slashes=False)
+  #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
+  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False)
+  @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False)
   def legacy_images(avatar_id, game='paladins'):
     path = os.path.join(app.static_folder, game, 'avatar')
     for _ in os.listdir(path):
-      if _.split('.', 1)[0] == avatar_id:
-        #return send_from_directory(path, _)
-        return redirect(url_for('static', filename =f'{game}/avatar/{_}'))
-    return redirect(url_for('static', filename =f'{game}/avatar/0.png'))
-    #return send_from_directory(path, '0.png')
+      if _.split('.', 1)[0] == str(avatar_id):
+        return redirect(url_for('static', filename=f'{game}/avatar/{_}'))#return send_from_directory(path, _)
+    return send_from_directory(path, '0.png')
 
   return app
 
