@@ -278,10 +278,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_rust_smite_motd]: https://img.shields.io/static/v1?label=Rust&logo=rust&logoWidth=20&message=smite%20motd&color=blueviolet&style=plastic&link=https://github.com/kdar/smitemotd
 [badge_wrapper_rust_smite_motd_github]: https://github.com/kdar/smitemotd "smitemotd · Github repo"
 
-[badge_wrapper_swift_swifty_smite_api]: https://img.shields.io/static/v1?label=Swift&logo=Swift&message=Swifty_Smite%20API&color=blueviolet&style=plastic&link=https://github.com/OddMagnet/SwiftySmiteAPI
+[badge_wrapper_swift_swifty_smite_api]: https://img.shields.io/static/v1?label=Swift&logo=Swift&message=Swifty%20Smite%20API&color=blueviolet&style=plastic&link=https://github.com/OddMagnet/SwiftySmiteAPI
 [badge_wrapper_swift_swifty_smite_api_github]: https://github.com/OddMagnet/SwiftySmiteAPI "SwiftySmiteAPI · Github repo"
 
-[badge_wrapper_visual_basic_smite_vb]: https://img.shields.io/static/v1?label=Visual_Basic&logo=github&message=Smite%20Vb&color=blueviolet&style=plastic&link=https://github.com/crimson-med/Smite-Vb
+[badge_wrapper_visual_basic_smite_vb]: https://img.shields.io/static/v1?label=Visual%20Basic&logo=github&message=Smite%20Vb&color=blueviolet&style=plastic&link=https://github.com/crimson-med/Smite-Vb
 [badge_wrapper_visual_basic_smite_vb_github]: https://github.com/crimson-med/Smite-Vb "Smite-Vb · Github repo"
 
 [badge_wrapper_vue_realm_royale_first_vue_app]: https://img.shields.io/static/v1?label=Vue&logo=github&message=realm%20royale%20first%20vue%20app&color=blueviolet&style=plastic&link=https://github.com/djlax805/realm_royale_first_vue_app
