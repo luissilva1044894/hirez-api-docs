@@ -443,7 +443,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>485</td>
     <td>Custom Siege - Warders Gate</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../_assets/paladins/maps/siege/warders-gate.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/maps/siege/warders-gate.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>486</td>
