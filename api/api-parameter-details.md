@@ -395,49 +395,49 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>424</td>
     <td>LIVE Siege</td>
     <td id='game-modes-paladins-siege-description'>Siege is a round based game mode where each team works to earn Objective Points to win the match, the first team to achieve 4 Objective Points wins.<br/>Players can change their Cards loadout at the start of the match.<br/>These points are earned by taking control of a Capture Point, escorting the Payload into the enemy team's base and Stalling the enemy team's Payload until the time runs out.</td>
-    <td><img src="./../_assets/paladins/game-modes/siege.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/siege.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>425</td>
     <td>LIVE Siege Pratice</td>
     <td>This version of <a href="#game-modes-paladins-siege-description">Siege</a> is Co-op vs AI.</td>
-    <td><img src="./../_assets/paladins/game-modes/siege.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/siege-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>428</td>
     <td>LIVE Competitive Gamepad</td>
     <td>This version of <a href="#game-modes-paladins-ranked-description">Ranked</a> is reserved for consoles players.</td>
-    <td><img src="./../_assets/paladins/game-modes/ranked.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>445</td>
     <td id='game-modes-paladins-test-maps-description'>LIVE Test Maps</td>
     <td>This version of <a href="#game-modes-paladins-siege-description">Siege</a> allows players to test maps that are still in early development and can give feedback.</td>
-    <td><img src="./../_assets/paladins/game-modes/test-maps.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/test-maps.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>452</td>
     <td id='game-modes-paladins-onslaught-description'>LIVE Onslaught</td>
     <td></td>
-    <td><img src="./../_assets/paladins/game-modes/onslaught.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/onslaught.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>453</td>
     <td>LIVE Onslaught Pratice</td>
     <td>This version of <a href="#game-modes-paladins-onslaught-description">Onslaught</a> is Co-op vs AI. </td>
-    <td><img src="./../_assets/paladins/game-modes/onslaught.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>469</td>
     <td id='game-modes-paladins-team-deathmatch-description'>LIVE Team Deathmatch</td>
     <td>Team Deathmatch is a classic deathmatch game mode, the first team to achieve 40 kills wins.</td>
-    <td><img src="./../_assets/paladins/game-modes/team-deathmatch.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/team-deathmatch.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>470</td>
     <td>LIVE Team Deathmatch Pratice</td>
     <td>This version of <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> is Co-op vs AI.</td>
-    <td><img src="./../_assets/paladins/game-modes/team-deathmatch.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/team-deathmatch-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>485</td>
@@ -449,7 +449,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>486</td>
     <td id='game-modes-paladins-ranked-description'>LIVE Competitive KBM</td>
     <td>Ranked is a system in Paladins designed to provide higher quality matches for competitive players. The current <a href="#season">Season</a> of competitive play is 3.</td>
-    <td><img src="./../_assets/paladins/game-modes/ranked.png" height="75" width="75"/></td>
+    <td><img src="./../_assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
   </tr>
 </table>
 </details>
