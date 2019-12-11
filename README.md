@@ -260,7 +260,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_python_hirez_api]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/DevilXD/HiRezAPI
 [badge_wrapper_python_hirez_api_github]: https://github.com/DevilXD/HiRezAPI "HiRezAPI · Github repo"
 
-[badge_wrapper_python_hi_rez_api]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=Hi%20Rez%20API&color=blueviolet&style=plastic&link=https://github.com/iforvard/Hi-RezAPI
+[badge_wrapper_python_hi_rez_api]: https://img.shields.io/static/v1?label=Python&logo=python&logoWidth=20&message=Hi-Rez%20API&color=blueviolet&style=plastic&link=https://github.com/iforvard/Hi-RezAPI
 [badge_wrapper_python_hi_rez_api_github]: https://github.com/iforvard/Hi-RezAPI "Hi-RezAPI · Github repo"
 
 [badge_wrapper_r_smite_r_files]: https://img.shields.io/static/v1?label=R&logo=r&logoWidth=20&message=smiteRfiles&color=blueviolet&style=plastic&link=https://github.com/rwiedwald/smiteRfiles
