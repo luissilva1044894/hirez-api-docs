@@ -16,6 +16,12 @@ def create_app(*args, **kw):
       if _.split('.', 1)[0] == avatar_id:
         return send_from_directory(path, _)
     return send_from_directory(path, '0.png')
+  @app.route('/gif')
+  def gif():
+    import io
+    from flask import send_file
+    import base64
+    return send_file(io.BytesIO(base64.b64decode('R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==')), mimetype='image/gif')
 
   return app
 
