@@ -25,12 +25,12 @@ def save_image(image_url, folder, name, ext='png'):
     print(f'Could not save {image_url} as an image.')
   #else: print(f'Saved {image_url} - {image.format}, {image.mode}, {image.size}')
 def save_champ_icon(name):
-  save_image(f'https://web2.hirez.com/paladins/champion-icons/{name}.jpg', './../_assets/paladins/characters', fix_name(name), 'jpg')
+  save_image(f'https://web2.hirez.com/paladins/champion-icons/{name}.jpg', './../.assets/paladins/characters', fix_name(name), 'jpg')
 def save_champ_header(name):
-  save_image(f'https://web2.hirez.com/paladins/champion-headers/{name}.png', './../_assets/paladins/headers', fix_name(name), 'png')
-  save_image(f'https://web2.hirez.com/paladins/champion-headers/{name}/bkg.jpg', './../_assets/paladins/headers', f'{fix_name(name)}-bkg', 'jpg')
+  save_image(f'https://web2.hirez.com/paladins/champion-headers/{name}.png', './../.assets/paladins/headers', fix_name(name), 'png')
+  save_image(f'https://web2.hirez.com/paladins/champion-headers/{name}/bkg.jpg', './../.assets/paladins/headers', f'{fix_name(name)}-bkg', 'jpg')
 def save_champ_carousel(name):
-  save_image(f'https://web2.hirez.com/paladins/assets/Carousel/{name}.png', './../_assets/paladins/carousels', fix_name(name), 'png')
+  save_image(f'https://web2.hirez.com/paladins/assets/Carousel/{name}.png', './../.assets/paladins/carousels', fix_name(name), 'png')
 def http_requests(url, method='GET', **kw):
   import time
   import requests

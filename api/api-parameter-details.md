@@ -36,10 +36,10 @@ Champions are the playable characters in [Paladins][paladins].
 Each one has their own unique abilities and fighting style. Champions use Cards to increase their performance and enhance their skills, and Items to help them adapt to specific situations in every match.
 
 Champions are organized into 4 different classes:
-  - <img src="./../_assets/paladins/icons/class/damage-team.png" height="12" width="16"/>Damage: These champions can consistently deal high amounts of damage. Damage champions gain 100% more [Credits][credits] for dealing damage to enemy champions. 
-  - <img src="./../_assets/paladins/icons/class/flank-team.png" height="12" width="16"/>Flank: These champions excel in both damage and mobility to help them in combat as well as chase and confirm kills from the enemy's rear. However, their low health makes them vulnerable to getting overwhelmed by multiple enemies. Flank champions gain 30% more [Credits][credits] from landing killing blows on enemies. 
-  - <img src="./../_assets/paladins/icons/class/front-line-team.png" height="12" width="16"/>Front Line: These champions are the best at maintaining control of objectives and protecting their teammates through shields, personal force fields, or just by taking fire. Front Line champions gain 100% more [Credits][credits] for standing near an objective. 
-  - <img src="./../_assets/paladins/icons/class/support-team.png" height="12" width="16"/>Support: These champions offer a wide range of utility, both offensive and defensive. However, they specialize in healing and causing chaos in enemy attacks. Support champions gain 100% more [Credits][credits] for healing allies, and eliminations from healing a target that gets the killing blow on an enemy. Support champions also gain ultimate charge from healing done to teammates besides themselves. Healing that restores 0 Health (for example, healing someone who is at full health) won't provide ultimate charge. 
+  - <img src="./../.assets/paladins/icons/class/damage-team.png" height="12" width="16"/>Damage: These champions can consistently deal high amounts of damage. Damage champions gain 100% more [Credits][credits] for dealing damage to enemy champions. 
+  - <img src="./../.assets/paladins/icons/class/flank-team.png" height="12" width="16"/>Flank: These champions excel in both damage and mobility to help them in combat as well as chase and confirm kills from the enemy's rear. However, their low health makes them vulnerable to getting overwhelmed by multiple enemies. Flank champions gain 30% more [Credits][credits] from landing killing blows on enemies. 
+  - <img src="./../.assets/paladins/icons/class/front-line-team.png" height="12" width="16"/>Front Line: These champions are the best at maintaining control of objectives and protecting their teammates through shields, personal force fields, or just by taking fire. Front Line champions gain 100% more [Credits][credits] for standing near an objective. 
+  - <img src="./../.assets/paladins/icons/class/support-team.png" height="12" width="16"/>Support: These champions offer a wide range of utility, both offensive and defensive. However, they specialize in healing and causing chaos in enemy attacks. Support champions gain 100% more [Credits][credits] for healing allies, and eliminations from healing a target that gets the killing blow on an enemy. Support champions also gain ultimate charge from healing done to teammates besides themselves. Healing that restores 0 Health (for example, healing someone who is at full health) won't provide ultimate charge. 
 
 <details markdown="1">
 <summary>Champions</summary>
@@ -107,10 +107,10 @@ Each one has its own unique abilities and fighting style. Each class has a uniqu
 There are currently 4 playable classes in the game:
 <table>
 	<tr><th>ID</th><th>Name</th><th>In-Game Name</th><th>Image</th></tr>
-	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../_assets/realm-royale/characters/warrior.png" height="64" width="64"/></td></tr>
-	<tr><td>2493</td><td>Female Damage</td><td>Hunter</td><td><img src="./../_assets/realm-royale/characters/hunter.png" height="64" width="64"/></td></tr>
-	<tr><td>2494</td><td>Female Support</td><td>Mage</td><td><img src="./../_assets/realm-royale/characters/mage.png" height="64" width="64"/></td></tr>
-	<tr><td>2496</td><td>Male Flank</td><td>Assassin</td><td><img src="./../_assets/realm-royale/characters/assassin.png" height="64" width="64"/></td></tr>
+	<tr><td>2285</td><td>Male Tank</td><td>Warrior</td><td><img src="./../.assets/realm-royale/characters/warrior.png" height="64" width="64"/></td></tr>
+	<tr><td>2493</td><td>Female Damage</td><td>Hunter</td><td><img src="./../.assets/realm-royale/characters/hunter.png" height="64" width="64"/></td></tr>
+	<tr><td>2494</td><td>Female Support</td><td>Mage</td><td><img src="./../.assets/realm-royale/characters/mage.png" height="64" width="64"/></td></tr>
+	<tr><td>2496</td><td>Male Flank</td><td>Assassin</td><td><img src="./../.assets/realm-royale/characters/assassin.png" height="64" width="64"/></td></tr>
 </table>
 
 </details>
@@ -123,11 +123,11 @@ Gods are the playable characters in [Smite][smite].
 Each god is unique, with different strengths and weaknesses, and their own playstyle. The statistics of certain gods are geared for offense, while others are better suited for defense.
 
 Gods are organized in 5 different classes:
- - <img src="./../_assets/smite/icons/class/assassin.png"/>Assassins (mostly melee junglers and gankers).
- - <img src="./../_assets/smite/icons/class/guardian.png"/>Guardians (mostly melee supports, tanks and initiators).
- - <img src="./../_assets/smite/icons/class/hunter.png"/>Hunters (mostly ranged carries and fighters).
- - <img src="./../_assets/smite/icons/class/mage.png"/>Mages (mostly ranged spellcasters).
- - <img src="./../_assets/smite/icons/class/warrior.png"/>Warriors (mostly melee bruisers).
+ - <img src="./../.assets/smite/icons/class/assassin.png"/>Assassins (mostly melee junglers and gankers).
+ - <img src="./../.assets/smite/icons/class/guardian.png"/>Guardians (mostly melee supports, tanks and initiators).
+ - <img src="./../.assets/smite/icons/class/hunter.png"/>Hunters (mostly ranged carries and fighters).
+ - <img src="./../.assets/smite/icons/class/mage.png"/>Mages (mostly ranged spellcasters).
+ - <img src="./../.assets/smite/icons/class/warrior.png"/>Warriors (mostly melee bruisers).
 
 <!--
 Gods are sorted by their Pantheons:
@@ -358,13 +358,13 @@ A “Portal” is a gateway into our games via an identifier.  In the past it wo
 Represents Platform as follows:
 <table>
   <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
-  <tr><td>1</td><td>Hi-Rez</td><td><img src="./../_assets/logos/hirez.png" height="32" width="32"/></td></tr>
-  <tr><td>5</td><td>Steam</td><td><img src="./../_assets/logos/steam.png" height="32" width="32"/></td></tr>
-  <tr><td>9</td><td>PS4</td><td><img src="./../_assets/logos/psn.png" height="32" width="32"/></td></tr>
-  <tr><td>10</td><td>Xbox</td><td><img src="./../_assets/logos/xbox.png" height="32" width="32"/></td></tr>
-  <tr><td>14</td><td>Mixer</td><td><img src="./../_assets/logos/mixer.png" height="32" width="32"/></td></tr>
-  <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../_assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
-  <tr><td>25</td><td>Discord</td><td><img src="./../_assets/logos/discord.png" height="32" width="32"/></td></tr>
+  <tr><td>1</td><td>Hi-Rez</td><td><img src="./../.assets/logos/hirez.png" height="32" width="32"/></td></tr>
+  <tr><td>5</td><td>Steam</td><td><img src="./../.assets/logos/steam.png" height="32" width="32"/></td></tr>
+  <tr><td>9</td><td>PS4</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
+  <tr><td>10</td><td>Xbox</td><td><img src="./../.assets/logos/xbox.png" height="32" width="32"/></td></tr>
+  <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
+  <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
+  <tr><td>25</td><td>Discord</td><td><img src="./../.assets/logos/discord.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
@@ -395,61 +395,61 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>424</td>
     <td>LIVE Siege</td>
     <td id='game-modes-paladins-siege-description'>Siege is a round based game mode where each team works to earn Objective Points to win the match, the first team to achieve 4 Objective Points wins.<br/>Players can change their Cards loadout at the start of the match.<br/>These points are earned by taking control of a Capture Point, escorting the Payload into the enemy team's base and Stalling the enemy team's Payload until the time runs out.</td>
-    <td><img src="./../_assets/paladins/game-modes/siege.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/siege.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>425</td>
     <td>LIVE Siege Pratice</td>
     <td>This version of <a href="#game-modes-paladins-siege-description">Siege</a> is Co-op vs AI.</td>
-    <td><img src="./../_assets/paladins/game-modes/siege-training.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/siege-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>428</td>
     <td>LIVE Competitive Gamepad</td>
     <td>This version of <a href="#game-modes-paladins-ranked-description">Ranked</a> is reserved for consoles players.</td>
-    <td><img src="./../_assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>445</td>
     <td id='game-modes-paladins-test-maps-description'>LIVE Test Maps</td>
     <td>This version of <a href="#game-modes-paladins-siege-description">Siege</a> allows players to test maps that are still in early development and can give feedback.</td>
-    <td><img src="./../_assets/paladins/game-modes/test-maps.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/test-maps.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>452</td>
     <td id='game-modes-paladins-onslaught-description'>LIVE Onslaught</td>
     <td></td>
-    <td><img src="./../_assets/paladins/game-modes/onslaught.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/onslaught.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>453</td>
     <td>LIVE Onslaught Pratice</td>
     <td>This version of <a href="#game-modes-paladins-onslaught-description">Onslaught</a> is Co-op vs AI. </td>
-    <td><img src="./../_assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>469</td>
     <td id='game-modes-paladins-team-deathmatch-description'>LIVE Team Deathmatch</td>
     <td>Team Deathmatch is a classic deathmatch game mode, the first team to achieve 40 kills wins.</td>
-    <td><img src="./../_assets/paladins/game-modes/team-deathmatch.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/team-deathmatch.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>470</td>
     <td>LIVE Team Deathmatch Pratice</td>
     <td>This version of <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> is Co-op vs AI.</td>
-    <td><img src="./../_assets/paladins/game-modes/team-deathmatch-training.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/team-deathmatch-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>485</td>
     <td>Custom Siege - Warders Gate</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../_assets/paladins/maps/siege/warders-gate.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/siege/warders-gate.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>486</td>
     <td id='game-modes-paladins-ranked-description'>LIVE Competitive KBM</td>
     <td>Ranked is a system in Paladins designed to provide higher quality matches for competitive players. The current <a href="#season">Season</a> of competitive play is 3.</td>
-    <td><img src="./../_assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
   </tr>
 </table>
 </details>
@@ -498,34 +498,34 @@ The season of a league. Starts at 1 and increases by 1 for each calendar year.
 Valid values are:
 <table>
   <tr><th>ID</th><th>Description</th><th>Image</th></tr>
-  <tr><td>0</td><td>Unranked</td><td><img src="./../_assets/paladins/league-tier/0.png" height="32" width="32"/></td></tr>
-    <tr><td>1</td><td>Bronze V</td><td><img src="./../_assets/paladins/league-tier/1.png" height="32" width="32"/></td></tr>
-    <tr><td>2</td><td>Bronze IV</td><td><img src="./../_assets/paladins/league-tier/2.png" height="32" width="32"/></td></tr>
-    <tr><td>3</td><td>Bronze III</td><td><img src="./../_assets/paladins/league-tier/3.png" height="32" width="32"/></td></tr>
-    <tr><td>4</td><td>Bronze II</td><td><img src="./../_assets/paladins/league-tier/4.png" height="32" width="32"/></td></tr>
-    <tr><td>5</td><td>Bronze I</td><td><img src="./../_assets/paladins/league-tier/5.png" height="32" width="32"/></td></tr>
-    <tr><td>6</td><td>Silver V</td><td><img src="./../_assets/paladins/league-tier/6.png" height="32" width="32"/></td></tr>
-    <tr><td>7</td><td>Silver IV</td><td><img src="./../_assets/paladins/league-tier/7.png" height="32" width="32"/></td></tr>
-    <tr><td>8</td><td>Silver III</td><td><img src="./../_assets/paladins/league-tier/8.png" height="32" width="32"/></td></tr>
-    <tr><td>9</td><td>Silver II</td><td><img src="./../_assets/paladins/league-tier/9.png" height="32" width="32"/></td></tr>
-    <tr><td>10</td><td>Silver I</td><td><img src="./../_assets/paladins/league-tier/10.png" height="32" width="32"/></td></tr>
-    <tr><td>11</td><td>Gold V</td><td><img src="./../_assets/paladins/league-tier/11.png" height="32" width="32"/></td></tr>
-    <tr><td>12</td><td>Gold IV</td><td><img src="./../_assets/paladins/league-tier/12.png" height="32" width="32"/></td></tr>
-    <tr><td>13</td><td>Gold III</td><td><img src="./../_assets/paladins/league-tier/13.png" height="32" width="32"/></td></tr>
-    <tr><td>14</td><td>Gold II</td><td><img src="./../_assets/paladins/league-tier/14.png" height="32" width="32"/></td></tr>
-    <tr><td>15</td><td>Gold I</td><td><img src="./../_assets/paladins/league-tier/15.png" height="32" width="32"/></td></tr>
-    <tr><td>16</td><td>Platinum V</td><td><img src="./../_assets/paladins/league-tier/16.png" height="32" width="32"/></td></tr>
-    <tr><td>17</td><td>Platinum IV</td><td><img src="./../_assets/paladins/league-tier/17.png" height="32" width="32"/></td></tr>
-    <tr><td>18</td><td>Platinum III</td><td><img src="./../_assets/paladins/league-tier/18.png" height="32" width="32"/></td></tr>
-    <tr><td>19</td><td>Platinum II</td><td><img src="./../_assets/paladins/league-tier/19.png" height="32" width="32"/></td></tr>
-    <tr><td>20</td><td>Platinum I</td><td><img src="./../_assets/paladins/league-tier/20.png" height="32" width="32"/></td></tr>
-    <tr><td>21</td><td>Diamond V</td><td><img src="./../_assets/paladins/league-tier/21.png" height="32" width="32"/></td></tr>
-    <tr><td>22</td><td>Diamond IV</td><td><img src="./../_assets/paladins/league-tier/22.png" height="32" width="32"/></td></tr>
-    <tr><td>23</td><td>Diamond III</td><td><img src="./../_assets/paladins/league-tier/23.png" height="32" width="32"/></td></tr>
-    <tr><td>24</td><td>Diamond II</td><td><img src="./../_assets/paladins/league-tier/24.png" height="32" width="32"/></td></tr>
-    <tr><td>25</td><td>Diamond I</td><td><img src="./../_assets/paladins/league-tier/25.png" height="32" width="32"/></td></tr>
-    <tr><td>26</td><td>Master</td><td><img src="./../_assets/paladins/league-tier/26.png" height="32" width="32"/></td></tr>
-    <tr><td>27</td><td>Grandmaster</td><td><img src="./../_assets/paladins/league-tier/27.png" height="32" width="32"/></td></tr>
+  <tr><td>0</td><td>Unranked</td><td><img src="./../.assets/paladins/league-tier/0.png" height="32" width="32"/></td></tr>
+    <tr><td>1</td><td>Bronze V</td><td><img src="./../.assets/paladins/league-tier/1.png" height="32" width="32"/></td></tr>
+    <tr><td>2</td><td>Bronze IV</td><td><img src="./../.assets/paladins/league-tier/2.png" height="32" width="32"/></td></tr>
+    <tr><td>3</td><td>Bronze III</td><td><img src="./../.assets/paladins/league-tier/3.png" height="32" width="32"/></td></tr>
+    <tr><td>4</td><td>Bronze II</td><td><img src="./../.assets/paladins/league-tier/4.png" height="32" width="32"/></td></tr>
+    <tr><td>5</td><td>Bronze I</td><td><img src="./../.assets/paladins/league-tier/5.png" height="32" width="32"/></td></tr>
+    <tr><td>6</td><td>Silver V</td><td><img src="./../.assets/paladins/league-tier/6.png" height="32" width="32"/></td></tr>
+    <tr><td>7</td><td>Silver IV</td><td><img src="./../.assets/paladins/league-tier/7.png" height="32" width="32"/></td></tr>
+    <tr><td>8</td><td>Silver III</td><td><img src="./../.assets/paladins/league-tier/8.png" height="32" width="32"/></td></tr>
+    <tr><td>9</td><td>Silver II</td><td><img src="./../.assets/paladins/league-tier/9.png" height="32" width="32"/></td></tr>
+    <tr><td>10</td><td>Silver I</td><td><img src="./../.assets/paladins/league-tier/10.png" height="32" width="32"/></td></tr>
+    <tr><td>11</td><td>Gold V</td><td><img src="./../.assets/paladins/league-tier/11.png" height="32" width="32"/></td></tr>
+    <tr><td>12</td><td>Gold IV</td><td><img src="./../.assets/paladins/league-tier/12.png" height="32" width="32"/></td></tr>
+    <tr><td>13</td><td>Gold III</td><td><img src="./../.assets/paladins/league-tier/13.png" height="32" width="32"/></td></tr>
+    <tr><td>14</td><td>Gold II</td><td><img src="./../.assets/paladins/league-tier/14.png" height="32" width="32"/></td></tr>
+    <tr><td>15</td><td>Gold I</td><td><img src="./../.assets/paladins/league-tier/15.png" height="32" width="32"/></td></tr>
+    <tr><td>16</td><td>Platinum V</td><td><img src="./../.assets/paladins/league-tier/16.png" height="32" width="32"/></td></tr>
+    <tr><td>17</td><td>Platinum IV</td><td><img src="./../.assets/paladins/league-tier/17.png" height="32" width="32"/></td></tr>
+    <tr><td>18</td><td>Platinum III</td><td><img src="./../.assets/paladins/league-tier/18.png" height="32" width="32"/></td></tr>
+    <tr><td>19</td><td>Platinum II</td><td><img src="./../.assets/paladins/league-tier/19.png" height="32" width="32"/></td></tr>
+    <tr><td>20</td><td>Platinum I</td><td><img src="./../.assets/paladins/league-tier/20.png" height="32" width="32"/></td></tr>
+    <tr><td>21</td><td>Diamond V</td><td><img src="./../.assets/paladins/league-tier/21.png" height="32" width="32"/></td></tr>
+    <tr><td>22</td><td>Diamond IV</td><td><img src="./../.assets/paladins/league-tier/22.png" height="32" width="32"/></td></tr>
+    <tr><td>23</td><td>Diamond III</td><td><img src="./../.assets/paladins/league-tier/23.png" height="32" width="32"/></td></tr>
+    <tr><td>24</td><td>Diamond II</td><td><img src="./../.assets/paladins/league-tier/24.png" height="32" width="32"/></td></tr>
+    <tr><td>25</td><td>Diamond I</td><td><img src="./../.assets/paladins/league-tier/25.png" height="32" width="32"/></td></tr>
+    <tr><td>26</td><td>Master</td><td><img src="./../.assets/paladins/league-tier/26.png" height="32" width="32"/></td></tr>
+    <tr><td>27</td><td>Grandmaster</td><td><img src="./../.assets/paladins/league-tier/27.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 

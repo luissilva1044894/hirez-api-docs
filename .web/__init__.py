@@ -3,7 +3,7 @@ import os
 from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
 
 def create_app(*args, **kw):
-  app = Flask(kw.pop('name', __name__), static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '_assets')), **kw)#, static_url_path=kw.pop('static_folder', '')
+  app = Flask(kw.pop('name', __name__), static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.assets')), **kw)#, static_url_path=kw.pop('static_folder', '')
 
   @app.route('/', methods=['GET'])
   def root():

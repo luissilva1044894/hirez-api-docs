@@ -18,7 +18,7 @@ template = """Valid values:
   {TIERS}
 </table>"""
 
-__ = template.format(TIERS='\n    '.join([f'<tr><td>{_}</td><td>{ranks.get(_)}</td><td><img src="./../_assets/paladins/league-tier/{_}.png" height="32" width="32"/></td></tr>' for _ in range(28)]))
+__ = template.format(TIERS='\n    '.join([f'<tr><td>{_}</td><td>{ranks.get(_)}</td><td><img src="./../.assets/paladins/league-tier/{_}.png" height="32" width="32"/></td></tr>' for _ in range(28)]))
 try:
   #https://stackoverflow.com/a/25476462
   from Tkinter import Tk
