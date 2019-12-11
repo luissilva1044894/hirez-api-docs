@@ -9,19 +9,15 @@ def create_app(*args, **kw):
   def root():
     return redirect('https://github.com/luissilva1044894/hirez-api-docs/blob/master/README.md')
 
-  @app.route('/<game>/avatar/<avatar_id>/', strict_slashes=False)
+  @app.route('/paladins/avatar/<avatar_id>/', strict_slashes=False)
   def legacy_images(avatar_id, game='paladins'):
     path = os.path.join(app.static_folder, game, 'avatar')
     for _ in os.listdir(path):
       if _.split('.', 1)[0] == avatar_id:
-        return send_from_directory(path, _)
-    return send_from_directory(path, '0.png')
-  @app.route('/gif')
-  def gif():
-    import io
-    from flask import send_file
-    import base64
-    return send_file(io.BytesIO(base64.b64decode('R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==')), mimetype='image/gif')
+        #return send_from_directory(path, _)
+        return redirect(url_for('static', filename =f'{game}/avatar/{_}'))
+    return redirect(url_for('static', filename =f'{game}/avatar/0.png'))
+    #return send_from_directory(path, '0.png')
 
   return app
 
