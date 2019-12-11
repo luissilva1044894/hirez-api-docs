@@ -1,0 +1,16 @@
+
+# https://github.com/encode/databases
+databases[postgresql,sqlite]==0.2.6;python_version>='3.6'
+
+## Database
+# https://github.com/miguelgrinberg/Flask-Migrate
+Flask-Migrate==2.5.2 
+
+# https://github.com/smurfix/flask-script
+Flask-Script==2.0.6
+
+# https://github.com/pallets/flask-sqlalchemy
+Flask-SQLAlchemy==2.4.1;python_version>='3.6'
+
+# https://github.com/psycopg/psycopg2
+psycopg2==2.8.4 --no-binary psycopg2;python_version>='3.6
