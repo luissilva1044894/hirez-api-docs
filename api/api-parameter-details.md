@@ -504,6 +504,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
 <table>
   <tr><th>ID</th><th>Name</th><th>Description</th><th>Image</th></tr>
   <tr>
+    <td>423</td>
+    <td>Custom Siege - Stone Keep</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/stone-keep.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>424</td>
     <td>LIVE Siege</td>
     <td id='game-modes-paladins-siege-description'>Siege is a round based game mode where each team works to earn Objective Points to win the match, the first team to achieve 4 Objective Points wins.<br/>Players can change their Cards loadout at the start of the match.<br/>These points are earned by taking control of a Capture Point, escorting the Payload into the enemy team's base and Stalling the enemy team's Payload until the time runs out.</td>
@@ -516,10 +522,22 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/game-modes/siege-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>426</td>
+    <td>Custom Siege - Baazar</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/baazar.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>428</td>
     <td>LIVE Competitive Gamepad</td>
     <td>This version of <a href="#game-modes-paladins-ranked-description">Ranked</a> is reserved for consoles players.</td>
     <td><img src="./../.assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>433</td>
+    <td>Custom Siege - Frog Isle</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/frog-isle.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>445</td>
@@ -538,6 +556,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>LIVE Onslaught Pratice</td>
     <td>This version of <a href="#game-modes-paladins-onslaught-description">Onslaught</a> is Co-op vs AI. </td>
     <td><img src="./../.assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>458</td>
+    <td>Custom Siege - Brightmarsh</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/brightmarsh.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>469</td>
