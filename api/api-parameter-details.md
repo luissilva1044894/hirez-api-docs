@@ -540,6 +540,24 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/maps/siege/frog-isle.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>431</td>
+    <td>Custom Siege - Fish Market</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/fish-market.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>438</td>
+    <td>Custom Siege - Jaguar Falls</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/jaguar-falls.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>440</td>
+    <td>Custom Siege - Serpeant Beach</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/serpeant-beach.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>445</td>
     <td id='game-modes-paladins-test-maps-description'>LIVE Test Maps</td>
     <td>This version of <a href="#game-modes-paladins-siege-description">Siege</a> allows players to test maps that are still in early development and can give feedback.</td>
@@ -574,6 +592,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>LIVE Team Deathmatch Pratice</td>
     <td>This version of <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> is Co-op vs AI.</td>
     <td><img src="./../.assets/paladins/game-modes/team-deathmatch-training.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>473</td>
+    <td>Custom Siege - Ascension Peak</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/ascension-peak.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>485</td>
