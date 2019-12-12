@@ -6,12 +6,13 @@ def create_app(*args, **kw):
   app = Flask(kw.pop('name', __name__), static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.assets')), **kw)#, static_url_path=kw.pop('static_folder', '')
 
   @app.route('/', methods=['GET'])
-  def root():
+  @app.errorhandler(404)
+  def root(error=None):
     return redirect('https://github.com/luissilva1044894/hirez-api-docs/blob/master/README.md')
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
-  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False)
-  @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False)
+  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False, methods=['GET'])
+  @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False, methods=['GET'])
   def legacy_images(avatar_id, game='paladins'):
     path = os.path.join(app.static_folder, game, 'avatar')
     for _ in os.listdir(path):
