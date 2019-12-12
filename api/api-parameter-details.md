@@ -594,6 +594,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>455</td>
+    <td>Custom Onslaught - Primal Court</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/primal-court.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>458</td>
     <td>Custom Siege - Brightmarsh</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
@@ -604,6 +610,18 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>Custom Siege - Splitstone Quarry</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/splitstone-quarry.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>462</td>
+    <td>Custom Onslaught - Foreman's Rise</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/foremans-rise.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>464</td>
+    <td>Custom Onslaught - Magistrate's Archives</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/magistrates-archives.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>469</td>
@@ -624,6 +642,18 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/maps/siege/ascension-peak.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>480</td>
+    <td>Custom Team Deathmatch - Throne</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/team-deathmatch/abyss.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>483</td>
+    <td>Custom Onslaught - Marauders Port</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/marauders-port.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>485</td>
     <td>Custom Siege - Warders Gate</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
@@ -634,6 +664,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td id='game-modes-paladins-ranked-description'>LIVE Competitive KBM</td>
     <td>Ranked is a system in Paladins designed to provide higher quality matches for competitive players. The current <a href="#season">Season</a> of competitive play is 3.</td>
     <td><img src="./../.assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>487</td>
+    <td>Custom Siege - Shattered Desert</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/shattered-desert.jpg" height="75" width="75"/></td>
   </tr>
 </table>
 </details>
