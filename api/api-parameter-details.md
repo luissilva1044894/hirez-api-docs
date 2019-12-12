@@ -147,14 +147,14 @@ Champions are the playable characters in [Paladins][paladins].
 
 Each one has their own unique abilities and fighting style. Champions use Cards to increase their performance and enhance their skills, and Items to help them adapt to specific situations in every match.
 
+<details markdown="1">
+<summary>Champions</summary>
+
 Champions are organized into 4 different classes:
   - <img src="./../.assets/paladins/icons/class/damage-team.png" height="12" width="16"/>Damage: These champions can consistently deal high amounts of damage. Damage champions gain 100% more [Credits][credits] for dealing damage to enemy champions. 
   - <img src="./../.assets/paladins/icons/class/flank-team.png" height="12" width="16"/>Flank: These champions excel in both damage and mobility to help them in combat as well as chase and confirm kills from the enemy's rear. However, their low health makes them vulnerable to getting overwhelmed by multiple enemies. Flank champions gain 30% more [Credits][credits] from landing killing blows on enemies. 
   - <img src="./../.assets/paladins/icons/class/front-line-team.png" height="12" width="16"/>Front Line: These champions are the best at maintaining control of objectives and protecting their teammates through shields, personal force fields, or just by taking fire. Front Line champions gain 100% more [Credits][credits] for standing near an objective. 
   - <img src="./../.assets/paladins/icons/class/support-team.png" height="12" width="16"/>Support: These champions offer a wide range of utility, both offensive and defensive. However, they specialize in healing and causing chaos in enemy attacks. Support champions gain 100% more [Credits][credits] for healing allies, and eliminations from healing a target that gets the killing blow on an enemy. Support champions also gain ultimate charge from healing done to teammates besides themselves. Healing that restores 0 Health (for example, healing someone who is at full health) won't provide ultimate charge. 
-
-<details markdown="1">
-<summary>Champions</summary>
 
 There are currently 44 playable champions in the game (Updated in 12/09/2019 13:31:38):
 <table>
@@ -234,6 +234,9 @@ Gods are the playable characters in [Smite][smite].
 
 Each god is unique, with different strengths and weaknesses, and their own playstyle. The statistics of certain gods are geared for offense, while others are better suited for defense.
 
+<details markdown="1">
+<summary>Gods</summary>
+
 Gods are organized in 5 different classes:
  - <img src="./../.assets/smite/icons/class/assassin.png"/>Assassins (mostly melee junglers and gankers).
  - <img src="./../.assets/smite/icons/class/guardian.png"/>Guardians (mostly melee supports, tanks and initiators).
@@ -258,9 +261,6 @@ Gods are sorted by their Pantheons:
   - Voodoo
   - Yoruba
 -->
-
-<details markdown="1">
-<summary>Gods</summary>
 
 There are currently 106 playable gods in the game (Updated in 12/08/2019 16:06:58):
 <table>
