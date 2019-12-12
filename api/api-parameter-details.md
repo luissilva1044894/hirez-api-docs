@@ -6,6 +6,35 @@
 
 The API supports both [JSON][json_website] and [XML][xml_website] responses. However, we strongly suggest only using [JSON][json_website] when requesting resources.
 
+## Avatar Id
+> int
+
+<details markdown="1">
+<summary>Tiers</summary>
+
+Valid values are:
+<table>
+  <tr><th>ID</th><th>Name</th><th>Image</th></tr>
+  <tr><td>0</td><td>Default</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
+  <tr><td>9918</td><td>Origin</td><td><img src="./../.assets/paladins/avatar/9918.png" height="32" width="32"/></td></tr>
+  <tr><td>23203</td><td>VIP</td><td><img src="./../.assets/paladins/avatar/23203.png" height="32" width="32"/></td></tr>
+  <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
+  <tr><td>23226</td><td>Terminating</td><td><img src="./../.assets/paladins/avatar/23226.png" height="32" width="32"/></td></tr>
+  <tr><td>23442</td><td>Corrupter</td><td><img src="./../.assets/paladins/avatar/23442.png" height="32" width="32"/></td></tr>
+  <tr><td>23549</td><td>The Lost Hand</td><td><img src="./../.assets/paladins/avatar/23549.png" height="32" width="32"/></td></tr>
+  <tr><td>23550</td><td>Oni Mask</td><td><img src="./../.assets/paladins/avatar/23550.png" height="32" width="32"/></td></tr>
+  <tr><td>23552</td><td>Cutesy Maeve</td><td><img src="./../.assets/paladins/avatar/23552.png" height="32" width="32"/></td></tr>
+  <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
+
+  <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/bandits-fury.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Secret Avatar of Adanas</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
+</table>
+</details>
+
 ## Date Format
 > string
 
