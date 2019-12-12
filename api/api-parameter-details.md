@@ -108,8 +108,13 @@ Valid values are:
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/bandits-fury.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Secret Avatar of Adanas</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/ice-box.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dark-lian.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/monarch.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/soul-bri.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talus-monkey.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
