@@ -29,6 +29,11 @@ def create_app(*args, **kw):
   def root(error=None):
     return redirect('https://github.com/luissilva1044894/hirez-api-docs/blob/master/README.md')
 
+  @app.route('/assets')
+  def list_assets():
+    #return jsonify(os.listdir(os.path.join(app.static_folder)))#os.getcwd()
+    return jsonify({ p[p.rfind('.') - 1:].replace('\\', '/'): [f for f in files] for (p, dirs, files) in os.walk(os.path.join(app.static_folder))})
+
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
   @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False, methods=['GET'])
   @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False, methods=['GET'])
