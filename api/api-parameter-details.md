@@ -523,9 +523,9 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   </tr>
   <tr>
     <td>426</td>
-    <td>Custom Siege - Baazar</td>
+    <td>Custom Siege - Bazaar</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../.assets/paladins/maps/siege/baazar.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/siege/bazaar.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>428</td>
