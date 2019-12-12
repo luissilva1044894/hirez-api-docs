@@ -6,11 +6,11 @@
 
 The API supports both [JSON][json_website] and [XML][xml_website] responses. However, we strongly suggest only using [JSON][json_website] when requesting resources.
 
-## Avatar Id
+## Avatar Id - Paladins
 > int
 
 <details markdown="1">
-<summary>Tiers</summary>
+<summary>Avatars</summary>
 
 Valid values are:
 <table>
