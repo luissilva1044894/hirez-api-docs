@@ -594,6 +594,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/game-modes/onslaught-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>454</td>
+    <td>Custom Onslaught - Snowfall Junction</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/snowfall-junction.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>455</td>
     <td>Custom Onslaught - Primal Court</td>
     <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
@@ -624,6 +630,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/maps/onslaught/magistrates-archives.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>468</td>
+    <td>Custom Team Deathmatch - Trade District</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/trade-district.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>469</td>
     <td id='game-modes-paladins-team-deathmatch-description'>LIVE Team Deathmatch</td>
     <td>Team Deathmatch is a classic deathmatch game mode, the first team to achieve 40 kills wins.</td>
@@ -636,10 +648,28 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/game-modes/team-deathmatch-training.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>471</td>
+    <td>Custom Team Deathmatch - Foreman's Rise</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/foremans-rise.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>472</td>
+    <td>Custom Team Deathmatch - Magistrate's Archives</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/magistrates-archives.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>473</td>
     <td>Custom Siege - Ascension Peak</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/ascension-peak.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>479</td>
+    <td>Custom Team Deathmatch - Abyss</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/team-deathmatch/abyss.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>480</td>
@@ -652,6 +682,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>Custom Onslaught - Marauders Port</td>
     <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/onslaught/marauders-port.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>484</td>
+    <td>Custom Team Deathmatch - Dragon Arena</td>
+    <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/team-deathmatch/dragon-arena.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>485</td>
@@ -670,6 +706,30 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>Custom Siege - Shattered Desert</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/shattered-desert.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>10200</td>
+    <td>Custom King of the Hill - Magistrate's Archives</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/magistrates-archives.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>10201</td>
+    <td>Custom King of the Hill - Snowfall Junction</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/team-deathmatch/snowfall-junction.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>10202</td>
+    <td>Custom King of the Hill - Marauders Port</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/marauders-port.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>10203</td>
+    <td>Custom King of the Hill - Trade District</td>
+    <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/onslaught/trade-district.jpg" height="75" width="75"/></td>
   </tr>
 </table>
 </details>
