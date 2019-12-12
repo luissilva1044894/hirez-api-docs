@@ -99,7 +99,7 @@ Valid values are:
   <tr><td>24972</td><td>Pirateer</td><td><img src="./../.assets/paladins/avatar/24972.gif" height="32" width="32"/></td></tr>
   <tr><td>24973</td><td>Kitsune</td><td><img src="./../.assets/paladins/avatar/24973.gif" height="32" width="32"/></td></tr>
   <tr><td>25021</td><td>Blu</td><td><img src="./../.assets/paladins/avatar/25021.png" height="32" width="32"/></td></tr>
-  <tr><td>25022</td><td>Molly the shark</td><td><img src="./../.assets/paladins/avatar/25022.png" height="32" width="32"/></td></tr>
+  <tr><td>25022</td><td>Molly the Shark</td><td><img src="./../.assets/paladins/avatar/25022.png" height="32" width="32"/></td></tr>
   <tr><td>25138</td><td>Suave Saguaro</td><td><img src="./../.assets/paladins/avatar/25138.png" height="32" width="32"/></td></tr>
   <tr><td>25139</td><td>Wanted Man</td><td><img src="./../.assets/paladins/avatar/25139.png" height="32" width="32"/></td></tr>
   <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
