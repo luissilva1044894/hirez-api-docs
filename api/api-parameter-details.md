@@ -27,7 +27,7 @@ Valid values are:
   <tr><td>23553</td><td>Cutesy Snek</td><td><img src="./../.assets/paladins/avatar/23553.png" height="32" width="32"/></td></tr>
   <tr><td>23554</td><td>Cutesy Zhin</td><td><img src="./../.assets/paladins/avatar/23554.png" height="32" width="32"/></td></tr>
   <tr><td>23555</td><td>Goodnight</td><td><img src="./../.assets/paladins/avatar/23555.gif" height="32" width="32"/></td></tr>
-  <tr><td>23564</td><td>Shadowblade</td><td><img src="./../.assets/paladins/avatar/23564.png" height="32" width="32"/></td></tr>
+  <tr><td>23564</td><td>Shadowblade</td><td><img src="./../.assets/paladins/avatar/23564.gif" height="32" width="32"/></td></tr>
   <tr><td>23661</td><td>Flametongue</td><td><img src="./../.assets/paladins/avatar/23661.png" height="32" width="32"/></td></tr>
   <tr><td>23662</td><td>Snack Time</td><td><img src="./../.assets/paladins/avatar/23662.gif" height="32" width="32"/></td></tr>
   <tr><td>23714</td><td>Death Speaker</td><td><img src="./../.assets/paladins/avatar/23714.png" height="32" width="32"/></td></tr>
@@ -37,7 +37,7 @@ Valid values are:
   <tr><td>23924</td><td>Synth</td><td><img src="./../.assets/paladins/avatar/23924.png" height="32" width="32"/></td></tr>
   <tr><td>23925</td><td>Nom Nom</td><td><img src="./../.assets/paladins/avatar/23925.gif" height="32" width="32"/></td></tr>
   <tr><td>24079</td><td>Cutesy Yeti</td><td><img src="./../.assets/paladins/avatar/24079.png" height="32" width="32"/></td></tr>
-  <tr><td>24080</td><td>Cutesy Lian</td><td><img src="./../.assets/paladins/avatar/24080.png" height="32" width="32"/></td></tr>
+  <tr><td>24080</td><td>Cutesy Lian</td><td><img src="./../.assets/paladins/avatar/24080.gif" height="32" width="32"/></td></tr>
   <tr><td>24081</td><td>Rowdy Corsair</td><td><img src="./../.assets/paladins/avatar/24081.png" height="32" width="32"/></td></tr>
   <tr><td>24088</td><td>Winter Workout</td><td><img src="./../.assets/paladins/avatar/24088.gif" height="32" width="32"/></td></tr>
   <tr><td>24143</td><td>Shield Bearer</td><td><img src="./../.assets/paladins/avatar/24143.png" height="32" width="32"/></td></tr>
@@ -64,7 +64,7 @@ Valid values are:
   <tr><td>24202</td><td>Paladins Defense Force</td><td><img src="./../.assets/paladins/avatar/24202.png" height="32" width="32"/></td></tr>
   <tr><td>24203</td><td>Imperial Magistrate</td><td><img src="./../.assets/paladins/avatar/24203.png" height="32" width="32"/></td></tr>
   <tr><td>24204</td><td>Fire And Ice</td><td><img src="./../.assets/paladins/avatar/24204.gif" height="32" width="32"/></td></tr>
-  <tr><td>24350</td><td>Queen of Hearts</td><td><img src="./../.assets/paladins/avatar/24350.png" height="32" width="32"/></td></tr>
+  <tr><td>24350</td><td>Queen of Hearts</td><td><img src="./../.assets/paladins/avatar/24350.gif" height="32" width="32"/></td></tr>
   <tr><td>24354</td><td>Future's Protector</td><td><img src="./../.assets/paladins/avatar/24354.png" height="32" width="32"/></td></tr>
   <tr><td>24355</td><td>Squidly</td><td><img src="./../.assets/paladins/avatar/24355.png" height="32" width="32"/></td></tr>
   <tr><td>24356</td><td>Forlorn Future</td><td><img src="./../.assets/paladins/avatar/24356.gif" height="32" width="32"/></td></tr>
@@ -72,12 +72,12 @@ Valid values are:
   <tr><td>24393</td><td>Diamond Badge</td><td><img src="./../.assets/paladins/avatar/24393.png" height="32" width="32"/></td></tr>
   <tr><td>24394</td><td>Gold Badge</td><td><img src="./../.assets/paladins/avatar/24394.png" height="32" width="32"/></td></tr>
   <tr><td>24482</td><td>Blue Warrior</td><td><img src="./../.assets/paladins/avatar/24482.png" height="32" width="32"/></td></tr>
-  <tr><td>24505</td><td>How quaint</td><td><img src="./../.assets/paladins/avatar/24505.png" height="32" width="32"/></td></tr>
+  <tr><td>24505</td><td>How quaint</td><td><img src="./../.assets/paladins/avatar/24505.gif" height="32" width="32"/></td></tr>
   <tr><td>24597</td><td>Champions are Eternal</td><td><img src="./../.assets/paladins/avatar/24597.png" height="32" width="32"/></td></tr>
   <tr><td>24611</td><td>Best Boy</td><td><img src="./../.assets/paladins/avatar/24611.gif" height="32" width="32"/></td></tr>
   <tr><td>24612</td><td>Summer Blossom</td><td><img src="./../.assets/paladins/avatar/24612.png" height="32" width="32"/></td></tr>
   <tr><td>24669</td><td>Vanguard</td><td><img src="./../.assets/paladins/avatar/24669.png" height="32" width="32"/></td></tr>
-  <tr><td>24678</td><td>Bubbles</td><td><img src="./../.assets/paladins/avatar/24678.png" height="32" width="32"/></td></tr>
+  <tr><td>24678</td><td>Bubbles</td><td><img src="./../.assets/paladins/avatar/24678.gif" height="32" width="32"/></td></tr>
   <tr><td>24679</td><td>Baby Steps</td><td><img src="./../.assets/paladins/avatar/24679.gif" height="32" width="32"/></td></tr>
   <tr><td>24680</td><td>Dragon Forged</td><td><img src="./../.assets/paladins/avatar/24680.png" height="32" width="32"/></td></tr>
   <tr><td>24681</td><td>Dwarven Strength</td><td><img src="./../.assets/paladins/avatar/24681.png" height="32" width="32"/></td></tr>
