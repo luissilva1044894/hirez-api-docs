@@ -597,7 +597,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>454</td>
     <td>Custom Onslaught - Snowfall Junction</td>
     <td>This version of Custom <a href="#game-modes-paladins-onslaught-description">Onslaught</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../.assets/paladins/maps/onslaught/snowfall-junction.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/team-deathmatch/snowfall-junction.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>455</td>
