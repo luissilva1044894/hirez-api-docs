@@ -102,12 +102,12 @@ Valid values are:
   <tr><td>25022</td><td>Molly the Shark</td><td><img src="./../.assets/paladins/avatar/25022.png" height="32" width="32"/></td></tr>
   <tr><td>25138</td><td>Suave Saguaro</td><td><img src="./../.assets/paladins/avatar/25138.png" height="32" width="32"/></td></tr>
   <tr><td>25139</td><td>Wanted Man</td><td><img src="./../.assets/paladins/avatar/25139.png" height="32" width="32"/></td></tr>
+  <tr><td>25140</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/25140.gif" height="32" width="32"/></td></tr>
   <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/bandits-fury.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Secret Avatar of Adanas</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/ice-box.png" height="32" width="32"/></td></tr>
