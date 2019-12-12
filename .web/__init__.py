@@ -32,6 +32,20 @@ def create_app(*args, **kw):
   @app.route('/assets')
   def list_assets():
     #return jsonify(os.listdir(os.path.join(app.static_folder)))#os.getcwd()
+    def get_directory_structure(rootdir):
+      """http://code.activestate.com/recipes/577879-create-a-nested-dictionary-from-oswalk/
+      Creates a nested dictionary that represents the folder structure of rootdir"""
+      __dir__ = {}
+      import functools
+      rootdir = rootdir.rstrip(os.sep)
+      start = rootdir.rfind(os.sep) + 1
+      for path, dirs, files in os.walk(rootdir):
+        folders = path[start:].split(os.sep)
+        parent = functools.reduce(dict.get, folders[:-1], __dir__)
+        parent[folders[-1]] = dict.fromkeys(files)
+      return __dir__
+    if request.args.get('nested', None):
+      return jsonify(get_directory_structure(os.path.join(app.static_folder)))
     return jsonify({ p[p.rfind('.') - 1:].replace('\\', '/'): [f for f in files] for (p, dirs, files) in os.walk(os.path.join(app.static_folder))})
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
