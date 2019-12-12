@@ -72,7 +72,7 @@ Valid values are:
   <tr><td>24393</td><td>Diamond Badge</td><td><img src="./../.assets/paladins/avatar/24393.png" height="32" width="32"/></td></tr>
   <tr><td>24394</td><td>Gold Badge</td><td><img src="./../.assets/paladins/avatar/24394.png" height="32" width="32"/></td></tr>
   <tr><td>24482</td><td>Blue Warrior</td><td><img src="./../.assets/paladins/avatar/24482.png" height="32" width="32"/></td></tr>
-  <tr><td>24505</td><td>How quaint</td><td><img src="./../.assets/paladins/avatar/24505.gif" height="32" width="32"/></td></tr>
+  <tr><td>24505</td><td>How Quaint</td><td><img src="./../.assets/paladins/avatar/24505.gif" height="32" width="32"/></td></tr>
   <tr><td>24597</td><td>Champions are Eternal</td><td><img src="./../.assets/paladins/avatar/24597.png" height="32" width="32"/></td></tr>
   <tr><td>24611</td><td>Best Boy</td><td><img src="./../.assets/paladins/avatar/24611.gif" height="32" width="32"/></td></tr>
   <tr><td>24612</td><td>Summer Blossom</td><td><img src="./../.assets/paladins/avatar/24612.png" height="32" width="32"/></td></tr>
