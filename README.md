@@ -160,7 +160,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [project_api_key]: ./api#api-key "Hi-Rez API Studios · API Key"
 [project_api_reference]: ./api#api-reference "Hi-Rez API Studios · Reference"
 [project_api_registration]: ./api#registration "Hi-Rez API Studios · Registration"
-[project_assets]: ./_assets "Hi-Rez API Studios · Assets"
+[project_assets]: ./.assets "Hi-Rez API Studios · Assets"
 [project_code_samples_csharp]: ./code-samples/c-sharp.md "Code Sample · C#"
 [project_code_samples_folder]: ./code-samples "Code Samples"
 [project_code_samples_java]: ./code-samples/java.md "Code Sample · Java"
