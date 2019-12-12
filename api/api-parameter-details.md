@@ -534,10 +534,10 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/game-modes/ranked.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
-    <td>433</td>
-    <td>Custom Siege - Frog Isle</td>
+    <td>430</td>
+    <td>Custom Siege - Timber Mill</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../.assets/paladins/maps/siege/frog-isle.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/siege/timber-mill.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>431</td>
@@ -546,16 +546,34 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/maps/siege/fish-market.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>432</td>
+    <td>Custom Siege - Frozen Guard</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/frozen-guard.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>433</td>
+    <td>Custom Siege - Frog Isle</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/frog-isle.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>438</td>
     <td>Custom Siege - Jaguar Falls</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/jaguar-falls.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
-    <td>440</td>
-    <td>Custom Siege - Serpeant Beach</td>
+    <td>439</td>
+    <td>Custom Siege - Ice Mines</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../.assets/paladins/maps/siege/serpeant-beach.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/siege/ice-mines.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>440</td>
+    <td>Custom Siege - Serpent Beach</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/serpent-beach.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>445</td>
@@ -580,6 +598,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>Custom Siege - Brightmarsh</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/brightmarsh.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>459</td>
+    <td>Custom Siege - Splitstone Quarry</td>
+    <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
+    <td><img src="./../.assets/paladins/maps/siege/splitstone-quarry.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>469</td>
