@@ -8,7 +8,7 @@
 
 Unofficial Hi-Rez Studios API [documentation](#getting-started) (and [assets](#graphics) where possible) for [Paladins][paladins], [Realm Royale][realm_royale], and [Smite][smite].
 
-## Purpose
+## Purpose :gem:
 
 Due to [Hi-Rez Studios][hi_rez_studios] not providing a detailed documentation for their API, this Developer Guide is here to assist those attempting to make their own API wrapper for their [API][hi_rez_studios_api_developer_guide].
 
@@ -30,7 +30,7 @@ The values for [API Keys][project_api_key] are removed for security purposes.
 
 Note that the API calls are synchronous and may take a few seconds before generating a response. You will probably call the API asynchronously, but for purposes of this exercise (to quickly understand how to work with the API methods) the synchronous method was used.
 
-### Graphics
+### Graphics :art:
 
 You can find any graphics [here][project_assets].
 <!-- You can find any graphics that we’ve published for use [here][project_assets].-->
@@ -115,7 +115,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 
 * :link: [Hi-Rez Studios API · Development Credentials Application Form][hi_rez_studios_api_application_form]
 
-* 📚 [Hi-Rez Studios API · Official Documentation][hi_rez_studios_api_developer_guide]
+* :bulb: [Hi-Rez Studios API · Official Documentation][hi_rez_studios_api_developer_guide]
 
 * :link: [Hi-Rez API Studios · Terms of Use Agreement][hi_rez_studios_api_terms_of_use]
 
