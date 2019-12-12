@@ -19,7 +19,7 @@ This documentation will consume a [JSON][json_website] response and therefore de
 ### Mantainance 🛠
 As long as [Hi-Rez Studios][hi_rez_studios] doesn't change its APIs this documentation won't be changed. However, resources could be updated, added or removed when needed.
 
-### [Getting Started][project_api_reference]
+### [Getting Started][project_api_reference] :beginner:
 
 - [Registration][project_api_registration]
 
@@ -47,7 +47,7 @@ By contributing contents to this Wiki you shall implicitly accept that others mi
 
 If you have any questions, concerns, need further help, want to be up-to-date on, or like interested to contribute in any way or mantaining this project, please join [*Nonsocial's support server*][project_discord_support_server] on [Discord][discord].
 
-### Disclaimer:
+### Disclaimer :x:
 
 This project, including this repository, is neither created, affiliated, associated nor endorsed by [Hi-Rez Studios][hi_rez_studios], or any of its subsidiaries or its affiliates.
 
