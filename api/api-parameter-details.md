@@ -118,12 +118,12 @@ Valid values are:
 </table>
 </details>
 
-## Date Format
+## Date Format :date:
 > string
 
 A DateTime in the following format: ``yyyyMMdd`` - “20191210” (for Dec 10, 2019, as an example)
 
-## Hour
+## Hour :watch:
 > string
 
 To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) method, you can now specify a 10-minute window within the specified {hour} field to lessen the size of data returned by appending a “,mm” value to the end of {hour}. For example, to get the match Ids for the first 10 minutes of hour 3, you would specify {hour} as “3,00”.  This would only return the Ids between the time 3:00 to 3:09.  Rules below:
@@ -374,7 +374,7 @@ There are currently 106 playable gods in the game (Updated in 12/08/2019 16:06:5
   </table>
 </details>
 
-## Language
+## Language :globe_with_meridians:
 > int
 
 The language Id that you want results returned in. Default is 1.
