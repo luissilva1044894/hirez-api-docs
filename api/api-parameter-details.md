@@ -527,6 +527,14 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/bazaar.jpg" height="75" width="75"/></td>
   </tr>
+<!--
+  <tr>
+    <td>427</td>
+    <td>Pratice</td>
+    <td></td>
+    <td><img src="./../.assets/paladins/maps/tutorial.jpg" height="75" width="75"/></td>
+  </tr>
+-->
   <tr>
     <td>428</td>
     <td>LIVE Competitive Gamepad</td>
@@ -558,6 +566,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td><img src="./../.assets/paladins/maps/siege/frog-isle.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
+    <td>434</td>
+    <td>Shooting Range</td>
+    <td></td>
+    <td><img src="./../.assets/paladins/maps/shooting-range.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
     <td>438</td>
     <td>Custom Siege - Jaguar Falls</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
@@ -574,6 +588,12 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>Custom Siege - Serpent Beach</td>
     <td>This version of Custom <a href="#game-modes-paladins-siege-description">Siege</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
     <td><img src="./../.assets/paladins/maps/siege/serpent-beach.jpg" height="75" width="75"/></td>
+  </tr>
+  <tr>
+    <td>444</td>
+    <td>Tutorial</td>
+    <td></td>
+    <td><img src="./../.assets/paladins/maps/tutorial.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>445</td>
