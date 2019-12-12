@@ -19,12 +19,90 @@ Valid values are:
   <tr><td>9918</td><td>Origin</td><td><img src="./../.assets/paladins/avatar/9918.png" height="32" width="32"/></td></tr>
   <tr><td>23203</td><td>VIP</td><td><img src="./../.assets/paladins/avatar/23203.png" height="32" width="32"/></td></tr>
   <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
-  <tr><td>23226</td><td>Terminating</td><td><img src="./../.assets/paladins/avatar/23226.png" height="32" width="32"/></td></tr>
-  <tr><td>23442</td><td>Corrupter</td><td><img src="./../.assets/paladins/avatar/23442.png" height="32" width="32"/></td></tr>
+  <tr><td>23226</td><td>Terminating</td><td><img src="./../.assets/paladins/avatar/23226.gif" height="32" width="32"/></td></tr>
+  <tr><td>23442</td><td>Corrupter</td><td><img src="./../.assets/paladins/avatar/23442.gif" height="32" width="32"/></td></tr>
   <tr><td>23549</td><td>The Lost Hand</td><td><img src="./../.assets/paladins/avatar/23549.png" height="32" width="32"/></td></tr>
   <tr><td>23550</td><td>Oni Mask</td><td><img src="./../.assets/paladins/avatar/23550.png" height="32" width="32"/></td></tr>
   <tr><td>23552</td><td>Cutesy Maeve</td><td><img src="./../.assets/paladins/avatar/23552.png" height="32" width="32"/></td></tr>
-  <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
+  <tr><td>23553</td><td>Cutesy Snek</td><td><img src="./../.assets/paladins/avatar/23553.png" height="32" width="32"/></td></tr>
+  <tr><td>23554</td><td>Cutesy Zhin</td><td><img src="./../.assets/paladins/avatar/23554.png" height="32" width="32"/></td></tr>
+  <tr><td>23555</td><td>Goodnight</td><td><img src="./../.assets/paladins/avatar/23555.gif" height="32" width="32"/></td></tr>
+  <tr><td>23564</td><td>Shadowblade</td><td><img src="./../.assets/paladins/avatar/23564.png" height="32" width="32"/></td></tr>
+  <tr><td>23661</td><td>Flametongue</td><td><img src="./../.assets/paladins/avatar/23661.png" height="32" width="32"/></td></tr>
+  <tr><td>23662</td><td>Snack Time</td><td><img src="./../.assets/paladins/avatar/23662.gif" height="32" width="32"/></td></tr>
+  <tr><td>23714</td><td>Death Speaker</td><td><img src="./../.assets/paladins/avatar/23714.png" height="32" width="32"/></td></tr>
+  <tr><td>23715</td><td>Knightmare</td><td><img src="./../.assets/paladins/avatar/23715.png" height="32" width="32"/></td></tr>
+  <tr><td>23716</td><td>Day Walker</td><td><img src="./../.assets/paladins/avatar/23716.png" height="32" width="32"/></td></tr>
+  <tr><td>23717</td><td>Harbinger</td><td><img src="./../.assets/paladins/avatar/23717.gif" height="32" width="32"/></td></tr>
+  <tr><td>23924</td><td>Synth</td><td><img src="./../.assets/paladins/avatar/23924.png" height="32" width="32"/></td></tr>
+  <tr><td>23925</td><td>Nom Nom</td><td><img src="./../.assets/paladins/avatar/23925.gif" height="32" width="32"/></td></tr>
+  <tr><td>24079</td><td>Cutesy Yeti</td><td><img src="./../.assets/paladins/avatar/24079.png" height="32" width="32"/></td></tr>
+  <tr><td>24080</td><td>Cutesy Lian</td><td><img src="./../.assets/paladins/avatar/24080.png" height="32" width="32"/></td></tr>
+  <tr><td>24081</td><td>Rowdy Corsair</td><td><img src="./../.assets/paladins/avatar/24081.png" height="32" width="32"/></td></tr>
+  <tr><td>24088</td><td>Winter Workout</td><td><img src="./../.assets/paladins/avatar/24088.gif" height="32" width="32"/></td></tr>
+  <tr><td>24143</td><td>Shield Bearer</td><td><img src="./../.assets/paladins/avatar/24143.png" height="32" width="32"/></td></tr>
+  <tr><td>24164</td><td>The King</td><td><img src="./../.assets/paladins/avatar/24164.png" height="32" width="32"/></td></tr>
+  <tr><td>24165</td><td>Poppy</td><td><img src="./../.assets/paladins/avatar/24165.png" height="32" width="32"/></td></tr>
+  <tr><td>24166</td><td>Greenwood Friend</td><td><img src="./../.assets/paladins/avatar/24166.png" height="32" width="32"/></td></tr>
+  <tr><td>24167</td><td>White Knight</td><td><img src="./../.assets/paladins/avatar/24167.png" height="32" width="32"/></td></tr>
+  <tr><td>24168</td><td>Masterpiece</td><td><img src="./../.assets/paladins/avatar/24168.png" height="32" width="32"/></td></tr>
+  <tr><td>24169</td><td>Battle Rage</td><td><img src="./../.assets/paladins/avatar/24169.png" height="32" width="32"/></td></tr>
+  <tr><td>24170</td><td>Groverling</td><td><img src="./../.assets/paladins/avatar/24170.png" height="32" width="32"/></td></tr>
+  <tr><td>24171</td><td>Forkasen Wanderer</td><td><img src="./../.assets/paladins/avatar/24171.png" height="32" width="32"/></td></tr>
+  <tr><td>24172</td><td>Kitten</td><td><img src="./../.assets/paladins/avatar/24172.png" height="32" width="32"/></td></tr>
+  <tr><td>24173</td><td>Tigron Thief</td><td><img src="./../.assets/paladins/avatar/24173.png" height="32" width="32"/></td></tr>
+  <tr><td>24174</td><td>I WUV YOU</td><td><img src="./../.assets/paladins/avatar/24174.png" height="32" width="32"/></td></tr>
+  <tr><td>24175</td><td>Tepid Friendship</td><td><img src="./../.assets/paladins/avatar/24175.png" height="32" width="32"/></td></tr>
+  <tr><td>24176</td><td>Vulpin</td><td><img src="./../.assets/paladins/avatar/24176.png" height="32" width="32"/></td></tr>
+  <tr><td>24177</td><td>Dumpster Diver</td><td><img src="./../.assets/paladins/avatar/24177.png" height="32" width="32"/></td></tr>
+  <tr><td>24178</td><td>Abyssal Vessel</td><td><img src="./../.assets/paladins/avatar/24178.png" height="32" width="32"/></td></tr>
+  <tr><td>24179</td><td>The Returned</td><td><img src="./../.assets/paladins/avatar/24179.png" height="32" width="32"/></td></tr>
+  <tr><td>24180</td><td>Twilight Assassin</td><td><img src="./../.assets/paladins/avatar/24180.png" height="32" width="32"/></td></tr>
+  <tr><td>24181</td><td>Happy Huntress</td><td><img src="./../.assets/paladins/avatar/24181.png" height="32" width="32"/></td></tr>
+  <tr><td>24182</td><td>The Blossom</td><td><img src="./../.assets/paladins/avatar/24182.png" height="32" width="32"/></td></tr>
+  <tr><td>24183</td><td>Mirror Mirror</td><td><img src="./../.assets/paladins/avatar/24183.png" height="32" width="32"/></td></tr>
+  <tr><td>24202</td><td>Paladins Defense Force</td><td><img src="./../.assets/paladins/avatar/24202.png" height="32" width="32"/></td></tr>
+  <tr><td>24203</td><td>Imperial Magistrate</td><td><img src="./../.assets/paladins/avatar/24203.png" height="32" width="32"/></td></tr>
+  <tr><td>24204</td><td>Fire And Ice</td><td><img src="./../.assets/paladins/avatar/24204.gif" height="32" width="32"/></td></tr>
+  <tr><td>24350</td><td>Queen of Hearts</td><td><img src="./../.assets/paladins/avatar/24350.png" height="32" width="32"/></td></tr>
+  <tr><td>24354</td><td>Future's Protector</td><td><img src="./../.assets/paladins/avatar/24354.png" height="32" width="32"/></td></tr>
+  <tr><td>24355</td><td>Squidly</td><td><img src="./../.assets/paladins/avatar/24355.png" height="32" width="32"/></td></tr>
+  <tr><td>24356</td><td>Forlorn Future</td><td><img src="./../.assets/paladins/avatar/24356.gif" height="32" width="32"/></td></tr>
+  <tr><td>24375</td><td>Dragon Queen</td><td><img src="./../.assets/paladins/avatar/24375.png" height="32" width="32"/></td></tr>
+  <tr><td>24393</td><td>Diamond Badge</td><td><img src="./../.assets/paladins/avatar/24393.png" height="32" width="32"/></td></tr>
+  <tr><td>24394</td><td>Gold Badge</td><td><img src="./../.assets/paladins/avatar/24394.png" height="32" width="32"/></td></tr>
+  <tr><td>24482</td><td>Blue Warrior</td><td><img src="./../.assets/paladins/avatar/24482.png" height="32" width="32"/></td></tr>
+  <tr><td>24505</td><td>How quaint</td><td><img src="./../.assets/paladins/avatar/24505.png" height="32" width="32"/></td></tr>
+  <tr><td>24597</td><td>Champions are Eternal</td><td><img src="./../.assets/paladins/avatar/24597.png" height="32" width="32"/></td></tr>
+  <tr><td>24611</td><td>Best Boy</td><td><img src="./../.assets/paladins/avatar/24611.gif" height="32" width="32"/></td></tr>
+  <tr><td>24612</td><td>Summer Blossom</td><td><img src="./../.assets/paladins/avatar/24612.png" height="32" width="32"/></td></tr>
+  <tr><td>24669</td><td>Vanguard</td><td><img src="./../.assets/paladins/avatar/24669.png" height="32" width="32"/></td></tr>
+  <tr><td>24678</td><td>Bubbles</td><td><img src="./../.assets/paladins/avatar/24678.png" height="32" width="32"/></td></tr>
+  <tr><td>24679</td><td>Baby Steps</td><td><img src="./../.assets/paladins/avatar/24679.gif" height="32" width="32"/></td></tr>
+  <tr><td>24680</td><td>Dragon Forged</td><td><img src="./../.assets/paladins/avatar/24680.png" height="32" width="32"/></td></tr>
+  <tr><td>24681</td><td>Dwarven Strength</td><td><img src="./../.assets/paladins/avatar/24681.png" height="32" width="32"/></td></tr>
+  <tr><td>24709</td><td>Unrelenting</td><td><img src="./../.assets/paladins/avatar/24709.png" height="32" width="32"/></td></tr>
+  <tr><td>24758</td><td>Charming</td><td><img src="./../.assets/paladins/avatar/24758.gif" height="32" width="32"/></td></tr>
+  <tr><td>24759</td><td>Sunset</td><td><img src="./../.assets/paladins/avatar/24759.gif" height="32" width="32"/></td></tr>
+  <tr><td>24760</td><td>Lifesaver</td><td><img src="./../.assets/paladins/avatar/24760.png" height="32" width="32"/></td></tr>
+  <tr><td>24824</td><td>Beach Vibes</td><td><img src="./../.assets/paladins/avatar/24824.png" height="32" width="32"/></td></tr>
+  <tr><td>24887</td><td>Groovy Grover</td><td><img src="./../.assets/paladins/avatar/24887.png" height="32" width="32"/></td></tr>
+  <tr><td>24888</td><td>Grohk Rock</td><td><img src="./../.assets/paladins/avatar/24888.png" height="32" width="32"/></td></tr>
+  <tr><td>24889</td><td>Celebrity Io</td><td><img src="./../.assets/paladins/avatar/24889.png" height="32" width="32"/></td></tr>
+  <tr><td>24890</td><td>Popstar Skye</td><td><img src="./../.assets/paladins/avatar/24890.png" height="32" width="32"/></td></tr>
+  <tr><td>24891</td><td>Greaser Lex</td><td><img src="./../.assets/paladins/avatar/24891.png" height="32" width="32"/></td></tr>
+  <tr><td>24892</td><td>Fallen Champion</td><td><img src="./../.assets/paladins/avatar/24892.png" height="32" width="32"/></td></tr>
+  <tr><td>24897</td><td>Reckoning</td><td><img src="./../.assets/paladins/avatar/24897.png" height="32" width="32"/></td></tr>
+  <tr><td>24898</td><td>Resolute</td><td><img src="./../.assets/paladins/avatar/24898.png" height="32" width="32"/></td></tr>
+  <tr><td>24969</td><td>Redbeard</td><td><img src="./../.assets/paladins/avatar/24969.png" height="32" width="32"/></td></tr>
+  <tr><td>24970</td><td>Bubbly</td><td><img src="./../.assets/paladins/avatar/24970.png" height="32" width="32"/></td></tr>
+  <tr><td>24972</td><td>Pirateer</td><td><img src="./../.assets/paladins/avatar/24972.gif" height="32" width="32"/></td></tr>
+  <tr><td>24973</td><td>Kitsune</td><td><img src="./../.assets/paladins/avatar/24973.gif" height="32" width="32"/></td></tr>
+  <tr><td>25021</td><td>Blu</td><td><img src="./../.assets/paladins/avatar/25021.png" height="32" width="32"/></td></tr>
+  <tr><td>25022</td><td>Molly the shark</td><td><img src="./../.assets/paladins/avatar/25022.png" height="32" width="32"/></td></tr>
+  <tr><td>25138</td><td>Suave Saguaro</td><td><img src="./../.assets/paladins/avatar/25138.png" height="32" width="32"/></td></tr>
+  <tr><td>25139</td><td>Wanted Man</td><td><img src="./../.assets/paladins/avatar/25139.png" height="32" width="32"/></td></tr>
+  <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
