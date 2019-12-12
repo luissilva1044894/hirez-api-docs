@@ -591,8 +591,8 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   </tr>
   <tr>
     <td>444</td>
-    <td>Tutorial</td>
-    <td></td>
+    <td>Basic Tutorial</td>
+    <td>The Basic Tutorial explains the controls of Paladins to the player.</td>
     <td><img src="./../.assets/paladins/maps/tutorial.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
@@ -603,8 +603,8 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   </tr>
   <tr>
     <td>452</td>
-    <td id='game-modes-paladins-onslaught-description'>LIVE Onslaught</td>
-    <td></td>
+    <td id='game-modes-paladins-onslaught-description'>LIVE Onslaught - King of the Hill</td>
+    <td>Onslaught is a queue, that features a classic King of the Hill gameplay and a variant thereof.<br/>To win, players must earn tickets by either killing players or controlling a Capture Point.<br/>The first team to reach 400 tickets, or the team with the most tickets until time runs out, wins. </td>
     <td><img src="./../.assets/paladins/game-modes/onslaught.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
