@@ -568,7 +568,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   <tr>
     <td>434</td>
     <td>Shooting Range</td>
-    <td></td>
+    <td>The Shooting Range, a special map designed to test out champions.</td>
     <td><img src="./../.assets/paladins/maps/shooting-range.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
