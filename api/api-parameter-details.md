@@ -118,22 +118,7 @@ Valid values are:
 </table>
 </details>
 
-## Date Format :date:
-> string
-
-A DateTime in the following format: ``yyyyMMdd`` - “20191210” (for Dec 10, 2019, as an example)
-
-## Hour :watch:
-> string
-
-Valid values: 0 - 23. An hour parameter of -1 represents the entire day, but be warned that this may be more data than we can return for certain queues.
-
-To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) method, you can now specify a 10-minute window within the specified {hour} field to lessen the size of data returned by appending a “,mm” value to the end of {hour}. For example, to get the match Ids for the first 10 minutes of hour 3, you would specify {hour} as “3,00”.  This would only return the Ids between the time 3:00 to 3:09.  Rules below:
-  - Only valid values for mm are “00”, “10”, “20”, “30”, “40”, “50”
-  - To get the entire third hour worth of Match Ids, call [``GetMatchIdsByQueue``](#get-match-ids-by-queue) 6 times, specifying the following values for {hour}: “3,00”, “3,10”, “3,20”, “3,30”, “3,40”, “3,50”. 
-  - The standard, full hour format of {hour} = “hh” is still supported.
-
-## God ID
+## Character
 > int
 
 The God ID is an unique id for each playable character in a game.
@@ -142,7 +127,7 @@ Can be obtained from:
   - [``GetChampions``](./../get-champions.md#get-champions) - Returns a list of all playable characters in [Paladins](#god-id---paladins).
   - [``GetGods``](./../get-gods.md#get-gods) - Returns a list of all playable characters in [Paladins](#god-id---paladins) & [Smite](#god-id---smite).
 
-### God ID - Paladins
+### Character - Paladins
 > int
 
 Champions are the playable characters in [Paladins][paladins].
@@ -208,7 +193,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
   </table>
 </details>
 
-### God ID - Realm Royale
+### Character - Realm Royale
 > int
 
 There are multiple Classes in [Realm Royale][realm_royale].
@@ -229,7 +214,7 @@ There are currently 4 playable classes in the game:
 
 </details>
 
-### God ID - Smite
+### Character - Smite
 > int
 
 Gods are the playable characters in [Smite][smite].
@@ -376,128 +361,27 @@ There are currently 106 playable gods in the game (Updated in 12/08/2019 16:06:5
   </table>
 </details>
 
-## Language :globe_with_meridians:
-> int
-
-The language Id that you want results returned in. Default is 1.
-<!--
-https://flagpedia.net/emoji
-https://emojipedia.org/flags/
--->
-<details markdown="1">
-<summary>Languages</summary>
-
-Valid values are:
-<table>
-	<tr><th>ID</th><th>Language</th><th>Flag</th></tr>
-	<tr><td>1</td><td align='center'>English</td><td>🇺🇸</td></tr>
-	<tr><td>2</td><td align='center'>German</td><td>🇩🇪</td></tr>
-	<tr><td>3</td><td align='center'>French</td><td>🇫🇷</td></tr>
-	<tr><td>5</td><td align='center'>Chinese</td><td>🇨🇳</td></tr>
-	<tr><td>7</td><td align='center'>Spanish</td><td>🇪🇸</td></tr>
-	<tr><td>9</td><td align='center'>Spanish (Latin America)</td><td>🇦🇷</td></tr>
-	<tr><td>10</td><td align='center'>Portuguese</td><td>🇧🇷</td></tr>
-	<tr><td>11</td><td align='center'>Russian</td><td>🇷🇺</td></tr>
-	<tr><td>12</td><td align='center'>Polish</td><td>🇵🇱</td></tr>
-	<tr><td>13</td><td align='center'>Turkish</td><td>🇹🇷</td></tr>
-</table>
-</details>
-
-## Match ID
-> int: <i>The id of a match.</i><br/>
-
-The Match ID is an unique id for each map that’s created by the server for a set of players.
-
-The “match_id” can be obtained from:
-  - [``GetMatchHistory``](./../get-match-history.md#get-match-history)
-  - [``GetMatchIdsByQueue``](./../get-match-ids-by-queue.md#get-match-ids-by-queue)
-  - [``GetPlayerMatchHistory``](./../get-player-match-history.md#get-player-match-history)
-  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
-  - [``GetPlayerStatus``](./../get-player-status.md#get-player-status)
-  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
-  - [``GetTopMatches``](./../get-top-matches.md#get-top-matches).
-
-## Player
-
-This may either be:
-
-### Player Name
+## Date Format :date:
 > string
 
-This is the Player Name.
+A DateTime in the following format: ``yyyyMMdd`` - “20191210” (for Dec 10, 2019, as an example)
 
-### Player ID
-> int
-
-The Player ID is an unique id for each player that's is created and internally stored by Hi-Rez.
-
-<!--available to API developers via the /getplayer API method-->
-The “player_id” can be obtained from:
-  - [``GetPlayer``](./../get-player.md#get-player)
-  - [``Get Champion Leaderboard``](./../get-champion-leaderboard#get-champion-leaderboard)
-  - [``Get Friends``](./../get-friends#get-friends)
-  - [``Get God Leaderboard``](./../get-god-leaderboard#get-god-leaderboard)
-  - [``Get Leaderboard``](./../get-leaderboard#get-leaderboard)
-  - [``Get League Leaderboard``](./../get-league-leaderboard#get-league-leaderboard)
-  - [``Get Match Details``](./../get-match-details#get-match-details)
-  - [``Get Player Batch From Match``](./../get-player-batch-from-match#get-player-batch-from-match)
-  - [``Get Player Id By Name``](./../get-player-id-by-name#get-player-id-by-name)
-  - [``Get Player Id By Portal User Id``](./../get-player-id-by-portal-user-id#get-player-id-by-portal-user-id)
-  - [``Get Player Id Info For Xbox And Switch``](./../get-player-id-info-for-xbox-and-switch#get-player-id-info-for-xbox-and-switch)
-  - [``Get Player Ids By Gamer Tag``](./../get-player-ids-by-gamer-tag#get-player-ids-by-gamer-tag)
-  - [``Get Team Players``](./../get-team-players#get-team-players)
-  - [``Search players``](./../search-players#search-players)
-
-### Portal User Id
-The (usually) 3rd-Party identifier for a Portal.  Examples:  Steam ID, PS4 GamerTag, Xbox GamerTag, Switch GamerTag.
-
-### Steam ID
-> int
-
-This is the Player Steam ID.
-
-### Gamer Tag
+## Hour :watch:
 > string
 
-Typically an alphanumeric descriptor of an individual on a [Portal](#portal-id). This value might not be unique depending on [Portal](#portal-id).
+Valid values: 0 - 23. An hour parameter of -1 represents the entire day, but be warned that this may be more data than we can return for certain queues.
 
-## Portal
-> int
+To avoid HTTP timeouts in the [GetMatchIdsByQueue](#get-match-ids-by-queue) method, you can now specify a 10-minute window within the specified {hour} field to lessen the size of data returned by appending a “,mm” value to the end of {hour}. For example, to get the match Ids for the first 10 minutes of hour 3, you would specify {hour} as “3,00”.  This would only return the Ids between the time 3:00 to 3:09. Rules below:
+  - Only valid values for mm are “00”, “10”, “20”, “30”, “40”, “50”
+  - To get the entire third hour worth of Match Ids, call [GetMatchIdsByQueue](#get-match-ids-by-queue) 6 times, specifying the following values for {hour}: “3,00”, “3,10”, “3,20”, “3,30”, “3,40”, “3,50”. 
+  - The standard, full hour format of {hour} = “hh” is still supported.
 
-A “Portal” is a gateway into our games via an identifier.  In the past it would have been synonymous with a hardware platform... but because of gateways such as “Steam” it is more than just a hardware platform.
-
-<details markdown="1">
-<summary>Platforms</summary>
-
-Represents Platform as follows:
-<table>
-  <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
-  <tr><td>1</td><td>Hi-Rez</td><td><img src="./../.assets/logos/hirez.png" height="32" width="32"/></td></tr>
-  <tr><td>5</td><td>Steam</td><td><img src="./../.assets/logos/steam.png" height="32" width="32"/></td></tr>
-  <tr><td>9</td><td>PS4</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
-  <tr><td>10</td><td>Xbox</td><td><img src="./../.assets/logos/xbox.png" height="32" width="32"/></td></tr>
-  <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
-  <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
-  <tr><td>25</td><td>Discord</td><td><img src="./../.assets/logos/discord.png" height="32" width="32"/></td></tr>
-</table>
-</details>
-
-<!--
-## Platform type
-
-Windows = 1
-Mac = 2
-Xbox_Nintendo = 3
-PSN = 4
-#9: ????? #10: ?????
--->
-
-## Queue ID
+## Game Mode
 > int
 
 The queue_id is an unique id for each playable game mode in a game (last updated 2019-12-10).
 
-### Queue ID - Paladins
+### Game Mode - Paladins
 > int
 
 <details markdown="1">
@@ -756,7 +640,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
 </table>
 </details>
 
-### Queue ID - Realm Royale
+### Game Mode - Realm Royale
 > int
 
 <details markdown="1">
@@ -782,6 +666,122 @@ The queue_id is an unique id for each playable game mode in a game (last updated
   <tr><td>10205</td><td>Custom Game Trio</td><td></td></tr>
 </table>
 </details>
+
+## Language :globe_with_meridians:
+> int
+
+The language Id that you want results returned in. Default is 1.
+<!--
+https://flagpedia.net/emoji
+https://emojipedia.org/flags/
+-->
+<details markdown="1">
+<summary>Languages</summary>
+
+Valid values are:
+<table>
+	<tr><th>ID</th><th>Language</th><th>Flag</th></tr>
+	<tr><td>1</td><td align='center'>English</td><td>🇺🇸</td></tr>
+	<tr><td>2</td><td align='center'>German</td><td>🇩🇪</td></tr>
+	<tr><td>3</td><td align='center'>French</td><td>🇫🇷</td></tr>
+	<tr><td>5</td><td align='center'>Chinese</td><td>🇨🇳</td></tr>
+	<tr><td>7</td><td align='center'>Spanish</td><td>🇪🇸</td></tr>
+	<tr><td>9</td><td align='center'>Spanish (Latin America)</td><td>🇦🇷</td></tr>
+	<tr><td>10</td><td align='center'>Portuguese</td><td>🇧🇷</td></tr>
+	<tr><td>11</td><td align='center'>Russian</td><td>🇷🇺</td></tr>
+	<tr><td>12</td><td align='center'>Polish</td><td>🇵🇱</td></tr>
+	<tr><td>13</td><td align='center'>Turkish</td><td>🇹🇷</td></tr>
+</table>
+</details>
+
+## Match ID
+> int: <i>The id of a match.</i><br/>
+
+The Match ID is an unique id for each map that’s created by the server for a set of players.
+
+The “match_id” can be obtained from:
+  - [``GetMatchHistory``](./../get-match-history.md#get-match-history)
+  - [``GetMatchIdsByQueue``](./../get-match-ids-by-queue.md#get-match-ids-by-queue)
+  - [``GetPlayerMatchHistory``](./../get-player-match-history.md#get-player-match-history)
+  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
+  - [``GetPlayerStatus``](./../get-player-status.md#get-player-status)
+  - [``GetPlayerMatchHistoryAfterDateTime``](./../get-player-match-history-after-datetim.md#get-player-match-history-after-datetime)
+  - [``GetTopMatches``](./../get-top-matches.md#get-top-matches).
+
+## Player
+
+This may either be:
+
+### Player Name
+> string
+
+This is the Player Name.
+
+### Player ID
+> int
+
+The Player ID is an unique id for each player that's is created and internally stored by Hi-Rez.
+
+<!--available to API developers via the /getplayer API method-->
+The “player_id” can be obtained from:
+  - [``GetPlayer``](./../get-player.md#get-player)
+  - [``Get Champion Leaderboard``](./../get-champion-leaderboard#get-champion-leaderboard)
+  - [``Get Friends``](./../get-friends#get-friends)
+  - [``Get God Leaderboard``](./../get-god-leaderboard#get-god-leaderboard)
+  - [``Get Leaderboard``](./../get-leaderboard#get-leaderboard)
+  - [``Get League Leaderboard``](./../get-league-leaderboard#get-league-leaderboard)
+  - [``Get Match Details``](./../get-match-details#get-match-details)
+  - [``Get Player Batch From Match``](./../get-player-batch-from-match#get-player-batch-from-match)
+  - [``Get Player Id By Name``](./../get-player-id-by-name#get-player-id-by-name)
+  - [``Get Player Id By Portal User Id``](./../get-player-id-by-portal-user-id#get-player-id-by-portal-user-id)
+  - [``Get Player Id Info For Xbox And Switch``](./../get-player-id-info-for-xbox-and-switch#get-player-id-info-for-xbox-and-switch)
+  - [``Get Player Ids By Gamer Tag``](./../get-player-ids-by-gamer-tag#get-player-ids-by-gamer-tag)
+  - [``Get Team Players``](./../get-team-players#get-team-players)
+  - [``Search players``](./../search-players#search-players)
+
+### Portal User Id
+The (usually) 3rd-Party identifier for a Portal.  Examples:  Steam ID, PS4 GamerTag, Xbox GamerTag, Switch GamerTag.
+
+### Steam ID
+> int
+
+This is the Player Steam ID.
+
+### Gamer Tag
+> string
+
+Typically an alphanumeric descriptor of an individual on a [Portal](#portal-id). This value might not be unique depending on [Portal](#portal-id).
+
+## Portal
+> int
+
+A “Portal” is a gateway into our games via an identifier.  In the past it would have been synonymous with a hardware platform... but because of gateways such as “Steam” it is more than just a hardware platform.
+
+<details markdown="1">
+<summary>Platforms</summary>
+
+Represents Platform as follows:
+<table>
+  <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
+  <tr><td>1</td><td>Hi-Rez</td><td><img src="./../.assets/logos/hirez.png" height="32" width="32"/></td></tr>
+  <tr><td>5</td><td>Steam</td><td><img src="./../.assets/logos/steam.png" height="32" width="32"/></td></tr>
+  <tr><td>9</td><td>PS4</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
+  <tr><td>10</td><td>Xbox</td><td><img src="./../.assets/logos/xbox.png" height="32" width="32"/></td></tr>
+  <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
+  <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
+  <tr><td>25</td><td>Discord</td><td><img src="./../.assets/logos/discord.png" height="32" width="32"/></td></tr>
+</table>
+</details>
+
+<!--
+## Platform type
+
+Windows = 1
+Mac = 2
+Xbox_Nintendo = 3
+PSN = 4
+#9: ????? #10: ?????
+-->
 
 ## Season
 > int
