@@ -131,7 +131,7 @@ We recommend using this field value as an unique identifier for errors, with the
     <th align='center'> Recommendation </th>
   </tr>
   <tr>
-    <td align='center'> Approved </td>
+    <td align='center' id='ret-msg-approved'> Approved </td>
     <td style='text-align:center;vertical-align:middle'> Indicates that a new <a href="#session-authentication" title="Session">Session</a> has been created sucessful. </td>
     <td style='text-align:center;vertical-align:middle'> You may store the “session_id” is a local variable and use while it is valid. </td>
   </tr>
