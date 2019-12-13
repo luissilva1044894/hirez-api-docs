@@ -7,13 +7,6 @@ The [Hi-Rez Studios][hi_rez_studios] API returns JSON (or XML) data with players
 
 *If you are interested in creating an App that is paid and/or contains monetization features, please contact us at monetization_requests@hirezstudios.com to discuss a potential business relationship. All for-profit Apps must be pre-approved in writing by Hi-Rez (such approval to be granted or withheld in Hi-Rez's sole discretion). To the extent any for-profit Apps are approved in writing by Hi-Rez (in its sole discretion), you will be solely responsible for any and all taxes due in connection with the distribution of such App in any territory.*
 
-## Registration
-><i>An</i> [<b>``API Key``</b>](#api-key) <i>that will provide access to API.</i> The process of obtaining [<b>``API Key``</b>](#api-key) should be an one-time activity.
-
-If you don't already have a dev_id and auth_key, [<b>click here</b>](https://fs12.formsite.com/HiRez/form48/secure_index.html "Register to become developer") to become developer.
-
-If your application is accepted, you will receive an e-mail from [Hi-Rez Studios][hi_rez_studios] containing your personal [<b>``API Key``</b>](#api-key) within a few days.
-
 ## API Key
 To access the API you'll need your own set of Credentials which consist of a <i>Developer ID</i> (dev_id) and an <i>Authentication Key</i> (auth_key).
 
@@ -31,6 +24,13 @@ Here are the Credentials for a sample account:
 </table>
 
 Use your personal Credentials to access the API via a <i>Representational State Transfer</i> (<b>REST</b>) Web Service hosted at [http://api.{game}.com/{game}api.svc](#endpoint-base-urls).
+
+### Obtaining API Key (Registration)
+><i>An</i> [<b>``API Key``</b>](#api-key) <i>that will provide access to API.</i> The process of obtaining [<b>``API Key``</b>](#api-key) should be an one-time activity.
+
+If you don't already have a dev_id and auth_key, please [<b>submit an application</b>](https://fs12.formsite.com/HiRez/form48/secure_index.html "Register to become developer") to gain access to the API.
+
+If your application is accepted, you will receive an e-mail from [Hi-Rez Studios][hi_rez_studios] containing your personal [<b>``API Key``</b>](#api-key) within a few days.
 
 <i>**NOTE**</i>: The same dev_id and auth_key combination should work for SmiteAPI, PaladinsAPI and RealmAPI, across all supported platforms. Do not request a new, if you already have a Credentials.
 
