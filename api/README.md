@@ -57,13 +57,13 @@ To retrieve all information from the API, you will need to append all requests t
     <td>http://api.paladins.com/paladinsapi.svc</td>
   </tr>
   <tr>
-    <td><a href="./create-session.md#create-session" title="Create Session">method_pattern</a></td>
+    <td>method_pattern</td>
     <td>The pattern for the method above, where [response_format] is replaced by the formatting that you want returned (either JSON or XML).</td>
-    <td>/CreateSessionJSON</td>
+    <td>/<a href="./create-session.md#create-session" title="Create Session">CreateSession</a>JSON</td>
   </tr>
   <tr>
     <td>params</td>
-    <td>The method params</td>
+    <td>The method <a href="./api-parameter-details.md#api-parameter-details" title="API Parameters">params</a></td>
     <td>/{dev_id}/{signature}/{timestamp}</td>
   </tr>
 </table>
