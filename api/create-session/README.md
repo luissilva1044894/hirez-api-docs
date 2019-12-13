@@ -54,3 +54,23 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
  <timestamp>11/28/2019 3:09:16 PM</timestamp>
 </Session>
 ```
+
+**Response Details**:
+<table>
+	<tr>
+		<th>Parameter</th>
+		<th>Description</th>
+	</tr>
+	<tr>
+		<td>ret_msg</td>
+		<td>Indicates if a <a href="./../README.md#session-authentication" title="Session">Session</a> has been created sucessful. See <a href="./../README.md#ret_msg" title="ret_msg">ret_msg</a> for commons errors.</td>
+	</tr>
+	<tr>
+		<td>session_id</td>
+		<td>The received<a href="./../README.md#session-authentication" title="Session">Session</a> “<i>``session_id``</i>”. This parameter is needed to call the other methods.</td>
+	</tr>
+	<tr>
+		<td>timestamp</td>
+		<td><a href="./../api-parameter-details.md#timestamp" title="Timestamp">Timestamp</a></td>
+	</tr>
+</table>
