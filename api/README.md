@@ -58,7 +58,7 @@ To retrieve all information from the API, you will need to append all requests t
   </tr>
   <tr>
     <td>method_pattern</td>
-    <td>The pattern for the method above, where [response_format] is replaced by the formatting that you want returned (either JSON or XML).</td>
+    <td>The pattern for the method above, where [response_format] is replaced by the <a href="./api-parameter-details.md#response-type" title="Response Type">formatting</a> that you want returned (either JSON or XML).</td>
     <td>/<a href="./create-session#create-session" title="Create Session">CreateSession</a>JSON</td>
   </tr>
   <tr>
