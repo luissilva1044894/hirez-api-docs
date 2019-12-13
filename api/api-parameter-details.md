@@ -158,51 +158,51 @@ Champions are organized into 4 different classes:
 
 There are currently 44 playable champions in the game (Updated in 12/09/2019 13:31:38):
 <table>
-  <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
-  <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2404</td><td>Ash</td><td>Front Line</td><td>The War Machine</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ash.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2512</td><td>Atlas</td><td>Front Line</td><td>The Man Out of Time</td><td><img src="https://web2.hirez.com/paladins/champion-icons/atlas.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2073</td><td>Barik</td><td>Front Line</td><td>The Master Mechanic</td><td><img src="https://web2.hirez.com/paladins/champion-icons/barik.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2281</td><td>Bomb King</td><td>Damage</td><td>His Majesty</td><td><img src="https://web2.hirez.com/paladins/champion-icons/bomb-king.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2147</td><td>Buck</td><td>Flank</td><td>The Unyielding</td><td><img src="https://web2.hirez.com/paladins/champion-icons/buck.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2092</td><td>Cassie</td><td>Damage</td><td>The Hunter's Daughter</td><td><img src="https://web2.hirez.com/paladins/champion-icons/cassie.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2495</td><td>Dredge</td><td>Damage</td><td>Admiral of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/dredge.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2277</td><td>Drogoz</td><td>Damage</td><td>The Greedy</td><td><img src="https://web2.hirez.com/paladins/champion-icons/drogoz.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2094</td><td>Evie</td><td>Flank</td><td>The Winter Witch</td><td><img src="https://web2.hirez.com/paladins/champion-icons/evie.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2071</td><td>Fernando</td><td>Front Line</td><td>The Self-Appointed Knight</td><td><img src="https://web2.hirez.com/paladins/champion-icons/fernando.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2491</td><td>Furia</td><td>Support</td><td>Angel of Vengeance</td><td><img src="https://web2.hirez.com/paladins/champion-icons/furia.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2093</td><td>Grohk</td><td>Support</td><td>The Lightning Orc</td><td><img src="https://web2.hirez.com/paladins/champion-icons/grohk.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2254</td><td>Grover</td><td>Support</td><td>The Wild</td><td><img src="https://web2.hirez.com/paladins/champion-icons/grover.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2509</td><td>Imani</td><td>Damage</td><td>The Last Warder</td><td><img src="https://web2.hirez.com/paladins/champion-icons/imani.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2348</td><td>Inara</td><td>Front Line</td><td>The Stone Warden</td><td><img src="https://web2.hirez.com/paladins/champion-icons/inara.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2517</td><td>Io</td><td>Support</td><td>the Shattered Goddess</td><td><img src="https://web2.hirez.com/paladins/champion-icons/io.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2431</td><td>Jenos</td><td>Support</td><td>The Ascended</td><td><img src="https://web2.hirez.com/paladins/champion-icons/jenos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2479</td><td>Khan</td><td>Front Line</td><td>Primus of house Aico</td><td><img src="https://web2.hirez.com/paladins/champion-icons/khan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2249</td><td>Kinessa</td><td>Damage</td><td>The Bounty Hunter</td><td><img src="https://web2.hirez.com/paladins/champion-icons/kinessa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2493</td><td>Koga</td><td>Flank</td><td>The Lost Hand</td><td><img src="https://web2.hirez.com/paladins/champion-icons/koga.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2362</td><td>Lex</td><td>Flank</td><td>The Hand of Justice</td><td><img src="https://web2.hirez.com/paladins/champion-icons/lex.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2417</td><td>Lian</td><td>Damage</td><td>Scion of House Aico</td><td><img src="https://web2.hirez.com/paladins/champion-icons/lian.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2338</td><td>Maeve</td><td>Flank</td><td>of Blades</td><td><img src="https://web2.hirez.com/paladins/champion-icons/maeve.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2288</td><td>Makoa</td><td>Front Line</td><td>The Ancient</td><td><img src="https://web2.hirez.com/paladins/champion-icons/makoa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2303</td><td>Mal'Damba</td><td>Support</td><td>Wekono's Chosen</td><td><img src="https://web2.hirez.com/paladins/champion-icons/maldamba.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2481</td><td>Moji</td><td>Flank</td><td>and Friends</td><td><img src="https://web2.hirez.com/paladins/champion-icons/moji.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2056</td><td>Pip</td><td>Support</td><td>The Rogue Alchemist</td><td><img src="https://web2.hirez.com/paladins/champion-icons/pip.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2528</td><td>Raum</td><td>Front Line</td><td>Rage of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/raum.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2149</td><td>Ruckus</td><td>Front Line</td><td>The Worst of Friends</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ruckus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2372</td><td>Seris</td><td>Support</td><td>Oracle of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/seris.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2307</td><td>Sha Lin</td><td>Damage</td><td>The Desert Wind</td><td><img src="https://web2.hirez.com/paladins/champion-icons/sha-lin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2057</td><td>Skye</td><td>Flank</td><td>The Twilight Assassin</td><td><img src="https://web2.hirez.com/paladins/champion-icons/skye.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2438</td><td>Strix</td><td>Damage</td><td>Ghost Feather</td><td><img src="https://web2.hirez.com/paladins/champion-icons/strix.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2472</td><td>Talus</td><td>Flank</td><td>of the Ska'drin</td><td><img src="https://web2.hirez.com/paladins/champion-icons/talus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2477</td><td>Terminus</td><td>Front Line</td><td>The Fallen</td><td><img src="https://web2.hirez.com/paladins/champion-icons/terminus.jpg" height="64" width="64"/></td></tr>
+  <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Portrait</th></tr>
+  <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="./../.assets/paladins/characters/androxus.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2404</td><td>Ash</td><td>Front Line</td><td>The War Machine</td><td><img src="./../.assets/paladins/characters/ash.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2512</td><td>Atlas</td><td>Front Line</td><td>The Man Out of Time</td><td><img src="./../.assets/paladins/characters/atlas.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2073</td><td>Barik</td><td>Front Line</td><td>The Master Mechanic</td><td><img src="./../.assets/paladins/characters/barik.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2281</td><td>Bomb King</td><td>Damage</td><td>His Majesty</td><td><img src="./../.assets/paladins/characters/bomb-king.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2147</td><td>Buck</td><td>Flank</td><td>The Unyielding</td><td><img src="./../.assets/paladins/characters/buck.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2092</td><td>Cassie</td><td>Damage</td><td>The Hunter's Daughter</td><td><img src="./../.assets/paladins/characters/cassie.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2495</td><td>Dredge</td><td>Damage</td><td>Admiral of the Abyss</td><td><img src="./../.assets/paladins/characters/dredge.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2277</td><td>Drogoz</td><td>Damage</td><td>The Greedy</td><td><img src="./../.assets/paladins/characters/drogoz.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2094</td><td>Evie</td><td>Flank</td><td>The Winter Witch</td><td><img src="./../.assets/paladins/characters/evie.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2071</td><td>Fernando</td><td>Front Line</td><td>The Self-Appointed Knight</td><td><img src="./../.assets/paladins/characters/fernando.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2491</td><td>Furia</td><td>Support</td><td>Angel of Vengeance</td><td><img src="./../.assets/paladins/characters/furia.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2093</td><td>Grohk</td><td>Support</td><td>The Lightning Orc</td><td><img src="./../.assets/paladins/characters/grohk.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2254</td><td>Grover</td><td>Support</td><td>The Wild</td><td><img src="./../.assets/paladins/characters/grover.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2509</td><td>Imani</td><td>Damage</td><td>The Last Warder</td><td><img src="./../.assets/paladins/characters/imani.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2348</td><td>Inara</td><td>Front Line</td><td>The Stone Warden</td><td><img src="./../.assets/paladins/characters/inara.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2517</td><td>Io</td><td>Support</td><td>the Shattered Goddess</td><td><img src="./../.assets/paladins/characters/io.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2431</td><td>Jenos</td><td>Support</td><td>The Ascended</td><td><img src="./../.assets/paladins/characters/jenos.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2479</td><td>Khan</td><td>Front Line</td><td>Primus of house Aico</td><td><img src="./../.assets/paladins/characters/khan.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2249</td><td>Kinessa</td><td>Damage</td><td>The Bounty Hunter</td><td><img src="./../.assets/paladins/characters/kinessa.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2493</td><td>Koga</td><td>Flank</td><td>The Lost Hand</td><td><img src="./../.assets/paladins/characters/koga.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2362</td><td>Lex</td><td>Flank</td><td>The Hand of Justice</td><td><img src="./../.assets/paladins/characters/lex.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2417</td><td>Lian</td><td>Damage</td><td>Scion of House Aico</td><td><img src="./../.assets/paladins/characters/lian.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2338</td><td>Maeve</td><td>Flank</td><td>of Blades</td><td><img src="./../.assets/paladins/characters/maeve.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2288</td><td>Makoa</td><td>Front Line</td><td>The Ancient</td><td><img src="./../.assets/paladins/characters/makoa.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2303</td><td>Mal'Damba</td><td>Support</td><td>Wekono's Chosen</td><td><img src="./../.assets/paladins/characters/maldamba.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2481</td><td>Moji</td><td>Flank</td><td>and Friends</td><td><img src="./../.assets/paladins/characters/moji.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2056</td><td>Pip</td><td>Support</td><td>The Rogue Alchemist</td><td><img src="./../.assets/paladins/characters/pip.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2528</td><td>Raum</td><td>Front Line</td><td>Rage of the Abyss</td><td><img src="./../.assets/paladins/characters/raum.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2149</td><td>Ruckus</td><td>Front Line</td><td>The Worst of Friends</td><td><img src="./../.assets/paladins/characters/ruckus.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2372</td><td>Seris</td><td>Support</td><td>Oracle of the Abyss</td><td><img src="./../.assets/paladins/characters/seris.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2307</td><td>Sha Lin</td><td>Damage</td><td>The Desert Wind</td><td><img src="./../.assets/paladins/characters/sha-lin.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2057</td><td>Skye</td><td>Flank</td><td>The Twilight Assassin</td><td><img src="./../.assets/paladins/characters/skye.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2438</td><td>Strix</td><td>Damage</td><td>Ghost Feather</td><td><img src="./../.assets/paladins/characters/strix.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2472</td><td>Talus</td><td>Flank</td><td>of the Ska'drin</td><td><img src="./../.assets/paladins/characters/talus.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2477</td><td>Terminus</td><td>Front Line</td><td>The Fallen</td><td><img src="./../.assets/paladins/characters/terminus.jpg" height="64" width="64"/></td></tr>
     <tr><td>2529</td><td>Tiberius</td><td>Damage</td><td>The Weapons Master</td><td><img src="./../.assets/paladins/characters/tiberius/icon.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2322</td><td>Torvald</td><td>Front Line</td><td>The Runic Sage</td><td><img src="https://web2.hirez.com/paladins/champion-icons/torvald.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="https://web2.hirez.com/paladins/champion-icons/tyra.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="https://web2.hirez.com/paladins/champion-icons/viktor.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2480</td><td>Vivian</td><td>Damage</td><td>The Cunning</td><td><img src="https://web2.hirez.com/paladins/champion-icons/vivian.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2393</td><td>Willo</td><td>Damage</td><td>of the Summer Court</td><td><img src="https://web2.hirez.com/paladins/champion-icons/willo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2267</td><td>Ying</td><td>Support</td><td>The Blossom</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ying.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2420</td><td>Zhin</td><td>Flank</td><td>The Tyrant</td><td><img src="https://web2.hirez.com/paladins/champion-icons/zhin.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2322</td><td>Torvald</td><td>Front Line</td><td>The Runic Sage</td><td><img src="./../.assets/paladins/characters/torvald.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="./../.assets/paladins/characters/tyra.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="./../.assets/paladins/characters/viktor.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2480</td><td>Vivian</td><td>Damage</td><td>The Cunning</td><td><img src="./../.assets/paladins/characters/vivian.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2393</td><td>Willo</td><td>Damage</td><td>of the Summer Court</td><td><img src="./../.assets/paladins/characters/willo.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2267</td><td>Ying</td><td>Support</td><td>The Blossom</td><td><img src="./../.assets/paladins/characters/ying.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2420</td><td>Zhin</td><td>Flank</td><td>The Tyrant</td><td><img src="./../.assets/paladins/characters/zhin.jpg" height="64" width="64"/></td></tr>
   </table>
 </details>
 
