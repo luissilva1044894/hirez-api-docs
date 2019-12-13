@@ -126,10 +126,12 @@ A DateTime in the following format: ``yyyyMMdd`` - “20191210” (for Dec 10, 2
 ## Hour :watch:
 > string
 
+Valid values: 0 - 23. An hour parameter of -1 represents the entire day, but be warned that this may be more data than we can return for certain queues.
+
 To avoid HTTP timeouts in the [``GetMatchIdsByQueue``](#get-match-ids-by-queue) method, you can now specify a 10-minute window within the specified {hour} field to lessen the size of data returned by appending a “,mm” value to the end of {hour}. For example, to get the match Ids for the first 10 minutes of hour 3, you would specify {hour} as “3,00”.  This would only return the Ids between the time 3:00 to 3:09.  Rules below:
-			Only valid values for mm are “00”, “10”, “20”, “30”, “40”, “50”
-			To get the entire third hour worth of Match Ids, call [``GetMatchIdsByQueue``](#get-match-ids-by-queue) 6 times, specifying the following values for {hour}: “3,00”, “3,10”, “3,20”, “3,30”, “3,40”, “3,50”. 
-			The standard, full hour format of {hour} = “hh” is still supported.
+  - Only valid values for mm are “00”, “10”, “20”, “30”, “40”, “50”
+  - To get the entire third hour worth of Match Ids, call [``GetMatchIdsByQueue``](#get-match-ids-by-queue) 6 times, specifying the following values for {hour}: “3,00”, “3,10”, “3,20”, “3,30”, “3,40”, “3,50”. 
+  - The standard, full hour format of {hour} = “hh” is still supported.
 
 ## God ID
 > int
