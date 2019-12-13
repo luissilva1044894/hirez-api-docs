@@ -17,7 +17,7 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 	</tr>
 	<tr>
 		<td>response_type</td>
-		<td>A valid <a href="./../api-parameter-details.md#response_type" title="Response Type">Response Type</a></td>
+		<td>A valid <a href="./../api-parameter-details.md#response-type" title="Response Type">Response Type</a></td>
 		<td>“json”</td>
 	</tr>
 	<tr>
