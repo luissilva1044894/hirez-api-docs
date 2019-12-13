@@ -695,7 +695,7 @@ The queue_id is an unique id for each playable game mode in a game (last updated
     <td>480</td>
     <td>Custom Team Deathmatch - Throne</td>
     <td>This version of Custom <a href="#game-modes-paladins-team-deathmatch-description">Team Deathmatch</a> allows players to open up own matches - with own game settings. But no game progress can be achieved in these matches.</td>
-    <td><img src="./../.assets/paladins/maps/team-deathmatch/abyss.jpg" height="75" width="75"/></td>
+    <td><img src="./../.assets/paladins/maps/abyss-spire.jpg" height="75" width="75"/></td>
   </tr>
   <tr>
     <td>483</td>
