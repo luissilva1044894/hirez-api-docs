@@ -195,7 +195,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
     <tr><td>2438</td><td>Strix</td><td>Damage</td><td>Ghost Feather</td><td><img src="https://web2.hirez.com/paladins/champion-icons/strix.jpg" height="64" width="64"/></td></tr>
     <tr><td>2472</td><td>Talus</td><td>Flank</td><td>of the Ska'drin</td><td><img src="https://web2.hirez.com/paladins/champion-icons/talus.jpg" height="64" width="64"/></td></tr>
     <tr><td>2477</td><td>Terminus</td><td>Front Line</td><td>The Fallen</td><td><img src="https://web2.hirez.com/paladins/champion-icons/terminus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2529</td><td>Tiberius</td><td>Damage</td><td>The Weapons Master</td><td><img src="https://web2.hirez.com/paladins/champion-icons/tiberius.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2529</td><td>Tiberius</td><td>Damage</td><td>The Weapons Master</td><td><img src="./../.assets/paladins/characters/tiberius/icon.jpg" height="64" width="64"/></td></tr>
     <tr><td>2322</td><td>Torvald</td><td>Front Line</td><td>The Runic Sage</td><td><img src="https://web2.hirez.com/paladins/champion-icons/torvald.jpg" height="64" width="64"/></td></tr>
     <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="https://web2.hirez.com/paladins/champion-icons/tyra.jpg" height="64" width="64"/></td></tr>
     <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="https://web2.hirez.com/paladins/champion-icons/viktor.jpg" height="64" width="64"/></td></tr>
