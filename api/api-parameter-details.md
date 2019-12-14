@@ -680,17 +680,17 @@ https://emojipedia.org/flags/
 
 Valid values are:
 <table>
-	<tr><th>ID</th><th>Language</th><th>Flag</th></tr>
-	<tr><td>1</td><td align='center'>English</td><td>🇺🇸</td></tr>
-	<tr><td>2</td><td align='center'>German</td><td>🇩🇪</td></tr>
-	<tr><td>3</td><td align='center'>French</td><td>🇫🇷</td></tr>
-	<tr><td>5</td><td align='center'>Chinese</td><td>🇨🇳</td></tr>
-	<tr><td>7</td><td align='center'>Spanish</td><td>🇪🇸</td></tr>
-	<tr><td>9</td><td align='center'>Spanish (Latin America)</td><td>🇦🇷</td></tr>
-	<tr><td>10</td><td align='center'>Portuguese</td><td>🇧🇷</td></tr>
-	<tr><td>11</td><td align='center'>Russian</td><td>🇷🇺</td></tr>
-	<tr><td>12</td><td align='center'>Polish</td><td>🇵🇱</td></tr>
-	<tr><td>13</td><td align='center'>Turkish</td><td>🇹🇷</td></tr>
+	<tr><th>ID</th><th>Language</th><th>Name</th><th></th><th>Flag</th></tr>
+	<tr><td>1</td><td align='center'>English</td><td></td><td>en_US</td><td>🇺🇸</td></tr>
+	<tr><td>2</td><td align='center'>German</td><td>Deutsch</td><td>de_DE</td><td>🇩🇪</td></tr>
+	<tr><td>3</td><td align='center'>French</td><td>Français</td><td>fr_FR</td><td>🇫🇷</td></tr>
+	<tr><td>5</td><td align='center'>Chinese</td><td></td><td>zh_CN</td><td>🇨🇳</td></tr>
+	<tr><td>7</td><td align='center'>Spanish</td><td></td><td>es_ES</td><td>🇪🇸</td></tr>
+	<tr><td>9</td><td align='center'>Spanish (Latin America)</td><td>Español</td><td>es_LA</td><td>🇦🇷</td></tr>
+	<tr><td>10</td><td align='center'>Portuguese</td><td>Português do Brasil</td><td>pt_BR</td><td>🇧🇷</td></tr>
+	<tr><td>11</td><td align='center'>Russian</td><td>Русский</td><td>ru_RU</td><td>🇷🇺</td></tr>
+	<tr><td>12</td><td align='center'>Polish</td><td>Polski</td><td>pl_PL</td><td>🇵🇱</td></tr>
+	<tr><td>13</td><td align='center'>Turkish</td><td>Türkçe</td><td>tr_TR</td><td>🇹🇷</td></tr>
 </table>
 </details>
 
@@ -765,7 +765,7 @@ Represents Platform as follows:
   <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
   <tr><td>1</td><td>Hi-Rez</td><td><img src="./../.assets/logos/hirez.png" height="32" width="32"/></td></tr>
   <tr><td>5</td><td>Steam</td><td><img src="./../.assets/logos/steam.png" height="32" width="32"/></td></tr>
-  <tr><td>9</td><td>PS4</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
+  <tr><td>9</td><td>Play Station</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
   <tr><td>10</td><td>Xbox</td><td><img src="./../.assets/logos/xbox.png" height="32" width="32"/></td></tr>
   <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
   <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
