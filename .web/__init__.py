@@ -19,7 +19,8 @@ def get_avatar(avatar_id, path):
     'best-boy': 24611, 'summer-blossom': 24612, 'vanguard': 24669, 'bubbles': 24678, 'baby-steps': 24679, 'dragon-forged': 24680, 'dwarven-strength': 24681,
     'unrelenting': 24709, 'charming': 24758, 'sunset': 24759, 'lifesaver': 24760, 'beach-vibes': 24824, 'groovy-grover': 24887, 'grohk-rock': 24888, 'celebrity-io': 24889,
     'popstar-skye': 24890, 'greaser-lex': 24891, 'fallen-champion': 24892, 'reckoning': 24897, 'resolute': 24898, 'redbeard': 24969, 'bubbly': 24970, 'pirateer': 24972,
-    'kitsune': 24973, 'blu': 25021, 'molly-the-shark': 25022, 'suave-saguaro': 25138, 'wanted-man': 25139, 'bandits-fury': 25140, 'smoked': 25141}.get(str(avatar_id).lower().replace(' ', '-').replace("'", ''), 0), path)
+    'kitsune': 24973, 'blu': 25021, 'molly-the-shark': 25022, 'suave-saguaro': 25138, 'wanted-man': 25139, 'bandits-fury': 25140, 'smoked': 25141,
+    'lenny-the-pirate': 25161}.get(str(avatar_id).lower().replace(' ', '-').replace("'", ''), 0), path)
 
 def create_app(*args, **kw):
   app = Flask(kw.pop('name', __name__), static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.assets')), **kw)#, static_url_path=kw.pop('static_folder', '')
