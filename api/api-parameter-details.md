@@ -115,6 +115,7 @@ Valid values are:
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/monarch.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/soul-bri.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talus-monkey.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Spring Fling</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
