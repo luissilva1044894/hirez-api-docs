@@ -205,6 +205,11 @@ We recommend using this field value as an unique identifier for errors, with the
     <td style='text-align:center;vertical-align:middle'>  </td>
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
+  <tr>
+    <td align='center'> Year, Month, and Day parameters describe an un-representable DateTime. </td>
+    <td style='text-align:center;vertical-align:middle'> This error means that the date sent to the API was not determined to be valid format. </td>
+    <td style='text-align:center;vertical-align:middle'>  </td>
+  </tr>
 </table>
 <!--Or if the ret_msg is containing: dailylimit (7500 requests reached) / 404-->
 
