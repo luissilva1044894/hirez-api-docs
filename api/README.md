@@ -136,7 +136,17 @@ We recommend using this field value as an unique identifier for errors, with the
     <td style='text-align:center;vertical-align:middle'> You may store the “session_id” is a local variable and use while it is valid. </td>
   </tr>
   <tr>
+    <td align='center'> dailylimit </td>
+    <td style='text-align:center;vertical-align:middle'> Indicates that the dev_id used in the request has reached its rate limit and you may be unable to request new data. </td>
+    <td style='text-align:center;vertical-align:middle'> You may wait until the limit ends. </td>
+  </tr>
+  <tr>
     <td align='center'> Daily request limit reached </td>
+    <td style='text-align:center;vertical-align:middle'> Indicates that the dev_id used in the request has reached its rate limit and you may be unable to request new data. </td>
+    <td style='text-align:center;vertical-align:middle'> You may wait until the limit ends. </td>
+  </tr>
+  <tr>
+    <td align='center'> Exceeded daily session cap. </td>
     <td style='text-align:center;vertical-align:middle'> Indicates that the dev_id used in the request has reached its rate limit and you may be unable to request new data. </td>
     <td style='text-align:center;vertical-align:middle'> You may wait until the limit ends. </td>
   </tr>
@@ -191,7 +201,7 @@ We recommend using this field value as an unique identifier for errors, with the
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
   <tr>
-    <td align='center'> Maximum number of active sessions reached </td>
+    <td align='center'> Maximum number of active sessions reached. </td>
     <td style='text-align:center;vertical-align:middle'> Indicates that you have exceeded rate limits for <a href="#session-authentication" title="Session">Session</a> creation and you may be unable to create a new. </td>
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
