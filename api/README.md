@@ -34,6 +34,16 @@ If your application is accepted, you will receive an e-mail from [Hi-Rez Studios
 
 <i>**NOTE**</i>: The same dev_id and auth_key combination should work for SmiteAPI, PaladinsAPI and RealmAPI, across all supported platforms. Do not request a new, if you already have a Credentials.
 
+### Tokens and API Key Security
+
+API keys should be treated as secret data and not exposed to users. To ensure the security of your [API key](#api-key), we strongly suggest that you make requests to the API server-side whenever possible.
+
+Any requests to the API made via client-side present the risk of your API key being compromised. Most importantly, never include your [api_key](#api-key) inline in your code. For additional security, don't have the key itself contained anywhere in your code, keep it in a variable stored in a privately scoped method.
+
+<!--
+Any requests to the API made via client-side JavaScript present the risk of your API key being compromised. It is possible to partially obfuscate the key, but anything sent to the browser can be read by a determined user. Most importantly, never include your [api_key](#api-key) inline in the page. Keep any references to your [api_key](#api-key) in code that is contained in external javascript files which are included in the page. For additional security, don't have the key itself contained anywhere in your javascript code, but rather make an ajax call to load it, and keep it in a variable stored in a privately scoped method.
+-->
+
 ## Endpoint Base URLs
 To retrieve all information from the API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you are wanting to access concatenated with the response type you are wanting.
 
@@ -41,7 +51,7 @@ To retrieve all information from the API, you will need to append all requests t
   - [Realm Royale][realm_royale]: `http://api.realmroyale.com/realmapi.svc`
   - [Smite][smite]: `http://api.smitegame.com/smiteapi.svc`
 
-## Calling API Methods
+## Calling API Request's
 
 ><i>base_url_endpoint/method_pattern[response_format]/params</i><br/>The url format for calling a method from the api
 
@@ -101,21 +111,69 @@ In the case that a rate limit is exceeded, the API will return a [``ret_msg``](#
 
 ### Tips to avoid being Rate Limited
 
-See [Best Practices](#best-practices).
-
 <!-- ### Best practices
   - Spread out queries evenly between two time intervals to avoid sending traffic in spikes.
   - If Users are being throttled, be sure your app is not the cause. Reduce the user’s calls or spread the user’s calls more evenly over time.
   - Verify the error code and API endpoint to confirm the throttling type.
 -->
 
+#### Avoiding API Calls on Page Loads
+
+Most rate limiting issues are caused by extraneous API calls. For example, don’t try to call the API on every page load of your website landing page. Instead, call the API infrequently and load the response into a [local cache](#caching). When users hit your website load the cached version of the results.
+
+#### Caching
+
+Store API responses in your application or on your site if you expect a lot of use. You may cache data locally wherever possible.
+
+#### Checking for Errors
+
+An invalid or rate limited request to the API will return a non-null [ret_msg](#ret_msg). Please check all API responses for errors.
+
+#### Prioritize active users
+
+If your site keeps track of many player (for example, fetching their current status or statistics about their game stats), consider only requesting data for users who have recently signed into your site.
+
+#### Batch Processing
+
+The API does not support requesting more than one resource with a single API call. However,  many ids can be handled in one API call using the [Get Player Batch](./get-player-batch#get-player-batch), [Get Player Batch From Match](./get-player-batch#get-player-batch) and [Get Match Details Batch](./get-player-batch#get-player-batch) endpoints.
+
+We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
+
+The following table illustrates this concept.
+<table>
+  <tr>
+    <th align='center'>Example Request(s)</th>
+    <th align='center'>Number of API Calls</th>
+  </tr>
+  <tr>
+    <td style='text-align:center;vertical-align:middle'>
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
+      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
+    </td>
+    <td align='center'>3</td>
+  </tr>
+    <td style='text-align:center;vertical-align:middle'>
+      /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
+    </td>
+    <td align='center'>1</td>
+  </tr>
+</table>
+
 ## Session (Authentication)
 ><i>To begin using the API, you will first need to establish a valid Session.</i>
 
-To Authenticating with the API, you may start a Session (via the [``CreateSession``](./create-session#create-session) method) and receive a <i>``session_id``</i>. Sessions are used for authentication, security, monitoring, and throttling.
+To Authenticating with the API, you may start a Session (via the [``CreateSession``](./create-session#create-session) method) and receive a <i>``session_id``</i>. Sessions are used for authentication, security, monitoring, and throttling. Once you obtain a <i>``Session``</i>, you will pass it to other methods for authentication.
 
-Once you obtain a <i>``Session``</i>, you will pass it to other methods for authentication.
-Each session expire after 15 minutes without activity, each API call “resets the clock” (In other words, only when idle for 15 minutes), and must be recreated afterward.
+### Refreshing Sessions
+
+Sessions have expirations. Each session expire after 15 minutes without activity and must be recreated afterward, each API call “resets the clock” (In other words, only when idle for 15 minutes). Sessions return an `timestamp` field indicating when a Session  was acquired. However, you should build your applications in such a way that they are resilient to Session authentication failures. In other words, an application capable of refreshing Sessions should not need to know how long a Session will live. Rather, it should be prepared to deal with the Session becoming invalid at any time. Session expirations do not affect existing Sessions.
+
+### Refresh in Response to Server Rejection for Bad Authentication
+
+We recommend that you refresh your Sessions in response to being rejected by the server for bad authentication. It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible. For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
+
+When you make a request with expired or incorrect Session, the API returns a <a href="#ret-msg-invalid-session-id" title="Invalid Session Id">ret_msg error</a>.<!-- (with an invalid_token error)-->
 
 More details regarding Session creation are provided in [``CreateSession``](./create-session#create-session).
 
@@ -186,7 +244,7 @@ We recommend using this field value as an unique identifier for errors, with the
     <td style='text-align:center;vertical-align:middle'>  </td>
   </tr>
   <tr>
-    <td align='center'> Invalid session id. </td>
+    <td align='center' id='ret-msg-invalid-session-id'> Invalid session id. </td>
     <td style='text-align:center;vertical-align:middle'> This error means that the <a href="#session-authentication" title="Session">Session</a> sent was invalid or not alive, you may start a new session. </td>
     <td style='text-align:center;vertical-align:middle'> Use an existent/alive or start a new Session. </td>
   </tr>
@@ -224,59 +282,6 @@ We recommend using this field value as an unique identifier for errors, with the
 <!--Or if the ret_msg is containing: dailylimit (7500 requests reached) / 404-->
 
 ## Best Practices
-
-### Tokens and API Key Security
-
-API keys should be treated as secret data and not exposed to users. To ensure the security of your [API key](#api-key), we strongly suggest that you make requests to the API server-side whenever possible.
-
-Any requests to the API made via client-side present the risk of your API key being compromised. Most importantly, never include your [api_key](#api-key) inline in your code. For additional security, don't have the key itself contained anywhere in your code, keep it in a variable stored in a privately scoped method.
-
-<!--
-Any requests to the API made via client-side JavaScript present the risk of your API key being compromised. It is possible to partially obfuscate the key, but anything sent to the browser can be read by a determined user. Most importantly, never include your [api_key](#api-key) inline in the page. Keep any references to your [api_key](#api-key) in code that is contained in external javascript files which are included in the page. For additional security, don't have the key itself contained anywhere in your javascript code, but rather make an ajax call to load it, and keep it in a variable stored in a privately scoped method.
--->
-
-### Avoiding API Calls on Page Loads
-
-Most rate limiting issues are caused by extraneous API calls. For example, don’t try to call the API on every page load of your website landing page. Instead, call the API infrequently and load the response into a [local cache](#caching). When users hit your website load the cached version of the results.
-
-### Caching
-
-Store API responses in your application or on your site if you expect a lot of use. You may cache data locally wherever possible.
-
-### Checking for Errors
-
-An invalid or rate limited request to the API will return a non-null [ret_msg](#ret_msg). Please check all API responses for errors.
-
-### Prioritize active users
-
-If your site keeps track of many player (for example, fetching their current status or statistics about their game stats), consider only requesting data for users who have recently signed into your site.
-
-### Batch Processing
-
-The API does not support requesting more than one resource with a single API call. However,  many ids can be handled in one API call using the [Get Player Batch](./get-player-batch#get-player-batch), [Get Player Batch From Match](./get-player-batch#get-player-batch) and [Get Match Details Batch](./get-player-batch#get-player-batch) endpoints.
-
-We strongly recommend specify multiple IDs in one API request when possible as this improves performance of your API responses.
-
-The following table illustrates this concept.
-<table>
-  <tr>
-    <th align='center'>Example Request(s)</th>
-    <th align='center'>Number of API Calls</th>
-  </tr>
-  <tr>
-    <td style='text-align:center;vertical-align:middle'>
-      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1}<br/>
-      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id2}<br/>
-      /getplayer[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id3}
-    </td>
-    <td align='center'>3</td>
-  </tr>
-    <td style='text-align:center;vertical-align:middle'>
-      /getplayerbatch[response_format]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id1},{player_id2},{player_id3}
-    </td>
-    <td align='center'>1</td>
-  </tr>
-</table>
 
 ## Frequently Asked Questions (FAQ)
 
