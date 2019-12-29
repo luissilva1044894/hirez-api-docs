@@ -167,11 +167,19 @@ To Authenticating with the API, you may start a Session (via the [``CreateSessio
 
 ### Refreshing Sessions
 
-Sessions have expirations. Each session expire after 15 minutes without activity and must be recreated afterward, each API call “resets the clock” (In other words, only when idle for 15 minutes). Sessions return an `timestamp` field indicating when a Session  was acquired. However, you should build your applications in such a way that they are resilient to Session authentication failures. In other words, an application capable of refreshing Sessions should not need to know how long a Session will live. Rather, it should be prepared to deal with the Session becoming invalid at any time. Session expirations do not affect existing Sessions.
+Sessions have expirations. Each session expire after 15 minutes without activity and must be recreated afterward, each API call “resets the clock” (In other words, only when idle for 15 minutes). Session expirations do not affect existing Sessions.
+
+Sessions return an `timestamp` field indicating when a Session  was acquired. However, you should build your applications in such a way that they are resilient to Session authentication failures.
+
+In other words, an application capable of refreshing Sessions should not need to know how long a Session will live. Rather, it should be prepared to deal with the Session becoming invalid at any time.
 
 ### Refresh in Response to Server Rejection for Bad Authentication
 
-We recommend that you refresh your Sessions in response to being rejected by the server for bad authentication. It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible. For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
+We recommend that you refresh your Sessions in response to being rejected by the server for bad authentication.
+
+It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible.
+
+For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
 
 When you make a request with expired or incorrect Session, the API returns a <a href="#ret-msg-invalid-session-id" title="Invalid Session Id">ret_msg error</a>.<!-- (with an invalid_token error)-->
 
