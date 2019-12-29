@@ -167,11 +167,11 @@ To Authenticating with the API, you may start a Session (via the [``CreateSessio
 
 ### Refreshing Sessions
 
-Sessions have expirations. Each session expire after 15 minutes without activity and must be recreated afterward, each API call “resets the clock” (In other words, only when idle for 15 minutes). Session expirations do not affect existing Sessions.
+Sessions have expirations and must be recreated afterward, expirations do not affect existing Sessions.
 
-Sessions return an `timestamp` field indicating when a Session  was acquired. However, you should build your applications in such a way that they are resilient to Session authentication failures.
+Each session lasts for 15 minutes without activity (In other words, only when idle for 15 minutes). Each API call “resets the clock” . Sessions return an `timestamp` field indicating when a Session  was acquired.
 
-In other words, an application capable of refreshing Sessions should not need to know how long a Session will live. Rather, it should be prepared to deal with the Session becoming invalid at any time.
+However, you should build your applications in such a way that they are resilient to Session authentication failures. In other words, an application capable of refreshing Sessions should not need to know how long a Session will live. Rather, it should be prepared to deal with the Session becoming invalid at any time.
 
 ### Refresh in Response to Server Rejection for Bad Authentication
 
