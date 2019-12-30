@@ -267,7 +267,7 @@ We recommend using this field value as an unique identifier for errors, with the
   <tr>
     <td align='center'> Maximum number of active sessions reached. </td>
     <td style='text-align:center;vertical-align:middle'> Indicates that you have exceeded rate limits for <a href="#session-authentication" title="Session">Session</a> creation and you may be unable to create a new. </td>
-    <td style='text-align:center;vertical-align:middle'>  </td>
+    <td style='text-align:center;vertical-align:middle'>You may wait until the limit ends.</td>
   </tr>
   <tr>
     <td align='center'> No Match Details:{match_id} </td>
