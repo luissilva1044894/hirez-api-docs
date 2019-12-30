@@ -165,6 +165,8 @@ The following table illustrates this concept.
 
 To Authenticating with the API, you may start a Session (via the [``CreateSession``](./create-session#create-session) method) and receive a <i>``session_id``</i>. Sessions are used for authentication, security, monitoring, and throttling. Once you obtain a <i>``Session``</i>, you will pass it to other methods for authentication.
 
+More details regarding Session creation are provided in [``CreateSession``](./create-session#create-session).
+
 ### Refreshing Sessions
 
 Sessions have expirations and must be recreated afterward, expirations do not affect existing Sessions.
@@ -180,8 +182,6 @@ We recommend that you refresh your Sessions in response to being rejected by the
 It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible. For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
 
 When you make a request with expired or incorrect Session, the API returns a <a href="#ret-msg-invalid-session-id" title="Invalid Session Id">ret_msg error</a>.<!-- (with an invalid_token error)-->
-
-More details regarding Session creation are provided in [``CreateSession``](./create-session#create-session).
 
 ## ret_msg
 The API expose a field called “`ret_msg`” to represent an error or rate limit being encountered.
