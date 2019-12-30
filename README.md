@@ -80,10 +80,10 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 * [![wrapper_java_hi_rez_api][badge_wrapper_java_hi_rez_api]][badge_wrapper_java_hi_rez_api_github]
 [![wrapper_java_paladins_java_api][badge_wrapper_java_paladins_java_api]][badge_wrapper_java_paladins_java_api_github]
 [![wrapper_java_smite_api][badge_wrapper_java_smite_api]][badge_wrapper_java_smite_api_github]
-* [![badge_wrapper_javascript_paladins_api][badge_wrapper_javascript_paladins_api]][badge_wrapper_javascript_paladins_api_github]
+* [![wrapper_javascript_joshmiquel-hirez][badge_wrapper_javascript_joshmiquel-hirez]][badge_wrapper_javascript_joshmiquel-hirez_github]
+  [![badge_wrapper_javascript_paladins_api][badge_wrapper_javascript_paladins_api]][badge_wrapper_javascript_paladins_api_github]
   [![wrapper_javascript_paladins.js][badge_wrapper_javascript_paladins.js]][badge_wrapper_javascript_paladins.js_github]
   [![wrapper_javascript_paladins_api_node.js][badge_wrapper_javascript_paladins_api_node]][badge_wrapper_javascript_paladins_api_node_github]
-  [![wrapper_javascript_hirez.js][badge_wrapper_javascript_hirez.js]][badge_wrapper_javascript_hirez.js_github]
 * [![wrapper_kotlin_hirez_sdk_kotlin][badge_wrapper_kotlin_hirez_sdk_kotlin]][badge_wrapper_kotlin_hirez_sdk_kotlin_github]
   [![wrapper_kotlin_paladins_api_kotlin][badge_wrapper_kotlin_paladins_api_kotlin]][badge_wrapper_kotlin_paladins_api_kotlin_github]
 * [![wrapper_php_php_api][badge_wrapper_php_php_api]][badge_wrapper_php_php_api_github]
@@ -212,6 +212,9 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_java_smite_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=smite%20api&color=blueviolet&style=plastic&link=https://github.com/Rabrg/smite-api
 [badge_wrapper_java_smite_api_github]: https://github.com/Rabrg/smite-api "smite-api · Github repo"
 
+[badge_wrapper_javascript_joshmiquel-hirez]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=joshmiquel-hirez&color=blueviolet&style=plastic&link=https://github.com/JoShMiQueL/joshmiquel-hirez
+[badge_wrapper_javascript_joshmiquel-hirez_github]: https://github.com/JoShMiQueL/joshmiquel-hirez "joshmiquel-hirez · Github repo"
+
 [badge_wrapper_javascript_paladins_api]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins%20api&color=blueviolet&style=plastic&link=https://github.com/itspauloroberto/paladins-api
 [badge_wrapper_javascript_paladins_api_github]: https://github.com/itspauloroberto/paladins-api "paladins-api · Github repo"
 
@@ -220,9 +223,6 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 
 [badge_wrapper_javascript_paladins_api_node]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins%20api%20node&color=blueviolet&style=plastic&link=https://github.com/barenddt/paladins-api-node
 [badge_wrapper_javascript_paladins_api_node_github]: https://github.com/barenddt/paladins-api-node "paladins-api-node · Github repo"
-
-[badge_wrapper_javascript_hirez.js]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=hirez.js&color=blueviolet&style=plastic&link=https://github.com/messyfresh/hirez.js
-[badge_wrapper_javascript_hirez.js_github]: https://github.com/messyfresh/hirez.js "hirez.js · Github repo"
 
 [badge_wrapper_kotlin_hirez_sdk_kotlin]: https://img.shields.io/static/v1?label=Kotlin&logo=kotlin&logoWidth=20&message=Hirez%20sdk%20kotlin&color=blueviolet&style=plastic&link=https://github.com/tafel-io/Hirez-sdk-kotlin
 [badge_wrapper_kotlin_hirez_sdk_kotlin_github]: https://github.com/tafel-io/Hirez-sdk-kotlin "Hirez-sdk-kotlin · Github repo"
