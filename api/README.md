@@ -177,9 +177,7 @@ However, you should build your applications in such a way that they are resilien
 
 We recommend that you refresh your Sessions in response to being rejected by the server for bad authentication.
 
-It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible.
-
-For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
+It is good practice to assume that your Session can expire or be revoked at any time, and refreshing reactively ensures that your application is prepared to deal with such situations as gracefully as possible. For this reason, refreshing in response to server rejection is preferable to refreshing proactively, on a fixed schedule.
 
 When you make a request with expired or incorrect Session, the API returns a <a href="#ret-msg-invalid-session-id" title="Invalid Session Id">ret_msg error</a>.<!-- (with an invalid_token error)-->
 
