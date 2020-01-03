@@ -54,13 +54,13 @@ def create_app(*args, **kw):
   @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False, methods=['GET'])
   def legacy_images(avatar_id, game='paladins'):
     path = os.path.join(app.static_folder, game, 'avatar')
-    if request.args.get('redirect') or request.args.get('direct'):
+    if 'redirect' in request.args or 'link' in request.args:
       for _ in os.listdir(path):
         if _.split('.', 1)[0] == str(avatar_id):
-          if request.args.get('redirect'):
-            return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))
-          return send_from_directory(path, _)
-      return send_from_directory(path, '0.png')
+          if 'link' in request.args:
+            return url_for('static', filename=f'{game}/avatar/{_}', _external=True)
+          return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
+      #return send_from_directory(path, '0.png')
     return get_avatar(avatar_id, path)
 
   return app
