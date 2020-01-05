@@ -1,6 +1,8 @@
 
 import os
 from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
+import time
+from datetime import datetime
 
 def get_avatar(avatar_id, path):
   if str(avatar_id).isnumeric():
@@ -49,16 +51,28 @@ def create_app(*args, **kw):
       return jsonify(get_directory_structure(os.path.join(app.static_folder)))
     return jsonify({ p[p.rfind('.') - 1:].replace('\\', '/'): [f for f in files] for (p, dirs, files) in os.walk(os.path.join(app.static_folder))})
 
+  def date_from_timestamp(timestamp):
+    return datetime.fromtimestamp(timestamp).isoformat()
+
+  def get_file_date(path, t=None):
+    if not t:
+      #return time.ctime(os.path.getmtime(path))
+      return date_from_timestamp(os.stat(path).st_mtime)
+    return date_from_timestamp(os.stat(path).st_ctime)
+    #time.ctime(os.path.getatime(path))
+
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
   @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False, methods=['GET'])
   @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False, methods=['GET'])
   def legacy_images(avatar_id, game='paladins'):
     path = os.path.join(app.static_folder, game, 'avatar')
-    if 'redirect' in request.args or 'link' in request.args:
+    if 'redirect' in request.args or 'link' in request.args.keys():
       for _ in os.listdir(path):
         if _.split('.', 1)[0] == str(avatar_id):
-          if 'link' in request.args:
-            return url_for('static', filename=f'{game}/avatar/{_}', _external=True)
+          if 'link' in request.args.keys():
+            #link' in request.args
+            f_path = os.path.join(path, _)
+            return jsonify({'created_at':get_file_date(f_path, True),'id':_.split('.', 1)[0],'remote_path':url_for('static', filename=f'{game}/avatar/{_}'),'type':_.split('.', 1)[-1],'updated_at':get_file_date(f_path),'url':url_for('static', filename=f'{game}/avatar/{_}', _external=True)})
           return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
       #return send_from_directory(path, '0.png')
     return get_avatar(avatar_id, path)
