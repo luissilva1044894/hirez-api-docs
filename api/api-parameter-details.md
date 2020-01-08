@@ -105,17 +105,19 @@ Valid values are:
   <tr><td>25140</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/25140.gif" height="32" width="32"/></td></tr>
   <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
   <tr><td>25161</td><td>Lenny the Pirate</td><td><img src="./../.assets/paladins/avatar/25161.gif" height="32" width="32"/></td></tr>
+  <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Dark Monarch</td><td><img src="./../.assets/paladins/avatar/dark-monarch.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Forest Protector</td><td><img src="./../.assets/paladins/avatar/forest-protector.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Goddess of Death</td><td><img src="./../.assets/paladins/avatar/goddess-of-death.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/ice-box.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dark-lian.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/monarch.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/soul-bri.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talus-monkey.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Spring Fling</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Ska'drin Ash</td><td><img src="./../.assets/paladins/avatar/skadrin-ash.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Soul Briar</td><td><img src="./../.assets/paladins/avatar/soul-briar.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Wukong</td><td><img src="./../.assets/paladins/avatar/wukong.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
 </table>
 </details>
@@ -759,8 +761,6 @@ Typically an alphanumeric descriptor of an individual on a [Portal](#portal-id).
 
 A “Portal” is a gateway into our games via an identifier.  In the past it would have been synonymous with a hardware platform... but because of gateways such as “Steam” it is more than just a hardware platform.
 
-<details markdown="1">
-<summary>Platforms</summary>
 
 Represents Platform as follows:
 <table>
@@ -773,7 +773,6 @@ Represents Platform as follows:
   <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
   <tr><td>25</td><td>Discord</td><td><img src="./../.assets/logos/discord.png" height="32" width="32"/></td></tr>
 </table>
-</details>
 
 <!--
 ## Platform type
