@@ -767,7 +767,7 @@ Represents Platform as follows:
   <tr><th>ID</th><th>Platform</th><th>Image</th></tr>
   <tr><td>1</td><td>Hi-Rez</td><td><img src="./../.assets/logos/hirez.png" height="32" width="32"/></td></tr>
   <tr><td>5</td><td>Steam</td><td><img src="./../.assets/logos/steam.png" height="32" width="32"/></td></tr>
-  <tr><td>9</td><td>Play Station</td><td><img src="./../.assets/logos/psn.png" height="32" width="32"/></td></tr>
+  <tr><td>9</td><td>Play Station</td><td><img src="./../.assets/logos/play-station.png" height="32" width="32"/></td></tr>
   <tr><td>10</td><td>Xbox</td><td><img src="./../.assets/logos/xbox.png" height="32" width="32"/></td></tr>
   <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
   <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
