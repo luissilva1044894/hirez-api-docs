@@ -15,10 +15,10 @@ The API supports both [JSON][json_website] and [XML][xml_website] responses. How
 Valid values are:
 <table>
   <tr><th>ID</th><th>Name</th><th>Image</th></tr>
-  <tr><td>0</td><td style='text-align:center;vertical-align:middle'>Default</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
-  <tr><td>9918</td align='center'><td>Origin</td><td><img src="./../.assets/paladins/avatar/9918.png" height="32" width="32"/></td></tr>
-  <tr><td>23203</td style='vertical-align:middle'><td>VIP</td><td><img src="./../.assets/paladins/avatar/23203.png" height="32" width="32"/></td></tr>
-  <tr><td>23209</td style='text-align:center'><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
+  <tr><td>0</td><td>Default</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
+  <tr><td>9918</td><td>Origin</td><td><img src="./../.assets/paladins/avatar/9918.png" height="32" width="32"/></td></tr>
+  <tr><td>23203</td><td>VIP</td><td><img src="./../.assets/paladins/avatar/23203.png" height="32" width="32"/></td></tr>
+  <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
   <tr><td>23226</td><td>Terminating</td><td><img src="./../.assets/paladins/avatar/23226.gif" height="32" width="32"/></td></tr>
   <tr><td>23442</td><td>Corrupter</td><td><img src="./../.assets/paladins/avatar/23442.gif" height="32" width="32"/></td></tr>
   <tr><td>23549</td><td>The Lost Hand</td><td><img src="./../.assets/paladins/avatar/23549.png" height="32" width="32"/></td></tr>
