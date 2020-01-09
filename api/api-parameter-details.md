@@ -105,7 +105,7 @@ Valid values are:
   <tr><td>25140</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/25140.gif" height="32" width="32"/></td></tr>
   <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
   <tr><td>25161</td><td>Lenny the Pirate</td><td><img src="./../.assets/paladins/avatar/25161.gif" height="32" width="32"/></td></tr>
-  <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/mischievous.gif" height="32" width="32"/></td></tr>
+  <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/25227.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
