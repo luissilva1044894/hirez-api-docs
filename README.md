@@ -49,9 +49,9 @@ If you have any questions, concerns, need further help, want to be up-to-date on
 
 ### Disclaimer :x:
 
-This project, including this repository, is neither created, affiliated, associated nor endorsed by [Hi-Rez Studios][hi_rez_studios], or any of its subsidiaries or its affiliates.
+This project, including this repository, is neither created, affiliated, authorized, maintained, associated nor endorsed by [Hi-Rez Studios][hi_rez_studios], or any of its subsidiaries or its affiliates.
 
-It is created by the community for the community.
+It is an independent and unofficial project created by the community for the community.
 
 Please refrain from contacting [Hi-Rez Studios][hi_rez_studios] regarding any issues or support of this project, instead feel free to submit an issue.
 
