@@ -8,8 +8,8 @@ The [``Session``](./../README.md#session-authentication) is contained in an elem
 
 With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#ping), all endpoints require authentication, so there is no concept of unauthenticated calls and rate limits.
 
-**Request**: <i>/**CreateSession**[response_type]/{dev_id}/{signature}/{timestamp}</i> `GET` 
 <h2>URI Parameter</h2>
+**Request**: <i>/**CreateSession**[response_type]/{dev_id}/{signature}/{timestamp}</i> `GET` 
 <table>
   <thead>
     <tr>
@@ -47,7 +47,8 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
   </tbody>
 </table>
 
-<!--
+<!--https://apidocjs.com/
+  https://github.com/viniciuschiele/flask-apidoc/blob/master/flask_apidoc/apidoc.py
 <table>
 	<tr>
 		<th>URI Parameter</th>
@@ -77,7 +78,9 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 </table>
 -->
 
-**Response**: JSON
+### Response
+
+**JSON**
 ```json
 {
  "ret_msg":"Approved",
@@ -86,7 +89,7 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 }
 ```
 
-**Response**: XML
+**XML**
 ```XML
 <Session xmlns="http://schemas.datacontract.org/2004/07/PaladinsApi" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
  <ret_msg>Approved</ret_msg>
@@ -95,7 +98,7 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 </Session>
 ```
 
-**Response Details**:
+### Details
 <table>
   <thead>
     <tr>
