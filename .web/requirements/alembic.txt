@@ -3,7 +3,7 @@
 alembic==1.3.2;python_version>='3.6'
 
 # https://github.com/sqlalchemy/mako
-Mako==1.1.0;python_version>='3.6'
+Mako==1.1.1;python_version>='3.6'
 
 # https://github.com/pallets/markupsafe
 MarkupSafe==1.1.1;python_version>='3.6'
