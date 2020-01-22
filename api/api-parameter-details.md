@@ -105,6 +105,7 @@ Valid values are:
   <tr><td>25140</td><td>Bandit's Fury</td><td><img src="./../.assets/paladins/avatar/25140.gif" height="32" width="32"/></td></tr>
   <tr><td>25141</td><td>Smoked</td><td><img src="./../.assets/paladins/avatar/25141.gif" height="32" width="32"/></td></tr>
   <tr><td>25161</td><td>Lenny the Pirate</td><td><img src="./../.assets/paladins/avatar/25161.gif" height="32" width="32"/></td></tr>
+  <tr><td>25222</td><td>Goddess of Death</td><td><img src="./../.assets/paladins/avatar/25222.png" height="32" width="32"/></td></tr>
   <tr><td>25223</td><td>Ska'drin Ash</td><td><img src="./../.assets/paladins/avatar/25223.png" height="32" width="32"/></td></tr>
   <tr><td>25224</td><td>Dark Monarch</td><td><img src="./../.assets/paladins/avatar/25224.png" height="32" width="32"/></td></tr>
   <tr><td>25225</td><td>Soul Briar</td><td><img src="./../.assets/paladins/avatar/25225.png" height="32" width="32"/></td></tr>
@@ -115,7 +116,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Goddess of Death</td><td><img src="./../.assets/paladins/avatar/goddess-of-death.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Wukong</td><td><img src="./../.assets/paladins/avatar/wukong.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
