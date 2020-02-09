@@ -7,7 +7,7 @@ arrow==0.15.5;python_version>='3.6'
 # https://github.com/luissilva1044894/boolify
 boolify==0.0.3.dev0;python_version>='3.6.1'
 
-pyrez==1.1.0.1;python_version>='3.6'
+pyrez==1.1.0.2;python_version>='3.6'
 
 # https://github.com/aio-libs/aiohttp
 aiohttp==3.6.2;python_version>='3.6'
