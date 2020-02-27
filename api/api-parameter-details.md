@@ -40,6 +40,7 @@ Valid values are:
   <tr><td>24080</td><td>Cutesy Lian</td><td><img src="./../.assets/paladins/avatar/24080.gif" height="32" width="32"/></td></tr>
   <tr><td>24081</td><td>Rowdy Corsair</td><td><img src="./../.assets/paladins/avatar/24081.png" height="32" width="32"/></td></tr>
   <tr><td>24088</td><td>Winter Workout</td><td><img src="./../.assets/paladins/avatar/24088.gif" height="32" width="32"/></td></tr>
+  <tr><td>24120</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/24120.gif" height="32" width="32"/></td></tr>
   <tr><td>24143</td><td>Shield Bearer</td><td><img src="./../.assets/paladins/avatar/24143.png" height="32" width="32"/></td></tr>
   <tr><td>24164</td><td>The King</td><td><img src="./../.assets/paladins/avatar/24164.png" height="32" width="32"/></td></tr>
   <tr><td>24165</td><td>Poppy</td><td><img src="./../.assets/paladins/avatar/24165.png" height="32" width="32"/></td></tr>
@@ -119,7 +120,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
 </table>
 </details>
