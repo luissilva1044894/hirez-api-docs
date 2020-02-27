@@ -109,6 +109,7 @@ Valid values are:
   <tr><td>25223</td><td>Ska'drin Ash</td><td><img src="./../.assets/paladins/avatar/25223.png" height="32" width="32"/></td></tr>
   <tr><td>25224</td><td>Dark Monarch</td><td><img src="./../.assets/paladins/avatar/25224.png" height="32" width="32"/></td></tr>
   <tr><td>25225</td><td>Soul Briar</td><td><img src="./../.assets/paladins/avatar/25225.png" height="32" width="32"/></td></tr>
+  <tr><td>25226</td><td>Wukong</td><td><img src="./../.assets/paladins/avatar/25226.png" height="32" width="32"/></td></tr>
   <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/25227.gif" height="32" width="32"/></td></tr>
   <tr><td>25228</td><td>Forest Protector</td><td><img src="./../.assets/paladins/avatar/25228.gif" height="32" width="32"/></td></tr>
   <tr><td>25229</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/25229.png" height="32" width="32"/></td></tr>
@@ -119,7 +120,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Suit Up</td><td><img src="./../.assets/paladins/avatar/suit-up.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Wukong</td><td><img src="./../.assets/paladins/avatar/wukong.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
 </table>
 </details>
