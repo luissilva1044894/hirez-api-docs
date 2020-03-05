@@ -1,11 +1,16 @@
-[{
-  "id": 10443859,
-  "name": "SeriousMarineTTV",
-  "ret_msg": null,
-  "steam_id": 9
-}, {
-  "id": 15126164,
-  "name": "SeriousMarineTTV",
-  "ret_msg": null,
-  "steam_id": 5
-}]
+[
+  {
+    "id":10443859,
+    "name":"SeriousMarineTTV",
+    "portal_id":9,
+    "ret_msg":null,
+    "steam_id":9
+  },
+  {
+    "id":15126164,
+    "name":"SeriousMarineTTV",
+    "portal_id":5,
+    "ret_msg":null,
+    "steam_id":5
+  }
+]
