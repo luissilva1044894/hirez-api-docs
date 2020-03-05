@@ -166,6 +166,7 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
     <tr><td>2281</td><td>Bomb King</td><td>Damage</td><td>His Majesty</td><td><img src="./../.assets/paladins/characters/bomb-king.jpg" height="64" width="64"/></td></tr>
     <tr><td>2147</td><td>Buck</td><td>Flank</td><td>The Unyielding</td><td><img src="./../.assets/paladins/characters/buck.jpg" height="64" width="64"/></td></tr>
     <tr><td>2092</td><td>Cassie</td><td>Damage</td><td>The Hunter's Daughter</td><td><img src="./../.assets/paladins/characters/cassie.jpg" height="64" width="64"/></td></tr>
+    <tr><td>2533</td><td>Corvus</td><td>Support</td><td>The Magistrate's Blade</td><td><img src="./../.assets/paladins/characters/corvus.jpg" height="64" width="64"/></td></tr>
     <tr><td>2495</td><td>Dredge</td><td>Damage</td><td>Admiral of the Abyss</td><td><img src="./../.assets/paladins/characters/dredge.jpg" height="64" width="64"/></td></tr>
     <tr><td>2277</td><td>Drogoz</td><td>Damage</td><td>The Greedy</td><td><img src="./../.assets/paladins/characters/drogoz.jpg" height="64" width="64"/></td></tr>
     <tr><td>2094</td><td>Evie</td><td>Flank</td><td>The Winter Witch</td><td><img src="./../.assets/paladins/characters/evie.jpg" height="64" width="64"/></td></tr>
