@@ -98,7 +98,7 @@ With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#
 </Session>
 ```
 
-### Details
+#### Details
 <table>
   <thead>
     <tr>
