@@ -114,17 +114,17 @@ Valid values are:
   <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/25227.gif" height="32" width="32"/></td></tr>
   <tr><td>25228</td><td>Forest Protector</td><td><img src="./../.assets/paladins/avatar/25228.gif" height="32" width="32"/></td></tr>
   <tr><td>25229</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/25229.png" height="32" width="32"/></td></tr>
+  <tr><td>25342</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
   <tr><td>25355</td><td>Adanas The Balance Master</td><td><img src="./../.assets/paladins/avatar/25355.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/spring-fling.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Divine_Priestess.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Four-Leaf-Grover.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/gentleman_raum.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/MaeveAvatar.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/the-risen-raum.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/TiberiusAvatar.gif" height="32" width="32"/></td></tr>
