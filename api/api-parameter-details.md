@@ -122,7 +122,7 @@ Valid values are:
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Divine_Priestess.png" height="32" width="32"/></td></tr>
+  <tr><td>25437</td><td>???</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Four-Leaf-Grover.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/gentleman_raum.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
