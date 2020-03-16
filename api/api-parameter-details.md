@@ -117,14 +117,14 @@ Valid values are:
   <tr><td>25342</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
   <tr><td>25355</td><td>Adanas The Balance Master</td><td><img src="./../.assets/paladins/avatar/25355.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
-
+  <tr><td>25435</td><td>???</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
+  
   <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Divine_Priestess.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Four-Leaf-Grover.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/gentleman_raum.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/the-risen-raum.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/TiberiusAvatar.gif" height="32" width="32"/></td></tr>
