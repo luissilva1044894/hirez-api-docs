@@ -65,6 +65,7 @@ Valid values are:
   <tr><td>24202</td><td>Paladins Defense Force</td><td><img src="./../.assets/paladins/avatar/24202.png" height="32" width="32"/></td></tr>
   <tr><td>24203</td><td>Imperial Magistrate</td><td><img src="./../.assets/paladins/avatar/24203.png" height="32" width="32"/></td></tr>
   <tr><td>24204</td><td>Fire And Ice</td><td><img src="./../.assets/paladins/avatar/24204.gif" height="32" width="32"/></td></tr>
+  <tr><td>24241</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/24241.png" height="32" width="32"/></td></tr>
   <tr><td>24350</td><td>Queen of Hearts</td><td><img src="./../.assets/paladins/avatar/24350.gif" height="32" width="32"/></td></tr>
   <tr><td>24354</td><td>Future's Protector</td><td><img src="./../.assets/paladins/avatar/24354.png" height="32" width="32"/></td></tr>
   <tr><td>24355</td><td>Squidly</td><td><img src="./../.assets/paladins/avatar/24355.png" height="32" width="32"/></td></tr>
@@ -116,6 +117,7 @@ Valid values are:
   <tr><td>25229</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/25229.png" height="32" width="32"/></td></tr>
   <tr><td>25342</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
   <tr><td>25355</td><td>Adanas The Balance Master</td><td><img src="./../.assets/paladins/avatar/25355.png" height="32" width="32"/></td></tr>
+  <tr><td>25356</td><td>???</td><td><img src="./../.assets/paladins/avatar/25356.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
   <tr><td>25421</td><td>???</td><td><img src="./../.assets/paladins/avatar/25421.png" height="32" width="32"/></td></tr>
   <tr><td>25434</td><td>???</td><td><img src="./../.assets/paladins/avatar/25434.gif" height="32" width="32"/></td></tr>
@@ -123,10 +125,8 @@ Valid values are:
   <tr><td>25437</td><td>???</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
   <tr><td>25438</td><td>???</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
   
-  <tr><td>MISSING</td><td>Assembly of Champions</td><td><img src="./../.assets/paladins/avatar/assembly-of-champions.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/gentleman_raum.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
 </table>
 </details>
