@@ -128,6 +128,11 @@ Valid values are:
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/AshAvatarRanked.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar-12.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/JB_EM_PL_Avatar_Dragons_FuriaCool.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/JB_EM_PL_Avatar_Dragons_Viktor.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
