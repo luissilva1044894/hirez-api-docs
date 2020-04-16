@@ -4,7 +4,7 @@
 Flask[dotenv]==1.1.2;python_version>='3.6'
 
 # https://github.com/pallets/jinja
-Jinja2==2.11.1;python_version>='3.6'
+Jinja2==2.11.2;python_version>='3.6'
 
 ## Deployment
 # https://github.com/pallets/werkzeug
