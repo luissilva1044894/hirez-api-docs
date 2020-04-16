@@ -120,14 +120,14 @@ Valid values are:
   <tr><td>25356</td><td>???</td><td><img src="./../.assets/paladins/avatar/25356.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
   <tr><td>25421</td><td>???</td><td><img src="./../.assets/paladins/avatar/25421.png" height="32" width="32"/></td></tr>
+  <tr><td>25422</td><td>Termineaster</td><td><img src="./../.assets/paladins/avatar/25422.png" height="32" width="32"/></td></tr>
   <tr><td>25434</td><td>???</td><td><img src="./../.assets/paladins/avatar/25434.gif" height="32" width="32"/></td></tr>
   <tr><td>25435</td><td>???</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
   <tr><td>25437</td><td>???</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
   <tr><td>25438</td><td>???</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
-  
+
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/Termineaster.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/AshAvatarRanked.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar-12.gif" height="32" width="32"/></td></tr>
