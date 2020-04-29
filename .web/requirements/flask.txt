@@ -14,4 +14,4 @@ Werkzeug==1.0.1;python_version>='3.6'
 gunicorn==20.0.4;python_version>='3.6'
 
 # -r ./db.txt
-# -r base.txt
+-r base.txt
