@@ -75,7 +75,7 @@ def create_app(*args, **kw):
           if 'link' in request.args.keys():
             #link' in request.args
             f_path = os.path.join(path, _)
-            return jsonify({'created_at':get_file_date(f_path, True),'id':_.split('.', 1)[0],'remote_path':url_for('static', filename=f'{game}/avatar/{_}'),'type':_.split('.', 1)[-1],'updated_at':get_file_date(f_path),'url':url_for('static', filename=f'{game}/avatar/{_}', _external=True)})
+            return jsonify({'created_at':get_file_date(f_path, True),'id':_.split('.', 1)[0],'name': str(AvatarId(avatar_id)), 'remote_path':url_for('static', filename=f'{game}/avatar/{_}'),'type':_.split('.', 1)[-1],'updated_at':get_file_date(f_path),'url':url_for('static', filename=f'{game}/avatar/{_}', _external=True)})
           return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
       #return send_from_directory(path, '0.png')
     return get_avatar(avatar_id, path)
