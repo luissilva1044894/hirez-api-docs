@@ -4,6 +4,8 @@ from flask import Flask, jsonify, request, redirect, url_for, send_from_director
 import time
 from datetime import datetime
 
+from pyrez.enums.avatar_id import AvatarId
+
 def get_avatar(avatar_id, path):
   if str(avatar_id).isnumeric():
     for _ in os.listdir(path):
@@ -65,6 +67,7 @@ def create_app(*args, **kw):
   @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, strict_slashes=False, methods=['GET'])
   @app.route('/paladins/avatar/<avatar_id>', strict_slashes=False, methods=['GET'])
   def legacy_images(avatar_id, game='paladins'):
+    print(AvatarId(avatar_id))
     path = os.path.join(app.static_folder, game, 'avatar')
     if 'redirect' in request.args or 'link' in request.args.keys():
       for _ in os.listdir(path):
