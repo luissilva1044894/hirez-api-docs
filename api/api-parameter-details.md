@@ -117,22 +117,22 @@ Valid values are:
   <tr><td>25229</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/25229.png" height="32" width="32"/></td></tr>
   <tr><td>25342</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
   <tr><td>25355</td><td>Adanas The Balance Master</td><td><img src="./../.assets/paladins/avatar/25355.png" height="32" width="32"/></td></tr>
-  <tr><td>25356</td><td>???</td><td><img src="./../.assets/paladins/avatar/25356.png" height="32" width="32"/></td></tr>
+  <tr><td>25356</td><td>Gentleman Raum</td><td><img src="./../.assets/paladins/avatar/25356.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
-  <tr><td>25421</td><td>???</td><td><img src="./../.assets/paladins/avatar/25421.png" height="32" width="32"/></td></tr>
+  <tr><td>25421</td><td>Four Leaf Grover</td><td><img src="./../.assets/paladins/avatar/25421.png" height="32" width="32"/></td></tr>
   <tr><td>25422</td><td>Termineaster</td><td><img src="./../.assets/paladins/avatar/25422.png" height="32" width="32"/></td></tr>
-  <tr><td>25434</td><td>???</td><td><img src="./../.assets/paladins/avatar/25434.gif" height="32" width="32"/></td></tr>
-  <tr><td>25435</td><td>???</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
-  <tr><td>25437</td><td>???</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
-  <tr><td>25438</td><td>???</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
+  <tr><td>25434</td><td>Temple Guardian</td><td><img src="./../.assets/paladins/avatar/25434.gif" height="32" width="32"/></td></tr>
+  <tr><td>25435</td><td>Devious</td><td><img src="./../.assets/paladins/avatar/25435.gif" height="32" width="32"/></td></tr>
+  <tr><td>25437</td><td>Divine Priestess</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
+  <tr><td>25438</td><td>The Risen</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/AshAvatarRanked.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/dragon-avatar-12.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/JB_EM_PL_Avatar_Dragons_FuriaCool.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/JB_EM_PL_Avatar_Dragons_Viktor.png" height="32" width="32"/></td></tr>
+  <tr><td>???</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/brood_guard.gif" height="32" width="32"/></td></tr>
+  <tr><td>???</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/eye_of_saurus.gif" height="32" width="32"/></td></tr>
+  <tr><td>???</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/hunters_fury.png" height="32" width="32"/></td></tr>
+  <tr><td>???</td><td>Scaled Menace</td><td><img src="./../.assets/paladins/avatar/scaled_menace.png" height="32" width="32"/></td></tr>
+  <tr><td>???</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/survivor.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
