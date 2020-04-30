@@ -5,6 +5,9 @@
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-python" }
   ],
+  "env": {
+    "REDIRECT_URL": { "description": "", "required": "true", "value": "" }
+  },
   "description": "Unofficial Hi-Rez Studios API documentation (and assets where possible) for Paladins, Realm Royale, and Smite.",
   "image": "heroku/python",
   "logo": "https://raw.githubusercontent.com/luissilva1044894/hirez-api-docs/master/_assets/logos/hirez.png",
