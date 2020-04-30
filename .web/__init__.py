@@ -77,8 +77,8 @@ def create_app(*args, **kw):
   def get_avatar_id(avatar_id, request):
     if 'avatar_id' in request.args and request.args['avatar_id']:
       return request.args['avatar_id']
-    if request.get_json().get('avatar_id'):
-      return request.get_json()['avatar_id']
+    #if request.get_json().get('avatar_id'):
+    #  return request.get_json()['avatar_id']
     return avatar_id
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
