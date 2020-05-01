@@ -96,7 +96,10 @@ def create_app(*args, **kw):
 
   def get_avatar_id(avatar_id, request):
     if request.is_json:
-      return request.get_json(force=True, silent=True, cache=True)['avatar_id']
+      try:
+        return request.get_json(force=True, silent=True, cache=True)['avatar_id']
+      except TypeError:
+        pass
     if 'avatar_id' in request.args and request.args['avatar_id']:
       return request.args['avatar_id']
     return avatar_id
