@@ -117,13 +117,13 @@ def create_app(*args, **kw):
               #link' in request.args
               f_path = os.path.join(path, _)
               return jsonify({
-               'created_at': get_file_date(f_path, True),
+               #'created_at': get_file_date(f_path, True),
                'format': _.split('.', 1)[-1],
                'id': _.split('.', 1)[0],
                'name': str(AvatarId(avatar_id)),
                'path': f'{game}/avatar/{_}',
                'remote_path': url_for('static', filename=f'{game}/avatar/{_}'),
-               'updated_at': get_file_date(f_path),
+               #'updated_at': get_file_date(f_path),
                'url': url_for('static', filename=f'{game}/avatar/{_}', _external=True)
               })
           return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
@@ -136,13 +136,13 @@ def create_app(*args, **kw):
         if requested_json(request):
           f_path = os.path.join(path, _)
           return jsonify({
-           'created_at': get_file_date(f_path, True),
+           #'created_at': get_file_date(f_path, True),
            'format': _.split('.', 1)[-1],
            'id': int(_avatar_id),#_.split('.', 1)[0],
            'name': str(_avatar_id),
            'path': f'{game}/{folder}/{int(_avatar_id)}',
            'remote_path': url_for('static', filename=f'{game}/{folder}/{_}'),
-           'updated_at': get_file_date(f_path),
+           #'updated_at': get_file_date(f_path),
            'url': url_for('static', filename=f'{game}/{folder}/{_}', _external=True)
           })
         if 'redirect' in request.args:
@@ -157,3 +157,22 @@ def main():
 if __name__ == '__main__':
   main()
 #/.assets/paladins/avatar/None
+
+"""
+import json
+import requests
+
+url = 'https://hirez-api-docs.herokuapp.com/paladins/avatar/25434'
+
+r = requests.post(url, headers={'content-type': 'application/json'})
+print(r.json())
+
+r = requests.get(url, headers={'content-type': 'application/json'})
+print(r.json())
+
+r = requests.get(url, params={'avatar_id': '25434'}, headers={'content-type': 'application/json'})
+print(r.json())
+
+r = requests.get(url, data=json.dumps({'avatar_id': '25434'}), headers={'content-type': 'application/json'})
+print(r.json())
+"""
