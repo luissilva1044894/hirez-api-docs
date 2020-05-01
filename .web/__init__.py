@@ -102,7 +102,7 @@ def create_app(*args, **kw):
     return avatar_id
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
-  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
+  #@app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
   @app.route('/paladins/avatar/<avatar_id>', methods=['GET', 'POST'])
   def legacy_images(avatar_id, game='paladins', folder='avatar'):
     path, _avatar_id = os.path.join(app.static_folder, game, folder), AvatarId(get_avatar_id(avatar_id, request))
