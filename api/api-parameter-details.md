@@ -126,7 +126,7 @@ Valid values are:
   <tr><td>25437</td><td>Divine Priestess</td><td><img src="./../.assets/paladins/avatar/25437.png" height="32" width="32"/></td></tr>
   <tr><td>25438</td><td>The Risen</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
   <tr><td>25506</td><td>Scaled Menace</td><td><img src="./../.assets/paladins/avatar/25506.png" height="32" width="32"/></td></tr>
-  <tr><td>25507</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/hunters_fury.png" height="32" width="32"/></td></tr>
+  <tr><td>25507</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/25507.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
