@@ -102,7 +102,7 @@ def create_app(*args, **kw):
     return avatar_id
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
-  #@app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
+  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
   @app.route('/paladins/avatar/<avatar_id>', methods=['GET', 'POST'])
   def legacy_images(avatar_id, game='paladins', folder='avatar'):
     path, _avatar_id = os.path.join(app.static_folder, game, folder), AvatarId(get_avatar_id(avatar_id, request))
@@ -128,6 +128,7 @@ def create_app(*args, **kw):
         #return send_from_directory(path, '0.png')
       return get_avatar(avatar_id, path)
     for _ in os.listdir(path):
+      print(_)
       if AvatarId(_.split('.', 1)[0]) == _avatar_id:
         print(AvatarId(_.split('.', 1)[0]), _avatar_id, AvatarId(_.split('.', 1)[0]) == _avatar_id)
         if requested_json(request):
