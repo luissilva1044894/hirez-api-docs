@@ -138,10 +138,10 @@ def create_app(*args, **kw):
            'format': _.split('.', 1)[-1],
            'id': int(_avatar_id),#_.split('.', 1)[0],
            'name': str(_avatar_id),
-           'path': f'{game}/{folder}/{int(_avatar_id)}',
-           'remote_path': url_for('static', filename=f'{game}/{folder}/{int(_avatar_id)}'),
+           'path': f'{game}/{folder}/{_}',
+           'remote_path': url_for('static', filename=f'{game}/{folder}/{_}'),
            'updated_at': get_file_date(f_path),
-           'url': url_for('static', filename=f'{game}/{folder}/{int(_avatar_id)}', _external=True)
+           'url': url_for('static', filename=f'{game}/{folder}/{_}', _external=True)
           })
         if 'redirect' in request.args:
           return redirect(url_for('static', filename=f'{game}/{folder}/{_}', _external=True))
