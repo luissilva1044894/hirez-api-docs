@@ -1,0 +1,47 @@
+[
+  {
+    "entry_datetime":"2020-05-01 14:51:46.289",
+    "environment":"live",
+    "limited_access":false,
+    "platform":"pc",
+    "ret_msg":null,
+    "status":"UP",
+    "version":"7.4.5984.5"
+  },
+  {
+    "entry_datetime":"2020-05-01 14:51:46.289",
+    "environment":"live",
+    "limited_access":false,
+    "platform":"switch",
+    "ret_msg":null,
+    "status":"UP",
+    "version":"7.4.5984.5"
+  },
+  {
+    "entry_datetime":"2020-05-01 14:51:46.289",
+    "environment":"live",
+    "limited_access":false,
+    "platform":"xbox",
+    "ret_msg":null,
+    "status":"UP",
+    "version":"7.4.5984.5"
+  },
+  {
+    "entry_datetime":"2020-05-01 14:51:46.289",
+    "environment":"live",
+    "limited_access":false,
+    "platform":"ps4",
+    "ret_msg":null,
+    "status":"UP",
+    "version":"7.4.5984.5"
+  },
+  {
+    "entry_datetime":"2020-05-01 14:51:39.103",
+    "environment":"pts",
+    "limited_access":false,
+    "platform":"pc",
+    "ret_msg":null,
+    "status":"UP",
+    "version":"7.5.6032.0"
+  }
+]
