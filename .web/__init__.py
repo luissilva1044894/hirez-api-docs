@@ -10,6 +10,26 @@ from boolify import boolify
 from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
 from pyrez.enums.avatar_id import AvatarId
 
+def get_avatar(avatar_id, path):
+  if str(avatar_id).isnumeric():
+    for _ in os.listdir(path):
+      if _.split('.', 1)[0] == str(avatar_id):
+        return send_from_directory(path, _)
+  return get_avatar({'default': 0, 'origin': 9918, 'vip': 23203, 'striker': 23209, 'terminating': 23226,
+    'corrupter': 23442, 'the-lost-hand': 23549, 'oni-mask': 23550, 'cutesy-maeve': 23552, 'cutesy-snek': 23553, 'cutesy-zhin': 23554, 'goodnight': 23555,
+    'shadowblade': 23564, 'flametongue': 23661, 'snack-time': 23662, 'death-speaker': 23714, 'knightmare': 23715, 'day-walker': 23716, 'harbinger': 23717,
+    'synth': 23924, 'nom-nom': 23925, 'cutesy-yeti': 24079, 'cutesy-lian': 24080, 'rowdy-corsair': 24081, 'winter-workout': 24088, 'shield-bearer': 24143,
+    'the-king': 24164, 'poppy': 24165, 'greenwood-friend': 24166, 'white-knight': 24167, 'masterpiece': 24168, 'battle-rage': 24169, 'groverling': 24170,
+    'forkasen-wanderer': 24171, 'kitten': 24172, 'tigron-thief': 24173, 'i-wuv-you': 24174, 'tepid-friendship': 24175, 'vulpin': 24176, 'dumpster-diver': 24177,
+    'abyssal-vessel': 24178, 'the-returned': 24179, 'twilight-assassin': 24180, 'happy-huntress': 24181, 'the-blossom': 24182, 'mirror-mirror': 24183,
+    'paladins-defense-force': 24202, 'imperial-magistrate': 24203, 'fire-and-ice': 24204, 'queen-of-hearts': 24350, 'futures-protector': 24354, 'squidly': 24355,
+    'forlorn-future': 24356, 'dragon-queen': 24375, 'diamond-badge': 24393, 'gold-badge': 24394, 'blue-warrior': 24482, 'how-quaint': 24505, 'champions-are-eternal': 24597,
+    'best-boy': 24611, 'summer-blossom': 24612, 'vanguard': 24669, 'bubbles': 24678, 'baby-steps': 24679, 'dragon-forged': 24680, 'dwarven-strength': 24681,
+    'unrelenting': 24709, 'charming': 24758, 'sunset': 24759, 'lifesaver': 24760, 'beach-vibes': 24824, 'groovy-grover': 24887, 'grohk-rock': 24888, 'celebrity-io': 24889,
+    'popstar-skye': 24890, 'greaser-lex': 24891, 'fallen-champion': 24892, 'reckoning': 24897, 'resolute': 24898, 'redbeard': 24969, 'bubbly': 24970, 'pirateer': 24972,
+    'kitsune': 24973, 'blu': 25021, 'molly-the-shark': 25022, 'suave-saguaro': 25138, 'wanted-man': 25139, 'bandits-fury': 25140, 'smoked': 25141,
+    'lenny-the-pirate': 25161, 'goddess-of-death': 25222, 'skadrin-ash': 25223, 'dark-monarch': 25224, 'soul-briar': 25225, 'mischievous': 25227, 'forest-protector': 25228, 'ice-box': 25229}.get(str(avatar_id).lower().replace(' ', '-').replace("'", ''), 0), path)
+
 def get_env(name, _default=None, verbose=False):
   try:
     from dotenv import load_dotenv
@@ -75,15 +95,10 @@ def create_app(*args, **kw):
     #time.ctime(os.path.getatime(path))
 
   def get_avatar_id(avatar_id, request):
+    if request.is_json:
+      return request.get_json(force=True, silent=True, cache=True)['avatar_id']
     if 'avatar_id' in request.args and request.args['avatar_id']:
       return request.args['avatar_id']
-    try:
-      print(request.is_json)
-      print(request.get_json())
-    except:
-      pass
-    #if request.get_json().get('avatar_id'):
-    #  return request.get_json()['avatar_id']
     return avatar_id
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
@@ -92,6 +107,26 @@ def create_app(*args, **kw):
   def legacy_images(avatar_id, game='paladins', folder='avatar'):
     path, _avatar_id = os.path.join(app.static_folder, game, folder), AvatarId(get_avatar_id(avatar_id, request))
     print(_avatar_id)
+    if boolify(get_env('OLD_SCRIPT')):
+      if 'redirect' in request.args or 'link' in request.args.keys():
+        for _ in os.listdir(path):
+          if _.split('.', 1)[0] == str(avatar_id):
+            if 'link' in request.args.keys():
+              #link' in request.args
+              f_path = os.path.join(path, _)
+              return jsonify({
+               'created_at': get_file_date(f_path, True),
+               'format': _.split('.', 1)[-1],
+               'id': _.split('.', 1)[0],
+               'name': str(AvatarId(avatar_id)),
+               'path': f'{game}/avatar/{_}',
+               'remote_path': url_for('static', filename=f'{game}/avatar/{_}'),
+               'updated_at': get_file_date(f_path),
+               'url': url_for('static', filename=f'{game}/avatar/{_}', _external=True)
+              })
+          return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
+        #return send_from_directory(path, '0.png')
+      return get_avatar(avatar_id, path)
     for _ in os.listdir(path):
       if AvatarId(_.split('.', 1)[0]) == _avatar_id:
         print(AvatarId(_.split('.', 1)[0]), _avatar_id, AvatarId(_.split('.', 1)[0]) == _avatar_id)
@@ -102,6 +137,7 @@ def create_app(*args, **kw):
            'format': _.split('.', 1)[-1],
            'id': int(_avatar_id),#_.split('.', 1)[0],
            'name': str(_avatar_id),
+           'path': f'{game}/{folder}/{_}',
            'remote_path': url_for('static', filename=f'{game}/{folder}/{_}'),
            'updated_at': get_file_date(f_path),
            'url': url_for('static', filename=f'{game}/{folder}/{_}', _external=True)
@@ -117,3 +153,4 @@ def main():
 
 if __name__ == '__main__':
   main()
+#/.assets/paladins/avatar/None
