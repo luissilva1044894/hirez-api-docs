@@ -128,9 +128,9 @@ def create_app(*args, **kw):
         #return send_from_directory(path, '0.png')
       return get_avatar(avatar_id, path)
     for _ in os.listdir(path):
-      print(_)
+      #print(_)
       if _.split('.', 1)[0] == str(int(_avatar_id)):
-        print(AvatarId(_.split('.', 1)[0]), _avatar_id, AvatarId(_.split('.', 1)[0]) == _avatar_id)
+        #print(AvatarId(_.split('.', 1)[0]), _avatar_id, AvatarId(_.split('.', 1)[0]) == _avatar_id)
         if requested_json(request):
           f_path = os.path.join(path, _)
           return jsonify({
