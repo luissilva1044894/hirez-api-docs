@@ -74,13 +74,15 @@ def create_app(*args, **kw):
         return 'smite'
       return 'paladins'
     api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''))
+    method, secret_key,params = '', None, []
     print(api)
-    return 'ok'
+    if method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
+      return jsonify({})
+    return 'ok' #api.request(method, params)
 
 #api: smite
 #method: createsession
 #params: []
-#['createsession', 'testsession', 'getdataused']
 
   @app.route('/assets')
   def list_assets():
