@@ -1,3501 +1,4002 @@
-[{
-  "Founder": "Egypt101",
-  "Name": "BROS",
-  "Players": 3,
-  "Tag": "BRO",
-  "TeamId": 2,
-  "ret_msg": null
-}, {
-  "Founder": "Kratos321",
-  "Name": "Brasil",
-  "Players": 2,
-  "Tag": "ZKS",
-  "TeamId": 119,
-  "ret_msg": null
-}, {
-  "Founder": "JITM",
-  "Name": "Bro Do You Lift",
-  "Players": 4,
-  "Tag": "IDO",
-  "TeamId": 164,
-  "ret_msg": null
-}, {
-  "Founder": "Skavenger",
-  "Name": "Junkie Brothers",
-  "Players": 2,
-  "Tag": "JB",
-  "TeamId": 239,
-  "ret_msg": null
-}, {
-  "Founder": "Jojoflow",
-  "Name": "Noob Bros",
-  "Players": 8,
-  "Tag": "NwA",
-  "TeamId": 403,
-  "ret_msg": null
-}, {
-  "Founder": "Warhammerb",
-  "Name": "GER Warbringer",
-  "Players": 2,
-  "Tag": "GWB",
-  "TeamId": 544,
-  "ret_msg": null
-}, {
-  "Founder": "RBrae",
-  "Name": "BRAE",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 618,
-  "ret_msg": null
-}, {
-  "Founder": "PandaXMan",
-  "Name": "Death Bringers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 644,
-  "ret_msg": null
-}, {
-  "Founder": "Instapanter",
-  "Name": "Brelere",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 905,
-  "ret_msg": null
-}, {
-  "Founder": "Katze9",
-  "Name": "LOKOS DO BRASIL",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 1108,
-  "ret_msg": null
-}, {
-  "Founder": "joellink1",
-  "Name": "Team Brotoss",
-  "Players": 4,
-  "Tag": "BTA",
-  "TeamId": 1552,
-  "ret_msg": null
-}, {
-  "Founder": "DPidy",
-  "Name": "BroArmy",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 1577,
-  "ret_msg": null
-}, {
-  "Founder": "TheHarlequin23",
-  "Name": "BROTHERS",
-  "Players": 2,
-  "Tag": "KD35",
-  "TeamId": 1653,
-  "ret_msg": null
-}, {
-  "Founder": "H00kd",
-  "Name": "Team Brazzers",
-  "Players": 2,
-  "Tag": "TBZ",
-  "TeamId": 1903,
-  "ret_msg": null
-}, {
-  "Founder": "PhazedKiller",
-  "Name": "TheSmiteBroz",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 2205,
-  "ret_msg": null
-}, {
-  "Founder": "Bigjimslim",
-  "Name": "Brok49",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 2302,
-  "ret_msg": null
-}, {
-  "Founder": "Vindico",
-  "Name": "We Take Bribes",
-  "Players": 1,
-  "Tag": "WTB",
-  "TeamId": 2307,
-  "ret_msg": null
-}, {
-  "Founder": "XxXxplosionXxX",
-  "Name": "br destroi",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 2500,
-  "ret_msg": null
-}, {
-  "Founder": "DEM0NICC00KIE",
-  "Name": "Bros Angels",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 2511,
-  "ret_msg": null
-}, {
-  "Founder": "BfastSausage",
-  "Name": "Breakfast",
-  "Players": 4,
-  "Tag": "Bfast",
-  "TeamId": 2704,
-  "ret_msg": null
-}, {
-  "Founder": "Splicerow",
-  "Name": "Broacolypse",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 2763,
-  "ret_msg": null
-}, {
-  "Founder": "DeathandWar",
-  "Name": "Doombringers",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 3088,
-  "ret_msg": null
-}, {
-  "Founder": "trudilutt",
-  "Name": "Järnbrukarna",
-  "Players": 5,
-  "Tag": "JÄBK",
-  "TeamId": 3194,
-  "ret_msg": null
-}, {
-  "Founder": "Jagi",
-  "Name": "JBros",
-  "Players": 2,
-  "Tag": "SÖR",
-  "TeamId": 3223,
-  "ret_msg": null
-}, {
-  "Founder": "Yakecan",
-  "Name": "Dosenbrot",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 3249,
-  "ret_msg": null
-}, {
-  "Founder": "Universe323",
-  "Name": "the brotherhood",
-  "Players": 7,
-  "Tag": "",
-  "TeamId": 3876,
-  "ret_msg": null
-}, {
-  "Founder": "Taltas",
-  "Name": "Boss Brigade",
-  "Players": 2,
-  "Tag": "BOS",
-  "TeamId": 4010,
-  "ret_msg": null
-}, {
-  "Founder": "sykotiic",
-  "Name": "Yes Bro We Lift",
-  "Players": 4,
-  "Tag": "13IN",
-  "TeamId": 4157,
-  "ret_msg": null
-}, {
-  "Founder": "Zukapin",
-  "Name": "algum br",
-  "Players": 7,
-  "Tag": "aipo",
-  "TeamId": 4226,
-  "ret_msg": null
-}, {
-  "Founder": "Ayronos",
-  "Name": "Bollerbrüder",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 4364,
-  "ret_msg": null
-}, {
-  "Founder": "Misakinha",
-  "Name": "Nos Somos BRs",
-  "Players": 3,
-  "Tag": "BRL",
-  "TeamId": 4498,
-  "ret_msg": null
-}, {
-  "Founder": "Django666",
-  "Name": "Lumbrigas Do BR",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 4516,
-  "ret_msg": null
-}, {
-  "Founder": "Jintarei",
-  "Name": "Brigade Fantome",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 4541,
-  "ret_msg": null
-}, {
-  "Founder": "Tbird341",
-  "Name": "Brother of War",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 4633,
-  "ret_msg": null
-}, {
-  "Founder": "Eggrow",
-  "Name": "Mega Brothers",
-  "Players": 6,
-  "Tag": "Sup",
-  "TeamId": 4657,
-  "ret_msg": null
-}, {
-  "Founder": "bardwooders",
-  "Name": "Bro Company",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 4777,
-  "ret_msg": null
-}, {
-  "Founder": "GreatUnicorn",
-  "Name": "BRONY",
-  "Players": 2,
-  "Tag": "Brony",
-  "TeamId": 4923,
-  "ret_msg": null
-}, {
-  "Founder": "Brofessor2",
-  "Name": "THE BROFESSORS",
-  "Players": 5,
-  "Tag": "BSA",
-  "TeamId": 5162,
-  "ret_msg": null
-}, {
-  "Founder": "Valrinn",
-  "Name": "SlicedBread",
-  "Players": 5,
-  "Tag": "SBR",
-  "TeamId": 5347,
-  "ret_msg": null
-}, {
-  "Founder": "RysherSeee",
-  "Name": "GamerFoeBro",
-  "Players": 8,
-  "Tag": "GFB",
-  "TeamId": 5403,
-  "ret_msg": null
-}, {
-  "Founder": "eriksen12333",
-  "Name": "Wolf Brethren",
-  "Players": 4,
-  "Tag": "Brødr",
-  "TeamId": 5410,
-  "ret_msg": null
-}, {
-  "Founder": "blitzoor",
-  "Name": "MeAndMyBRox",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 5415,
-  "ret_msg": null
-}, {
-  "Founder": "Seddicuz",
-  "Name": "HammerBros",
-  "Players": 14,
-  "Tag": "HBROS",
-  "TeamId": 5447,
-  "ret_msg": null
-}, {
-  "Founder": "Taschentuch9",
-  "Name": "SoS Brigade",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 5594,
-  "ret_msg": null
-}, {
-  "Founder": "Mootarde",
-  "Name": "Bromacia",
-  "Players": 8,
-  "Tag": "BMC",
-  "TeamId": 5660,
-  "ret_msg": null
-}, {
-  "Founder": "ryzguy",
-  "Name": "Brother Hood",
-  "Players": 2,
-  "Tag": "BroHd",
-  "TeamId": 5661,
-  "ret_msg": null
-}, {
-  "Founder": "DubluW",
-  "Name": "Brohoof",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 5865,
-  "ret_msg": null
-}, {
-  "Founder": "Lavorz",
-  "Name": "Made In Brazil",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 5906,
-  "ret_msg": null
-}, {
-  "Founder": "VECKLANA",
-  "Name": "Wet Brain",
-  "Players": 1,
-  "Tag": "WB",
-  "TeamId": 6002,
-  "ret_msg": null
-}, {
-  "Founder": "maltar",
-  "Name": "brotime",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 6041,
-  "ret_msg": null
-}, {
-  "Founder": "Gorillas",
-  "Name": "Smitebros",
-  "Players": 4,
-  "Tag": "SB1",
-  "TeamId": 6137,
-  "ret_msg": null
-}, {
-  "Founder": "Tikr",
-  "Name": "TrueBros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 6318,
-  "ret_msg": null
-}, {
-  "Founder": "GrumpyValentine",
-  "Name": "Brothers Grim",
-  "Players": 5,
-  "Tag": "BǤɌG",
-  "TeamId": 6319,
-  "ret_msg": null
-}, {
-  "Founder": "Diowk",
-  "Name": "Brasil Shadows",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 6492,
-  "ret_msg": null
-}, {
-  "Founder": "OdinsBeard",
-  "Name": "Proskis Broski",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 6539,
-  "ret_msg": null
-}, {
-  "Founder": "BloodCurdle",
-  "Name": "BrazilianSquad",
-  "Players": 4,
-  "Tag": "CTI",
-  "TeamId": 6677,
-  "ret_msg": null
-}, {
-  "Founder": "PandaHermit",
-  "Name": "BROTHERSVN",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 6835,
-  "ret_msg": null
-}, {
-  "Founder": "flapjax",
-  "Name": "brokenfrog",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 6847,
-  "ret_msg": null
-}, {
-  "Founder": "Pontianak",
-  "Name": "MadeInBrasil",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 7005,
-  "ret_msg": null
-}, {
-  "Founder": "Aprosopos",
-  "Name": "HellBreakLoose",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 7164,
-  "ret_msg": null
-}, {
-  "Founder": "Fearien",
-  "Name": "U jelly bro",
-  "Players": 2,
-  "Tag": "JELLY",
-  "TeamId": 7424,
-  "ret_msg": null
-}, {
-  "Founder": "Dare101",
-  "Name": "BayLifeBros",
-  "Players": 8,
-  "Tag": "BYLF",
-  "TeamId": 7672,
-  "ret_msg": null
-}, {
-  "Founder": "Staub2",
-  "Name": "Brolaf",
-  "Players": 8,
-  "Tag": "Brooo",
-  "TeamId": 7894,
-  "ret_msg": null
-}, {
-  "Founder": "Hadord",
-  "Name": "Bro we lift",
-  "Players": 2,
-  "Tag": "Lift",
-  "TeamId": 7917,
-  "ret_msg": null
-}, {
-  "Founder": "Shnave",
-  "Name": "yoyobroyo",
-  "Players": 5,
-  "Tag": "yoyo",
-  "TeamId": 7969,
-  "ret_msg": null
-}, {
-  "Founder": "opetricak123",
-  "Name": "brachove",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 8055,
-  "ret_msg": null
-}, {
-  "Founder": "JackAndBlack",
-  "Name": "DKK BROOWS",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 8251,
-  "ret_msg": null
-}, {
-  "Founder": "Talven",
-  "Name": "Unbrained",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 8295,
-  "ret_msg": null
-}, {
-  "Founder": "Nureldin",
-  "Name": "DeathBringers",
-  "Players": 8,
-  "Tag": "RKO",
-  "TeamId": 8442,
-  "ret_msg": null
-}, {
-  "Founder": "",
-  "Name": "Unbreathing",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 0,
-  "ret_msg": null
-}, {
-  "Founder": "dogmonkey12345",
-  "Name": "TheGamerBros",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 8614,
-  "ret_msg": null
-}, {
-  "Founder": "",
-  "Name": "VYG Bror",
-  "Players": 10,
-  "Tag": "VYG",
-  "TeamId": 0,
-  "ret_msg": null
-}, {
-  "Founder": "Oliwerm",
-  "Name": "BlooDBrotherS",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 8825,
-  "ret_msg": null
-}, {
-  "Founder": "ALexecuter",
-  "Name": "BrokenHope",
-  "Players": 1,
-  "Tag": "Bhope",
-  "TeamId": 8945,
-  "ret_msg": null
-}, {
-  "Founder": "Spajan",
-  "Name": "Darkbrotherhood",
-  "Players": 2,
-  "Tag": "TDBH",
-  "TeamId": 9028,
-  "ret_msg": null
-}, {
-  "Founder": "Brennanman8",
-  "Name": "the bros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 9166,
-  "ret_msg": null
-}, {
-  "Founder": "zechspeacecraft",
-  "Name": "KawaiiBrigade",
-  "Players": 6,
-  "Tag": "KwBrG",
-  "TeamId": 9188,
-  "ret_msg": null
-}, {
-  "Founder": "robinhio123",
-  "Name": "The broos",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 9210,
-  "ret_msg": null
-}, {
-  "Founder": "Anyanyasha",
-  "Name": "NyashaDobryasha",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 9360,
-  "ret_msg": null
-}, {
-  "Founder": "Lov3Fool1",
-  "Name": "Team Bring It",
-  "Players": 1,
-  "Tag": "Tommy",
-  "TeamId": 9563,
-  "ret_msg": null
-}, {
-  "Founder": "Antony044",
-  "Name": "MVDBrazil",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 9783,
-  "ret_msg": null
-}, {
-  "Founder": "Aphix98",
-  "Name": "Deathbringer",
-  "Players": 8,
-  "Tag": "Diet",
-  "TeamId": 9842,
-  "ret_msg": null
-}, {
-  "Founder": "ElliotFHJ",
-  "Name": "rock brathers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 10297,
-  "ret_msg": null
-}, {
-  "Founder": "Koruzang",
-  "Name": "Brazil must die",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 10310,
-  "ret_msg": null
-}, {
-  "Founder": "Shazzah",
-  "Name": "Broski",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 10351,
-  "ret_msg": null
-}, {
-  "Founder": "Grimshaw20",
-  "Name": "come at me bro",
-  "Players": 2,
-  "Tag": "CAMB",
-  "TeamId": 10527,
-  "ret_msg": null
-}, {
-  "Founder": "DasLeon1998",
-  "Name": "KillBros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 10570,
-  "ret_msg": null
-}, {
-  "Founder": "diavolo23",
-  "Name": "ASHBRINGER",
-  "Players": 1,
-  "Tag": "ABR",
-  "TeamId": 10582,
-  "ret_msg": null
-}, {
-  "Founder": "bronypony2142",
-  "Name": "brony squad",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 10698,
-  "ret_msg": null
-}, {
-  "Founder": "HackerGod",
-  "Name": "UmbrellaPower",
-  "Players": 2,
-  "Tag": "uPx",
-  "TeamId": 10845,
-  "ret_msg": null
-}, {
-  "Founder": "kajtebriga55",
-  "Name": "kajtebriga",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 10983,
-  "ret_msg": null
-}, {
-  "Founder": "Lajm93",
-  "Name": "SmurfBros",
-  "Players": 4,
-  "Tag": "Brah",
-  "TeamId": 11008,
-  "ret_msg": null
-}, {
-  "Founder": "Kalosia",
-  "Name": "Bror",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 11042,
-  "ret_msg": null
-}, {
-  "Founder": "DahRod",
-  "Name": "EarDrumBreakers",
-  "Players": 1,
-  "Tag": "EDB",
-  "TeamId": 11417,
-  "ret_msg": null
-}, {
-  "Founder": "MrSippycup",
-  "Name": "Bro Do you even",
-  "Players": 2,
-  "Tag": "BroDo",
-  "TeamId": 11477,
-  "ret_msg": null
-}, {
-  "Founder": "pandabjørnen",
-  "Name": "CarrotBrotherDK",
-  "Players": 7,
-  "Tag": "",
-  "TeamId": 11582,
-  "ret_msg": null
-}, {
-  "Founder": "ThePedroGM",
-  "Name": "BrTime",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 11719,
-  "ret_msg": null
-}, {
-  "Founder": "GonnaStompYou",
-  "Name": "No Homo bruno",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 11845,
-  "ret_msg": null
-}, {
-  "Founder": "HanzorcK",
-  "Name": "Brazukas",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 11947,
-  "ret_msg": null
-}, {
-  "Founder": "BUFFAL0",
-  "Name": "De Brutale",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 12054,
-  "ret_msg": null
-}, {
-  "Founder": "JonatasBR",
-  "Name": "IMORTAIS BR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 12105,
-  "ret_msg": null
-}, {
-  "Founder": "zzGohanzz",
-  "Name": "OrientPesqBR",
-  "Players": 1,
-  "Tag": "OPBR",
-  "TeamId": 12146,
-  "ret_msg": null
-}, {
-  "Founder": "SabakkU",
-  "Name": "GGBrasil",
-  "Players": 5,
-  "Tag": "GGBR",
-  "TeamId": 12204,
-  "ret_msg": null
-}, {
-  "Founder": "Garogoth",
-  "Name": "Bro Army",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 12262,
-  "ret_msg": null
-}, {
-  "Founder": "TylerTron",
-  "Name": "Bricksquad",
-  "Players": 5,
-  "Tag": "BSM",
-  "TeamId": 12341,
-  "ret_msg": null
-}, {
-  "Founder": "Madaraaa",
-  "Name": "Akbr Amrka",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 12434,
-  "ret_msg": null
-}, {
-  "Founder": "LoneMaverick",
-  "Name": "BromanClan",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 12673,
-  "ret_msg": null
-}, {
-  "Founder": "Fuark",
-  "Name": "Brasil Atroz",
-  "Players": 4,
-  "Tag": "BrAtz",
-  "TeamId": 12706,
-  "ret_msg": null
-}, {
-  "Founder": "ScoobyNexT",
-  "Name": "TTTxBRs",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 12761,
-  "ret_msg": null
-}, {
-  "Founder": "TheImperioS",
-  "Name": "BrDi",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 12867,
-  "ret_msg": null
-}, {
-  "Founder": "Lesiu2",
-  "Name": "BrygadaRR",
-  "Players": 2,
-  "Tag": "BRR",
-  "TeamId": 12939,
-  "ret_msg": null
-}, {
-  "Founder": "SeriouslyBig",
-  "Name": "JD Broz",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 12982,
-  "ret_msg": null
-}, {
-  "Founder": "Vimpy",
-  "Name": "Zlobri",
-  "Players": 1,
-  "Tag": "DFT",
-  "TeamId": 13016,
-  "ret_msg": null
-}, {
-  "Founder": "BROCKLESNAR",
-  "Name": "BROCKLESNAR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 13028,
-  "ret_msg": null
-}, {
-  "Founder": "X360GAMER",
-  "Name": "Brosif Army",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 13081,
-  "ret_msg": null
-}, {
-  "Founder": "Merlunus",
-  "Name": "TheRockBrigade",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 13128,
-  "ret_msg": null
-}, {
-  "Founder": "rPuBa",
-  "Name": "TakeABricK",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 13129,
-  "ret_msg": null
-}, {
-  "Founder": "Pidim",
-  "Name": "Detonadores BR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13241,
-  "ret_msg": null
-}, {
-  "Founder": "Brotocol",
-  "Name": "Bruise Brothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13337,
-  "ret_msg": null
-}, {
-  "Founder": "Acsna",
-  "Name": "Batbros",
-  "Players": 6,
-  "Tag": "BBros",
-  "TeamId": 13354,
-  "ret_msg": null
-}, {
-  "Founder": "TerrakCz",
-  "Name": "Bratrstvo Ruze",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13415,
-  "ret_msg": null
-}, {
-  "Founder": "chr1st0ffer",
-  "Name": "madbros",
-  "Players": 8,
-  "Tag": "umad",
-  "TeamId": 13446,
-  "ret_msg": null
-}, {
-  "Founder": "mordigaard",
-  "Name": "TheDoombringers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 13544,
-  "ret_msg": null
-}, {
-  "Founder": "Brosk",
-  "Name": "Sun Bros",
-  "Players": 7,
-  "Tag": "SunBs",
-  "TeamId": 13688,
-  "ret_msg": null
-}, {
-  "Founder": "rickjames3201",
-  "Name": "youmadbroo",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13693,
-  "ret_msg": null
-}, {
-  "Founder": "Shaed",
-  "Name": "Kupo bros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13698,
-  "ret_msg": null
-}, {
-  "Founder": "Valou86110",
-  "Name": "Blood Broth68",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 13855,
-  "ret_msg": null
-}, {
-  "Founder": "ямнерусский",
-  "Name": "Umadbro",
-  "Players": 2,
-  "Tag": "ΝoU",
-  "TeamId": 14086,
-  "ret_msg": null
-}, {
-  "Founder": "ClovesGamer",
-  "Name": "SmiteBrasil",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 14482,
-  "ret_msg": null
-}, {
-  "Founder": "Thalion038",
-  "Name": "BroodGang",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 14505,
-  "ret_msg": null
-}, {
-  "Founder": "Doracs",
-  "Name": "IceBraKeRs",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 14587,
-  "ret_msg": null
-}, {
-  "Founder": "d0MSEN",
-  "Name": "BRATZEN",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 14795,
-  "ret_msg": null
-}, {
-  "Founder": "miro0202",
-  "Name": "brutal kiler",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 14817,
-  "ret_msg": null
-}, {
-  "Founder": "STEFAN²",
-  "Name": "KonamiGamerBros",
-  "Players": 2,
-  "Tag": "KxGxB",
-  "TeamId": 14840,
-  "ret_msg": null
-}, {
-  "Founder": "MogaBoga",
-  "Name": "TeamBrah",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 14963,
-  "ret_msg": null
-}, {
-  "Founder": "SrShiSha12",
-  "Name": "BRMF",
-  "Players": 2,
-  "Tag": "CHILE",
-  "TeamId": 14987,
-  "ret_msg": null
-}, {
-  "Founder": "sakat",
-  "Name": "Kobra takimi",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 15024,
-  "ret_msg": null
-}, {
-  "Founder": "SaizonBR",
-  "Name": "BrazilGods",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 15026,
-  "ret_msg": null
-}, {
-  "Founder": "SonsDeath",
-  "Name": "NegadaBr",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 15496,
-  "ret_msg": null
-}, {
-  "Founder": "Fuggington",
-  "Name": "Bash Brothers",
-  "Players": 2,
-  "Tag": "play",
-  "TeamId": 15499,
-  "ret_msg": null
-}, {
-  "Founder": "PNissen",
-  "Name": "BRUS",
-  "Players": 36,
-  "Tag": "BRUS",
-  "TeamId": 15561,
-  "ret_msg": null
-}, {
-  "Founder": "RepearsS",
-  "Name": "Brazil team",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 15711,
-  "ret_msg": null
-}, {
-  "Founder": "chuckynorrrris",
-  "Name": "SpartaBr",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 15752,
-  "ret_msg": null
-}, {
-  "Founder": "HiJackz24",
-  "Name": "DestructionBros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 15800,
-  "ret_msg": null
-}, {
-  "Founder": "Fruhand",
-  "Name": "JailBreakers",
-  "Players": 4,
-  "Tag": "JBK",
-  "TeamId": 15945,
-  "ret_msg": null
-}, {
-  "Founder": "Vayde117",
-  "Name": "The Old Breed",
-  "Players": 5,
-  "Tag": "TehoB",
-  "TeamId": 15984,
-  "ret_msg": null
-}, {
-  "Founder": "kafet",
-  "Name": "BladeBreakers",
-  "Players": 1,
-  "Tag": "BBkrs",
-  "TeamId": 16070,
-  "ret_msg": null
-}, {
-  "Founder": "Mark398",
-  "Name": "salmonbrigade",
-  "Players": 16,
-  "Tag": "salB",
-  "TeamId": 16438,
-  "ret_msg": null
-}, {
-  "Founder": "apocalipsy",
-  "Name": "BRGamers",
-  "Players": 2,
-  "Tag": "BRGA",
-  "TeamId": 16505,
-  "ret_msg": null
-}, {
-  "Founder": "iLOVEEMiLiA",
-  "Name": "brotherhoods",
-  "Players": 2,
-  "Tag": "H00Ds",
-  "TeamId": 16578,
-  "ret_msg": null
-}, {
-  "Founder": "NabeUdon",
-  "Name": "LLBReading",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 16604,
-  "ret_msg": null
-}, {
-  "Founder": "manbaman6",
-  "Name": "lebron",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 16654,
-  "ret_msg": null
-}, {
-  "Founder": "MSloki",
-  "Name": "Makabra Squad",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 16689,
-  "ret_msg": null
-}, {
-  "Founder": "BonecoMort",
-  "Name": "Brasil Player",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 16752,
-  "ret_msg": null
-}, {
-  "Founder": "NikVidXD",
-  "Name": "GermanMultiBROS",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 16895,
-  "ret_msg": null
-}, {
-  "Founder": "Hitman13599",
-  "Name": "KupaBobra",
-  "Players": 1,
-  "Tag": "KuBo",
-  "TeamId": 16909,
-  "ret_msg": null
-}, {
-  "Founder": "Lafru",
-  "Name": "Breza",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 16951,
-  "ret_msg": null
-}, {
-  "Founder": "sparklescat",
-  "Name": "Azamat Brownies",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 17023,
-  "ret_msg": null
-}, {
-  "Founder": "LuchaMucha",
-  "Name": "Nacho Libre",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 17102,
-  "ret_msg": null
-}, {
-  "Founder": "shinigamidaiko",
-  "Name": "BrazilOP",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 17113,
-  "ret_msg": null
-}, {
-  "Founder": "GnomeDragon",
-  "Name": "Hug it out Bro",
-  "Players": 2,
-  "Tag": "HUGS",
-  "TeamId": 17132,
-  "ret_msg": null
-}, {
-  "Founder": "OBWety",
-  "Name": "OnlyBrain",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 17197,
-  "ret_msg": null
-}, {
-  "Founder": "TheTiny",
-  "Name": "HueHueBR",
-  "Players": 3,
-  "Tag": "BoD",
-  "TeamId": 17243,
-  "ret_msg": null
-}, {
-  "Founder": "VaginosPizza",
-  "Name": "Usherbrooke",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 17456,
-  "ret_msg": null
-}, {
-  "Founder": "kakafics",
-  "Name": "Boladones NBR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 17557,
-  "ret_msg": null
-}, {
-  "Founder": "xXpanejaXx",
-  "Name": "Czechbrothers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 17612,
-  "ret_msg": null
-}, {
-  "Founder": "orp-[0:4896781}",
-  "Name": "Brasileirinhos",
-  "Players": 3,
-  "Tag": "TbBr",
-  "TeamId": 17754,
-  "ret_msg": null
-}, {
-  "Founder": "Chocolatee",
-  "Name": "BrsTotal",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 17779,
-  "ret_msg": null
-}, {
-  "Founder": "Thoraask",
-  "Name": "Broforce",
-  "Players": 4,
-  "Tag": "Brofc",
-  "TeamId": 18330,
-  "ret_msg": null
-}, {
-  "Founder": "Prdac",
-  "Name": "Kolibrici",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 18463,
-  "ret_msg": null
-}, {
-  "Founder": "Vesos",
-  "Name": "Brendigo",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 18504,
-  "ret_msg": null
-}, {
-  "Founder": "swagswagyolo",
-  "Name": "iSWAGurSWAGbruh",
-  "Players": 1,
-  "Tag": "izan",
-  "TeamId": 18592,
-  "ret_msg": null
-}, {
-  "Founder": "BlacKYYYEaglE",
-  "Name": "Warbringer",
-  "Players": 3,
-  "Tag": "WarB",
-  "TeamId": 18620,
-  "ret_msg": null
-}, {
-  "Founder": "Ibster",
-  "Name": "Chupacabra",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 18809,
-  "ret_msg": null
-}, {
-  "Founder": "Tortorux",
-  "Name": "Braveknights",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 18822,
-  "ret_msg": null
-}, {
-  "Founder": "ixbloodedgexi",
-  "Name": "poppy bros",
-  "Players": 9,
-  "Tag": "ppb",
-  "TeamId": 18881,
-  "ret_msg": null
-}, {
-  "Founder": "SahitOverPower",
-  "Name": "BBrothersClub",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 18963,
-  "ret_msg": null
-}, {
-  "Founder": "Krnubs",
-  "Name": "TimeGameBR",
-  "Players": 3,
-  "Tag": "tGbr",
-  "TeamId": 19029,
-  "ret_msg": null
-}, {
-  "Founder": "JDacies",
-  "Name": "Bread FC",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 19031,
-  "ret_msg": null
-}, {
-  "Founder": "JeffBridges2",
-  "Name": "JeffBridges",
-  "Players": 3,
-  "Tag": "JEFF",
-  "TeamId": 19111,
-  "ret_msg": null
-}, {
-  "Founder": "KBVetez",
-  "Name": "KopytkoBrothers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 19184,
-  "ret_msg": null
-}, {
-  "Founder": "Skyandhell",
-  "Name": "SkyBros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 19208,
-  "ret_msg": null
-}, {
-  "Founder": "banarot",
-  "Name": "BrutalPokemons",
-  "Players": 3,
-  "Tag": "BrPok",
-  "TeamId": 19448,
-  "ret_msg": null
-}, {
-  "Founder": "Snowdogs",
-  "Name": "Brain Activity",
-  "Players": 3,
-  "Tag": "Home",
-  "TeamId": 19647,
-  "ret_msg": null
-}, {
-  "Founder": "xXdogpowerXx",
-  "Name": "lighting broz",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 19706,
-  "ret_msg": null
-}, {
-  "Founder": "orp-[0:1244789}",
-  "Name": "EmberBR",
-  "Players": 5,
-  "Tag": "EMB",
-  "TeamId": 19773,
-  "ret_msg": null
-}, {
-  "Founder": "Rasmusrank1",
-  "Name": "Bro Squ68",
-  "Players": 8,
-  "Tag": "BROS",
-  "TeamId": 19800,
-  "ret_msg": null
-}, {
-  "Founder": "Cursed",
-  "Name": "Epic Brofist",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 19892,
-  "ret_msg": null
-}, {
-  "Founder": "Luigifann",
-  "Name": "The Brownys",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 19982,
-  "ret_msg": null
-}, {
-  "Founder": "Kacinader",
-  "Name": "FBro",
-  "Players": 2,
-  "Tag": "FBro",
-  "TeamId": 20058,
-  "ret_msg": null
-}, {
-  "Founder": "FabulaYo",
-  "Name": "BRZUCHOSRACZE",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 20074,
-  "ret_msg": null
-}, {
-  "Founder": "vGoston",
-  "Name": "Qpa bobra",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 20310,
-  "ret_msg": null
-}, {
-  "Founder": "Reeverrb",
-  "Name": "Atown Browns",
-  "Players": 3,
-  "Tag": "ATB",
-  "TeamId": 20479,
-  "ret_msg": null
-}, {
-  "Founder": "BrotherHorus",
-  "Name": "Brother",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 20532,
-  "ret_msg": null
-}, {
-  "Founder": "Shelfier",
-  "Name": "Kobras",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 20623,
-  "ret_msg": null
-}, {
-  "Founder": "ArthurGz",
-  "Name": "Cabrones",
-  "Players": 2,
-  "Tag": "Cabra",
-  "TeamId": 20726,
-  "ret_msg": null
-}, {
-  "Founder": "T3HM4N244",
-  "Name": "TERROR BRIGADE",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 20829,
-  "ret_msg": null
-}, {
-  "Founder": "Karat3",
-  "Name": "MADBrothers",
-  "Players": 5,
-  "Tag": "M4D",
-  "TeamId": 20942,
-  "ret_msg": null
-}, {
-  "Founder": "Choppyn",
-  "Name": "BR Cotocos",
-  "Players": 7,
-  "Tag": "Hu3",
-  "TeamId": 21197,
-  "ret_msg": null
-}, {
-  "Founder": "Designed",
-  "Name": "GB Bruhhh",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 21253,
-  "ret_msg": null
-}, {
-  "Founder": "Jayjay54",
-  "Name": "Breaking",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 21288,
-  "ret_msg": null
-}, {
-  "Founder": "Rambounet",
-  "Name": "SuperSmitebros",
-  "Players": 6,
-  "Tag": "SSB",
-  "TeamId": 21324,
-  "ret_msg": null
-}, {
-  "Founder": "CUST0M1X",
-  "Name": "BrotherOfBlood",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 21650,
-  "ret_msg": null
-}, {
-  "Founder": "xBear",
-  "Name": "AvalonBR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 21787,
-  "ret_msg": null
-}, {
-  "Founder": "GodOfShagg",
-  "Name": "Brazzers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 21903,
-  "ret_msg": null
-}, {
-  "Founder": "HentaGunLP",
-  "Name": "FinalBreeze",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 22040,
-  "ret_msg": null
-}, {
-  "Founder": "NoobZinho",
-  "Name": "CharlieBrownJr",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 22128,
-  "ret_msg": null
-}, {
-  "Founder": "LeLéGuMe",
-  "Name": "ambrosium",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 22161,
-  "ret_msg": null
-}, {
-  "Founder": "sumsarx2",
-  "Name": "brödsmulan",
-  "Players": 1,
-  "Tag": "damge",
-  "TeamId": 22378,
-  "ret_msg": null
-}, {
-  "Founder": "EliteOmega",
-  "Name": "smash bros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 22509,
-  "ret_msg": null
-}, {
-  "Founder": "Marduk09",
-  "Name": "Sociação BR",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 22529,
-  "ret_msg": null
-}, {
-  "Founder": "Smitepen",
-  "Name": "Bros For Life",
-  "Players": 4,
-  "Tag": "B4L",
-  "TeamId": 22531,
-  "ret_msg": null
-}, {
-  "Founder": "RaptorClaws",
-  "Name": "RaptorClawBros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 22975,
-  "ret_msg": null
-}, {
-  "Founder": "Scribz",
-  "Name": "bromates",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 23109,
-  "ret_msg": null
-}, {
-  "Founder": "AdasNaFarcie",
-  "Name": "GrowsBrother",
-  "Players": 1,
-  "Tag": "LEtr",
-  "TeamId": 23459,
-  "ret_msg": null
-}, {
-  "Founder": "Kybo",
-  "Name": "Bromance",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 23465,
-  "ret_msg": null
-}, {
-  "Founder": "ChamX",
-  "Name": "EASY BRO",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 23704,
-  "ret_msg": null
-}, {
-  "Founder": "Staanleyski",
-  "Name": "PoskieBobry",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 23728,
-  "ret_msg": null
-}, {
-  "Founder": "AcRoNaxy",
-  "Name": "UmbraVirtus",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 23868,
-  "ret_msg": null
-}, {
-  "Founder": "monkeydelbuero",
-  "Name": "THE brothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 24162,
-  "ret_msg": null
-}, {
-  "Founder": "PrinceYahiko",
-  "Name": "Cavemen brutes",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 24233,
-  "ret_msg": null
-}, {
-  "Founder": "DeathLoney",
-  "Name": "WestBrook",
-  "Players": 4,
-  "Tag": "WsBrk",
-  "TeamId": 24249,
-  "ret_msg": null
-}, {
-  "Founder": "bradybacon",
-  "Name": "bacon bros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 24313,
-  "ret_msg": null
-}, {
-  "Founder": "NumLock",
-  "Name": "BREAK THE WORLD",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 24419,
-  "ret_msg": null
-}, {
-  "Founder": "vGUncreative",
-  "Name": "TheNLBros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 24531,
-  "ret_msg": null
-}, {
-  "Founder": "piglet1020",
-  "Name": "BRTO",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 24930,
-  "ret_msg": null
-}, {
-  "Founder": "NeutralShape",
-  "Name": "Breast Friends",
-  "Players": 3,
-  "Tag": "TaTas",
-  "TeamId": 24990,
-  "ret_msg": null
-}, {
-  "Founder": "panda66",
-  "Name": "Brød",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 25139,
-  "ret_msg": null
-}, {
-  "Founder": "MuikkumaN",
-  "Name": "The Bros Pros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 25309,
-  "ret_msg": null
-}, {
-  "Founder": "HMAAB",
-  "Name": "sabrina",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 25491,
-  "ret_msg": null
-}, {
-  "Founder": "dedstowily",
-  "Name": "Crimson Embrace",
-  "Players": 2,
-  "Tag": "CE",
-  "TeamId": 25572,
-  "ret_msg": null
-}, {
-  "Founder": "Tarawh",
-  "Name": "BRB tornado",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 25593,
-  "ret_msg": null
-}, {
-  "Founder": "Wulfic",
-  "Name": "Ambrosia",
-  "Players": 8,
-  "Tag": "Ambro",
-  "TeamId": 25740,
-  "ret_msg": null
-}, {
-  "Founder": "Jexx",
-  "Name": "Mlpbronies",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 25829,
-  "ret_msg": null
-}, {
-  "Founder": "ponyxslayer",
-  "Name": "BraveFarts",
-  "Players": 4,
-  "Tag": "BvFt",
-  "TeamId": 25892,
-  "ret_msg": null
-}, {
-  "Founder": "Shadow7780",
-  "Name": "Brutal Team",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 25918,
-  "ret_msg": null
-}, {
-  "Founder": "ColdSniper",
-  "Name": "Brusers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 26101,
-  "ret_msg": null
-}, {
-  "Founder": "yohealme",
-  "Name": "gingerbread",
-  "Players": 1,
-  "Tag": "GGBRD",
-  "TeamId": 26187,
-  "ret_msg": null
-}, {
-  "Founder": "TheBroad",
-  "Name": "Brødrene Jensen",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 26649,
-  "ret_msg": null
-}, {
-  "Founder": "RazielTheDark",
-  "Name": "otaku bros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 26685,
-  "ret_msg": null
-}, {
-  "Founder": "Jurgot",
-  "Name": "Breaking Bad",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 26829,
-  "ret_msg": null
-}, {
-  "Founder": "DeltaSpirit",
-  "Name": "MBROMP",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 26847,
-  "ret_msg": null
-}, {
-  "Founder": "PcMasterRace",
-  "Name": "Brolans",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 26876,
-  "ret_msg": null
-}, {
-  "Founder": "Fhilos",
-  "Name": "BRING IT",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 26886,
-  "ret_msg": null
-}, {
-  "Founder": "supersylle14",
-  "Name": "BRINGTHEACTION",
-  "Players": 4,
-  "Tag": "axion",
-  "TeamId": 26959,
-  "ret_msg": null
-}, {
-  "Founder": "XxZeZxX",
-  "Name": "OP bro",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 27020,
-  "ret_msg": null
-}, {
-  "Founder": "chr0mius",
-  "Name": "brokeback",
-  "Players": 14,
-  "Tag": "BBMT",
-  "TeamId": 27063,
-  "ret_msg": null
-}, {
-  "Founder": "UTraManoid",
-  "Name": "Soh Brasil",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 27647,
-  "ret_msg": null
-}, {
-  "Founder": "ThichBop",
-  "Name": "BandOfBrothers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 27812,
-  "ret_msg": null
-}, {
-  "Founder": "Lordax",
-  "Name": "Brüste Gut",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 27977,
-  "ret_msg": null
-}, {
-  "Founder": "ghostpand",
-  "Name": "FanBrader",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 28091,
-  "ret_msg": null
-}, {
-  "Founder": "YoloSwagginso",
-  "Name": "Maggot Brain",
-  "Players": 5,
-  "Tag": "MAIN",
-  "TeamId": 28164,
-  "ret_msg": null
-}, {
-  "Founder": "Dani8331",
-  "Name": "YOLOSWAGBRO",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 28244,
-  "ret_msg": null
-}, {
-  "Founder": "Ghost03",
-  "Name": "Brawlers untied",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 28247,
-  "ret_msg": null
-}, {
-  "Founder": "xIcicle",
-  "Name": "Bierbrauer",
-  "Players": 4,
-  "Tag": "BIER",
-  "TeamId": 28468,
-  "ret_msg": null
-}, {
-  "Founder": "DrCrow",
-  "Name": "Wurstbrote",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 28749,
-  "ret_msg": null
-}, {
-  "Founder": "BROZega",
-  "Name": "smølfebros",
-  "Players": 3,
-  "Tag": "SMØLF",
-  "TeamId": 28987,
-  "ret_msg": null
-}, {
-  "Founder": "Valkyriaqk",
-  "Name": "ABRACADABRA",
-  "Players": 1,
-  "Tag": "ABRA1",
-  "TeamId": 29109,
-  "ret_msg": null
-}, {
-  "Founder": "BSmite",
-  "Name": "BRSmite",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 29378,
-  "ret_msg": null
-}, {
-  "Founder": "CdubFromMI",
-  "Name": "Brick Squard",
-  "Players": 10,
-  "Tag": "",
-  "TeamId": 29459,
-  "ret_msg": null
-}, {
-  "Founder": "InebriateAres",
-  "Name": "Inebriate",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 29476,
-  "ret_msg": null
-}, {
-  "Founder": "Lukelikes69",
-  "Name": "BrandonIsAGirl",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 29830,
-  "ret_msg": null
-}, {
-  "Founder": "OooKillEm",
-  "Name": "BreastsandButts",
-  "Players": 1,
-  "Tag": "BAB",
-  "TeamId": 29872,
-  "ret_msg": null
-}, {
-  "Founder": "MirSlayer",
-  "Name": "Tenebre",
-  "Players": 2,
-  "Tag": "TEN",
-  "TeamId": 30026,
-  "ret_msg": null
-}, {
-  "Founder": "Toxikon",
-  "Name": "Doom Brigade",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 30033,
-  "ret_msg": null
-}, {
-  "Founder": "Oskitar",
-  "Name": "BroINK",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30126,
-  "ret_msg": null
-}, {
-  "Founder": "DeltiX",
-  "Name": "Uchiha brothers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30127,
-  "ret_msg": null
-}, {
-  "Founder": "PrimataV",
-  "Name": "BR Owned",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30266,
-  "ret_msg": null
-}, {
-  "Founder": "BoPipou",
-  "Name": "BroMaciia",
-  "Players": 7,
-  "Tag": "Broo",
-  "TeamId": 30317,
-  "ret_msg": null
-}, {
-  "Founder": "TehLuco",
-  "Name": "IgivUHmbrgr",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 30322,
-  "ret_msg": null
-}, {
-  "Founder": "Matooska",
-  "Name": "The random bros",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 30344,
-  "ret_msg": null
-}, {
-  "Founder": "Eryk1997",
-  "Name": "Wielcy Bracia",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30405,
-  "ret_msg": null
-}, {
-  "Founder": "weasleworm",
-  "Name": "downy brownies",
-  "Players": 5,
-  "Tag": "downy",
-  "TeamId": 30466,
-  "ret_msg": null
-}, {
-  "Founder": "Sytheris",
-  "Name": "Breasts of Fury",
-  "Players": 1,
-  "Tag": "CHEST",
-  "TeamId": 30470,
-  "ret_msg": null
-}, {
-  "Founder": "MichalosPL",
-  "Name": "Brave Heart",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30510,
-  "ret_msg": null
-}, {
-  "Founder": "Gwicztheone",
-  "Name": "Brrzrs",
-  "Players": 2,
-  "Tag": "YÓLÓ",
-  "TeamId": 30745,
-  "ret_msg": null
-}, {
-  "Founder": "Angawren",
-  "Name": "Summerbreeze",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 30928,
-  "ret_msg": null
-}, {
-  "Founder": "antoniocesar",
-  "Name": "SpiderBR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 31006,
-  "ret_msg": null
-}, {
-  "Founder": "pSWAYz",
-  "Name": "Cheddy Bros",
-  "Players": 5,
-  "Tag": "CheD",
-  "TeamId": 31092,
-  "ret_msg": null
-}, {
-  "Founder": "MrUMadBro",
-  "Name": "UMadBros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 31346,
-  "ret_msg": null
-}, {
-  "Founder": "ShmellyShmeat",
-  "Name": "BROWN",
-  "Players": 7,
-  "Tag": "BROWN",
-  "TeamId": 31450,
-  "ret_msg": null
-}, {
-  "Founder": "Bazillus",
-  "Name": "BashBrothers",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 31618,
-  "ret_msg": null
-}, {
-  "Founder": "SteIIa",
-  "Name": "Dudez n Bros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 31775,
-  "ret_msg": null
-}, {
-  "Founder": "seregaSWD",
-  "Name": "BRO IM PRO",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 31924,
-  "ret_msg": null
-}, {
-  "Founder": "VâlarMorghulis",
-  "Name": "Broken Hope",
-  "Players": 8,
-  "Tag": "Soaz",
-  "TeamId": 32020,
-  "ret_msg": null
-}, {
-  "Founder": "fkcy",
-  "Name": "CBR SLOTH",
-  "Players": 9,
-  "Tag": "",
-  "TeamId": 32193,
-  "ret_msg": null
-}, {
-  "Founder": "TummiBoy",
-  "Name": "ZeBronies",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 32205,
-  "ret_msg": null
-}, {
-  "Founder": "spiriton4ik",
-  "Name": "GRO BRO PRO",
-  "Players": 4,
-  "Tag": "GBP",
-  "TeamId": 32316,
-  "ret_msg": null
-}, {
-  "Founder": "AlexDee",
-  "Name": "Friendbrothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 32414,
-  "ret_msg": null
-}, {
-  "Founder": "TheWailmerhd",
-  "Name": "Brahs",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 32426,
-  "ret_msg": null
-}, {
-  "Founder": "MalikBRO",
-  "Name": "BROCHACHONACHO",
-  "Players": 2,
-  "Tag": "Broz",
-  "TeamId": 32455,
-  "ret_msg": null
-}, {
-  "Founder": "Enslaver69",
-  "Name": "Bros Of War",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 32783,
-  "ret_msg": null
-}, {
-  "Founder": "ChizoD",
-  "Name": "Brollinators",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 33001,
-  "ret_msg": null
-}, {
-  "Founder": "w33dm4ster",
-  "Name": "Feskene Bruse",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 33041,
-  "ret_msg": null
-}, {
-  "Founder": "Synergentics",
-  "Name": "NOTMacabre",
-  "Players": 1,
-  "Tag": "xHHx",
-  "TeamId": 33051,
-  "ret_msg": null
-}, {
-  "Founder": "MataNoob",
-  "Name": "TheBrazil",
-  "Players": 1,
-  "Tag": "TBrs",
-  "TeamId": 33102,
-  "ret_msg": null
-}, {
-  "Founder": "Bio521",
-  "Name": "Fire Breath",
-  "Players": 5,
-  "Tag": "FireB",
-  "TeamId": 33267,
-  "ret_msg": null
-}, {
-  "Founder": "Bikuta1991",
-  "Name": "Bunga Brothers",
-  "Players": 7,
-  "Tag": "",
-  "TeamId": 33293,
-  "ret_msg": null
-}, {
-  "Founder": "BoberPolska",
-  "Name": "BobremImieczem",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 33382,
-  "ret_msg": null
-}, {
-  "Founder": "GerhalT",
-  "Name": "DeathBrothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 33394,
-  "ret_msg": null
-}, {
-  "Founder": "Janicki",
-  "Name": "BronzeBrakers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 33425,
-  "ret_msg": null
-}, {
-  "Founder": "Spongewii1",
-  "Name": "SbRo",
-  "Players": 3,
-  "Tag": "SBRO",
-  "TeamId": 33525,
-  "ret_msg": null
-}, {
-  "Founder": "Elektre",
-  "Name": "New Breed",
-  "Players": 3,
-  "Tag": "NWBRD",
-  "TeamId": 33810,
-  "ret_msg": null
-}, {
-  "Founder": "Keremite",
-  "Name": "Broccoli Squad",
-  "Players": 4,
-  "Tag": "BcSqd",
-  "TeamId": 33859,
-  "ret_msg": null
-}, {
-  "Founder": "twiiiktorsson",
-  "Name": "soulbrothers",
-  "Players": 3,
-  "Tag": "SK201",
-  "TeamId": 33967,
-  "ret_msg": null
-}, {
-  "Founder": "LukaLoL",
-  "Name": "Fabriek",
-  "Players": 1,
-  "Tag": "FBSSS",
-  "TeamId": 34011,
-  "ret_msg": null
-}, {
-  "Founder": "Gaucho",
-  "Name": "Airbrush",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 34409,
-  "ret_msg": null
-}, {
-  "Founder": "Cha0s2",
-  "Name": "TWDBRBR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 34465,
-  "ret_msg": null
-}, {
-  "Founder": "kikilox",
-  "Name": "Kewl Story Brah",
-  "Players": 8,
-  "Tag": "KSB",
-  "TeamId": 34622,
-  "ret_msg": null
-}, {
-  "Founder": "SmolikCZ",
-  "Name": "NoBrainGaming",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 34719,
-  "ret_msg": null
-}, {
-  "Founder": "WagnerZ",
-  "Name": "FacBrasil",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 34771,
-  "ret_msg": null
-}, {
-  "Founder": "kingwars",
-  "Name": "Bakasura BR top",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 34789,
-  "ret_msg": null
-}, {
-  "Founder": "Kalopezi",
-  "Name": "UNITEDBROS",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 35102,
-  "ret_msg": null
-}, {
-  "Founder": "keernav3",
-  "Name": "BrBOneMinute",
-  "Players": 3,
-  "Tag": "BrB1M",
-  "TeamId": 35136,
-  "ret_msg": null
-}, {
-  "Founder": "srboose",
-  "Name": "Umbra Ignas",
-  "Players": 9,
-  "Tag": "",
-  "TeamId": 35147,
-  "ret_msg": null
-}, {
-  "Founder": "Forest1994",
-  "Name": "Breakers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 35341,
-  "ret_msg": null
-}, {
-  "Founder": "Kutta",
-  "Name": "BroGamerz",
-  "Players": 9,
-  "Tag": "BrG",
-  "TeamId": 35463,
-  "ret_msg": null
-}, {
-  "Founder": "TheFunZocker",
-  "Name": "HeilbronxX",
-  "Players": 4,
-  "Tag": "HnX",
-  "TeamId": 35489,
-  "ret_msg": null
-}, {
-  "Founder": "RejQ",
-  "Name": "Danse Macabre",
-  "Players": 4,
-  "Tag": "DANSE",
-  "TeamId": 35518,
-  "ret_msg": null
-}, {
-  "Founder": "IsaacMeowton",
-  "Name": "GHETTO BRAWL",
-  "Players": 8,
-  "Tag": "Atze",
-  "TeamId": 35520,
-  "ret_msg": null
-}, {
-  "Founder": "IzManen",
-  "Name": "Brödraskapet",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 35591,
-  "ret_msg": null
-}, {
-  "Founder": "wilmarengko",
-  "Name": "Broz of Asgard",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 35713,
-  "ret_msg": null
-}, {
-  "Founder": "BissMarck",
-  "Name": "BroFist",
-  "Players": 3,
-  "Tag": "NaH",
-  "TeamId": 35719,
-  "ret_msg": null
-}, {
-  "Founder": "Emil",
-  "Name": "Swag Bros",
-  "Players": 5,
-  "Tag": "SwagB",
-  "TeamId": 35728,
-  "ret_msg": null
-}, {
-  "Founder": "Torgo82",
-  "Name": "TERRIO BROS",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 35891,
-  "ret_msg": null
-}, {
-  "Founder": "Dubstor",
-  "Name": "Huso Brothers",
-  "Players": 1,
-  "Tag": "HuSo",
-  "TeamId": 36007,
-  "ret_msg": null
-}, {
-  "Founder": "UnKnoWn10",
-  "Name": "Brun Sju",
-  "Players": 5,
-  "Tag": "Brun7",
-  "TeamId": 36140,
-  "ret_msg": null
-}, {
-  "Founder": "eusoueu",
-  "Name": "sobrasileiros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 36214,
-  "ret_msg": null
-}, {
-  "Founder": "SangueNoZolho",
-  "Name": "Brazilian Team",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 36270,
-  "ret_msg": null
-}, {
-  "Founder": "FsEx1Le",
-  "Name": "FabrykaSkilla",
-  "Players": 1,
-  "Tag": "EoF",
-  "TeamId": 36284,
-  "ret_msg": null
-}, {
-  "Founder": "LupionGamer",
-  "Name": "Brotherood",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 36329,
-  "ret_msg": null
-}, {
-  "Founder": "terrortuby",
-  "Name": "hybridforce",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 36354,
-  "ret_msg": null
-}, {
-  "Founder": "Dissensio02",
-  "Name": "KeepClickinBro",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 36366,
-  "ret_msg": null
-}, {
-  "Founder": "Matu",
-  "Name": "BearBros",
-  "Players": 7,
-  "Tag": "",
-  "TeamId": 36374,
-  "ret_msg": null
-}, {
-  "Founder": "Stabbinu",
-  "Name": "YUMADBRO",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 36532,
-  "ret_msg": null
-}, {
-  "Founder": "Godroller",
-  "Name": "Danish Brawl",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 36612,
-  "ret_msg": null
-}, {
-  "Founder": "Ilrus",
-  "Name": "PEIDLBRACKER",
-  "Players": 3,
-  "Tag": "PEIDL",
-  "TeamId": 36939,
-  "ret_msg": null
-}, {
-  "Founder": "Feelsbad",
-  "Name": "Broken Hammers",
-  "Players": 4,
-  "Tag": "BRKN",
-  "TeamId": 37097,
-  "ret_msg": null
-}, {
-  "Founder": "FeG0o",
-  "Name": "HyBriT",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 37133,
-  "ret_msg": null
-}, {
-  "Founder": "Thooor",
-  "Name": "SOU BR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 37476,
-  "ret_msg": null
-}, {
-  "Founder": "Tacenryu",
-  "Name": "EquilibriumGame",
-  "Players": 11,
-  "Tag": "EGD",
-  "TeamId": 37495,
-  "ret_msg": null
-}, {
-  "Founder": "Pillsbury1",
-  "Name": "BreakfastClub",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 37524,
-  "ret_msg": null
-}, {
-  "Founder": "",
-  "Name": "TBro",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 0,
-  "ret_msg": null
-}, {
-  "Founder": "KUVALDA666",
-  "Name": "BRYANSK",
-  "Players": 5,
-  "Tag": "AZAZA",
-  "TeamId": 37673,
-  "ret_msg": null
-}, {
-  "Founder": "XxPRoGameRXx",
-  "Name": "SmiteBrothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 37702,
-  "ret_msg": null
-}, {
-  "Founder": "MegadunkarN",
-  "Name": "Abbreviations",
-  "Players": 2,
-  "Tag": "ARIV",
-  "TeamId": 37923,
-  "ret_msg": null
-}, {
-  "Founder": "ProKlemen",
-  "Name": "Perfect Brother",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 38226,
-  "ret_msg": null
-}, {
-  "Founder": "HypnoShrub",
-  "Name": "PandaBros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 38278,
-  "ret_msg": null
-}, {
-  "Founder": "MLGPancakes",
-  "Name": "Breakfast Meal",
-  "Players": 2,
-  "Tag": "Meal",
-  "TeamId": 38637,
-  "ret_msg": null
-}, {
-  "Founder": "ReKonXx",
-  "Name": "Unbreathable",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 38720,
-  "ret_msg": null
-}, {
-  "Founder": "Senayee",
-  "Name": "saarbrooklyn",
-  "Players": 8,
-  "Tag": "",
-  "TeamId": 38979,
-  "ret_msg": null
-}, {
-  "Founder": "Nifardearmgo",
-  "Name": "MeinHerzBrennt",
-  "Players": 8,
-  "Tag": "MHB",
-  "TeamId": 39166,
-  "ret_msg": null
-}, {
-  "Founder": "CHAOSXTC",
-  "Name": "CHAOS BROS",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 39261,
-  "ret_msg": null
-}, {
-  "Founder": "Ronaldoboeno",
-  "Name": "brasil noia",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 39264,
-  "ret_msg": null
-}, {
-  "Founder": "KillerWattzz",
-  "Name": "PancakeBroz",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 39301,
-  "ret_msg": null
-}, {
-  "Founder": "Abramelin900",
-  "Name": "Abraland",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 39448,
-  "ret_msg": null
-}, {
-  "Founder": "MrRoxx",
-  "Name": "CCComboBreaker",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 39528,
-  "ret_msg": null
-}, {
-  "Founder": "ArChAe0pTeRiX",
-  "Name": "BrotherOfSteel",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 39530,
-  "ret_msg": null
-}, {
-  "Founder": "P1kaDasGalaxias",
-  "Name": "PRO CLAN BR",
-  "Players": 1,
-  "Tag": "PhoEx",
-  "TeamId": 39546,
-  "ret_msg": null
-}, {
-  "Founder": "uskomatonmursu",
-  "Name": "BROS N HOES",
-  "Players": 2,
-  "Tag": "BOO",
-  "TeamId": 39549,
-  "ret_msg": null
-}, {
-  "Founder": "BallSoHardUmad",
-  "Name": "Team Broke",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 39630,
-  "ret_msg": null
-}, {
-  "Founder": "albertmanden",
-  "Name": "Theamazingbros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 39667,
-  "ret_msg": null
-}, {
-  "Founder": "MLGzombieSlay3r",
-  "Name": "CraftmineBros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 39739,
-  "ret_msg": null
-}, {
-  "Founder": "Staley",
-  "Name": "Vibrant",
-  "Players": 5,
-  "Tag": "Vib",
-  "TeamId": 39855,
-  "ret_msg": null
-}, {
-  "Founder": "Spondeh",
-  "Name": "BrewzerBrigade",
-  "Players": 1,
-  "Tag": "BRWZR",
-  "TeamId": 39876,
-  "ret_msg": null
-}, {
-  "Founder": "stefanfun3",
-  "Name": "Pony Brigade",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 40145,
-  "ret_msg": null
-}, {
-  "Founder": "TGDonkey",
-  "Name": "BrokenTeapot",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 40167,
-  "ret_msg": null
-}, {
-  "Founder": "ryanbrooke69",
-  "Name": "RYANBROOKE",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 40361,
-  "ret_msg": null
-}, {
-  "Founder": "robertopepper",
-  "Name": "Booze Brotherz",
-  "Players": 2,
-  "Tag": "BZB",
-  "TeamId": 40406,
-  "ret_msg": null
-}, {
-  "Founder": "DoveMan",
-  "Name": "TheBrokenGamers",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 40420,
-  "ret_msg": null
-}, {
-  "Founder": "ExtremePlaY",
-  "Name": "BrazukaNukas",
-  "Players": 1,
-  "Tag": "BrZ",
-  "TeamId": 40745,
-  "ret_msg": null
-}, {
-  "Founder": "Owakizashi",
-  "Name": "xX BR Xx",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 40803,
-  "ret_msg": null
-}, {
-  "Founder": "Dooblyboo",
-  "Name": "Brosters",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 40972,
-  "ret_msg": null
-}, {
-  "Founder": "FaScHiinG",
-  "Name": "Yolo Swäääg Bro",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 41067,
-  "ret_msg": null
-}, {
-  "Founder": "DoC41",
-  "Name": "Bros For Gaming",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 41068,
-  "ret_msg": null
-}, {
-  "Founder": "lolsocool",
-  "Name": "ganja bros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 41077,
-  "ret_msg": null
-}, {
-  "Founder": "SmashBroDns",
-  "Name": "SmashBros",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 41087,
-  "ret_msg": null
-}, {
-  "Founder": "JohnBrazil",
-  "Name": "God Of Brazil",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 41146,
-  "ret_msg": null
-}, {
-  "Founder": "Mattylol",
-  "Name": "BrooklynSwag",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 41203,
-  "ret_msg": null
-}, {
-  "Founder": "dav",
-  "Name": "TEAMJUSTBRINGIT",
-  "Players": 1,
-  "Tag": "TJBI",
-  "TeamId": 41215,
-  "ret_msg": null
-}, {
-  "Founder": "vittoc357",
-  "Name": "Gamer Brasil",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 41231,
-  "ret_msg": null
-}, {
-  "Founder": "AinsleyHariot",
-  "Name": "broblimproficer",
-  "Players": 2,
-  "Tag": "PRBLM",
-  "TeamId": 41264,
-  "ret_msg": null
-}, {
-  "Founder": "Kaneorm",
-  "Name": "The Broz",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 41271,
-  "ret_msg": null
-}, {
-  "Founder": "TheNakedBro",
-  "Name": "TheBroArmy",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 41325,
-  "ret_msg": null
-}, {
-  "Founder": "Rickiin",
-  "Name": "Olympoz BR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 41373,
-  "ret_msg": null
-}, {
-  "Founder": "KeNNy00005",
-  "Name": "Kutas Brothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 41458,
-  "ret_msg": null
-}, {
-  "Founder": "gr1m5",
-  "Name": "Brofessionals",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 41646,
-  "ret_msg": null
-}, {
-  "Founder": "Nathan",
-  "Name": "BRO FORCE FIVE",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 41754,
-  "ret_msg": null
-}, {
-  "Founder": "H4LL",
-  "Name": "Just Bring It",
-  "Players": 1,
-  "Tag": "BrinG",
-  "TeamId": 41851,
-  "ret_msg": null
-}, {
-  "Founder": "Twmasel",
-  "Name": "Nice Try Bro",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 42020,
-  "ret_msg": null
-}, {
-  "Founder": "TrisQ",
-  "Name": "CzarneBractwo",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 42029,
-  "ret_msg": null
-}, {
-  "Founder": "ChlodnySzczw",
-  "Name": "piczka bobra",
-  "Players": 6,
-  "Tag": "",
-  "TeamId": 42052,
-  "ret_msg": null
-}, {
-  "Founder": "lol11",
-  "Name": "TheDeathBringer",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 42055,
-  "ret_msg": null
-}, {
-  "Founder": "Limpbullet",
-  "Name": "Anglibros",
-  "Players": 1,
-  "Tag": "ANG",
-  "TeamId": 42089,
-  "ret_msg": null
-}, {
-  "Founder": "Lodisen",
-  "Name": "KBRY",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 42162,
-  "ret_msg": null
-}, {
-  "Founder": "Frostí",
-  "Name": "DieBratwürste",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 42165,
-  "ret_msg": null
-}, {
-  "Founder": "LeoBrog",
-  "Name": "Soladinhos BR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 42238,
-  "ret_msg": null
-}, {
-  "Founder": "mrmagooo",
-  "Name": "Cobra Kai",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 42386,
-  "ret_msg": null
-}, {
-  "Founder": "Jungpao",
-  "Name": "Magna Tenebrae",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 42409,
-  "ret_msg": null
-}, {
-  "Founder": "ProExpeert",
-  "Name": "Clan dos BR",
-  "Players": 2,
-  "Tag": "CDBR",
-  "TeamId": 42625,
-  "ret_msg": null
-}, {
-  "Founder": "Xiaopei",
-  "Name": "Flat Broke",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 42970,
-  "ret_msg": null
-}, {
-  "Founder": "KingColossus",
-  "Name": "Bro Gaths",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 43154,
-  "ret_msg": null
-}, {
-  "Founder": "KillerLifeRT",
-  "Name": "BroTEAM",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 43199,
-  "ret_msg": null
-}, {
-  "Founder": "thalgon",
-  "Name": "Fightmebro",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 43222,
-  "ret_msg": null
-}, {
-  "Founder": "Asterloxi",
-  "Name": "AnuBRa",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 43363,
-  "ret_msg": null
-}, {
-  "Founder": "ynrub",
-  "Name": "BRENCH FREGGOTS",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 43391,
-  "ret_msg": null
-}, {
-  "Founder": "jmandahusker777",
-  "Name": "BropieHusker",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 43407,
-  "ret_msg": null
-}, {
-  "Founder": "Darklordslayer",
-  "Name": "Brödrostarna",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 43417,
-  "ret_msg": null
-}, {
-  "Founder": "FreeBarLux",
-  "Name": "Smash Brothers",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 43575,
-  "ret_msg": null
-}, {
-  "Founder": "WhiteWolf67",
-  "Name": "Big Wolf Bros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 43654,
-  "ret_msg": null
-}, {
-  "Founder": "VogueAD",
-  "Name": "Mario Bros",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 43677,
-  "ret_msg": null
-}, {
-  "Founder": "Maxsheld",
-  "Name": "Os Quebra Cama",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 43678,
-  "ret_msg": null
-}, {
-  "Founder": "epicbacon231",
-  "Name": "BaconBrawlers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 43767,
-  "ret_msg": null
-}, {
-  "Founder": "Brahvacado",
-  "Name": "The Hammer Bros",
-  "Players": 2,
-  "Tag": "RLST",
-  "TeamId": 43811,
-  "ret_msg": null
-}, {
-  "Founder": "soulrapp3r",
-  "Name": "BRO Gaming",
-  "Players": 4,
-  "Tag": "Bro4l",
-  "TeamId": 44053,
-  "ret_msg": null
-}, {
-  "Founder": "Tunczyk",
-  "Name": "BreakDance",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 44057,
-  "ret_msg": null
-}, {
-  "Founder": "ImAgressive",
-  "Name": "SkyerBros",
-  "Players": 3,
-  "Tag": "Lich",
-  "TeamId": 44135,
-  "ret_msg": null
-}, {
-  "Founder": "Rècluse",
-  "Name": "Dos Brigade",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 44232,
-  "ret_msg": null
-}, {
-  "Founder": "Drakion69",
-  "Name": "BrosAngelz",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 44403,
-  "ret_msg": null
-}, {
-  "Founder": "hyperion1999",
-  "Name": "broodje kaas",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 44462,
-  "ret_msg": null
-}, {
-  "Founder": "brennvin",
-  "Name": "Brack gamers",
-  "Players": 2,
-  "Tag": "NGGAS",
-  "TeamId": 44485,
-  "ret_msg": null
-}, {
-  "Founder": "Kasioleq",
-  "Name": "Ciupakabra",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 44784,
-  "ret_msg": null
-}, {
-  "Founder": "Prayser",
-  "Name": "osmanobr",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 44793,
-  "ret_msg": null
-}, {
-  "Founder": "Zereus",
-  "Name": "Free Bread",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 44836,
-  "ret_msg": null
-}, {
-  "Founder": "Aple3plit",
-  "Name": "BrosStudio",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 44979,
-  "ret_msg": null
-}, {
-  "Founder": "PrelawManiac",
-  "Name": "ÆBRYRMÆIKKE",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 44986,
-  "ret_msg": null
-}, {
-  "Founder": "Burmistrz99",
-  "Name": "LOL Brothers",
-  "Players": 7,
-  "Tag": "",
-  "TeamId": 45035,
-  "ret_msg": null
-}, {
-  "Founder": "claudius14",
-  "Name": "BroBasherBobs",
-  "Players": 5,
-  "Tag": "BroBB",
-  "TeamId": 45072,
-  "ret_msg": null
-}, {
-  "Founder": "MADRUGAAA",
-  "Name": "XnxxBR",
-  "Players": 4,
-  "Tag": "0800",
-  "TeamId": 45119,
-  "ret_msg": null
-}, {
-  "Founder": "ErickCelio",
-  "Name": "BRBOW",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 45207,
-  "ret_msg": null
-}, {
-  "Founder": "Emajinashen",
-  "Name": "U MAD BRAH",
-  "Players": 5,
-  "Tag": "brolo",
-  "TeamId": 45322,
-  "ret_msg": null
-}, {
-  "Founder": "HoneyBadger1395",
-  "Name": "yolo swag bro",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 45328,
-  "ret_msg": null
-}, {
-  "Founder": "CommanderSwirl",
-  "Name": "UMADBROYOLO",
-  "Players": 2,
-  "Tag": "UMBY",
-  "TeamId": 45417,
-  "ret_msg": null
-}, {
-  "Founder": "RobaczekPL",
-  "Name": "Lysi z Brazzers",
-  "Players": 1,
-  "Tag": "LzB",
-  "TeamId": 45454,
-  "ret_msg": null
-}, {
-  "Founder": "psychokip",
-  "Name": "Fakkelbrigade",
-  "Players": 1,
-  "Tag": "Gekke",
-  "TeamId": 45538,
-  "ret_msg": null
-}, {
-  "Founder": "loodery",
-  "Name": "BrutalBrotherz",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 45663,
-  "ret_msg": null
-}, {
-  "Founder": "Eldorand",
-  "Name": "Hope breakers",
-  "Players": 8,
-  "Tag": "THB",
-  "TeamId": 45786,
-  "ret_msg": null
-}, {
-  "Founder": "Ryanoceros",
-  "Name": "Brick Squad",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 45838,
-  "ret_msg": null
-}, {
-  "Founder": "Raemus",
-  "Name": "DontDazeMeBro",
-  "Players": 1,
-  "Tag": "Dazed",
-  "TeamId": 45866,
-  "ret_msg": null
-}, {
-  "Founder": "Muggaccino",
-  "Name": "HomeBrewTalent",
-  "Players": 1,
-  "Tag": "HBT",
-  "TeamId": 45965,
-  "ret_msg": null
-}, {
-  "Founder": "Killer300",
-  "Name": "Broetchen",
-  "Players": 10,
-  "Tag": "",
-  "TeamId": 46074,
-  "ret_msg": null
-}, {
-  "Founder": "Lascpa",
-  "Name": "Bros of Asgard",
-  "Players": 2,
-  "Tag": "BoA",
-  "TeamId": 46094,
-  "ret_msg": null
-}, {
-  "Founder": "Xfihter207",
-  "Name": "Tavs bralis",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 46244,
-  "ret_msg": null
-}, {
-  "Founder": "Wramper",
-  "Name": "BluntedBrothers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 46319,
-  "ret_msg": null
-}, {
-  "Founder": "JaxForly",
-  "Name": "LolBR",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 46342,
-  "ret_msg": null
-}, {
-  "Founder": "Rustyoutlaw",
-  "Name": "thebravehero",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 46741,
-  "ret_msg": null
-}, {
-  "Founder": "HellsSavior",
-  "Name": "UnderABridge",
-  "Players": 4,
-  "Tag": "Trulz",
-  "TeamId": 46792,
-  "ret_msg": null
-}, {
-  "Founder": "EnisTortul",
-  "Name": "FatBros",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 46894,
-  "ret_msg": null
-}, {
-  "Founder": "IsaqueHHS",
-  "Name": "BRfDX",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 46910,
-  "ret_msg": null
-}, {
-  "Founder": "HuanitoPL",
-  "Name": "Brave Cookies",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 46976,
-  "ret_msg": null
-}, {
-  "Founder": "SaynSatan",
-  "Name": "Brutes",
-  "Players": 1,
-  "Tag": "PG1",
-  "TeamId": 46996,
-  "ret_msg": null
-}, {
-  "Founder": "Atalho22",
-  "Name": "ArrombadsBR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 47052,
-  "ret_msg": null
-}, {
-  "Founder": "breezyexcursion",
-  "Name": "Breezy Familia",
-  "Players": 1,
-  "Tag": "BASED",
-  "TeamId": 47099,
-  "ret_msg": null
-}, {
-  "Founder": "KennenBR",
-  "Name": "Mercenarios BR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 47357,
-  "ret_msg": null
-}, {
-  "Founder": "PittyGamer",
-  "Name": "fodoes do br",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 47625,
-  "ret_msg": null
-}, {
-  "Founder": "tmtzinHue",
-  "Name": "HUE BR",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 47765,
-  "ret_msg": null
-}, {
-  "Founder": "Arcadis",
-  "Name": "Furybros",
-  "Players": 6,
-  "Tag": "MIM",
-  "TeamId": 47885,
-  "ret_msg": null
-}, {
-  "Founder": "Tonxic",
-  "Name": "brodawgs",
-  "Players": 2,
-  "Tag": "BR0",
-  "TeamId": 47890,
-  "ret_msg": null
-}, {
-  "Founder": "Wogan106",
-  "Name": "HeBros",
-  "Players": 10,
-  "Tag": "iBeer",
-  "TeamId": 47892,
-  "ret_msg": null
-}, {
-  "Founder": "WhRyller",
-  "Name": "BrConeClan",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 47910,
-  "ret_msg": null
-}, {
-  "Founder": "KezX",
-  "Name": "LysyZBrazZerS",
-  "Players": 2,
-  "Tag": "Lysy",
-  "TeamId": 48178,
-  "ret_msg": null
-}, {
-  "Founder": "TheGearedGreek",
-  "Name": "TheBronzeDogs",
-  "Players": 1,
-  "Tag": "Bronz",
-  "TeamId": 48218,
-  "ret_msg": null
-}, {
-  "Founder": "MarkBR7",
-  "Name": "BRsmiters",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 48241,
-  "ret_msg": null
-}, {
-  "Founder": "jdhunt103",
-  "Name": "BrokenCircle",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 48271,
-  "ret_msg": null
-}, {
-  "Founder": "paççoca",
-  "Name": "SociedadeBR",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 48381,
-  "ret_msg": null
-}, {
-  "Founder": "xXKATARATAXx",
-  "Name": "brasilpros",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 48423,
-  "ret_msg": null
-}, {
-  "Founder": "Merp1",
-  "Name": "Bronze League",
-  "Players": 11,
-  "Tag": "",
-  "TeamId": 48497,
-  "ret_msg": null
-}, {
-  "Founder": "Packiller",
-  "Name": "CiggyBreak",
-  "Players": 5,
-  "Tag": "CYBK",
-  "TeamId": 48590,
-  "ret_msg": null
-}, {
-  "Founder": "Tanros",
-  "Name": "Breaker Team",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 48678,
-  "ret_msg": null
-}, {
-  "Founder": "Buzter",
-  "Name": "Brunk IF",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 48726,
-  "ret_msg": null
-}, {
-  "Founder": "xXDarKNeSSXx5",
-  "Name": "BigBrothersclan",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 48751,
-  "ret_msg": null
-}, {
-  "Founder": "loveandjoy",
-  "Name": "Chocobro",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 48894,
-  "ret_msg": null
-}, {
-  "Founder": "orp-[0:5215991]",
-  "Name": "BR PLAYERS",
-  "Players": 1,
-  "Tag": "ROCKI",
-  "TeamId": 49026,
-  "ret_msg": null
-}, {
-  "Founder": "Sharmik",
-  "Name": "xBrothers",
-  "Players": 3,
-  "Tag": "DINER",
-  "TeamId": 49204,
-  "ret_msg": null
-}, {
-  "Founder": "DwarvenKing257",
-  "Name": "BalkanBrothers",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 49214,
-  "ret_msg": null
-}, {
-  "Founder": "Ginyol",
-  "Name": "GodOfFibre",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 49265,
-  "ret_msg": null
-}, {
-  "Founder": "compound97",
-  "Name": "LightBringers",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 49270,
-  "ret_msg": null
-}, {
-  "Founder": "HeartBraker",
-  "Name": "BrokenSword",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 49302,
-  "ret_msg": null
-}, {
-  "Founder": "Negativ",
-  "Name": "Lysy z Brazzers",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 49465,
-  "ret_msg": null
-}, {
-  "Founder": "flockaLøL",
-  "Name": "BRICKSQUADD",
-  "Players": 1,
-  "Tag": "BSQD",
-  "TeamId": 49478,
-  "ret_msg": null
-}, {
-  "Founder": "Fake0Name0",
-  "Name": "BrothersNBullet",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 49644,
-  "ret_msg": null
-}, {
-  "Founder": "pandlugopis",
-  "Name": "Brygada",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 49707,
-  "ret_msg": null
-}, {
-  "Founder": "agamer",
-  "Name": "Viva Brazil",
-  "Players": 2,
-  "Tag": "BRZL",
-  "TeamId": 49719,
-  "ret_msg": null
-}, {
-  "Founder": "BasteQMaster",
-  "Name": "Brainless Team",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 50080,
-  "ret_msg": null
-}, {
-  "Founder": "JooneBugs",
-  "Name": "Helmet Brigade",
-  "Players": 3,
-  "Tag": "Nyaah",
-  "TeamId": 50146,
-  "ret_msg": null
-}, {
-  "Founder": "Br0lyVersao2",
-  "Name": "HUE HUE BR",
-  "Players": 3,
-  "Tag": "Hu3br",
-  "TeamId": 50181,
-  "ret_msg": null
-}, {
-  "Founder": "BananP4F",
-  "Name": "SmierdzaceBobry",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 50424,
-  "ret_msg": null
-}, {
-  "Founder": "Maxiooi",
-  "Name": "Polish Brothers",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 50490,
-  "ret_msg": null
-}, {
-  "Founder": "MalucoSinistro",
-  "Name": "VINGADORESBR",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 50549,
-  "ret_msg": null
-}, {
-  "Founder": "Ipsilon917",
-  "Name": "Kopfbreachers",
-  "Players": 2,
-  "Tag": "KoBr",
-  "TeamId": 50749,
-  "ret_msg": null
-}, {
-  "Founder": "Kyarann",
-  "Name": "Mad brother",
-  "Players": 5,
-  "Tag": "",
-  "TeamId": 50862,
-  "ret_msg": null
-}, {
-  "Founder": "BeLEAFer",
-  "Name": "Bajsbryggan",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 50907,
-  "ret_msg": null
-}, {
-  "Founder": "Jarly",
-  "Name": "DrkBrthHD",
-  "Players": 6,
-  "Tag": "BRHD",
-  "TeamId": 51155,
-  "ret_msg": null
-}, {
-  "Founder": "Para007",
-  "Name": "überBROz",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 51282,
-  "ret_msg": null
-}, {
-  "Founder": "Soetgojv",
-  "Name": "Brodouevenlift",
-  "Players": 3,
-  "Tag": "",
-  "TeamId": 51410,
-  "ret_msg": null
-}, {
-  "Founder": "iClayfk",
-  "Name": "BroCompany",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 51450,
-  "ret_msg": null
-}, {
-  "Founder": "RetroFebreze",
-  "Name": "Brotha",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 51558,
-  "ret_msg": null
-}, {
-  "Founder": "Kasyie",
-  "Name": "HellBros",
-  "Players": 4,
-  "Tag": "",
-  "TeamId": 51571,
-  "ret_msg": null
-}, {
-  "Founder": "Bertzerker",
-  "Name": "TheHairyanBros",
-  "Players": 1,
-  "Tag": "",
-  "TeamId": 51618,
-  "ret_msg": null
-}, {
-  "Founder": "NemeGLp",
-  "Name": "WirSIndBrot",
-  "Players": 2,
-  "Tag": "",
-  "TeamId": 51654,
-  "ret_msg": null
-}]
+[
+  {
+    "Founder":"Egypt101",
+    "Name":"BROS",
+    "Players":3,
+    "Tag":"BRO",
+    "TeamId":2,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kratos321",
+    "Name":"Brasil",
+    "Players":2,
+    "Tag":"ZKS",
+    "TeamId":119,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JITM",
+    "Name":"Bro Do You Lift",
+    "Players":4,
+    "Tag":"IDO",
+    "TeamId":164,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Skavenger",
+    "Name":"Junkie Brothers",
+    "Players":2,
+    "Tag":"JB",
+    "TeamId":239,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jojoflow",
+    "Name":"Noob Bros",
+    "Players":8,
+    "Tag":"NwA",
+    "TeamId":403,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Warhammerb",
+    "Name":"GER Warbringer",
+    "Players":2,
+    "Tag":"GWB",
+    "TeamId":544,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RBrae",
+    "Name":"BRAE",
+    "Players":1,
+    "Tag":"",
+    "TeamId":618,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PandaXMan",
+    "Name":"Death Bringers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":644,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Instapanter",
+    "Name":"Brelere",
+    "Players":2,
+    "Tag":"",
+    "TeamId":905,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Katze9",
+    "Name":"LOKOS DO BRASIL",
+    "Players":3,
+    "Tag":"",
+    "TeamId":1108,
+    "ret_msg":null
+  },
+  {
+    "Founder":"joellink1",
+    "Name":"Team Brotoss",
+    "Players":4,
+    "Tag":"BTA",
+    "TeamId":1552,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DPidy",
+    "Name":"BroArmy",
+    "Players":1,
+    "Tag":"",
+    "TeamId":1577,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheHarlequin23",
+    "Name":"BROTHERS",
+    "Players":2,
+    "Tag":"KD35",
+    "TeamId":1653,
+    "ret_msg":null
+  },
+  {
+    "Founder":"H00kd",
+    "Name":"Team Brazzers",
+    "Players":2,
+    "Tag":"TBZ",
+    "TeamId":1903,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PhazedKiller",
+    "Name":"TheSmiteBroz",
+    "Players":1,
+    "Tag":"",
+    "TeamId":2205,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Bigjimslim",
+    "Name":"Brok49",
+    "Players":1,
+    "Tag":"",
+    "TeamId":2302,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Vindico",
+    "Name":"We Take Bribes",
+    "Players":1,
+    "Tag":"WTB",
+    "TeamId":2307,
+    "ret_msg":null
+  },
+  {
+    "Founder":"XxXxplosionXxX",
+    "Name":"br destroi",
+    "Players":1,
+    "Tag":"",
+    "TeamId":2500,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DEM0NICC00KIE",
+    "Name":"Bros Angels",
+    "Players":5,
+    "Tag":"",
+    "TeamId":2511,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BfastSausage",
+    "Name":"Breakfast",
+    "Players":4,
+    "Tag":"Bfast",
+    "TeamId":2704,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Splicerow",
+    "Name":"Broacolypse",
+    "Players":3,
+    "Tag":"",
+    "TeamId":2763,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DeathandWar",
+    "Name":"Doombringers",
+    "Players":4,
+    "Tag":"",
+    "TeamId":3088,
+    "ret_msg":null
+  },
+  {
+    "Founder":"trudilutt",
+    "Name":"Järnbrukarna",
+    "Players":5,
+    "Tag":"JÄBK",
+    "TeamId":3194,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jagi",
+    "Name":"JBros",
+    "Players":2,
+    "Tag":"SÖR",
+    "TeamId":3223,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Yakecan",
+    "Name":"Dosenbrot",
+    "Players":1,
+    "Tag":"",
+    "TeamId":3249,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Universe323",
+    "Name":"the brotherhood",
+    "Players":7,
+    "Tag":"",
+    "TeamId":3876,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Taltas",
+    "Name":"Boss Brigade",
+    "Players":2,
+    "Tag":"BOS",
+    "TeamId":4010,
+    "ret_msg":null
+  },
+  {
+    "Founder":"sykotiic",
+    "Name":"Yes Bro We Lift",
+    "Players":4,
+    "Tag":"13IN",
+    "TeamId":4157,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Zukapin",
+    "Name":"algum br",
+    "Players":7,
+    "Tag":"aipo",
+    "TeamId":4226,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ayronos",
+    "Name":"Bollerbrüder",
+    "Players":2,
+    "Tag":"",
+    "TeamId":4364,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Misakinha",
+    "Name":"Nos Somos BRs",
+    "Players":3,
+    "Tag":"BRL",
+    "TeamId":4498,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Django666",
+    "Name":"Lumbrigas Do BR",
+    "Players":3,
+    "Tag":"",
+    "TeamId":4516,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jintarei",
+    "Name":"Brigade Fantome",
+    "Players":6,
+    "Tag":"",
+    "TeamId":4541,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tbird341",
+    "Name":"Brother of War",
+    "Players":2,
+    "Tag":"",
+    "TeamId":4633,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Eggrow",
+    "Name":"Mega Brothers",
+    "Players":6,
+    "Tag":"Sup",
+    "TeamId":4657,
+    "ret_msg":null
+  },
+  {
+    "Founder":"bardwooders",
+    "Name":"Bro Company",
+    "Players":1,
+    "Tag":"",
+    "TeamId":4777,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GreatUnicorn",
+    "Name":"BRONY",
+    "Players":2,
+    "Tag":"Brony",
+    "TeamId":4923,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Brofessor2",
+    "Name":"THE BROFESSORS",
+    "Players":5,
+    "Tag":"BSA",
+    "TeamId":5162,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Valrinn",
+    "Name":"SlicedBread",
+    "Players":5,
+    "Tag":"SBR",
+    "TeamId":5347,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RysherSeee",
+    "Name":"GamerFoeBro",
+    "Players":8,
+    "Tag":"GFB",
+    "TeamId":5403,
+    "ret_msg":null
+  },
+  {
+    "Founder":"blitzoor",
+    "Name":"MeAndMyBRox",
+    "Players":1,
+    "Tag":"",
+    "TeamId":5415,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PencilPants",
+    "Name":"HammerBros",
+    "Players":14,
+    "Tag":"HBROS",
+    "TeamId":5447,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Taschentuch9",
+    "Name":"SoS Brigade",
+    "Players":4,
+    "Tag":"",
+    "TeamId":5594,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Mootarde",
+    "Name":"Bromacia",
+    "Players":8,
+    "Tag":"BMC",
+    "TeamId":5660,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ryzguy",
+    "Name":"Brother Hood",
+    "Players":2,
+    "Tag":"BroHd",
+    "TeamId":5661,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DubluW",
+    "Name":"Brohoof",
+    "Players":2,
+    "Tag":"",
+    "TeamId":5865,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lavorz",
+    "Name":"Made In Brazil",
+    "Players":1,
+    "Tag":"",
+    "TeamId":5906,
+    "ret_msg":null
+  },
+  {
+    "Founder":"VECKLANA",
+    "Name":"Wet Brain",
+    "Players":1,
+    "Tag":"WB",
+    "TeamId":6002,
+    "ret_msg":null
+  },
+  {
+    "Founder":"maltar",
+    "Name":"brotime",
+    "Players":1,
+    "Tag":"",
+    "TeamId":6041,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Gorillas",
+    "Name":"Smitebros",
+    "Players":4,
+    "Tag":"SB1",
+    "TeamId":6137,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tikr",
+    "Name":"TrueBros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":6318,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GallentRaider",
+    "Name":"Brothers Grim",
+    "Players":8,
+    "Tag":"BǤɌG",
+    "TeamId":6319,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Diowk",
+    "Name":"Brasil Shadows",
+    "Players":3,
+    "Tag":"",
+    "TeamId":6492,
+    "ret_msg":null
+  },
+  {
+    "Founder":"OdinsBeard",
+    "Name":"Proskis Broski",
+    "Players":1,
+    "Tag":"",
+    "TeamId":6539,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BloodCurdle",
+    "Name":"BrazilianSquad",
+    "Players":4,
+    "Tag":"CTI",
+    "TeamId":6677,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PandaHermit",
+    "Name":"BROTHERSVN",
+    "Players":5,
+    "Tag":"",
+    "TeamId":6835,
+    "ret_msg":null
+  },
+  {
+    "Founder":"flapjax",
+    "Name":"brokenfrog",
+    "Players":1,
+    "Tag":"",
+    "TeamId":6847,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Pontianak",
+    "Name":"MadeInBrasil",
+    "Players":1,
+    "Tag":"",
+    "TeamId":7005,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Aprosopos",
+    "Name":"HellBreakLoose",
+    "Players":2,
+    "Tag":"",
+    "TeamId":7164,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fearien",
+    "Name":"U jelly bro",
+    "Players":2,
+    "Tag":"JELLY",
+    "TeamId":7424,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Dare101",
+    "Name":"BayLifeBros",
+    "Players":8,
+    "Tag":"BYLF",
+    "TeamId":7672,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Staub2",
+    "Name":"Brolaf",
+    "Players":8,
+    "Tag":"Brooo",
+    "TeamId":7894,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Hadord",
+    "Name":"Bro we lift",
+    "Players":2,
+    "Tag":"Lift",
+    "TeamId":7917,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shnave",
+    "Name":"yoyobroyo",
+    "Players":5,
+    "Tag":"yoyo",
+    "TeamId":7969,
+    "ret_msg":null
+  },
+  {
+    "Founder":"opetricak123",
+    "Name":"brachove",
+    "Players":1,
+    "Tag":"",
+    "TeamId":8055,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JackAndBlack",
+    "Name":"DKK BROOWS",
+    "Players":3,
+    "Tag":"",
+    "TeamId":8251,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Talven",
+    "Name":"Unbrained",
+    "Players":1,
+    "Tag":"",
+    "TeamId":8295,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Nureldin",
+    "Name":"DeathBringers",
+    "Players":8,
+    "Tag":"RKO",
+    "TeamId":8442,
+    "ret_msg":null
+  },
+  {
+    "Founder":"",
+    "Name":"Unbreathing",
+    "Players":4,
+    "Tag":"",
+    "TeamId":0,
+    "ret_msg":null
+  },
+  {
+    "Founder":"dogmonkey12345",
+    "Name":"TheGamerBros",
+    "Players":4,
+    "Tag":"",
+    "TeamId":8614,
+    "ret_msg":null
+  },
+  {
+    "Founder":"",
+    "Name":"VYG Bror",
+    "Players":10,
+    "Tag":"VYG",
+    "TeamId":0,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Oliwerm",
+    "Name":"BlooDBrotherS",
+    "Players":2,
+    "Tag":"",
+    "TeamId":8825,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ALexecuter",
+    "Name":"BrokenHope",
+    "Players":1,
+    "Tag":"Bhope",
+    "TeamId":8945,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shebs88",
+    "Name":"Darkbrotherhood",
+    "Players":2,
+    "Tag":"TDBH",
+    "TeamId":9028,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Brennanman8",
+    "Name":"the bros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":9166,
+    "ret_msg":null
+  },
+  {
+    "Founder":"zechspeacecraft",
+    "Name":"KawaiiBrigade",
+    "Players":6,
+    "Tag":"KwBrG",
+    "TeamId":9188,
+    "ret_msg":null
+  },
+  {
+    "Founder":"robinhio123",
+    "Name":"The broos",
+    "Players":1,
+    "Tag":"",
+    "TeamId":9210,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Anyanyasha",
+    "Name":"NyashaDobryasha",
+    "Players":2,
+    "Tag":"",
+    "TeamId":9360,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lov3Fool1",
+    "Name":"Team Bring It",
+    "Players":1,
+    "Tag":"Tommy",
+    "TeamId":9563,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Antony044",
+    "Name":"MVDBrazil",
+    "Players":2,
+    "Tag":"",
+    "TeamId":9783,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Aphix98",
+    "Name":"Deathbringer",
+    "Players":8,
+    "Tag":"Diet",
+    "TeamId":9842,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ElliotFHJ",
+    "Name":"rock brathers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":10297,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Koruzang",
+    "Name":"Brazil must die",
+    "Players":3,
+    "Tag":"",
+    "TeamId":10310,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shazzah",
+    "Name":"Broski",
+    "Players":1,
+    "Tag":"",
+    "TeamId":10351,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Grimshaw20",
+    "Name":"come at me bro",
+    "Players":2,
+    "Tag":"CAMB",
+    "TeamId":10527,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DasLeon1998",
+    "Name":"KillBros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":10570,
+    "ret_msg":null
+  },
+  {
+    "Founder":"diavolo23",
+    "Name":"ASHBRINGER",
+    "Players":1,
+    "Tag":"ABR",
+    "TeamId":10582,
+    "ret_msg":null
+  },
+  {
+    "Founder":"bronypony2142",
+    "Name":"brony squad",
+    "Players":1,
+    "Tag":"",
+    "TeamId":10698,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HackerGod",
+    "Name":"UmbrellaPower",
+    "Players":2,
+    "Tag":"uPx",
+    "TeamId":10845,
+    "ret_msg":null
+  },
+  {
+    "Founder":"kajtebriga55",
+    "Name":"kajtebriga",
+    "Players":1,
+    "Tag":"",
+    "TeamId":10983,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lajm93",
+    "Name":"SmurfBros",
+    "Players":4,
+    "Tag":"Brah",
+    "TeamId":11008,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kalosia",
+    "Name":"Bror",
+    "Players":2,
+    "Tag":"",
+    "TeamId":11042,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DahRod",
+    "Name":"EarDrumBreakers",
+    "Players":1,
+    "Tag":"EDB",
+    "TeamId":11417,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MrSippycup",
+    "Name":"Bro Do you even",
+    "Players":2,
+    "Tag":"BroDo",
+    "TeamId":11477,
+    "ret_msg":null
+  },
+  {
+    "Founder":"pandabjørnen",
+    "Name":"CarrotBrotherDK",
+    "Players":7,
+    "Tag":"",
+    "TeamId":11582,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ThePedroGM",
+    "Name":"BrTime",
+    "Players":1,
+    "Tag":"",
+    "TeamId":11719,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GonnaStompYou",
+    "Name":"No Homo bruno",
+    "Players":4,
+    "Tag":"",
+    "TeamId":11845,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HanzorcK",
+    "Name":"Brazukas",
+    "Players":1,
+    "Tag":"",
+    "TeamId":11947,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BUFFAL0",
+    "Name":"De Brutale",
+    "Players":4,
+    "Tag":"",
+    "TeamId":12054,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JonatasBR",
+    "Name":"IMORTAIS BR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":12105,
+    "ret_msg":null
+  },
+  {
+    "Founder":"zzGohanzz",
+    "Name":"OrientPesqBR",
+    "Players":1,
+    "Tag":"OPBR",
+    "TeamId":12146,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SabakkU",
+    "Name":"GGBrasil",
+    "Players":5,
+    "Tag":"GGBR",
+    "TeamId":12204,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Garogoth",
+    "Name":"Bro Army",
+    "Players":2,
+    "Tag":"",
+    "TeamId":12262,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TylerTron",
+    "Name":"Bricksquad",
+    "Players":5,
+    "Tag":"BSM",
+    "TeamId":12341,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Madaraaa",
+    "Name":"Akbr Amrka",
+    "Players":2,
+    "Tag":"",
+    "TeamId":12434,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LoneMaverick",
+    "Name":"BromanClan",
+    "Players":3,
+    "Tag":"",
+    "TeamId":12673,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fuark",
+    "Name":"Brasil Atroz",
+    "Players":4,
+    "Tag":"BrAtz",
+    "TeamId":12706,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ScoobyNexT",
+    "Name":"TTTxBRs",
+    "Players":2,
+    "Tag":"",
+    "TeamId":12761,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheImperioS",
+    "Name":"BrDi",
+    "Players":1,
+    "Tag":"",
+    "TeamId":12867,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lesiu2",
+    "Name":"BrygadaRR",
+    "Players":2,
+    "Tag":"BRR",
+    "TeamId":12939,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SeriouslyBig",
+    "Name":"JD Broz",
+    "Players":1,
+    "Tag":"",
+    "TeamId":12982,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Vimpy",
+    "Name":"Zlobri",
+    "Players":1,
+    "Tag":"DFT",
+    "TeamId":13016,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BROCKLESNAR",
+    "Name":"BROCKLESNAR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":13028,
+    "ret_msg":null
+  },
+  {
+    "Founder":"X360GAMER",
+    "Name":"Brosif Army",
+    "Players":3,
+    "Tag":"",
+    "TeamId":13081,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Merlunus",
+    "Name":"TheRockBrigade",
+    "Players":1,
+    "Tag":"",
+    "TeamId":13128,
+    "ret_msg":null
+  },
+  {
+    "Founder":"rPuBa",
+    "Name":"TakeABricK",
+    "Players":3,
+    "Tag":"",
+    "TeamId":13129,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Pidim",
+    "Name":"Detonadores BR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13241,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Brotocol",
+    "Name":"Bruise Brothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13337,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Acsna",
+    "Name":"Batbros",
+    "Players":6,
+    "Tag":"BBros",
+    "TeamId":13354,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TerrakCz",
+    "Name":"Bratrstvo Ruze",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13415,
+    "ret_msg":null
+  },
+  {
+    "Founder":"chr1st0ffer",
+    "Name":"madbros",
+    "Players":8,
+    "Tag":"umad",
+    "TeamId":13446,
+    "ret_msg":null
+  },
+  {
+    "Founder":"mordigaard",
+    "Name":"TheDoombringers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":13544,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Brosk",
+    "Name":"Sun Bros",
+    "Players":7,
+    "Tag":"SunBs",
+    "TeamId":13688,
+    "ret_msg":null
+  },
+  {
+    "Founder":"rickjames3201",
+    "Name":"youmadbroo",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13693,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shaed",
+    "Name":"Kupo bros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13698,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Valou86110",
+    "Name":"Blood Broth68",
+    "Players":2,
+    "Tag":"",
+    "TeamId":13855,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ямнерусский",
+    "Name":"Umadbro",
+    "Players":2,
+    "Tag":"ΝoU",
+    "TeamId":14086,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ClovesGamer",
+    "Name":"SmiteBrasil",
+    "Players":1,
+    "Tag":"",
+    "TeamId":14482,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Thalion038",
+    "Name":"BroodGang",
+    "Players":2,
+    "Tag":"",
+    "TeamId":14505,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Doracs",
+    "Name":"IceBraKeRs",
+    "Players":2,
+    "Tag":"",
+    "TeamId":14587,
+    "ret_msg":null
+  },
+  {
+    "Founder":"d0MSEN",
+    "Name":"BRATZEN",
+    "Players":2,
+    "Tag":"",
+    "TeamId":14795,
+    "ret_msg":null
+  },
+  {
+    "Founder":"miro0202",
+    "Name":"brutal kiler",
+    "Players":1,
+    "Tag":"",
+    "TeamId":14817,
+    "ret_msg":null
+  },
+  {
+    "Founder":"STEFAN²",
+    "Name":"KonamiGamerBros",
+    "Players":2,
+    "Tag":"KxGxB",
+    "TeamId":14840,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MogaBoga",
+    "Name":"TeamBrah",
+    "Players":2,
+    "Tag":"",
+    "TeamId":14963,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SrShiSha12",
+    "Name":"BRMF",
+    "Players":2,
+    "Tag":"CHILE",
+    "TeamId":14987,
+    "ret_msg":null
+  },
+  {
+    "Founder":"sakat",
+    "Name":"Kobra takimi",
+    "Players":2,
+    "Tag":"",
+    "TeamId":15024,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SaizonBR",
+    "Name":"BrazilGods",
+    "Players":1,
+    "Tag":"",
+    "TeamId":15026,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SonsDeath",
+    "Name":"NegadaBr",
+    "Players":1,
+    "Tag":"",
+    "TeamId":15496,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fuggington",
+    "Name":"Bash Brothers",
+    "Players":2,
+    "Tag":"play",
+    "TeamId":15499,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PNissen",
+    "Name":"BRUS",
+    "Players":36,
+    "Tag":"BRUS",
+    "TeamId":15561,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RepearsS",
+    "Name":"Brazil team",
+    "Players":1,
+    "Tag":"",
+    "TeamId":15711,
+    "ret_msg":null
+  },
+  {
+    "Founder":"chuckynorrrris",
+    "Name":"SpartaBr",
+    "Players":1,
+    "Tag":"",
+    "TeamId":15752,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HiJackz24",
+    "Name":"DestructionBros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":15800,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fruhand",
+    "Name":"JailBreakers",
+    "Players":4,
+    "Tag":"JBK",
+    "TeamId":15945,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Vayde117",
+    "Name":"The Old Breed",
+    "Players":5,
+    "Tag":"TehoB",
+    "TeamId":15984,
+    "ret_msg":null
+  },
+  {
+    "Founder":"kafet",
+    "Name":"BladeBreakers",
+    "Players":1,
+    "Tag":"BBkrs",
+    "TeamId":16070,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Mark398",
+    "Name":"salmonbrigade",
+    "Players":16,
+    "Tag":"salB",
+    "TeamId":16438,
+    "ret_msg":null
+  },
+  {
+    "Founder":"apocalipsy",
+    "Name":"BRGamers",
+    "Players":2,
+    "Tag":"BRGA",
+    "TeamId":16505,
+    "ret_msg":null
+  },
+  {
+    "Founder":"iLOVEEMiLiA",
+    "Name":"brotherhoods",
+    "Players":2,
+    "Tag":"H00Ds",
+    "TeamId":16578,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NabeUdon",
+    "Name":"LLBReading",
+    "Players":3,
+    "Tag":"",
+    "TeamId":16604,
+    "ret_msg":null
+  },
+  {
+    "Founder":"manbaman6",
+    "Name":"lebron",
+    "Players":1,
+    "Tag":"",
+    "TeamId":16654,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MSloki",
+    "Name":"Makabra Squad",
+    "Players":1,
+    "Tag":"",
+    "TeamId":16689,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BonecoMort",
+    "Name":"Brasil Player",
+    "Players":1,
+    "Tag":"",
+    "TeamId":16752,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NikVidXD",
+    "Name":"GermanMultiBROS",
+    "Players":2,
+    "Tag":"",
+    "TeamId":16895,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Hitman13599",
+    "Name":"KupaBobra",
+    "Players":1,
+    "Tag":"KuBo",
+    "TeamId":16909,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lafru",
+    "Name":"Breza",
+    "Players":2,
+    "Tag":"",
+    "TeamId":16951,
+    "ret_msg":null
+  },
+  {
+    "Founder":"sparklescat",
+    "Name":"Azamat Brownies",
+    "Players":1,
+    "Tag":"",
+    "TeamId":17023,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LuchaMucha",
+    "Name":"Nacho Libre",
+    "Players":2,
+    "Tag":"",
+    "TeamId":17102,
+    "ret_msg":null
+  },
+  {
+    "Founder":"shinigamidaiko",
+    "Name":"BrazilOP",
+    "Players":3,
+    "Tag":"",
+    "TeamId":17113,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GnomeDragon",
+    "Name":"Hug it out Bro",
+    "Players":2,
+    "Tag":"HUGS",
+    "TeamId":17132,
+    "ret_msg":null
+  },
+  {
+    "Founder":"OBWety",
+    "Name":"OnlyBrain",
+    "Players":1,
+    "Tag":"",
+    "TeamId":17197,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheTiny",
+    "Name":"HueHueBR",
+    "Players":3,
+    "Tag":"BoD",
+    "TeamId":17243,
+    "ret_msg":null
+  },
+  {
+    "Founder":"VaginosPizza",
+    "Name":"Usherbrooke",
+    "Players":2,
+    "Tag":"",
+    "TeamId":17456,
+    "ret_msg":null
+  },
+  {
+    "Founder":"kakafics",
+    "Name":"Boladones NBR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":17557,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xXpanejaXx",
+    "Name":"Czechbrothers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":17612,
+    "ret_msg":null
+  },
+  {
+    "Founder":"orp-[0:4896781}",
+    "Name":"Brasileirinhos",
+    "Players":3,
+    "Tag":"TbBr",
+    "TeamId":17754,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Chocolatee",
+    "Name":"BrsTotal",
+    "Players":1,
+    "Tag":"",
+    "TeamId":17779,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Thoraask",
+    "Name":"Broforce",
+    "Players":4,
+    "Tag":"Brofc",
+    "TeamId":18330,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Prdac",
+    "Name":"Kolibrici",
+    "Players":2,
+    "Tag":"",
+    "TeamId":18463,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Vesos",
+    "Name":"Brendigo",
+    "Players":1,
+    "Tag":"",
+    "TeamId":18504,
+    "ret_msg":null
+  },
+  {
+    "Founder":"swagswagyolo",
+    "Name":"iSWAGurSWAGbruh",
+    "Players":1,
+    "Tag":"izan",
+    "TeamId":18592,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BlacKYYYEaglE",
+    "Name":"Warbringer",
+    "Players":3,
+    "Tag":"WarB",
+    "TeamId":18620,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ibster",
+    "Name":"Chupacabra",
+    "Players":4,
+    "Tag":"",
+    "TeamId":18809,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tortorux",
+    "Name":"Braveknights",
+    "Players":2,
+    "Tag":"",
+    "TeamId":18822,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ixbloodedgexi",
+    "Name":"poppy bros",
+    "Players":9,
+    "Tag":"ppb",
+    "TeamId":18881,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SahitOverPower",
+    "Name":"BBrothersClub",
+    "Players":1,
+    "Tag":"",
+    "TeamId":18963,
+    "ret_msg":null
+  },
+  {
+    "Founder":"rhuston",
+    "Name":"TimeGameBR",
+    "Players":3,
+    "Tag":"tGbr",
+    "TeamId":19029,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JDacies",
+    "Name":"Bread FC",
+    "Players":3,
+    "Tag":"",
+    "TeamId":19031,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JeffBridges2",
+    "Name":"JeffBridges",
+    "Players":3,
+    "Tag":"JEFF",
+    "TeamId":19111,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KBVetez",
+    "Name":"KopytkoBrothers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":19184,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Skyandhell",
+    "Name":"SkyBros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":19208,
+    "ret_msg":null
+  },
+  {
+    "Founder":"banarot",
+    "Name":"BrutalPokemons",
+    "Players":3,
+    "Tag":"BrPok",
+    "TeamId":19448,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Snowdogs",
+    "Name":"Brain Activity",
+    "Players":3,
+    "Tag":"Home",
+    "TeamId":19647,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xXdogpowerXx",
+    "Name":"lighting broz",
+    "Players":2,
+    "Tag":"",
+    "TeamId":19706,
+    "ret_msg":null
+  },
+  {
+    "Founder":"orp-[0:1244789}",
+    "Name":"EmberBR",
+    "Players":5,
+    "Tag":"EMB",
+    "TeamId":19773,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lunarath",
+    "Name":"Bro Squ68",
+    "Players":8,
+    "Tag":"BROS",
+    "TeamId":19800,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Cursed",
+    "Name":"Epic Brofist",
+    "Players":2,
+    "Tag":"",
+    "TeamId":19892,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Luigifann",
+    "Name":"The Brownys",
+    "Players":1,
+    "Tag":"",
+    "TeamId":19982,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kacinader",
+    "Name":"FBro",
+    "Players":2,
+    "Tag":"FBro",
+    "TeamId":20058,
+    "ret_msg":null
+  },
+  {
+    "Founder":"FabulaYo",
+    "Name":"BRZUCHOSRACZE",
+    "Players":1,
+    "Tag":"",
+    "TeamId":20074,
+    "ret_msg":null
+  },
+  {
+    "Founder":"vGoston",
+    "Name":"Qpa bobra",
+    "Players":2,
+    "Tag":"",
+    "TeamId":20310,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Reeverrb",
+    "Name":"Atown Browns",
+    "Players":3,
+    "Tag":"ATB",
+    "TeamId":20479,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BrotherHorus",
+    "Name":"Brother",
+    "Players":1,
+    "Tag":"",
+    "TeamId":20532,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shelfier",
+    "Name":"Kobras",
+    "Players":5,
+    "Tag":"",
+    "TeamId":20623,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ArthurGz",
+    "Name":"Cabrones",
+    "Players":2,
+    "Tag":"Cabra",
+    "TeamId":20726,
+    "ret_msg":null
+  },
+  {
+    "Founder":"T3HM4N244",
+    "Name":"TERROR BRIGADE",
+    "Players":1,
+    "Tag":"",
+    "TeamId":20829,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Karat3",
+    "Name":"MADBrothers",
+    "Players":5,
+    "Tag":"M4D",
+    "TeamId":20942,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Choppyn",
+    "Name":"BR Cotocos",
+    "Players":7,
+    "Tag":"Hu3",
+    "TeamId":21197,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Designed",
+    "Name":"GB Bruhhh",
+    "Players":5,
+    "Tag":"",
+    "TeamId":21253,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jayjay54",
+    "Name":"Breaking",
+    "Players":1,
+    "Tag":"",
+    "TeamId":21288,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Rambounet",
+    "Name":"SuperSmitebros",
+    "Players":6,
+    "Tag":"SSB",
+    "TeamId":21324,
+    "ret_msg":null
+  },
+  {
+    "Founder":"CUST0M1X",
+    "Name":"BrotherOfBlood",
+    "Players":1,
+    "Tag":"",
+    "TeamId":21650,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xBear",
+    "Name":"AvalonBR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":21787,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GodOfShagg",
+    "Name":"Brazzers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":21903,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HentaGunLP",
+    "Name":"FinalBreeze",
+    "Players":1,
+    "Tag":"",
+    "TeamId":22040,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NoobZinho",
+    "Name":"CharlieBrownJr",
+    "Players":2,
+    "Tag":"",
+    "TeamId":22128,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LeLéGuMe",
+    "Name":"ambrosium",
+    "Players":1,
+    "Tag":"",
+    "TeamId":22161,
+    "ret_msg":null
+  },
+  {
+    "Founder":"sumsarx2",
+    "Name":"brödsmulan",
+    "Players":1,
+    "Tag":"damge",
+    "TeamId":22378,
+    "ret_msg":null
+  },
+  {
+    "Founder":"EliteOmega",
+    "Name":"smash bros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":22509,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Marduk09",
+    "Name":"Sociação BR",
+    "Players":4,
+    "Tag":"",
+    "TeamId":22529,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Smitepen",
+    "Name":"Bros For Life",
+    "Players":4,
+    "Tag":"B4L",
+    "TeamId":22531,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RaptorClaws",
+    "Name":"RaptorClawBros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":22975,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Scribz",
+    "Name":"bromates",
+    "Players":2,
+    "Tag":"",
+    "TeamId":23109,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AdasNaFarcie",
+    "Name":"GrowsBrother",
+    "Players":1,
+    "Tag":"LEtr",
+    "TeamId":23459,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kybo",
+    "Name":"Bromance",
+    "Players":2,
+    "Tag":"",
+    "TeamId":23465,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ChamX",
+    "Name":"EASY BRO",
+    "Players":2,
+    "Tag":"",
+    "TeamId":23704,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Staanleyski",
+    "Name":"PoskieBobry",
+    "Players":1,
+    "Tag":"",
+    "TeamId":23728,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AcRoNaxy",
+    "Name":"UmbraVirtus",
+    "Players":2,
+    "Tag":"",
+    "TeamId":23868,
+    "ret_msg":null
+  },
+  {
+    "Founder":"monkeydelbuero",
+    "Name":"THE brothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":24162,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PrinceYahiko",
+    "Name":"Cavemen brutes",
+    "Players":1,
+    "Tag":"",
+    "TeamId":24233,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DeathLoney",
+    "Name":"WestBrook",
+    "Players":4,
+    "Tag":"WsBrk",
+    "TeamId":24249,
+    "ret_msg":null
+  },
+  {
+    "Founder":"bradybacon",
+    "Name":"bacon bros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":24313,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NumLock",
+    "Name":"BREAK THE WORLD",
+    "Players":1,
+    "Tag":"",
+    "TeamId":24419,
+    "ret_msg":null
+  },
+  {
+    "Founder":"vGUncreative",
+    "Name":"TheNLBros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":24531,
+    "ret_msg":null
+  },
+  {
+    "Founder":"piglet1020",
+    "Name":"BRTO",
+    "Players":2,
+    "Tag":"",
+    "TeamId":24930,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NeutralShape",
+    "Name":"Breast Friends",
+    "Players":3,
+    "Tag":"TaTas",
+    "TeamId":24990,
+    "ret_msg":null
+  },
+  {
+    "Founder":"panda66",
+    "Name":"Brød",
+    "Players":2,
+    "Tag":"",
+    "TeamId":25139,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MuikkumaN",
+    "Name":"The Bros Pros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":25309,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HMAAB",
+    "Name":"sabrina",
+    "Players":1,
+    "Tag":"",
+    "TeamId":25491,
+    "ret_msg":null
+  },
+  {
+    "Founder":"dedstowily",
+    "Name":"Crimson Embrace",
+    "Players":2,
+    "Tag":"CE",
+    "TeamId":25572,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tarawh",
+    "Name":"BRB tornado",
+    "Players":2,
+    "Tag":"",
+    "TeamId":25593,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Wulfic",
+    "Name":"Ambrosia",
+    "Players":8,
+    "Tag":"Ambro",
+    "TeamId":25740,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jexx",
+    "Name":"Mlpbronies",
+    "Players":2,
+    "Tag":"",
+    "TeamId":25829,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ponyxslayer",
+    "Name":"BraveFarts",
+    "Players":4,
+    "Tag":"BvFt",
+    "TeamId":25892,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Shadow7780",
+    "Name":"Brutal Team",
+    "Players":2,
+    "Tag":"",
+    "TeamId":25918,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ColdSniper",
+    "Name":"Brusers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":26101,
+    "ret_msg":null
+  },
+  {
+    "Founder":"yohealme",
+    "Name":"gingerbread",
+    "Players":1,
+    "Tag":"GGBRD",
+    "TeamId":26187,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheBroad",
+    "Name":"Brødrene Jensen",
+    "Players":2,
+    "Tag":"",
+    "TeamId":26649,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RazielTheDark",
+    "Name":"otaku bros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":26685,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jurgot",
+    "Name":"Breaking Bad",
+    "Players":1,
+    "Tag":"",
+    "TeamId":26829,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DeltaSpirit",
+    "Name":"MBROMP",
+    "Players":2,
+    "Tag":"",
+    "TeamId":26847,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PcMasterRace",
+    "Name":"Brolans",
+    "Players":4,
+    "Tag":"",
+    "TeamId":26876,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fhilos",
+    "Name":"BRING IT",
+    "Players":2,
+    "Tag":"",
+    "TeamId":26886,
+    "ret_msg":null
+  },
+  {
+    "Founder":"supersylle14",
+    "Name":"BRINGTHEACTION",
+    "Players":4,
+    "Tag":"axion",
+    "TeamId":26959,
+    "ret_msg":null
+  },
+  {
+    "Founder":"XxZeZxX",
+    "Name":"OP bro",
+    "Players":4,
+    "Tag":"",
+    "TeamId":27020,
+    "ret_msg":null
+  },
+  {
+    "Founder":"",
+    "Name":"brokeback",
+    "Players":15,
+    "Tag":"BBMT",
+    "TeamId":0,
+    "ret_msg":null
+  },
+  {
+    "Founder":"UTraManoid",
+    "Name":"Soh Brasil",
+    "Players":2,
+    "Tag":"",
+    "TeamId":27647,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ThichBop",
+    "Name":"BandOfBrothers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":27812,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lordax",
+    "Name":"Brüste Gut",
+    "Players":1,
+    "Tag":"",
+    "TeamId":27977,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ghostpand",
+    "Name":"FanBrader",
+    "Players":4,
+    "Tag":"",
+    "TeamId":28091,
+    "ret_msg":null
+  },
+  {
+    "Founder":"YoloSwagginso",
+    "Name":"Maggot Brain",
+    "Players":5,
+    "Tag":"MAIN",
+    "TeamId":28164,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Dani8331",
+    "Name":"YOLOSWAGBRO",
+    "Players":1,
+    "Tag":"",
+    "TeamId":28244,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ghost03",
+    "Name":"Brawlers untied",
+    "Players":1,
+    "Tag":"",
+    "TeamId":28247,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xIcicle",
+    "Name":"Bierbrauer",
+    "Players":4,
+    "Tag":"BIER",
+    "TeamId":28468,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DrCrow",
+    "Name":"Wurstbrote",
+    "Players":2,
+    "Tag":"",
+    "TeamId":28749,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BROZega",
+    "Name":"smølfebros",
+    "Players":3,
+    "Tag":"SMØLF",
+    "TeamId":28987,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Valkyriaqk",
+    "Name":"ABRACADABRA",
+    "Players":1,
+    "Tag":"ABRA1",
+    "TeamId":29109,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BSmite",
+    "Name":"BRSmite",
+    "Players":3,
+    "Tag":"",
+    "TeamId":29378,
+    "ret_msg":null
+  },
+  {
+    "Founder":"CdubFromMI",
+    "Name":"Brick Squard",
+    "Players":10,
+    "Tag":"",
+    "TeamId":29459,
+    "ret_msg":null
+  },
+  {
+    "Founder":"InebriateAres",
+    "Name":"Inebriate",
+    "Players":2,
+    "Tag":"",
+    "TeamId":29476,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lukelikes69",
+    "Name":"BrandonIsAGirl",
+    "Players":3,
+    "Tag":"",
+    "TeamId":29830,
+    "ret_msg":null
+  },
+  {
+    "Founder":"OooKillEm",
+    "Name":"BreastsandButts",
+    "Players":1,
+    "Tag":"BAB",
+    "TeamId":29872,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MirSlayer",
+    "Name":"Tenebre",
+    "Players":2,
+    "Tag":"TEN",
+    "TeamId":30026,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Toxikon",
+    "Name":"Doom Brigade",
+    "Players":2,
+    "Tag":"",
+    "TeamId":30033,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Oskitar",
+    "Name":"BroINK",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30126,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DeltiX",
+    "Name":"Uchiha brothers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30127,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PrimataV",
+    "Name":"BR Owned",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30266,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BoPipou",
+    "Name":"BroMaciia",
+    "Players":7,
+    "Tag":"Broo",
+    "TeamId":30317,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TehLuco",
+    "Name":"IgivUHmbrgr",
+    "Players":2,
+    "Tag":"",
+    "TeamId":30322,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Matooska",
+    "Name":"The random bros",
+    "Players":4,
+    "Tag":"",
+    "TeamId":30344,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Eryk1997",
+    "Name":"Wielcy Bracia",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30405,
+    "ret_msg":null
+  },
+  {
+    "Founder":"weasleworm",
+    "Name":"downy brownies",
+    "Players":5,
+    "Tag":"downy",
+    "TeamId":30466,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Sytheris",
+    "Name":"Breasts of Fury",
+    "Players":1,
+    "Tag":"CHEST",
+    "TeamId":30470,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MichalosPL",
+    "Name":"Brave Heart",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30510,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Gwicztheone",
+    "Name":"Brrzrs",
+    "Players":2,
+    "Tag":"YÓLÓ",
+    "TeamId":30745,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Angawren",
+    "Name":"Summerbreeze",
+    "Players":1,
+    "Tag":"",
+    "TeamId":30928,
+    "ret_msg":null
+  },
+  {
+    "Founder":"antoniocesar",
+    "Name":"SpiderBR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":31006,
+    "ret_msg":null
+  },
+  {
+    "Founder":"pSWAYz",
+    "Name":"Cheddy Bros",
+    "Players":5,
+    "Tag":"CheD",
+    "TeamId":31092,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MrUMadBro",
+    "Name":"UMadBros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":31346,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ThanosLeftNut",
+    "Name":"BROWN",
+    "Players":7,
+    "Tag":"BROWN",
+    "TeamId":31450,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Bazillus",
+    "Name":"BashBrothers",
+    "Players":3,
+    "Tag":"",
+    "TeamId":31618,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SteIIa",
+    "Name":"Dudez n Bros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":31775,
+    "ret_msg":null
+  },
+  {
+    "Founder":"seregaSWD",
+    "Name":"BRO IM PRO",
+    "Players":1,
+    "Tag":"",
+    "TeamId":31924,
+    "ret_msg":null
+  },
+  {
+    "Founder":"VâlarMorghulis",
+    "Name":"Broken Hope",
+    "Players":8,
+    "Tag":"Soaz",
+    "TeamId":32020,
+    "ret_msg":null
+  },
+  {
+    "Founder":"fkcy",
+    "Name":"CBR SLOTH",
+    "Players":9,
+    "Tag":"",
+    "TeamId":32193,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TummiBoy",
+    "Name":"ZeBronies",
+    "Players":3,
+    "Tag":"",
+    "TeamId":32205,
+    "ret_msg":null
+  },
+  {
+    "Founder":"spiriton4ik",
+    "Name":"GRO BRO PRO",
+    "Players":4,
+    "Tag":"GBP",
+    "TeamId":32316,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AlexDee",
+    "Name":"Friendbrothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":32414,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheWailmerhd",
+    "Name":"Brahs",
+    "Players":1,
+    "Tag":"",
+    "TeamId":32426,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MalikBRO",
+    "Name":"BROCHACHONACHO",
+    "Players":2,
+    "Tag":"Broz",
+    "TeamId":32455,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Enslaver69",
+    "Name":"Bros Of War",
+    "Players":1,
+    "Tag":"",
+    "TeamId":32783,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ChizoD",
+    "Name":"Brollinators",
+    "Players":1,
+    "Tag":"",
+    "TeamId":33001,
+    "ret_msg":null
+  },
+  {
+    "Founder":"w33dm4ster",
+    "Name":"Feskene Bruse",
+    "Players":4,
+    "Tag":"",
+    "TeamId":33041,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Synergentics",
+    "Name":"NOTMacabre",
+    "Players":1,
+    "Tag":"xHHx",
+    "TeamId":33051,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MataNoob",
+    "Name":"TheBrazil",
+    "Players":1,
+    "Tag":"TBrs",
+    "TeamId":33102,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Aurìel",
+    "Name":"Fire Breath",
+    "Players":5,
+    "Tag":"FireB",
+    "TeamId":33267,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AkitaNeru",
+    "Name":"Bunga Brothers",
+    "Players":7,
+    "Tag":"",
+    "TeamId":33293,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BoberPolska",
+    "Name":"BobremImieczem",
+    "Players":1,
+    "Tag":"",
+    "TeamId":33382,
+    "ret_msg":null
+  },
+  {
+    "Founder":"GerhalT",
+    "Name":"DeathBrothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":33394,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Janicki",
+    "Name":"BronzeBrakers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":33425,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Spongewii1",
+    "Name":"SbRo",
+    "Players":3,
+    "Tag":"SBRO",
+    "TeamId":33525,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Elektre",
+    "Name":"New Breed",
+    "Players":3,
+    "Tag":"NWBRD",
+    "TeamId":33810,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Keremite",
+    "Name":"Broccoli Squad",
+    "Players":4,
+    "Tag":"BcSqd",
+    "TeamId":33859,
+    "ret_msg":null
+  },
+  {
+    "Founder":"twiiiktorsson",
+    "Name":"soulbrothers",
+    "Players":3,
+    "Tag":"SK201",
+    "TeamId":33967,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LukaLoL",
+    "Name":"Fabriek",
+    "Players":1,
+    "Tag":"FBSSS",
+    "TeamId":34011,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Gaucho",
+    "Name":"Airbrush",
+    "Players":3,
+    "Tag":"",
+    "TeamId":34409,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Cha0s2",
+    "Name":"TWDBRBR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":34465,
+    "ret_msg":null
+  },
+  {
+    "Founder":"kikilox",
+    "Name":"Kewl Story Brah",
+    "Players":8,
+    "Tag":"KSB",
+    "TeamId":34622,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SmolikCZ",
+    "Name":"NoBrainGaming",
+    "Players":1,
+    "Tag":"",
+    "TeamId":34719,
+    "ret_msg":null
+  },
+  {
+    "Founder":"WagnerZ",
+    "Name":"FacBrasil",
+    "Players":2,
+    "Tag":"",
+    "TeamId":34771,
+    "ret_msg":null
+  },
+  {
+    "Founder":"kingwars",
+    "Name":"Bakasura BR top",
+    "Players":1,
+    "Tag":"",
+    "TeamId":34789,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kalopezi",
+    "Name":"UNITEDBROS",
+    "Players":1,
+    "Tag":"",
+    "TeamId":35102,
+    "ret_msg":null
+  },
+  {
+    "Founder":"keernav3",
+    "Name":"BrBOneMinute",
+    "Players":3,
+    "Tag":"BrB1M",
+    "TeamId":35136,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MaxAurea",
+    "Name":"Umbra Ignas",
+    "Players":9,
+    "Tag":"",
+    "TeamId":35147,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Forest1994",
+    "Name":"Breakers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":35341,
+    "ret_msg":null
+  },
+  {
+    "Founder":"",
+    "Name":"BroGamerz",
+    "Players":9,
+    "Tag":"BrG",
+    "TeamId":0,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheFunZocker",
+    "Name":"HeilbronxX",
+    "Players":4,
+    "Tag":"HnX",
+    "TeamId":35489,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RejQ",
+    "Name":"Danse Macabre",
+    "Players":4,
+    "Tag":"DANSE",
+    "TeamId":35518,
+    "ret_msg":null
+  },
+  {
+    "Founder":"IsaacMeowton",
+    "Name":"GHETTO BRAWL",
+    "Players":8,
+    "Tag":"Atze",
+    "TeamId":35520,
+    "ret_msg":null
+  },
+  {
+    "Founder":"IzManen",
+    "Name":"Brödraskapet",
+    "Players":4,
+    "Tag":"",
+    "TeamId":35591,
+    "ret_msg":null
+  },
+  {
+    "Founder":"wilmarengko",
+    "Name":"Broz of Asgard",
+    "Players":5,
+    "Tag":"",
+    "TeamId":35713,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BissMarck",
+    "Name":"BroFist",
+    "Players":3,
+    "Tag":"NaH",
+    "TeamId":35719,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Emil",
+    "Name":"Swag Bros",
+    "Players":5,
+    "Tag":"SwagB",
+    "TeamId":35728,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Torgo82",
+    "Name":"TERRIO BROS",
+    "Players":1,
+    "Tag":"",
+    "TeamId":35891,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Dubstor",
+    "Name":"Huso Brothers",
+    "Players":1,
+    "Tag":"HuSo",
+    "TeamId":36007,
+    "ret_msg":null
+  },
+  {
+    "Founder":"UnKnoWn10",
+    "Name":"Brun Sju",
+    "Players":5,
+    "Tag":"Brun7",
+    "TeamId":36140,
+    "ret_msg":null
+  },
+  {
+    "Founder":"eusoueu",
+    "Name":"sobrasileiros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":36214,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SangueNoZolho",
+    "Name":"Brazilian Team",
+    "Players":1,
+    "Tag":"",
+    "TeamId":36270,
+    "ret_msg":null
+  },
+  {
+    "Founder":"FsEx1Le",
+    "Name":"FabrykaSkilla",
+    "Players":1,
+    "Tag":"EoF",
+    "TeamId":36284,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LupionGamer",
+    "Name":"Brotherood",
+    "Players":1,
+    "Tag":"",
+    "TeamId":36329,
+    "ret_msg":null
+  },
+  {
+    "Founder":"terrortuby",
+    "Name":"hybridforce",
+    "Players":2,
+    "Tag":"",
+    "TeamId":36354,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Dissensio02",
+    "Name":"KeepClickinBro",
+    "Players":4,
+    "Tag":"",
+    "TeamId":36366,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Matu",
+    "Name":"BearBros",
+    "Players":7,
+    "Tag":"",
+    "TeamId":36374,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Stabbinu",
+    "Name":"YUMADBRO",
+    "Players":3,
+    "Tag":"",
+    "TeamId":36532,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Godroller",
+    "Name":"Danish Brawl",
+    "Players":2,
+    "Tag":"",
+    "TeamId":36612,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ilrus",
+    "Name":"PEIDLBRACKER",
+    "Players":3,
+    "Tag":"PEIDL",
+    "TeamId":36939,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Feelsbad",
+    "Name":"Broken Hammers",
+    "Players":4,
+    "Tag":"BRKN",
+    "TeamId":37097,
+    "ret_msg":null
+  },
+  {
+    "Founder":"FeG0o",
+    "Name":"HyBriT",
+    "Players":2,
+    "Tag":"",
+    "TeamId":37133,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Thooor",
+    "Name":"SOU BR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":37476,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tacenryu",
+    "Name":"EquilibriumGame",
+    "Players":11,
+    "Tag":"EGD",
+    "TeamId":37495,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Pillsbury1",
+    "Name":"BreakfastClub",
+    "Players":1,
+    "Tag":"",
+    "TeamId":37524,
+    "ret_msg":null
+  },
+  {
+    "Founder":"",
+    "Name":"TBro",
+    "Players":6,
+    "Tag":"",
+    "TeamId":0,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KUVALDA666",
+    "Name":"BRYANSK",
+    "Players":5,
+    "Tag":"AZAZA",
+    "TeamId":37673,
+    "ret_msg":null
+  },
+  {
+    "Founder":"XxPRoGameRXx",
+    "Name":"SmiteBrothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":37702,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MegadunkarN",
+    "Name":"Abbreviations",
+    "Players":2,
+    "Tag":"ARIV",
+    "TeamId":37923,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ProKlemen",
+    "Name":"Perfect Brother",
+    "Players":1,
+    "Tag":"",
+    "TeamId":38226,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HypnoShrub",
+    "Name":"PandaBros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":38278,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MLGPancakes",
+    "Name":"Breakfast Meal",
+    "Players":2,
+    "Tag":"Meal",
+    "TeamId":38637,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ReKonXx",
+    "Name":"Unbreathable",
+    "Players":1,
+    "Tag":"",
+    "TeamId":38720,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Senayee",
+    "Name":"saarbrooklyn",
+    "Players":8,
+    "Tag":"",
+    "TeamId":38979,
+    "ret_msg":null
+  },
+  {
+    "Founder":"toeys",
+    "Name":"MeinHerzBrennt",
+    "Players":8,
+    "Tag":"MHB",
+    "TeamId":39166,
+    "ret_msg":null
+  },
+  {
+    "Founder":"CHAOSXTC",
+    "Name":"CHAOS BROS",
+    "Players":3,
+    "Tag":"",
+    "TeamId":39261,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ronaldoboeno",
+    "Name":"brasil noia",
+    "Players":1,
+    "Tag":"",
+    "TeamId":39264,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KillerWattzz",
+    "Name":"PancakeBroz",
+    "Players":3,
+    "Tag":"",
+    "TeamId":39301,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Abramelin900",
+    "Name":"Abraland",
+    "Players":1,
+    "Tag":"",
+    "TeamId":39448,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MrRoxx",
+    "Name":"CCComboBreaker",
+    "Players":1,
+    "Tag":"",
+    "TeamId":39528,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ArChAe0pTeRiX",
+    "Name":"BrotherOfSteel",
+    "Players":3,
+    "Tag":"",
+    "TeamId":39530,
+    "ret_msg":null
+  },
+  {
+    "Founder":"P1kaDasGalaxias",
+    "Name":"PRO CLAN BR",
+    "Players":1,
+    "Tag":"PhoEx",
+    "TeamId":39546,
+    "ret_msg":null
+  },
+  {
+    "Founder":"uskomatonmursu",
+    "Name":"BROS N HOES",
+    "Players":2,
+    "Tag":"BOO",
+    "TeamId":39549,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BallSoHardUmad",
+    "Name":"Team Broke",
+    "Players":1,
+    "Tag":"",
+    "TeamId":39630,
+    "ret_msg":null
+  },
+  {
+    "Founder":"albertmanden",
+    "Name":"Theamazingbros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":39667,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MLGzombieSlay3r",
+    "Name":"CraftmineBros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":39739,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Staley",
+    "Name":"Vibrant",
+    "Players":5,
+    "Tag":"Vib",
+    "TeamId":39855,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Spondeh",
+    "Name":"BrewzerBrigade",
+    "Players":1,
+    "Tag":"BRWZR",
+    "TeamId":39876,
+    "ret_msg":null
+  },
+  {
+    "Founder":"stefanfun3",
+    "Name":"Pony Brigade",
+    "Players":2,
+    "Tag":"",
+    "TeamId":40145,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TGDonkey",
+    "Name":"BrokenTeapot",
+    "Players":6,
+    "Tag":"",
+    "TeamId":40167,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ryanbrooke69",
+    "Name":"RYANBROOKE",
+    "Players":1,
+    "Tag":"",
+    "TeamId":40361,
+    "ret_msg":null
+  },
+  {
+    "Founder":"robertopepper",
+    "Name":"Booze Brotherz",
+    "Players":2,
+    "Tag":"BZB",
+    "TeamId":40406,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DoveMan",
+    "Name":"TheBrokenGamers",
+    "Players":3,
+    "Tag":"",
+    "TeamId":40420,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ExtremePlaY",
+    "Name":"BrazukaNukas",
+    "Players":1,
+    "Tag":"BrZ",
+    "TeamId":40745,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Owakizashi",
+    "Name":"xX BR Xx",
+    "Players":2,
+    "Tag":"",
+    "TeamId":40803,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Dooblyboo",
+    "Name":"Brosters",
+    "Players":2,
+    "Tag":"",
+    "TeamId":40972,
+    "ret_msg":null
+  },
+  {
+    "Founder":"FaScHiinG",
+    "Name":"Yolo Swäääg Bro",
+    "Players":6,
+    "Tag":"",
+    "TeamId":41067,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DoC41",
+    "Name":"Bros For Gaming",
+    "Players":2,
+    "Tag":"",
+    "TeamId":41068,
+    "ret_msg":null
+  },
+  {
+    "Founder":"lolsocool",
+    "Name":"ganja bros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":41077,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SmashBroDns",
+    "Name":"SmashBros",
+    "Players":4,
+    "Tag":"",
+    "TeamId":41087,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JohnBrazil",
+    "Name":"God Of Brazil",
+    "Players":1,
+    "Tag":"",
+    "TeamId":41146,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Mattylol",
+    "Name":"BrooklynSwag",
+    "Players":2,
+    "Tag":"",
+    "TeamId":41203,
+    "ret_msg":null
+  },
+  {
+    "Founder":"dav",
+    "Name":"TEAMJUSTBRINGIT",
+    "Players":1,
+    "Tag":"TJBI",
+    "TeamId":41215,
+    "ret_msg":null
+  },
+  {
+    "Founder":"vittoc357",
+    "Name":"Gamer Brasil",
+    "Players":1,
+    "Tag":"",
+    "TeamId":41231,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AinsleyHariot",
+    "Name":"broblimproficer",
+    "Players":2,
+    "Tag":"PRBLM",
+    "TeamId":41264,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kaneorm",
+    "Name":"The Broz",
+    "Players":3,
+    "Tag":"",
+    "TeamId":41271,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheNakedBro",
+    "Name":"TheBroArmy",
+    "Players":1,
+    "Tag":"",
+    "TeamId":41325,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Rickiin",
+    "Name":"Olympoz BR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":41373,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KeNNy00005",
+    "Name":"Kutas Brothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":41458,
+    "ret_msg":null
+  },
+  {
+    "Founder":"gr1m5",
+    "Name":"Brofessionals",
+    "Players":1,
+    "Tag":"",
+    "TeamId":41646,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Nathan",
+    "Name":"BRO FORCE FIVE",
+    "Players":6,
+    "Tag":"",
+    "TeamId":41754,
+    "ret_msg":null
+  },
+  {
+    "Founder":"H4LL",
+    "Name":"Just Bring It",
+    "Players":1,
+    "Tag":"BrinG",
+    "TeamId":41851,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Twmasel",
+    "Name":"Nice Try Bro",
+    "Players":2,
+    "Tag":"",
+    "TeamId":42020,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TrisQ",
+    "Name":"CzarneBractwo",
+    "Players":1,
+    "Tag":"",
+    "TeamId":42029,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ChlodnySzczw",
+    "Name":"piczka bobra",
+    "Players":6,
+    "Tag":"",
+    "TeamId":42052,
+    "ret_msg":null
+  },
+  {
+    "Founder":"lol11",
+    "Name":"TheDeathBringer",
+    "Players":1,
+    "Tag":"",
+    "TeamId":42055,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Limpbullet",
+    "Name":"Anglibros",
+    "Players":1,
+    "Tag":"ANG",
+    "TeamId":42089,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lodisen",
+    "Name":"KBRY",
+    "Players":5,
+    "Tag":"",
+    "TeamId":42162,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Frostí",
+    "Name":"DieBratwürste",
+    "Players":2,
+    "Tag":"",
+    "TeamId":42165,
+    "ret_msg":null
+  },
+  {
+    "Founder":"LeoBrog",
+    "Name":"Soladinhos BR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":42238,
+    "ret_msg":null
+  },
+  {
+    "Founder":"mrmagooo",
+    "Name":"Cobra Kai",
+    "Players":1,
+    "Tag":"",
+    "TeamId":42386,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Jungpao",
+    "Name":"Magna Tenebrae",
+    "Players":2,
+    "Tag":"",
+    "TeamId":42409,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ProExpeert",
+    "Name":"Clan dos BR",
+    "Players":2,
+    "Tag":"CDBR",
+    "TeamId":42625,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Xiaopei",
+    "Name":"Flat Broke",
+    "Players":2,
+    "Tag":"",
+    "TeamId":42970,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KingColossus",
+    "Name":"Bro Gaths",
+    "Players":4,
+    "Tag":"",
+    "TeamId":43154,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KillerLifeRT",
+    "Name":"BroTEAM",
+    "Players":1,
+    "Tag":"",
+    "TeamId":43199,
+    "ret_msg":null
+  },
+  {
+    "Founder":"thalgon",
+    "Name":"Fightmebro",
+    "Players":1,
+    "Tag":"",
+    "TeamId":43222,
+    "ret_msg":null
+  },
+  {
+    "Founder":"UndefinedChaozz",
+    "Name":"AnuBRa",
+    "Players":3,
+    "Tag":"",
+    "TeamId":43363,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ynrub",
+    "Name":"BRENCH FREGGOTS",
+    "Players":1,
+    "Tag":"",
+    "TeamId":43391,
+    "ret_msg":null
+  },
+  {
+    "Founder":"jmandahusker777",
+    "Name":"BropieHusker",
+    "Players":3,
+    "Tag":"",
+    "TeamId":43407,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Darklordslayer",
+    "Name":"Brödrostarna",
+    "Players":1,
+    "Tag":"",
+    "TeamId":43417,
+    "ret_msg":null
+  },
+  {
+    "Founder":"FreeBarLux",
+    "Name":"Smash Brothers",
+    "Players":3,
+    "Tag":"",
+    "TeamId":43575,
+    "ret_msg":null
+  },
+  {
+    "Founder":"WhiteWolf67",
+    "Name":"Big Wolf Bros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":43654,
+    "ret_msg":null
+  },
+  {
+    "Founder":"VogueAD",
+    "Name":"Mario Bros",
+    "Players":4,
+    "Tag":"",
+    "TeamId":43677,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Maxsheld",
+    "Name":"Os Quebra Cama",
+    "Players":3,
+    "Tag":"",
+    "TeamId":43678,
+    "ret_msg":null
+  },
+  {
+    "Founder":"epicbacon231",
+    "Name":"BaconBrawlers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":43767,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Brahvacado",
+    "Name":"The Hammer Bros",
+    "Players":2,
+    "Tag":"RLST",
+    "TeamId":43811,
+    "ret_msg":null
+  },
+  {
+    "Founder":"soulrapp3r",
+    "Name":"BRO Gaming",
+    "Players":4,
+    "Tag":"Bro4l",
+    "TeamId":44053,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tunczyk",
+    "Name":"BreakDance",
+    "Players":3,
+    "Tag":"",
+    "TeamId":44057,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ImAgressive",
+    "Name":"SkyerBros",
+    "Players":3,
+    "Tag":"Lich",
+    "TeamId":44135,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Rècluse",
+    "Name":"Dos Brigade",
+    "Players":1,
+    "Tag":"",
+    "TeamId":44232,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Drakion69",
+    "Name":"BrosAngelz",
+    "Players":1,
+    "Tag":"",
+    "TeamId":44403,
+    "ret_msg":null
+  },
+  {
+    "Founder":"hyperion1999",
+    "Name":"broodje kaas",
+    "Players":4,
+    "Tag":"",
+    "TeamId":44462,
+    "ret_msg":null
+  },
+  {
+    "Founder":"brennvin",
+    "Name":"Brack gamers",
+    "Players":2,
+    "Tag":"NGGAS",
+    "TeamId":44485,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kasioleq",
+    "Name":"Ciupakabra",
+    "Players":3,
+    "Tag":"",
+    "TeamId":44784,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Prayser",
+    "Name":"osmanobr",
+    "Players":1,
+    "Tag":"",
+    "TeamId":44793,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Zereus",
+    "Name":"Free Bread",
+    "Players":2,
+    "Tag":"",
+    "TeamId":44836,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Aple3plit",
+    "Name":"BrosStudio",
+    "Players":4,
+    "Tag":"",
+    "TeamId":44979,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PrelawManiac",
+    "Name":"ÆBRYRMÆIKKE",
+    "Players":1,
+    "Tag":"",
+    "TeamId":44986,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Burmistrz99",
+    "Name":"LOL Brothers",
+    "Players":7,
+    "Tag":"",
+    "TeamId":45035,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Forster",
+    "Name":"BroBasherBobs",
+    "Players":5,
+    "Tag":"BroBB",
+    "TeamId":45072,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MADRUGAAA",
+    "Name":"XnxxBR",
+    "Players":4,
+    "Tag":"0800",
+    "TeamId":45119,
+    "ret_msg":null
+  },
+  {
+    "Founder":"ErickCelio",
+    "Name":"BRBOW",
+    "Players":3,
+    "Tag":"",
+    "TeamId":45207,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Emajinashen",
+    "Name":"U MAD BRAH",
+    "Players":5,
+    "Tag":"brolo",
+    "TeamId":45322,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HoneyBadger1395",
+    "Name":"yolo swag bro",
+    "Players":4,
+    "Tag":"",
+    "TeamId":45328,
+    "ret_msg":null
+  },
+  {
+    "Founder":"CommanderSwirl",
+    "Name":"UMADBROYOLO",
+    "Players":2,
+    "Tag":"UMBY",
+    "TeamId":45417,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RobaczekPL",
+    "Name":"Lysi z Brazzers",
+    "Players":1,
+    "Tag":"LzB",
+    "TeamId":45454,
+    "ret_msg":null
+  },
+  {
+    "Founder":"psychokip",
+    "Name":"Fakkelbrigade",
+    "Players":1,
+    "Tag":"Gekke",
+    "TeamId":45538,
+    "ret_msg":null
+  },
+  {
+    "Founder":"loodery",
+    "Name":"BrutalBrotherz",
+    "Players":1,
+    "Tag":"",
+    "TeamId":45663,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Zhefirot",
+    "Name":"Hope breakers",
+    "Players":8,
+    "Tag":"THB",
+    "TeamId":45786,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ryanoceros",
+    "Name":"Brick Squad",
+    "Players":3,
+    "Tag":"",
+    "TeamId":45838,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Raemus",
+    "Name":"DontDazeMeBro",
+    "Players":1,
+    "Tag":"Dazed",
+    "TeamId":45866,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Muggaccino",
+    "Name":"HomeBrewTalent",
+    "Players":1,
+    "Tag":"HBT",
+    "TeamId":45965,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Killer300",
+    "Name":"Broetchen",
+    "Players":10,
+    "Tag":"",
+    "TeamId":46074,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Lascpa",
+    "Name":"Bros of Asgard",
+    "Players":2,
+    "Tag":"BoA",
+    "TeamId":46094,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Xfihter207",
+    "Name":"Tavs bralis",
+    "Players":1,
+    "Tag":"",
+    "TeamId":46244,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Wramper",
+    "Name":"BluntedBrothers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":46319,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JaxForly",
+    "Name":"LolBR",
+    "Players":2,
+    "Tag":"",
+    "TeamId":46342,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Rustyoutlaw",
+    "Name":"thebravehero",
+    "Players":1,
+    "Tag":"",
+    "TeamId":46741,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HellsSavior",
+    "Name":"UnderABridge",
+    "Players":4,
+    "Tag":"Trulz",
+    "TeamId":46792,
+    "ret_msg":null
+  },
+  {
+    "Founder":"EnisTortul",
+    "Name":"FatBros",
+    "Players":3,
+    "Tag":"",
+    "TeamId":46894,
+    "ret_msg":null
+  },
+  {
+    "Founder":"IsaqueHHS",
+    "Name":"BRfDX",
+    "Players":1,
+    "Tag":"",
+    "TeamId":46910,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HuanitoPL",
+    "Name":"Brave Cookies",
+    "Players":1,
+    "Tag":"",
+    "TeamId":46976,
+    "ret_msg":null
+  },
+  {
+    "Founder":"SaynSatan",
+    "Name":"Brutes",
+    "Players":1,
+    "Tag":"PG1",
+    "TeamId":46996,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Atalho22",
+    "Name":"ArrombadsBR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":47052,
+    "ret_msg":null
+  },
+  {
+    "Founder":"breezyexcursion",
+    "Name":"Breezy Familia",
+    "Players":1,
+    "Tag":"BASED",
+    "TeamId":47099,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KennenBR",
+    "Name":"Mercenarios BR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":47357,
+    "ret_msg":null
+  },
+  {
+    "Founder":"PittyGamer",
+    "Name":"fodoes do br",
+    "Players":1,
+    "Tag":"",
+    "TeamId":47625,
+    "ret_msg":null
+  },
+  {
+    "Founder":"tmtzinHue",
+    "Name":"HUE BR",
+    "Players":3,
+    "Tag":"",
+    "TeamId":47765,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Arcadis",
+    "Name":"Furybros",
+    "Players":6,
+    "Tag":"MIM",
+    "TeamId":47885,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tonxic",
+    "Name":"brodawgs",
+    "Players":2,
+    "Tag":"BR0",
+    "TeamId":47890,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Boomguin",
+    "Name":"HeBros",
+    "Players":10,
+    "Tag":"iBeer",
+    "TeamId":47892,
+    "ret_msg":null
+  },
+  {
+    "Founder":"WhRyller",
+    "Name":"BrConeClan",
+    "Players":3,
+    "Tag":"",
+    "TeamId":47910,
+    "ret_msg":null
+  },
+  {
+    "Founder":"KezX",
+    "Name":"LysyZBrazZerS",
+    "Players":2,
+    "Tag":"Lysy",
+    "TeamId":48178,
+    "ret_msg":null
+  },
+  {
+    "Founder":"TheGearedGreek",
+    "Name":"TheBronzeDogs",
+    "Players":1,
+    "Tag":"Bronz",
+    "TeamId":48218,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MarkBR7",
+    "Name":"BRsmiters",
+    "Players":2,
+    "Tag":"",
+    "TeamId":48241,
+    "ret_msg":null
+  },
+  {
+    "Founder":"jdhunt103",
+    "Name":"BrokenCircle",
+    "Players":1,
+    "Tag":"",
+    "TeamId":48271,
+    "ret_msg":null
+  },
+  {
+    "Founder":"paççoca",
+    "Name":"SociedadeBR",
+    "Players":3,
+    "Tag":"",
+    "TeamId":48381,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xXKATARATAXx",
+    "Name":"brasilpros",
+    "Players":2,
+    "Tag":"",
+    "TeamId":48423,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Merp1",
+    "Name":"Bronze League",
+    "Players":12,
+    "Tag":"",
+    "TeamId":48497,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Packiller",
+    "Name":"CiggyBreak",
+    "Players":5,
+    "Tag":"CYBK",
+    "TeamId":48590,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Tanros",
+    "Name":"Breaker Team",
+    "Players":1,
+    "Tag":"",
+    "TeamId":48678,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Buzter",
+    "Name":"Brunk IF",
+    "Players":1,
+    "Tag":"",
+    "TeamId":48726,
+    "ret_msg":null
+  },
+  {
+    "Founder":"xXDarKNeSSXx5",
+    "Name":"BigBrothersclan",
+    "Players":1,
+    "Tag":"",
+    "TeamId":48751,
+    "ret_msg":null
+  },
+  {
+    "Founder":"loveandjoy",
+    "Name":"Chocobro",
+    "Players":3,
+    "Tag":"",
+    "TeamId":48894,
+    "ret_msg":null
+  },
+  {
+    "Founder":"orp-[0:5215991]",
+    "Name":"BR PLAYERS",
+    "Players":1,
+    "Tag":"ROCKI",
+    "TeamId":49026,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Sharmik",
+    "Name":"xBrothers",
+    "Players":3,
+    "Tag":"DINER",
+    "TeamId":49204,
+    "ret_msg":null
+  },
+  {
+    "Founder":"DwarvenKing257",
+    "Name":"BalkanBrothers",
+    "Players":5,
+    "Tag":"",
+    "TeamId":49214,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ginyol",
+    "Name":"GodOfFibre",
+    "Players":5,
+    "Tag":"",
+    "TeamId":49265,
+    "ret_msg":null
+  },
+  {
+    "Founder":"compound97",
+    "Name":"LightBringers",
+    "Players":4,
+    "Tag":"",
+    "TeamId":49270,
+    "ret_msg":null
+  },
+  {
+    "Founder":"HeartBraker",
+    "Name":"BrokenSword",
+    "Players":3,
+    "Tag":"",
+    "TeamId":49302,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Negativ",
+    "Name":"Lysy z Brazzers",
+    "Players":1,
+    "Tag":"",
+    "TeamId":49465,
+    "ret_msg":null
+  },
+  {
+    "Founder":"flockaLøL",
+    "Name":"BRICKSQUADD",
+    "Players":1,
+    "Tag":"BSQD",
+    "TeamId":49478,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Fake0Name0",
+    "Name":"BrothersNBullet",
+    "Players":1,
+    "Tag":"",
+    "TeamId":49644,
+    "ret_msg":null
+  },
+  {
+    "Founder":"pandlugopis",
+    "Name":"Brygada",
+    "Players":1,
+    "Tag":"",
+    "TeamId":49707,
+    "ret_msg":null
+  },
+  {
+    "Founder":"agamer",
+    "Name":"Viva Brazil",
+    "Players":2,
+    "Tag":"BRZL",
+    "TeamId":49719,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BasteQMaster",
+    "Name":"Brainless Team",
+    "Players":4,
+    "Tag":"",
+    "TeamId":50080,
+    "ret_msg":null
+  },
+  {
+    "Founder":"JooneBugs",
+    "Name":"Helmet Brigade",
+    "Players":3,
+    "Tag":"Nyaah",
+    "TeamId":50146,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Br0lyVersao2",
+    "Name":"HUE HUE BR",
+    "Players":3,
+    "Tag":"Hu3br",
+    "TeamId":50181,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BananP4F",
+    "Name":"SmierdzaceBobry",
+    "Players":1,
+    "Tag":"",
+    "TeamId":50424,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Maxiooi",
+    "Name":"Polish Brothers",
+    "Players":2,
+    "Tag":"",
+    "TeamId":50490,
+    "ret_msg":null
+  },
+  {
+    "Founder":"MalucoSinistro",
+    "Name":"VINGADORESBR",
+    "Players":1,
+    "Tag":"",
+    "TeamId":50549,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Ipsilon917",
+    "Name":"Kopfbreachers",
+    "Players":2,
+    "Tag":"KoBr",
+    "TeamId":50749,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kyarann",
+    "Name":"Mad brother",
+    "Players":5,
+    "Tag":"",
+    "TeamId":50862,
+    "ret_msg":null
+  },
+  {
+    "Founder":"BeLEAFer",
+    "Name":"Bajsbryggan",
+    "Players":4,
+    "Tag":"",
+    "TeamId":50907,
+    "ret_msg":null
+  },
+  {
+    "Founder":"XSiepherX",
+    "Name":"DrkBrthHD",
+    "Players":6,
+    "Tag":"BRHD",
+    "TeamId":51155,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Para007",
+    "Name":"überBROz",
+    "Players":3,
+    "Tag":"",
+    "TeamId":51282,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Soetgojv",
+    "Name":"Brodouevenlift",
+    "Players":3,
+    "Tag":"",
+    "TeamId":51410,
+    "ret_msg":null
+  },
+  {
+    "Founder":"iClayfk",
+    "Name":"BroCompany",
+    "Players":1,
+    "Tag":"",
+    "TeamId":51450,
+    "ret_msg":null
+  },
+  {
+    "Founder":"RetroFebreze",
+    "Name":"Brotha",
+    "Players":1,
+    "Tag":"",
+    "TeamId":51558,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Kasyie",
+    "Name":"HellBros",
+    "Players":4,
+    "Tag":"",
+    "TeamId":51571,
+    "ret_msg":null
+  },
+  {
+    "Founder":"Bertzerker",
+    "Name":"TheHairyanBros",
+    "Players":1,
+    "Tag":"",
+    "TeamId":51618,
+    "ret_msg":null
+  },
+  {
+    "Founder":"NemeGLp",
+    "Name":"WirSIndBrot",
+    "Players":2,
+    "Tag":"",
+    "TeamId":51654,
+    "ret_msg":null
+  },
+  {
+    "Founder":"AwesomeHandzz",
+    "Name":"Brosofsweden",
+    "Players":1,
+    "Tag":"",
+    "TeamId":51718,
+    "ret_msg":null
+  }
+]
