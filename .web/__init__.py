@@ -73,12 +73,14 @@ def create_app(*args, **kw):
       if n.lower().startswith('smite'):
         return 'smite'
       return 'paladins'
+    method, secret_key, params = request.args.get('method', None), None, request.args.get('params')
+    if params and isinstance(params, str):
+      params = params.split(',')
     api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''))
-    method, secret_key,params = '', None, []
     print(api)
-    if method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
+    if not method or method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
       return jsonify({})
-    return 'ok' #api.request(method, params)
+    return api.request(method, params)
 
 #api: smite
 #method: createsession
