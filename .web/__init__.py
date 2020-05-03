@@ -64,7 +64,8 @@ def create_app(*args, **kw):
   @app.route('/', methods=['GET'])
   @app.errorhandler(404)
   def root(error=None):
-    return redirect(get_env('REDIRECT_URL'))
+    if not requested_json(request):
+      return redirect(get_env('REDIRECT_URL'))
 
   @app.route('/assets')
   def list_assets():
