@@ -9,6 +9,7 @@ import time
 from boolify import boolify
 from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
 from pyrez.enums.avatar_id import AvatarId
+from pyrez import API
 
 def get_avatar(avatar_id, path):
   if str(avatar_id).isnumeric():
@@ -66,6 +67,20 @@ def create_app(*args, **kw):
   def root(error=None):
     if not requested_json(request):
       return redirect(get_env('REDIRECT_URL'))
+    def get_endpoint(n):
+      if n.lower().startswith('realm'):
+        return 'realm'
+      if n.lower().startswith('smite'):
+        return 'smite'
+      return 'paladins'
+    api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''))
+    print(api)
+    return 'ok'
+
+#api: smite
+#method: createsession
+#params: []
+#['createsession', 'testsession', 'getdataused']
 
   @app.route('/assets')
   def list_assets():
