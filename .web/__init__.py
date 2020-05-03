@@ -80,7 +80,7 @@ def create_app(*args, **kw):
     print(api)
     if not method or method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
       return jsonify({})
-    return api.request(method, params)
+    return 'ok' #api.request(method, params)
 
 #api: smite
 #method: createsession
