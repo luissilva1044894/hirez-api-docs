@@ -48,6 +48,10 @@ def create_app(*args, **kw):
   app.url_map.strict_slashes = not on_heroku()
 
   def requested_json(arg):
+    try:
+      print(arg.accept_mimetypes.accept_json and not arg.accept_mimetypes.accept_html)
+    except:
+      pass
     return arg.headers.get('Content-Type', '').lower() == app.config.get('JSONIFY_MIMETYPE', '').lower() or hasattr(arg, 'args') and 'json' in arg.args.get('json', arg.args.get('format', '')).lower()
 
   @app.after_request
