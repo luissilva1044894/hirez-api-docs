@@ -81,7 +81,7 @@ def create_app(*args, **kw):
     method, secret_key, params = request.args.get('method'), request.args.get('secret_key'), request.args.get('params')
     if params and isinstance(params, str):
       params = params.split(',')
-    api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''))
+    api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''), storeSession=True)
     print(api)
     if not method or method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
       return jsonify({})
