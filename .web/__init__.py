@@ -78,7 +78,7 @@ def create_app(*args, **kw):
       if n.lower().startswith('smite'):
         return Endpoint.SMITE
       return Endpoint.PALADINS
-    method, secret_key, params = request.args.get('method', None), None, request.args.get('params')
+    method, secret_key, params = request.args.get('method'), request.args.get('secret_key'), request.args.get('params')
     if params and isinstance(params, str):
       params = params.split(',')
     api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''))
