@@ -16,6 +16,15 @@ import unicodedata
 
 from utils import get_path, join_path, read_file, slugify
 
+def get_value(request, field, default=None):
+    if request.is_json:
+      _ = request.get_json(force=True, silent=True, cache=True)
+      if _ and field in _:
+        return _[field]
+    if hasattr(request, 'args') and field in request.args and request.args[field]:
+      return request.args[field]
+    return default
+
 def get_avatar(avatar_id, path):
   if str(avatar_id).isnumeric():
     for _ in os.listdir(path):
@@ -78,11 +87,10 @@ def create_app(*args, **kw):
       if n.lower().startswith('smite'):
         return Endpoint.SMITE
       return Endpoint.PALADINS
-    method, secret_key, params = request.args.get('method'), request.args.get('secret_key'), request.args.get('params')
+    method, secret_key, params, endpoint = get_value(request, 'method'), get_value(request, 'secret_key'), get_value(request, 'params'), get_value(request, 'endpoint', 'paladins')
     if params and isinstance(params, str):
       params = params.split(',')
-    api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(''), storeSession=True)
-    print(api)
+    api = API(get_env('PYREZ_DEV_ID'), get_env('PYREZ_AUTH_ID'), endpoint=get_endpoint(endpoint), storeSession=True)
     if not method or method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
       return jsonify({})
     _r = api.makeRequest(method, params)
@@ -122,20 +130,11 @@ def create_app(*args, **kw):
     return date_from_timestamp(os.stat(path).st_ctime)
     #time.ctime(os.path.getatime(path))
 
-  def get_avatar_id(avatar_id, request):
-    if request.is_json:
-      _ = request.get_json(force=True, silent=True, cache=True)
-      if _ and 'avatar_id' in _:
-        return _['avatar_id']
-    if 'avatar_id' in request.args and request.args['avatar_id']:
-      return request.args['avatar_id']
-    return avatar_id
-
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
   @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
   @app.route('/paladins/avatar/<avatar_id>', methods=['GET', 'POST'])
   def legacy_images(avatar_id, game='paladins', folder='avatar'):
-    path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_avatar_id(avatar_id, request), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
+    path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_value(request, 'avatar_id', avatar_id), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
     if not str(_avatar_id).isnumeric():
       _avatar_id = slugify(_avatar_id)
     _avatar_id = {**{slugify(_avatars[_]):int(_) for _ in _avatars}, **{str(int(_)):int(_) for _ in _avatars}}.get(str(_avatar_id), '0')
