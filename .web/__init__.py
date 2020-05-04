@@ -8,8 +8,13 @@ import time
 
 from boolify import boolify
 from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
-from pyrez.enums.avatar_id import AvatarId
-from pyrez import API
+from pyrez.api import API
+from pyrez.enumerations.Endpoint import Endpoint
+
+import re
+import unicodedata
+
+from utils import get_path, join_path, read_file, slugify
 
 def get_avatar(avatar_id, path):
   if str(avatar_id).isnumeric():
@@ -69,10 +74,10 @@ def create_app(*args, **kw):
       return redirect(get_env('REDIRECT_URL'))
     def get_endpoint(n):
       if n.lower().startswith('realm'):
-        return 'realm'
+        return Endpoint.REALM_ROYALE
       if n.lower().startswith('smite'):
-        return 'smite'
-      return 'paladins'
+        return Endpoint.SMITE
+      return Endpoint.PALADINS
     method, secret_key, params = request.args.get('method', None), None, request.args.get('params')
     if params and isinstance(params, str):
       params = params.split(',')
@@ -80,7 +85,10 @@ def create_app(*args, **kw):
     print(api)
     if not method or method.lower() in ['createsession', 'testsession', 'getdataused'] and not secret_key or secret_key and not secret_key == get_env('APP_SECRET_TOKEN'):
       return jsonify({})
-    return 'ok' #api.request(method, params)
+    _r = api.makeRequest(method, params)
+    if isinstance(_r, (dict, list)):
+      return jsonify(_r)
+    return jsonify({})
 
 #api: smite
 #method: createsession
@@ -127,8 +135,12 @@ def create_app(*args, **kw):
   @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
   @app.route('/paladins/avatar/<avatar_id>', methods=['GET', 'POST'])
   def legacy_images(avatar_id, game='paladins', folder='avatar'):
-    path, _avatar_id = os.path.join(app.static_folder, game, folder), AvatarId(get_avatar_id(avatar_id, request))
-    print(_avatar_id)
+    path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_avatar_id(avatar_id, request), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
+    if not str(_avatar_id).isnumeric():
+      _avatar_id = slugify(_avatar_id)
+    _avatar_id = {**{slugify(_avatars[_]):int(_) for _ in _avatars}, **{str(int(_)):int(_) for _ in _avatars}}.get(str(_avatar_id), '0')
+    _avatar_name = _avatars.get(str(_avatar_id))
+    print(_avatar_id, _avatar_name)
     if boolify(get_env('OLD_SCRIPT')):
       if 'redirect' in request.args or 'link' in request.args.keys():
         for _ in os.listdir(path):
@@ -137,32 +149,28 @@ def create_app(*args, **kw):
               #link' in request.args
               f_path = os.path.join(path, _)
               return jsonify({
-               #'created_at': get_file_date(f_path, True),
+               'created_at': get_file_date(f_path, True),
                'format': _.split('.', 1)[-1],
                'id': _.split('.', 1)[0],
-               'name': str(AvatarId(avatar_id)),
+               'name': _avatar_name,
                'path': f'{game}/avatar/{_}',
                'remote_path': url_for('static', filename=f'{game}/avatar/{_}'),
-               #'updated_at': get_file_date(f_path),
+               'updated_at': get_file_date(f_path),
                'url': url_for('static', filename=f'{game}/avatar/{_}', _external=True)
               })
           return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
         #return send_from_directory(path, '0.png')
       return get_avatar(avatar_id, path)
     for _ in os.listdir(path):
-      #print(_)
-      if _.split('.', 1)[0] == str(int(_avatar_id)):
-        #print(AvatarId(_.split('.', 1)[0]), _avatar_id, AvatarId(_.split('.', 1)[0]) == _avatar_id)
+      if _.split('.', 1)[0] == str(_avatar_id):
         if requested_json(request):
           f_path = os.path.join(path, _)
           return jsonify({
-           #'created_at': get_file_date(f_path, True),
            'format': _.split('.', 1)[-1],
-           'id': int(_avatar_id),#_.split('.', 1)[0],
-           'name': str(_avatar_id),
+           'id': int(_avatar_id),
+           'name': _avatar_name,
            'path': f'{game}/{folder}/{int(_avatar_id)}',
            'remote_path': url_for('static', filename=f'{game}/{folder}/{_}'),
-           #'updated_at': get_file_date(f_path),
            'url': url_for('static', filename=f'{game}/{folder}/{_}', _external=True)
           })
         if 'redirect' in request.args:
