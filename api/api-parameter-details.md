@@ -127,12 +127,12 @@ Valid values are:
   <tr><td>25438</td><td>The Risen</td><td><img src="./../.assets/paladins/avatar/25438.png" height="32" width="32"/></td></tr>
   <tr><td>25506</td><td>Scaled Menace</td><td><img src="./../.assets/paladins/avatar/25506.png" height="32" width="32"/></td></tr>
   <tr><td>25507</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/25507.png" height="32" width="32"/></td></tr>
+  <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/brood_guard.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/eye_of_saurus.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/survivor.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
