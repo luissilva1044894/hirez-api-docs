@@ -17,6 +17,7 @@ Valid values are:
   <tr><th>ID</th><th>Name</th><th>Image</th></tr>
   <tr><td>0</td><td>Default</td><td><img src="./../.assets/paladins/avatar/0.png" height="32" width="32"/></td></tr>
   <tr><td>9918</td><td>Origin</td><td><img src="./../.assets/paladins/avatar/9918.png" height="32" width="32"/></td></tr>
+  <tr><td>23120</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/23120.png" height="32" width="32"/></td></tr>
   <tr><td>23203</td><td>VIP</td><td><img src="./../.assets/paladins/avatar/23203.png" height="32" width="32"/></td></tr>
   <tr><td>23209</td><td>Striker</td><td><img src="./../.assets/paladins/avatar/23209.png" height="32" width="32"/></td></tr>
   <tr><td>23226</td><td>Terminating</td><td><img src="./../.assets/paladins/avatar/23226.gif" height="32" width="32"/></td></tr>
@@ -129,7 +130,6 @@ Valid values are:
   <tr><td>25507</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/25507.png" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
 
-  <tr><td>MISSING</td><td>Cosplay</td><td><img src="./../.assets/paladins/avatar/cosplay.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/brood_guard.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/eye_of_saurus.gif" height="32" width="32"/></td></tr>
