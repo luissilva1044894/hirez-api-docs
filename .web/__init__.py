@@ -1,5 +1,9 @@
 
-from datetime import datetime, timedelta, timezone
+from datetime import (
+  datetime,
+  timedelta,
+  timezone,
+)
 from email.utils import format_datetime
 import functools
 import json
@@ -7,14 +11,27 @@ import os
 import time
 
 from boolify import boolify
-from flask import Flask, jsonify, request, redirect, url_for, send_from_directory
+from flask import (
+  Flask,
+  jsonify,
+  request,
+  redirect,
+  url_for,
+  send_from_directory,
+)
 from pyrez.api import API
 from pyrez.enumerations.Endpoint import Endpoint
 
 import re
 import unicodedata
 
-from utils import get_path, join_path, read_file, slugify
+from utils import (
+  get_path,
+  join_path,
+  num_or_string,
+  read_file,
+  slugify,
+)
 
 def get_value(request, field, default=None):
     if request.is_json:
@@ -137,7 +154,7 @@ def create_app(*args, **kw):
     path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_value(request, 'avatar_id', avatar_id), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
     if not str(_avatar_id).isnumeric():
       _avatar_id = slugify(_avatar_id)
-    _avatar_id = {**{slugify(_avatars[_]):int(_) for _ in _avatars}, **{str(int(_)):int(_) for _ in _avatars}}.get(str(_avatar_id), '0')
+    _avatar_id = {**{slugify(_avatars[_]):num_or_string(_) for _ in _avatars}, **{str(num_or_string(_)):num_or_string(_) for _ in _avatars}}.get(str(_avatar_id), '0')
     _avatar_name = _avatars.get(str(_avatar_id))
     print(_avatar_id, _avatar_name)
     if boolify(get_env('OLD_SCRIPT')):
