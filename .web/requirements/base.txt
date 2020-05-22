@@ -7,7 +7,7 @@ arrow==0.15.6;python_version>='3.6'
 # https://github.com/luissilva1044894/boolify
 boolify==0.0.3.dev0;python_version>='3.6.1'
 
-pyrez==1.1.0.3;python_version>='3.6'
+pyrez==1.1.0.3.1;python_version>='3.6'
 #-e git+https://github.com/luissilva1044894/pyrez.git@rewrite#egg=pyrez
 
 # https://github.com/aio-libs/aiohttp
