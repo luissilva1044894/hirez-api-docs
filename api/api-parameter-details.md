@@ -129,10 +129,10 @@ Valid values are:
   <tr><td>25506</td><td>Scaled Menace</td><td><img src="./../.assets/paladins/avatar/25506.png" height="32" width="32"/></td></tr>
   <tr><td>25507</td><td>Hunter's Fury</td><td><img src="./../.assets/paladins/avatar/25507.png" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
+  <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/brood_guard.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
