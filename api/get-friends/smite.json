@@ -5,33 +5,27 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"12357007",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"18013408",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Icon_Player_Ra_Alienware.png",
-    "friend_flags":"1",
-    "name":"Superb Drunk",
-    "player_id":"700287566",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1237412",
+    "account_id":"0",
     "avatar_url":"",
     "friend_flags":"1",
-    "name":"Adapting",
-    "player_id":"2784051",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"2668649",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/T_Apollo_Default_Icon.png",
+    "avatar_url":"",
     "friend_flags":"1",
     "name":"Akillathehun",
     "player_id":"53756",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -41,24 +35,17 @@
     "friend_flags":"1",
     "name":"Allied",
     "player_id":"93894",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"4328462",
-    "avatar_url":"",
+    "account_id":"3704424",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Allied_Strong.png",
     "friend_flags":"1",
-    "name":"AllyForYou",
-    "player_id":"810783",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "avatar_url":"",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"AnatoLiy",
+    "player_id":"547218",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -68,6 +55,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -77,24 +65,7 @@
     "friend_flags":"1",
     "name":"AuronAlcatraz",
     "player_id":"4620699",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1119238505",
-    "avatar_url":"",
-    "friend_flags":"4",
-    "name":"BackWoodBaby217",
-    "player_id":"705327715",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"2708070",
-    "avatar_url":"",
-    "friend_flags":"1",
-    "name":"BaRRaCCuDDa",
-    "player_id":"215147",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -104,6 +75,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -113,24 +85,17 @@
     "friend_flags":"1",
     "name":"Benji518",
     "player_id":"7023941",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"13804948",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Icon_GingerbreadMan_02.png",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Sakura_TV.png",
     "friend_flags":"1",
     "name":"bigyuji",
     "player_id":"6847269",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"5026440",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2017/05/AvatarTheMorrigan.png",
-    "friend_flags":"1",
-    "name":"BootyCallJones",
-    "player_id":"1120268",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -140,6 +105,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -149,6 +115,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -158,6 +125,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -167,6 +135,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -176,6 +145,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -185,6 +155,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -194,6 +165,7 @@
     "friend_flags":"1",
     "name":"dangercrow",
     "player_id":"5549105",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -203,15 +175,7 @@
     "friend_flags":"1",
     "name":"DanteLeFargo",
     "player_id":"1345891",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1399136",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Icon_Snowman_08.png",
-    "friend_flags":"1",
-    "name":"DerekSeaCucubmer",
-    "player_id":"717772",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -221,6 +185,7 @@
     "friend_flags":"1",
     "name":"Divios",
     "player_id":"697969",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -230,6 +195,7 @@
     "friend_flags":"1",
     "name":"DrPhiI",
     "player_id":"4170234",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -239,6 +205,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -248,6 +215,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -257,6 +225,7 @@
     "friend_flags":"1",
     "name":"ElLocoTigre",
     "player_id":"8444477",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -266,33 +235,17 @@
     "friend_flags":"1",
     "name":"ELPAdog",
     "player_id":"1805011",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"4392840",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2017/05/AvatarRatNRoll.png",
-    "friend_flags":"1",
-    "name":"Esava",
-    "player_id":"837788",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"11728456",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Never-Surrender.png",
+    "avatar_url":"",
     "friend_flags":"1",
     "name":"EvFo",
     "player_id":"5585521",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"9322817",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/CountryFlag_Ukraine.png",
-    "friend_flags":"1",
-    "name":"fineokay",
-    "player_id":"4057379",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -302,15 +255,27 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"16838683",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/T_Nox_Default_Icon.png",
+    "account_id":"0",
+    "avatar_url":"",
     "friend_flags":"1",
-    "name":"GentleSlayeur",
-    "player_id":"8777690",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -320,6 +285,7 @@
     "friend_flags":"1",
     "name":"GetFisher",
     "player_id":"540683",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -329,15 +295,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
-    "avatar_url":"",
+    "account_id":"7237409",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Cutesy_Bastet.png",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"Glaivus",
+    "player_id":"2640794",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -347,6 +315,17 @@
     "friend_flags":"1",
     "name":"guitargun",
     "player_id":"4248487",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"3474350",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/11/PirateFlag_11.png",
+    "friend_flags":"1",
+    "name":"Homiefe",
+    "player_id":"406268",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -356,15 +335,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"5536659",
-    "avatar_url":"",
-    "friend_flags":"1",
-    "name":"Hurriwind",
-    "player_id":"1457496",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -374,6 +345,17 @@
     "friend_flags":"1",
     "name":"Jakepocket",
     "player_id":"595136",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25978342",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Cutesy_Chef_Special.png",
+    "friend_flags":"4",
+    "name":"JBREWI",
+    "player_id":"700136640",
+    "portal_id":"10",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -383,6 +365,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -392,6 +375,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"4328462",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"JogeVibeZ",
+    "player_id":"810783",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -401,6 +395,7 @@
     "friend_flags":"1",
     "name":"KikiOnSwitch",
     "player_id":"888548",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -410,6 +405,7 @@
     "friend_flags":"1",
     "name":"Lannon",
     "player_id":"4125015",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -419,6 +415,7 @@
     "friend_flags":"1",
     "name":"LASBRA",
     "player_id":"86523",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -428,24 +425,27 @@
     "friend_flags":"1",
     "name":"Lassiz",
     "player_id":"4527",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"8252971",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Promo_SmiteCentral.png",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Promo_Curse.png",
     "friend_flags":"1",
     "name":"lizzybear88",
     "player_id":"3396555",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"7175484",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Cutesy_Chef_Special.png",
+    "account_id":"0",
+    "avatar_url":"",
     "friend_flags":"1",
-    "name":"Mangoh",
-    "player_id":"2597069",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -455,6 +455,7 @@
     "friend_flags":"1",
     "name":"Marblea",
     "player_id":"5302979",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -464,6 +465,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -473,6 +475,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -482,24 +495,27 @@
     "friend_flags":"1",
     "name":"MrPantaloons",
     "player_id":"12169421",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"5488715",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Icon_Player_Lotus.png",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Sakura_TV.png",
     "friend_flags":"1",
     "name":"myflin",
     "player_id":"1424499",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"18268884",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/CountryFlag_England.png",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2017/05/AvatarCutesyScylla.jpg",
     "friend_flags":"1",
     "name":"MySweetPatato",
     "player_id":"12041951",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -509,6 +525,7 @@
     "friend_flags":"1",
     "name":"Nika",
     "player_id":"1232115",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -518,6 +535,7 @@
     "friend_flags":"1",
     "name":"NotLurk",
     "player_id":"3563209",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -527,6 +545,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -536,6 +555,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -545,6 +565,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -554,6 +575,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -563,6 +585,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -572,6 +595,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -581,6 +605,7 @@
     "friend_flags":"1",
     "name":"Revivify",
     "player_id":"2310162",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -590,15 +615,7 @@
     "friend_flags":"1",
     "name":"rosenchuck1",
     "player_id":"13465151",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"12780276",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Icon_Player_Wave.png",
-    "friend_flags":"1",
-    "name":"sam4soccer2",
-    "player_id":"6248360",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -608,6 +625,27 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -617,15 +655,27 @@
     "friend_flags":"1",
     "name":"Shing",
     "player_id":"90486",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"2998189",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/I_Player_Team_DenialESports.png",
+    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/I_Player_Team_Snipe.png",
     "friend_flags":"1",
     "name":"Skeeledon",
     "player_id":"402221",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18830148",
+    "avatar_url":"",
+    "friend_flags":"4",
+    "name":"SprokLaMok",
+    "player_id":"708551767",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -635,6 +685,17 @@
     "friend_flags":"1",
     "name":"Suntouch",
     "player_id":"75680",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18013408",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"Superb Drunk",
+    "player_id":"700287566",
+    "portal_id":"10",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -644,6 +705,7 @@
     "friend_flags":"1",
     "name":"SweatyMeatSacks",
     "player_id":"9938763",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -653,6 +715,7 @@
     "friend_flags":"1",
     "name":"Symph0ny",
     "player_id":"8626135",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -662,6 +725,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -671,6 +735,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"4500691",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"thebestotter",
+    "player_id":"874162",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -680,6 +755,7 @@
     "friend_flags":"1",
     "name":"TheGaySatan",
     "player_id":"4351709",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -689,6 +765,7 @@
     "friend_flags":"1",
     "name":"TheRealRobby",
     "player_id":"1502487",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -698,6 +775,7 @@
     "friend_flags":"1",
     "name":"Thoofa",
     "player_id":"1579733",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -707,15 +785,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"5280124",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/Promo_XBox_BetaTester.png",
+    "avatar_url":"",
     "friend_flags":"1",
     "name":"UndamagedSoul",
     "player_id":"1281858",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -725,6 +805,7 @@
     "friend_flags":"1",
     "name":"Uzzy",
     "player_id":"361708",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -734,6 +815,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -743,6 +825,7 @@
     "friend_flags":"1",
     "name":"Vetium",
     "player_id":"274669",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -752,6 +835,17 @@
     "friend_flags":"1",
     "name":"VisionsvR",
     "player_id":"700672832",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -761,6 +855,7 @@
     "friend_flags":"1",
     "name":"wigglessdabae",
     "player_id":"286613",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -770,24 +865,7 @@
     "friend_flags":"1",
     "name":"Wisnewski",
     "player_id":"12255831",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1612187",
-    "avatar_url":"",
-    "friend_flags":"1",
-    "name":"Wowy",
-    "player_id":"1116737",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"6710523",
-    "avatar_url":"",
-    "friend_flags":"1",
-    "name":"Xeno",
-    "player_id":"2263803",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -797,6 +875,17 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "avatar_url":"",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -806,35 +895,9 @@
     "friend_flags":"1",
     "name":"Zapman",
     "player_id":"367737",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "avatar_url":"",
-    "friend_flags":"32",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Blocked"
-  },
-  {
-    "account_id":"11890573",
-    "avatar_url":"http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2016/10/Allied_Strong.png",
-    "friend_flags":"32",
-    "name":"mogens123",
-    "player_id":"5689086",
-    "ret_msg":null,
-    "status":"Blocked"
-  },
-  {
-    "account_id":"0",
-    "avatar_url":"",
-    "friend_flags":"32",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Blocked"
   },
   {
     "account_id":"11673942",
@@ -842,6 +905,7 @@
     "friend_flags":"32",
     "name":"TwitchAzureblaze",
     "player_id":"5550739",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Blocked"
   }

@@ -1,1441 +1,19 @@
 [
   {
-    "account_id":"1115541929",
+    "account_id":"18718173",
     "friend_flags":"1",
-    "name":"Maintalus",
-    "player_id":"707419748",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1122994365",
-    "friend_flags":"1",
-    "name":"Ag4in",
-    "player_id":"711337347",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37017567",
-    "friend_flags":"1",
-    "name":"Akh4mamir",
-    "player_id":"13583457",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39550909",
-    "friend_flags":"1",
-    "name":"Alahukuba",
-    "player_id":"14991400",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36290490",
-    "friend_flags":"1",
-    "name":"alanzinBOLADO",
-    "player_id":"13114415",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"33439320",
-    "friend_flags":"1",
-    "name":"Alecksandra",
-    "player_id":"11202812",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34281369",
-    "friend_flags":"1",
-    "name":"Alegría",
-    "player_id":"11748753",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34481931",
-    "friend_flags":"1",
-    "name":"Allzhem",
-    "player_id":"11882081",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39627795",
-    "friend_flags":"1",
-    "name":"AlucinousDKG",
-    "player_id":"15035438",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37499993",
-    "friend_flags":"1",
-    "name":"Ana0vei0",
-    "player_id":"13873977",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27734131",
-    "friend_flags":"1",
-    "name":"AnamykA",
-    "player_id":"7498126",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25813142",
-    "friend_flags":"1",
-    "name":"AndreCZ0",
-    "player_id":"13311389",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31408063",
-    "friend_flags":"1",
-    "name":"AndroxusBoladão",
-    "player_id":"9843117",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31310608",
-    "friend_flags":"1",
-    "name":"AnjoZinho",
-    "player_id":"9774695",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25392892",
-    "friend_flags":"1",
-    "name":"AnthonySantos14",
-    "player_id":"8547941",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"26596491",
-    "friend_flags":"1",
-    "name":"AstarothBr",
-    "player_id":"6817759",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20425724",
-    "friend_flags":"1",
-    "name":"B4BiDi",
-    "player_id":"2159727",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28288478",
-    "friend_flags":"1",
-    "name":"BABAYAGAXY",
-    "player_id":"7863695",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"38652988",
-    "friend_flags":"1",
-    "name":"baianakl",
-    "player_id":"14933625",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1127524603",
-    "friend_flags":"1",
-    "name":"BALITINHA",
-    "player_id":"714028586",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30034373",
-    "friend_flags":"1",
-    "name":"BarataAlfa",
-    "player_id":"8950714",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21951100",
-    "friend_flags":"1",
-    "name":"BatataVingadora",
-    "player_id":"3569305",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34811256",
-    "friend_flags":"1",
-    "name":"BDFjb",
-    "player_id":"12106258",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23830846",
-    "friend_flags":"1",
-    "name":"Berremut",
-    "player_id":"4995396",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29758612",
-    "friend_flags":"1",
-    "name":"Bibies",
-    "player_id":"8784313",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"33839454",
-    "friend_flags":"1",
-    "name":"BieLOPRESSOR",
-    "player_id":"11477819",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30706023",
-    "friend_flags":"1",
-    "name":"BjornIronside12",
-    "player_id":"9359480",
+    "name":"PlosolWDG",
+    "player_id":"867220",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"8287033",
     "friend_flags":"1",
-    "name":"bl4ckfishy",
+    "name":"bittenner",
     "player_id":"3485870",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35721352",
-    "friend_flags":"1",
-    "name":"Blaackzito",
-    "player_id":"12724288",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25843799",
-    "friend_flags":"1",
-    "name":"BlackMagic122",
-    "player_id":"6356871",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18807104",
-    "friend_flags":"1",
-    "name":"blackwidow02",
-    "player_id":"896571",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28221322",
-    "friend_flags":"1",
-    "name":"BonumLusor",
-    "player_id":"10968773",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21692036",
-    "friend_flags":"1",
-    "name":"BRUNAO2",
-    "player_id":"3329441",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30792808",
-    "friend_flags":"1",
-    "name":"brunoalysson1",
-    "player_id":"9416535",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23839080",
-    "friend_flags":"1",
-    "name":"BTrouxa",
-    "player_id":"5019423",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28486031",
-    "friend_flags":"1",
-    "name":"Buergoth",
-    "player_id":"11439800",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24886639",
-    "friend_flags":"1",
-    "name":"caduh311",
-    "player_id":"5712370",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37801699",
-    "friend_flags":"1",
-    "name":"CapuzPreto0",
-    "player_id":"14052922",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20488527",
-    "friend_flags":"1",
-    "name":"CarlinhosNtc",
-    "player_id":"2220574",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1110117288",
-    "friend_flags":"1",
-    "name":"CarlosBRX2004",
-    "player_id":"708317493",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30439732",
-    "friend_flags":"1",
-    "name":"Claudiogui",
-    "player_id":"9238948",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1100239507",
-    "friend_flags":"1",
-    "name":"CLW3",
-    "player_id":"15598144",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31049966",
-    "friend_flags":"1",
-    "name":"CocotinhaVoadora",
-    "player_id":"9626603",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27233097",
-    "friend_flags":"1",
-    "name":"Contrapiso",
-    "player_id":"7171875",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25456690",
-    "friend_flags":"1",
-    "name":"coronellxonado",
-    "player_id":"6088713",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31888953",
-    "friend_flags":"1",
-    "name":"CristianLuid",
-    "player_id":"10562891",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36125684",
-    "friend_flags":"1",
-    "name":"Cyrus6969",
-    "player_id":"12999591",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36241953",
-    "friend_flags":"1",
-    "name":"D3Kz",
-    "player_id":"13472264",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"22513047",
-    "friend_flags":"1",
-    "name":"Danidann",
-    "player_id":"4930874",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34472986",
-    "friend_flags":"1",
-    "name":"DarkChrn",
-    "player_id":"11876187",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25078671",
-    "friend_flags":"1",
-    "name":"DarkSUJAO",
-    "player_id":"5838304",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30183278",
-    "friend_flags":"1",
-    "name":"Dëathstrike",
-    "player_id":"9036486",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39286207",
-    "friend_flags":"1",
-    "name":"DERIZAO",
-    "player_id":"14843858",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"22522529",
-    "friend_flags":"1",
-    "name":"DesgoTD",
-    "player_id":"3997422",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35275061",
-    "friend_flags":"1",
-    "name":"Desgraçarys",
-    "player_id":"12423694",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1108619188",
-    "friend_flags":"1",
-    "name":"DeyvidBlack23",
-    "player_id":"707454550",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23010895",
-    "friend_flags":"1",
-    "name":"DiogoGamerGO",
-    "player_id":"4378730",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"44128633",
-    "friend_flags":"1",
-    "name":"disponivel25",
-    "player_id":"15404846",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31238667",
-    "friend_flags":"1",
-    "name":"ditocas",
-    "player_id":"9724284",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25373375",
-    "friend_flags":"1",
-    "name":"DrezZzZzZz",
-    "player_id":"6033773",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"38716313",
-    "friend_flags":"1",
-    "name":"DropletSk8",
-    "player_id":"14526904",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24834839",
-    "friend_flags":"1",
-    "name":"EdmarMartins",
-    "player_id":"5678695",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36978611",
-    "friend_flags":"1",
-    "name":"DivineArrow1",
-    "player_id":"13559695",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32138531",
-    "friend_flags":"1",
-    "name":"EduColony",
-    "player_id":"10351472",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18947336",
-    "friend_flags":"1",
-    "name":"EduKillher",
-    "player_id":"933468",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37980914",
-    "friend_flags":"1",
-    "name":"EfiZeErri",
-    "player_id":"14155372",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"6439000",
-    "friend_flags":"1",
-    "name":"ElyelMarques",
-    "player_id":"2600780",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27508076",
-    "friend_flags":"1",
-    "name":"EMANUELDss",
-    "player_id":"7352451",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"22971021",
-    "friend_flags":"1",
-    "name":"erickthegamer",
-    "player_id":"4347846",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"19826261",
-    "friend_flags":"1",
-    "name":"esKyjj",
-    "player_id":"1554447",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34655364",
-    "friend_flags":"1",
-    "name":"espiiii",
-    "player_id":"11999294",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"22071470",
-    "friend_flags":"1",
-    "name":"EvaGabunda",
-    "player_id":"3641736",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35593340",
-    "friend_flags":"1",
-    "name":"EyGufellippo",
-    "player_id":"12635054",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"38361141",
-    "friend_flags":"1",
-    "name":"EyZenity",
-    "player_id":"14335197",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29006680",
-    "friend_flags":"1",
-    "name":"FARBOK7",
-    "player_id":"8519626",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24675503",
-    "friend_flags":"1",
-    "name":"FAZ0LI",
-    "player_id":"5573494",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18946111",
-    "friend_flags":"1",
-    "name":"Ferd",
-    "player_id":"932752",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29389828",
-    "friend_flags":"1",
-    "name":"FerdFerdnand",
-    "player_id":"8553144",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32395245",
-    "friend_flags":"1",
-    "name":"Ferreira0210",
-    "player_id":"10520697",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1124067453",
-    "friend_flags":"1",
-    "name":"FilhoDoDentista",
-    "player_id":"712590423",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27556772",
-    "friend_flags":"1",
-    "name":"Flaviano",
-    "player_id":"7392268",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27391662",
-    "friend_flags":"1",
-    "name":"Forssetti",
-    "player_id":"7276652",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21563006",
-    "friend_flags":"1",
-    "name":"FoxmAAn",
-    "player_id":"3224222",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28986627",
-    "friend_flags":"1",
-    "name":"ƒrzgod",
-    "player_id":"8305174",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27807544",
-    "friend_flags":"1",
-    "name":"FugaGirl",
-    "player_id":"8071275",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"38120842",
-    "friend_flags":"1",
-    "name":"Fuyuki90Firee",
-    "player_id":"14252733",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34757133",
-    "friend_flags":"1",
-    "name":"Gabluke",
-    "player_id":"12119593",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29882309",
-    "friend_flags":"1",
-    "name":"gabrielfixe",
-    "player_id":"8868152",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36882851",
-    "friend_flags":"1",
-    "name":"gafuz9",
-    "player_id":"14554844",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"26561388",
-    "friend_flags":"1",
-    "name":"Gangrenosão",
-    "player_id":"6794160",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31442044",
-    "friend_flags":"1",
-    "name":"garofake89",
-    "player_id":"9866697",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32639901",
-    "friend_flags":"1",
-    "name":"GATlØN3S",
-    "player_id":"10682285",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30760069",
-    "friend_flags":"1",
-    "name":"GeeSquiggles",
-    "player_id":"13846916",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25406924",
-    "friend_flags":"1",
-    "name":"GEnJIRME",
-    "player_id":"6056404",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1106047027",
-    "friend_flags":"1",
-    "name":"gfg571",
-    "player_id":"16438274",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1115064972",
-    "friend_flags":"1",
-    "name":"GliTag",
-    "player_id":"16727067",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35792992",
-    "friend_flags":"1",
-    "name":"gogokgamer",
-    "player_id":"13202487",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20138168",
-    "friend_flags":"1",
-    "name":"GordonFreman9",
-    "player_id":"1876934",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21815110",
-    "friend_flags":"1",
-    "name":"Gordynhu",
-    "player_id":"3429478",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21698680",
-    "friend_flags":"1",
-    "name":"guameplay13",
-    "player_id":"3335268",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30277002",
-    "friend_flags":"1",
-    "name":"Guiilherme01",
-    "player_id":"9091148",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24987900",
-    "friend_flags":"1",
-    "name":"GuiJacoBr",
-    "player_id":"5779753",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36521163",
-    "friend_flags":"1",
-    "name":"GustaBreakmen99",
-    "player_id":"13270461",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29462790",
-    "friend_flags":"1",
-    "name":"GustavoHARD100",
-    "player_id":"8598849",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1109089005",
-    "friend_flags":"1",
-    "name":"Haushink4",
-    "player_id":"707691139",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1107388609",
-    "friend_flags":"1",
-    "name":"HEBIRIBI",
-    "player_id":"16679255",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21702994",
-    "friend_flags":"1",
-    "name":"HerdeiroAICO",
-    "player_id":"12402419",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18499655",
-    "friend_flags":"1",
-    "name":"HERMAO",
-    "player_id":"2207560",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35212255",
-    "friend_flags":"1",
-    "name":"Hobbit14",
-    "player_id":"12383283",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20537578",
-    "friend_flags":"1",
-    "name":"hotlineJacket",
-    "player_id":"2269325",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34996755",
-    "friend_flags":"1",
-    "name":"HOUVERKILL",
-    "player_id":"12236329",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1105355879",
-    "friend_flags":"1",
-    "name":"iammarinadiniz",
-    "player_id":"16300524",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36457179",
-    "friend_flags":"1",
-    "name":"iD3ath",
-    "player_id":"13227170",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"30157553",
-    "friend_flags":"1",
-    "name":"IFeyzZHarDzZ",
-    "player_id":"9021202",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25483831",
-    "friend_flags":"1",
-    "name":"iLoveC4n4b1s",
-    "player_id":"6107089",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37809579",
-    "friend_flags":"1",
-    "name":"iLoveWinterS2",
-    "player_id":"14057945",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29334951",
-    "friend_flags":"2",
-    "name":"IMadd",
-    "player_id":"8530039",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"10796394",
-    "friend_flags":"1",
-    "name":"iMaxSouza",
-    "player_id":"355857",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23809532",
-    "friend_flags":"1",
-    "name":"iNaaziip",
-    "player_id":"4980213",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"33207271",
-    "friend_flags":"1",
-    "name":"IrønWitch",
-    "player_id":"11048692",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23596443",
-    "friend_flags":"1",
-    "name":"iSacripanta",
-    "player_id":"4824926",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32926953",
-    "friend_flags":"1",
-    "name":"JaasoNN",
-    "player_id":"10864482",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32693859",
-    "friend_flags":"1",
-    "name":"JajaBolsonaro",
-    "player_id":"10712265",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31811353",
-    "friend_flags":"1",
-    "name":"JeanV28",
-    "player_id":"10130219",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25050719",
-    "friend_flags":"1",
-    "name":"JhinLendario",
-    "player_id":"5821217",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36182335",
-    "friend_flags":"1",
-    "name":"JHOWNJHOWN",
-    "player_id":"13044678",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31050077",
-    "friend_flags":"1",
-    "name":"joaovitorbd",
-    "player_id":"10568730",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29345675",
-    "friend_flags":"1",
-    "name":"JonGod220",
-    "player_id":"708768524",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21116927",
-    "friend_flags":"1",
-    "name":"JowHartmann",
-    "player_id":"2827463",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"19982604",
-    "friend_flags":"1",
-    "name":"JuanG50",
-    "player_id":"1718233",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20816962",
-    "friend_flags":"1",
-    "name":"juanmant",
-    "player_id":"2547846",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34603335",
-    "friend_flags":"1",
-    "name":"JuninhoCoelho",
-    "player_id":"11963726",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25077028",
-    "friend_flags":"1",
-    "name":"JuninRB",
-    "player_id":"5837128",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39514998",
-    "friend_flags":"1",
-    "name":"Kaeven",
-    "player_id":"14979397",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39088650",
-    "friend_flags":"1",
-    "name":"KaioMVDS",
-    "player_id":"14735048",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29910595",
-    "friend_flags":"1",
-    "name":"KanarinhOo",
-    "player_id":"9061600",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"36649361",
-    "friend_flags":"1",
-    "name":"Kapuccino",
-    "player_id":"13352556",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"26345275",
-    "friend_flags":"1",
-    "name":"KingKaíser",
-    "player_id":"6660623",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31439256",
-    "friend_flags":"1",
-    "name":"KinguinhoJr",
-    "player_id":"9869704",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24926085",
-    "friend_flags":"1",
-    "name":"Kinvara",
-    "player_id":"5738571",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24181701",
-    "friend_flags":"1",
-    "name":"Kiruli",
-    "player_id":"5244263",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"22181738",
-    "friend_flags":"1",
-    "name":"Kmoon",
-    "player_id":"3729211",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35735911",
-    "friend_flags":"1",
-    "name":"Knowback",
-    "player_id":"13009974",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"38319903",
-    "friend_flags":"1",
-    "name":"kpoppera25",
-    "player_id":"14433791",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39991946",
-    "friend_flags":"1",
-    "name":"KR10",
-    "player_id":"15063172",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21204550",
-    "friend_flags":"1",
-    "name":"L0BÃ0",
-    "player_id":"2904753",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"24616331",
-    "friend_flags":"1",
-    "name":"L0rdSn0w",
-    "player_id":"5558119",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"29557888",
-    "friend_flags":"1",
-    "name":"L1PEW",
-    "player_id":"8657331",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18384439",
-    "friend_flags":"1",
-    "name":"Lauby5902",
-    "player_id":"16290702",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27923085",
-    "friend_flags":"1",
-    "name":"leyack",
-    "player_id":"7638951",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25106113",
-    "friend_flags":"1",
-    "name":"LightPw",
-    "player_id":"11634275",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"6935785",
-    "friend_flags":"1",
-    "name":"LightYagamí",
-    "player_id":"3806681",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"35794716",
-    "friend_flags":"1",
-    "name":"Linuxp",
-    "player_id":"12774861",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23503093",
-    "friend_flags":"1",
-    "name":"LiruLiru",
-    "player_id":"6347328",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23730324",
-    "friend_flags":"1",
-    "name":"Lisgood",
-    "player_id":"4925409",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25647695",
-    "friend_flags":"1",
-    "name":"lNina",
-    "player_id":"6218511",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31126072",
-    "friend_flags":"1",
-    "name":"lokadasquebrada",
-    "player_id":"9648232",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1105468858",
-    "friend_flags":"1",
-    "name":"Lolimachine2",
-    "player_id":"16321985",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"8028200",
-    "friend_flags":"1",
-    "name":"LordzzZ",
-    "player_id":"7568807",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"33831408",
-    "friend_flags":"1",
-    "name":"lourolz",
-    "player_id":"11475849",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21338035",
-    "friend_flags":"1",
-    "name":"lucasxgre",
-    "player_id":"3027860",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"31353154",
-    "friend_flags":"1",
-    "name":"Lüüüc",
-    "player_id":"9806187",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"25003309",
-    "friend_flags":"1",
-    "name":"M414s",
-    "player_id":"5790066",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23894884",
-    "friend_flags":"1",
-    "name":"MaiaGamer97",
-    "player_id":"5093146",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37140003",
-    "friend_flags":"2",
-    "name":"MainTalus",
-    "player_id":"13659890",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"33861058",
-    "friend_flags":"1",
-    "name":"Mandreplay666",
-    "player_id":"11493676",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28529682",
-    "friend_flags":"1",
-    "name":"Marc01227",
-    "player_id":"8031609",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1444,6 +22,1672 @@
     "friend_flags":"1",
     "name":"Marcosandes",
     "player_id":"5552744",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1115541929",
+    "friend_flags":"1",
+    "name":"Maintalus",
+    "player_id":"707419748",
+    "portal_id":"10",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"9",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1132353491",
+    "friend_flags":"1",
+    "name":"jjmotta",
+    "player_id":"716117133",
+    "portal_id":"22",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1122994365",
+    "friend_flags":"1",
+    "name":"Ag4in",
+    "player_id":"711337347",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37017567",
+    "friend_flags":"1",
+    "name":"Akh4mamir",
+    "player_id":"13583457",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39550909",
+    "friend_flags":"1",
+    "name":"Alahukuba",
+    "player_id":"14991400",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36290490",
+    "friend_flags":"1",
+    "name":"alanzinBOLADO",
+    "player_id":"13114415",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"33439320",
+    "friend_flags":"1",
+    "name":"Alecksandra",
+    "player_id":"11202812",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34281369",
+    "friend_flags":"1",
+    "name":"Alegría",
+    "player_id":"11748753",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34481931",
+    "friend_flags":"1",
+    "name":"Allzhem",
+    "player_id":"11882081",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37499993",
+    "friend_flags":"1",
+    "name":"Ana0vei0",
+    "player_id":"13873977",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27734131",
+    "friend_flags":"1",
+    "name":"AnamykA",
+    "player_id":"7498126",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25813142",
+    "friend_flags":"1",
+    "name":"AndreCZ0",
+    "player_id":"13311389",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31408063",
+    "friend_flags":"1",
+    "name":"AndroxusBoladão",
+    "player_id":"9843117",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31310608",
+    "friend_flags":"1",
+    "name":"AnjoZinho",
+    "player_id":"9774695",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25392892",
+    "friend_flags":"1",
+    "name":"AnthonySantos14",
+    "player_id":"8547941",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37377169",
+    "friend_flags":"1",
+    "name":"apupa",
+    "player_id":"13813284",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"26596491",
+    "friend_flags":"1",
+    "name":"AstarothBr",
+    "player_id":"6817759",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"20425724",
+    "friend_flags":"1",
+    "name":"B4BiDi",
+    "player_id":"2159727",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"28288478",
+    "friend_flags":"1",
+    "name":"BABAYAGAXY",
+    "player_id":"7863695",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"38652988",
+    "friend_flags":"1",
+    "name":"baianakl",
+    "player_id":"14933625",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1127524603",
+    "friend_flags":"1",
+    "name":"BALITINHA",
+    "player_id":"714028586",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30034373",
+    "friend_flags":"1",
+    "name":"BarataAlfa",
+    "player_id":"8950714",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21951100",
+    "friend_flags":"1",
+    "name":"BatataVingadora",
+    "player_id":"3569305",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34811256",
+    "friend_flags":"1",
+    "name":"BDFjb",
+    "player_id":"12106258",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1132370003",
+    "friend_flags":"1",
+    "name":"Bernardo2009",
+    "player_id":"716126505",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23830846",
+    "friend_flags":"1",
+    "name":"Berremut",
+    "player_id":"4995396",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30706023",
+    "friend_flags":"1",
+    "name":"BjornIronside12",
+    "player_id":"9359480",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35721352",
+    "friend_flags":"1",
+    "name":"Blaackzito",
+    "player_id":"12724288",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25843799",
+    "friend_flags":"1",
+    "name":"BlackMagic122",
+    "player_id":"6356871",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18807104",
+    "friend_flags":"1",
+    "name":"blackwidow02",
+    "player_id":"896571",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30792808",
+    "friend_flags":"1",
+    "name":"brunoalysson1",
+    "player_id":"9416535",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23839080",
+    "friend_flags":"1",
+    "name":"BTrouxa",
+    "player_id":"5019423",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"28486031",
+    "friend_flags":"1",
+    "name":"Buergoth",
+    "player_id":"11439800",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24886639",
+    "friend_flags":"1",
+    "name":"caduh311",
+    "player_id":"5712370",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37801699",
+    "friend_flags":"1",
+    "name":"CapuzPreto0",
+    "player_id":"14052922",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"20488527",
+    "friend_flags":"1",
+    "name":"CarlinhosNtc",
+    "player_id":"2220574",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1110117288",
+    "friend_flags":"1",
+    "name":"CarlosBRX2004",
+    "player_id":"708317493",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30439732",
+    "friend_flags":"1",
+    "name":"Claudiogui",
+    "player_id":"9238948",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1100239507",
+    "friend_flags":"1",
+    "name":"CLW3",
+    "player_id":"15598144",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31049966",
+    "friend_flags":"1",
+    "name":"CocotinhaVoadora",
+    "player_id":"9626603",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25456690",
+    "friend_flags":"1",
+    "name":"coronellxonado",
+    "player_id":"6088713",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31888953",
+    "friend_flags":"1",
+    "name":"CristianLuid",
+    "player_id":"10562891",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36125684",
+    "friend_flags":"1",
+    "name":"Cyrus6969",
+    "player_id":"12999591",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36241953",
+    "friend_flags":"1",
+    "name":"D3Kz",
+    "player_id":"13472264",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22513047",
+    "friend_flags":"1",
+    "name":"Danidann",
+    "player_id":"4930874",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34342019",
+    "friend_flags":"1",
+    "name":"danielBDS",
+    "player_id":"11952345",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34472986",
+    "friend_flags":"1",
+    "name":"DarkChrn",
+    "player_id":"11876187",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25078671",
+    "friend_flags":"1",
+    "name":"DarkSUJAO",
+    "player_id":"5838304",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30183278",
+    "friend_flags":"1",
+    "name":"Dëathstrike",
+    "player_id":"9036486",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39286207",
+    "friend_flags":"1",
+    "name":"DERIZAO",
+    "player_id":"14843858",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22522529",
+    "friend_flags":"1",
+    "name":"DesgoTD",
+    "player_id":"3997422",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35275061",
+    "friend_flags":"1",
+    "name":"Desgraçarys",
+    "player_id":"12423694",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1108619188",
+    "friend_flags":"1",
+    "name":"DeyvidBlack23",
+    "player_id":"707454550",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23010895",
+    "friend_flags":"1",
+    "name":"DiogoGamerGO",
+    "player_id":"4378730",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"7958577",
+    "friend_flags":"1",
+    "name":"DiPanda",
+    "player_id":"386975",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"44128633",
+    "friend_flags":"1",
+    "name":"disponivel25",
+    "player_id":"15404846",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31238667",
+    "friend_flags":"1",
+    "name":"ditocas",
+    "player_id":"9724284",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36978611",
+    "friend_flags":"1",
+    "name":"DivineArrow1",
+    "player_id":"13559695",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34141904",
+    "friend_flags":"1",
+    "name":"DonâoLolo",
+    "player_id":"11660424",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25373375",
+    "friend_flags":"1",
+    "name":"DrezZzZzZz",
+    "player_id":"6033773",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"38716313",
+    "friend_flags":"1",
+    "name":"DropletSk8",
+    "player_id":"14526904",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24834839",
+    "friend_flags":"1",
+    "name":"EdmarMartins",
+    "player_id":"5678695",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32138531",
+    "friend_flags":"1",
+    "name":"EduColony",
+    "player_id":"10351472",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18947336",
+    "friend_flags":"1",
+    "name":"EduKillher",
+    "player_id":"933468",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37980914",
+    "friend_flags":"1",
+    "name":"EfiZeErri",
+    "player_id":"14155372",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"6439000",
+    "friend_flags":"1",
+    "name":"ElyelMarques",
+    "player_id":"2600780",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27508076",
+    "friend_flags":"1",
+    "name":"zTustra",
+    "player_id":"7352451",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22971021",
+    "friend_flags":"1",
+    "name":"erickthegamer",
+    "player_id":"4347846",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"19826261",
+    "friend_flags":"1",
+    "name":"esKyjj",
+    "player_id":"1554447",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34655364",
+    "friend_flags":"1",
+    "name":"espiiii",
+    "player_id":"11999294",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1139666487",
+    "friend_flags":"1",
+    "name":"eusoucornoeujur",
+    "player_id":"719613926",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22071470",
+    "friend_flags":"1",
+    "name":"EvaGabunda",
+    "player_id":"3641736",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35593340",
+    "friend_flags":"1",
+    "name":"EyGufellippo",
+    "player_id":"12635054",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1130488797",
+    "friend_flags":"1",
+    "name":"F4Z0LL1",
+    "player_id":"715290543",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29006680",
+    "friend_flags":"1",
+    "name":"FARBOK7",
+    "player_id":"8519626",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"22",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18946111",
+    "friend_flags":"1",
+    "name":"Ferd",
+    "player_id":"932752",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29389828",
+    "friend_flags":"1",
+    "name":"FerdFerdnand",
+    "player_id":"8553144",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32395245",
+    "friend_flags":"1",
+    "name":"Ferreira0210",
+    "player_id":"10520697",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1124067453",
+    "friend_flags":"1",
+    "name":"FilhoDoDentista",
+    "player_id":"712590423",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27556772",
+    "friend_flags":"1",
+    "name":"Flaviano",
+    "player_id":"7392268",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27391662",
+    "friend_flags":"1",
+    "name":"Forssetti",
+    "player_id":"7276652",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21563006",
+    "friend_flags":"1",
+    "name":"FoxmAAn",
+    "player_id":"3224222",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"28986627",
+    "friend_flags":"1",
+    "name":"ƒrzgod",
+    "player_id":"8305174",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27807544",
+    "friend_flags":"1",
+    "name":"FugaGirl",
+    "player_id":"8071275",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"38120842",
+    "friend_flags":"1",
+    "name":"Fuyuki90Firee",
+    "player_id":"14252733",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34757133",
+    "friend_flags":"1",
+    "name":"Gabluke",
+    "player_id":"12119593",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29882309",
+    "friend_flags":"1",
+    "name":"gabrielfixe",
+    "player_id":"8868152",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36882851",
+    "friend_flags":"1",
+    "name":"gafuz9",
+    "player_id":"14554844",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"26561388",
+    "friend_flags":"1",
+    "name":"Gangrenosão",
+    "player_id":"6794160",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32639901",
+    "friend_flags":"1",
+    "name":"GATlØN3S",
+    "player_id":"10682285",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30760069",
+    "friend_flags":"1",
+    "name":"GeeSquiggles",
+    "player_id":"13846916",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25406924",
+    "friend_flags":"1",
+    "name":"GEnJIRME",
+    "player_id":"6056404",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1106047027",
+    "friend_flags":"1",
+    "name":"gfg571",
+    "player_id":"16438274",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1115064972",
+    "friend_flags":"1",
+    "name":"GliTag",
+    "player_id":"16727067",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35792992",
+    "friend_flags":"1",
+    "name":"gogokgamer",
+    "player_id":"13202487",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"20138168",
+    "friend_flags":"1",
+    "name":"GordonFreman9",
+    "player_id":"1876934",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21815110",
+    "friend_flags":"1",
+    "name":"Gordynhu",
+    "player_id":"3429478",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21698680",
+    "friend_flags":"1",
+    "name":"guameplay13",
+    "player_id":"3335268",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30277002",
+    "friend_flags":"1",
+    "name":"Guiilherme01",
+    "player_id":"9091148",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24987900",
+    "friend_flags":"1",
+    "name":"GuiJacoBr",
+    "player_id":"5779753",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36521163",
+    "friend_flags":"1",
+    "name":"GustaBreakmen99",
+    "player_id":"13270461",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29462790",
+    "friend_flags":"1",
+    "name":"GustavoHARD100",
+    "player_id":"8598849",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21889087",
+    "friend_flags":"1",
+    "name":"GUZZOOTWITCH",
+    "player_id":"3517337",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1109089005",
+    "friend_flags":"1",
+    "name":"Haushink4",
+    "player_id":"707691139",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1107388609",
+    "friend_flags":"1",
+    "name":"HEBIRIBI",
+    "player_id":"16679255",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27572856",
+    "friend_flags":"1",
+    "name":"HenriCheese",
+    "player_id":"7395027",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21702994",
+    "friend_flags":"1",
+    "name":"HerdeiroAICO",
+    "player_id":"12402419",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35212255",
+    "friend_flags":"1",
+    "name":"Hobbit14",
+    "player_id":"12383283",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34996755",
+    "friend_flags":"1",
+    "name":"HOUVERKILL",
+    "player_id":"12236329",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1105355879",
+    "friend_flags":"1",
+    "name":"iammarinadiniz",
+    "player_id":"16300524",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36457179",
+    "friend_flags":"1",
+    "name":"Physis_",
+    "player_id":"13227170",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"30157553",
+    "friend_flags":"1",
+    "name":"IFeyzZHarDzZ",
+    "player_id":"9021202",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25483831",
+    "friend_flags":"1",
+    "name":"iLoveC4n4b1s",
+    "player_id":"6107089",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"37809579",
+    "friend_flags":"1",
+    "name":"iLoveWinterS2",
+    "player_id":"14057945",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32315524",
+    "friend_flags":"1",
+    "name":"IMarcao",
+    "player_id":"10466768",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"10796394",
+    "friend_flags":"1",
+    "name":"iMaxSouza",
+    "player_id":"355857",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23809532",
+    "friend_flags":"1",
+    "name":"iNaaziCheese",
+    "player_id":"4980213",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"33839454",
+    "friend_flags":"1",
+    "name":"InfantariaPE",
+    "player_id":"11477819",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23596443",
+    "friend_flags":"1",
+    "name":"iSacripanta",
+    "player_id":"4824926",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32926953",
+    "friend_flags":"1",
+    "name":"JaasoNN",
+    "player_id":"10864482",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"32693859",
+    "friend_flags":"1",
+    "name":"JajaBolsonaro",
+    "player_id":"10712265",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25050719",
+    "friend_flags":"1",
+    "name":"JhinLendario",
+    "player_id":"5821217",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36182335",
+    "friend_flags":"1",
+    "name":"JHOWNJHOWN",
+    "player_id":"13044678",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29345675",
+    "friend_flags":"1",
+    "name":"JonGod220",
+    "player_id":"708768524",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21116927",
+    "friend_flags":"1",
+    "name":"JowHartmann",
+    "player_id":"2827463",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"19982604",
+    "friend_flags":"1",
+    "name":"JuanG50",
+    "player_id":"1718233",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"20816962",
+    "friend_flags":"1",
+    "name":"juanmant",
+    "player_id":"2547846",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"34603335",
+    "friend_flags":"1",
+    "name":"JuninhoCoelho",
+    "player_id":"11963726",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25077028",
+    "friend_flags":"1",
+    "name":"JuninRB",
+    "player_id":"5837128",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18986344",
+    "friend_flags":"1",
+    "name":"KaelinShi",
+    "player_id":"6986189",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39514998",
+    "friend_flags":"1",
+    "name":"Kaeven",
+    "player_id":"14979397",
+    "portal_id":"13",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39088650",
+    "friend_flags":"1",
+    "name":"KaioMVDS",
+    "player_id":"14735048",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29910595",
+    "friend_flags":"1",
+    "name":"KanarinhOo",
+    "player_id":"9061600",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"36649361",
+    "friend_flags":"1",
+    "name":"Kapuccino",
+    "player_id":"13352556",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"26345275",
+    "friend_flags":"1",
+    "name":"KingKaíser",
+    "player_id":"6660623",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31439256",
+    "friend_flags":"1",
+    "name":"KinguinhoJr",
+    "player_id":"9869704",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24926085",
+    "friend_flags":"1",
+    "name":"Kinvara",
+    "player_id":"5738571",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1118984464",
+    "friend_flags":"1",
+    "name":"KiritooPH",
+    "player_id":"710752995",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24181701",
+    "friend_flags":"1",
+    "name":"Kiruli",
+    "player_id":"5244263",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22181738",
+    "friend_flags":"1",
+    "name":"Kmoon",
+    "player_id":"3729211",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31050077",
+    "friend_flags":"1",
+    "name":"Kohanski",
+    "player_id":"10568730",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"38319903",
+    "friend_flags":"1",
+    "name":"kpoppera25",
+    "player_id":"14433791",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39991946",
+    "friend_flags":"1",
+    "name":"KR10",
+    "player_id":"15063172",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1103731949",
+    "friend_flags":"1",
+    "name":"kxuiz",
+    "player_id":"15992919",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21204550",
+    "friend_flags":"1",
+    "name":"L0BÃ0",
+    "player_id":"2904753",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"24616331",
+    "friend_flags":"1",
+    "name":"EsnouCS",
+    "player_id":"5558119",
+    "portal_id":"10",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"29557888",
+    "friend_flags":"1",
+    "name":"L1PEW",
+    "player_id":"8657331",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18384439",
+    "friend_flags":"1",
+    "name":"Lauby5902",
+    "player_id":"16290702",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1134267026",
+    "friend_flags":"1",
+    "name":"LauraMessias",
+    "player_id":"716955720",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27923085",
+    "friend_flags":"1",
+    "name":"leyack",
+    "player_id":"7638951",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25106113",
+    "friend_flags":"1",
+    "name":"LightPw",
+    "player_id":"11634275",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"6935785",
+    "friend_flags":"1",
+    "name":"LightYagamí",
+    "player_id":"3806681",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"35794716",
+    "friend_flags":"1",
+    "name":"Linuxp",
+    "player_id":"12774861",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23503093",
+    "friend_flags":"1",
+    "name":"LiruLiru",
+    "player_id":"6347328",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23730324",
+    "friend_flags":"1",
+    "name":"Lisgood",
+    "player_id":"4925409",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25647695",
+    "friend_flags":"1",
+    "name":"lNina",
+    "player_id":"6218511",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31126072",
+    "friend_flags":"1",
+    "name":"lokadasquebrada",
+    "player_id":"9648232",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1105468858",
+    "friend_flags":"1",
+    "name":"Lolimachine2",
+    "player_id":"16321985",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"8028200",
+    "friend_flags":"1",
+    "name":"LordzzZ",
+    "player_id":"7568807",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"33831408",
+    "friend_flags":"1",
+    "name":"lourolz",
+    "player_id":"11475849",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"21338035",
+    "friend_flags":"1",
+    "name":"lucasxgre",
+    "player_id":"3027860",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25003309",
+    "friend_flags":"1",
+    "name":"M414s",
+    "player_id":"5790066",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"22390090",
+    "friend_flags":"1",
+    "name":"Magmap",
+    "player_id":"3895764",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"23894884",
+    "friend_flags":"1",
+    "name":"MaiaGamer97",
+    "player_id":"5093146",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"25436535",
+    "friend_flags":"1",
+    "name":"MandaNUDSS",
+    "player_id":"6074993",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"33861058",
+    "friend_flags":"1",
+    "name":"Mandreplay666",
+    "player_id":"11493676",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"28529682",
+    "friend_flags":"1",
+    "name":"Marc01227",
+    "player_id":"8031609",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1452,6 +1696,7 @@
     "friend_flags":"1",
     "name":"marycircelj",
     "player_id":"8580702",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1460,6 +1705,7 @@
     "friend_flags":"1",
     "name":"MasterPaladim",
     "player_id":"2749811",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1468,6 +1714,7 @@
     "friend_flags":"1",
     "name":"MasterTxd",
     "player_id":"13144119",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1476,6 +1723,7 @@
     "friend_flags":"1",
     "name":"mateiVCdeEVIE",
     "player_id":"3251565",
+    "portal_id":"13",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1484,6 +1732,16 @@
     "friend_flags":"1",
     "name":"Matheus2854",
     "player_id":"15714798",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1100044877",
+    "friend_flags":"1",
+    "name":"MattosoPiratoso",
+    "player_id":"15564721",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1492,22 +1750,16 @@
     "friend_flags":"1",
     "name":"Mazikeem",
     "player_id":"12506438",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"37554813",
     "friend_flags":"1",
-    "name":"MENDMAX",
+    "name":"mendmax",
     "player_id":"13904066",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1516,6 +1768,7 @@
     "friend_flags":"1",
     "name":"MestrePimba",
     "player_id":"3386319",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1524,14 +1777,16 @@
     "friend_flags":"1",
     "name":"MiIiCO",
     "player_id":"14565568",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
+    "account_id":"1108203679",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"MizuHime",
+    "player_id":"509431638",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1540,6 +1795,7 @@
     "friend_flags":"1",
     "name":"MorreuBahia",
     "player_id":"12275914",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1548,6 +1804,7 @@
     "friend_flags":"1",
     "name":"Motsognirr",
     "player_id":"2269873",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1556,6 +1813,7 @@
     "friend_flags":"1",
     "name":"MrCº",
     "player_id":"3555479",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1564,14 +1822,7 @@
     "friend_flags":"1",
     "name":"MushteForein",
     "player_id":"14266800",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"39529904",
-    "friend_flags":"1",
-    "name":"MustL1",
-    "player_id":"14979389",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1580,6 +1831,7 @@
     "friend_flags":"1",
     "name":"MythicalFoxº",
     "player_id":"15663185",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1588,6 +1840,7 @@
     "friend_flags":"1",
     "name":"N7XT",
     "player_id":"3356046",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1596,6 +1849,16 @@
     "friend_flags":"1",
     "name":"NateZera",
     "player_id":"10892090",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1130875285",
+    "friend_flags":"1",
+    "name":"Nayrobfr",
+    "player_id":"715459489",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1604,6 +1867,7 @@
     "friend_flags":"1",
     "name":"NedstarkBR",
     "player_id":"5838803",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1612,22 +1876,7 @@
     "friend_flags":"1",
     "name":"nhdomal",
     "player_id":"11624503",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23118798",
-    "friend_flags":"1",
-    "name":"nicolaslenda",
-    "player_id":"4462494",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1636,6 +1885,7 @@
     "friend_flags":"1",
     "name":"nikitany",
     "player_id":"4533251",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1644,6 +1894,16 @@
     "friend_flags":"1",
     "name":"NikoNyan",
     "player_id":"6771925",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"20829442",
+    "friend_flags":"1",
+    "name":"NWForever",
+    "player_id":"2560752",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1652,6 +1912,7 @@
     "friend_flags":"1",
     "name":"Nyr4tu",
     "player_id":"3118807",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1660,6 +1921,7 @@
     "friend_flags":"1",
     "name":"oConstancio",
     "player_id":"5920055",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1668,6 +1930,34 @@
     "friend_flags":"1",
     "name":"ØRIOOOON",
     "player_id":"6571843",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1131309671",
+    "friend_flags":"2",
+    "name":"oTIGRAO",
+    "player_id":"716090006",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"28338307",
+    "friend_flags":"1",
+    "name":"Padoinjr",
+    "player_id":"7894482",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"18499655",
+    "friend_flags":"1",
+    "name":"PaiTaDeCeltinha",
+    "player_id":"2207560",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1676,6 +1966,7 @@
     "friend_flags":"1",
     "name":"PaladinoZika",
     "player_id":"6180970",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1684,14 +1975,16 @@
     "friend_flags":"1",
     "name":"Pardown",
     "player_id":"7353790",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"32336059",
+    "account_id":"20537578",
     "friend_flags":"1",
-    "name":"PdoDeserto",
-    "player_id":"10480073",
+    "name":"PareDeCriaSmurf",
+    "player_id":"2269325",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1700,22 +1993,16 @@
     "friend_flags":"1",
     "name":"Pedepano7",
     "player_id":"9189684",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"25109526",
     "friend_flags":"1",
-    "name":"PËDROXYZ",
+    "name":"PËDRØ",
     "player_id":"5858918",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"28338307",
-    "friend_flags":"1",
-    "name":"peennywise",
-    "player_id":"7894482",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1724,6 +2011,16 @@
     "friend_flags":"1",
     "name":"Petheko",
     "player_id":"9531620",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1135553561",
+    "friend_flags":"1",
+    "name":"PIRANHAAAA",
+    "player_id":"717538116",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1732,14 +2029,7 @@
     "friend_flags":"1",
     "name":"PlaMG0D",
     "player_id":"12511125",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"18718173",
-    "friend_flags":"1",
-    "name":"PlosolWDG",
-    "player_id":"867220",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1748,6 +2038,7 @@
     "friend_flags":"1",
     "name":"PobreLoKo",
     "player_id":"794825",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1756,6 +2047,16 @@
     "friend_flags":"1",
     "name":"pokemonmanu",
     "player_id":"11187406",
+    "portal_id":"28",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"27233097",
+    "friend_flags":"1",
+    "name":"porcelanato",
+    "player_id":"7171875",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1764,22 +2065,16 @@
     "friend_flags":"1",
     "name":"PriihSwaN",
     "player_id":"11755432",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
+    "account_id":"22737376",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"PÜELKHER",
+    "player_id":"8133734",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1788,14 +2083,7 @@
     "friend_flags":"1",
     "name":"PwNIy0L0g1N",
     "player_id":"5013649",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"27572856",
-    "friend_flags":"1",
-    "name":"queijopaladino",
-    "player_id":"7395027",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1804,6 +2092,7 @@
     "friend_flags":"1",
     "name":"R3dewpti0n",
     "player_id":"16173145",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1812,6 +2101,16 @@
     "friend_flags":"1",
     "name":"rafael1046",
     "player_id":"7470973",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39468773",
+    "friend_flags":"1",
+    "name":"rafaelo1227",
+    "player_id":"14957586",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1820,6 +2119,7 @@
     "friend_flags":"1",
     "name":"Ramayzera",
     "player_id":"12262098",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1828,6 +2128,7 @@
     "friend_flags":"1",
     "name":"RBULHÕES",
     "player_id":"5136020",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1836,6 +2137,7 @@
     "friend_flags":"1",
     "name":"RCSoldier",
     "player_id":"2339488",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1844,6 +2146,7 @@
     "friend_flags":"1",
     "name":"RealityCrack",
     "player_id":"5937016",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1852,6 +2155,7 @@
     "friend_flags":"1",
     "name":"ReiAzzgard",
     "player_id":"7505800",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1860,6 +2164,7 @@
     "friend_flags":"1",
     "name":"Relssi",
     "player_id":"4962114",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1868,14 +2173,7 @@
     "friend_flags":"1",
     "name":"Renno8",
     "player_id":"12371946",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"37011851",
-    "friend_flags":"2",
-    "name":"ReyJúlien",
-    "player_id":"13579817",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1884,14 +2182,7 @@
     "friend_flags":"1",
     "name":"Rhaegar54",
     "player_id":"9171245",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"0",
-    "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1900,6 +2191,7 @@
     "friend_flags":"1",
     "name":"Rodolphog4",
     "player_id":"9599915",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1908,6 +2200,7 @@
     "friend_flags":"1",
     "name":"rodrigobento",
     "player_id":"7803095",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1916,14 +2209,7 @@
     "friend_flags":"1",
     "name":"RovasBr",
     "player_id":"5714977",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"26494697",
-    "friend_flags":"1",
-    "name":"RoyalBlade",
-    "player_id":"6756033",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1932,6 +2218,7 @@
     "friend_flags":"1",
     "name":"rslimax",
     "player_id":"11968912",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1940,6 +2227,16 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1948,6 +2245,7 @@
     "friend_flags":"1",
     "name":"S1nnGle",
     "player_id":"12443077",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1956,6 +2254,7 @@
     "friend_flags":"1",
     "name":"saadhak",
     "player_id":"661628",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1964,6 +2263,7 @@
     "friend_flags":"1",
     "name":"SamukaTheKiller",
     "player_id":"12651230",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1972,14 +2272,25 @@
     "friend_flags":"1",
     "name":"Schererazade",
     "player_id":"15974384",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
+    "account_id":"16510851",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"SCHM3I3R",
+    "player_id":"11900887",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"16603987",
+    "friend_flags":"1",
+    "name":"Schmeier",
+    "player_id":"2574554",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1988,6 +2299,16 @@
     "friend_flags":"1",
     "name":"Sclopp",
     "player_id":"707959372",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"26494697",
+    "friend_flags":"1",
+    "name":"sdasx",
+    "player_id":"6756033",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -1996,14 +2317,7 @@
     "friend_flags":"1",
     "name":"SDFGHJGKH",
     "player_id":"2122484",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"23819858",
-    "friend_flags":"1",
-    "name":"SeekTheValentina",
-    "player_id":"4987524",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2012,6 +2326,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2020,6 +2335,7 @@
     "friend_flags":"1",
     "name":"SHOWMAN08",
     "player_id":"7664236",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2028,14 +2344,7 @@
     "friend_flags":"1",
     "name":"sieghartx1",
     "player_id":"4354401",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"34141904",
-    "friend_flags":"1",
-    "name":"SilvioCriciuma",
-    "player_id":"11660424",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2044,6 +2353,7 @@
     "friend_flags":"1",
     "name":"SimpaticDem0nia",
     "player_id":"13483124",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2052,6 +2362,7 @@
     "friend_flags":"1",
     "name":"SimpaticoDemo200",
     "player_id":"11795883",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2060,6 +2371,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2068,6 +2380,16 @@
     "friend_flags":"1",
     "name":"SMS192",
     "player_id":"2876873",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"31353154",
+    "friend_flags":"1",
+    "name":"Snoøw",
+    "player_id":"9806187",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2076,6 +2398,16 @@
     "friend_flags":"1",
     "name":"Socaporva",
     "player_id":"571630",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1130808722",
+    "friend_flags":"1",
+    "name":"SpanctalyBR",
+    "player_id":"715430526",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2084,6 +2416,7 @@
     "friend_flags":"1",
     "name":"SpankNoobs",
     "player_id":"711058175",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2092,6 +2425,7 @@
     "friend_flags":"1",
     "name":"spawnigor",
     "player_id":"2336197",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2100,6 +2434,7 @@
     "friend_flags":"1",
     "name":"spinesplendi",
     "player_id":"15904263",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2108,6 +2443,7 @@
     "friend_flags":"1",
     "name":"SpooTGamer",
     "player_id":"11271224",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2116,6 +2452,7 @@
     "friend_flags":"1",
     "name":"spotmacaroon442",
     "player_id":"6177042",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2124,6 +2461,7 @@
     "friend_flags":"1",
     "name":"SrDog",
     "player_id":"6108297",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2132,14 +2470,16 @@
     "friend_flags":"1",
     "name":"SrKatty",
     "player_id":"16746692",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
+    "account_id":"28847285",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"SrL1M4",
+    "player_id":"8222055",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2148,6 +2488,7 @@
     "friend_flags":"1",
     "name":"sTëmps",
     "player_id":"9531822",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2156,6 +2497,7 @@
     "friend_flags":"1",
     "name":"SulcKi",
     "player_id":"16389609",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2164,6 +2506,7 @@
     "friend_flags":"1",
     "name":"Summerbull",
     "player_id":"2349091",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2172,6 +2515,7 @@
     "friend_flags":"1",
     "name":"Suspensorio",
     "player_id":"822642",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2180,14 +2524,16 @@
     "friend_flags":"1",
     "name":"TAFAREL415",
     "player_id":"5255112",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"26124793",
+    "account_id":"0",
     "friend_flags":"1",
-    "name":"TALVEZSEJAOVGB",
-    "player_id":"6527352",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2196,6 +2542,7 @@
     "friend_flags":"1",
     "name":"Taokaiser",
     "player_id":"2521734",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2204,6 +2551,7 @@
     "friend_flags":"1",
     "name":"Tatofernandes",
     "player_id":"12765420",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2212,6 +2560,7 @@
     "friend_flags":"1",
     "name":"Taventrez",
     "player_id":"7528791",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2220,6 +2569,7 @@
     "friend_flags":"1",
     "name":"TbmComiORilton",
     "player_id":"710237827",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2228,6 +2578,16 @@
     "friend_flags":"1",
     "name":"Tcheeelinho",
     "player_id":"13532421",
+    "portal_id":"10",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"1130805918",
+    "friend_flags":"1",
+    "name":"TheAbitt",
+    "player_id":"715429346",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2236,6 +2596,7 @@
     "friend_flags":"1",
     "name":"theageofaquaria",
     "player_id":"14862184",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2244,6 +2605,7 @@
     "friend_flags":"1",
     "name":"TheAutenticBr",
     "player_id":"13791305",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2252,6 +2614,7 @@
     "friend_flags":"1",
     "name":"TheBordermen",
     "player_id":"713699203",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2260,6 +2623,7 @@
     "friend_flags":"1",
     "name":"thewsneves",
     "player_id":"5833955",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2268,6 +2632,7 @@
     "friend_flags":"1",
     "name":"Thurist",
     "player_id":"8236027",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2276,6 +2641,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2284,6 +2650,7 @@
     "friend_flags":"1",
     "name":"tinhoso666",
     "player_id":"10395926",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2292,6 +2659,7 @@
     "friend_flags":"1",
     "name":"TiodoTaco",
     "player_id":"16214778",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2300,6 +2668,25 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"39529904",
+    "friend_flags":"1",
+    "name":"tomateAMADOR",
+    "player_id":"14979389",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2308,6 +2695,7 @@
     "friend_flags":"1",
     "name":"touroinsano",
     "player_id":"6247495",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2316,6 +2704,7 @@
     "friend_flags":"1",
     "name":"TrExGames22",
     "player_id":"3684420",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2324,14 +2713,7 @@
     "friend_flags":"1",
     "name":"Trollador778",
     "player_id":"2968183",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"32315524",
-    "friend_flags":"1",
-    "name":"TryHardey",
-    "player_id":"10466768",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2340,6 +2722,7 @@
     "friend_flags":"1",
     "name":"TTvONumeroDez",
     "player_id":"7945532",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2348,6 +2731,7 @@
     "friend_flags":"1",
     "name":"TumorAllen",
     "player_id":"7602759",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2356,6 +2740,16 @@
     "friend_flags":"1",
     "name":"TXJonhKillerX",
     "player_id":"1682534",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2364,6 +2758,7 @@
     "friend_flags":"1",
     "name":"UTILY",
     "player_id":"844472",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2372,30 +2767,16 @@
     "friend_flags":"1",
     "name":"ValeriaTi",
     "player_id":"15951384",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"1107120141",
+    "account_id":"0",
     "friend_flags":"1",
-    "name":"vemprofutsal",
-    "player_id":"16632046",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"21147004",
-    "friend_flags":"1",
-    "name":"vgb1",
-    "player_id":"2856889",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"1106893858",
-    "friend_flags":"4",
-    "name":"VIADOJOGADEKOGA",
-    "player_id":"16594292",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2404,14 +2785,16 @@
     "friend_flags":"1",
     "name":"VictorChief",
     "player_id":"9734452",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"0",
+    "account_id":"22669586",
     "friend_flags":"1",
-    "name":"",
-    "player_id":"0",
+    "name":"Victorº",
+    "player_id":"8799998",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2420,6 +2803,7 @@
     "friend_flags":"1",
     "name":"VinneyVolko",
     "player_id":"10999901",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2428,6 +2812,7 @@
     "friend_flags":"1",
     "name":"VitinoBlack",
     "player_id":"4507113",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2436,6 +2821,7 @@
     "friend_flags":"1",
     "name":"VllFERAllV",
     "player_id":"7064500",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2444,6 +2830,7 @@
     "friend_flags":"1",
     "name":"VOLK3R",
     "player_id":"9285972",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2452,6 +2839,7 @@
     "friend_flags":"1",
     "name":"WAmbrosio",
     "player_id":"5718100",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2460,6 +2848,7 @@
     "friend_flags":"1",
     "name":"wanderson2one",
     "player_id":"7303617",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2468,6 +2857,7 @@
     "friend_flags":"1",
     "name":"webuilder",
     "player_id":"10497767",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2476,14 +2866,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
-    "ret_msg":null,
-    "status":"Friend"
-  },
-  {
-    "account_id":"20306199",
-    "friend_flags":"1",
-    "name":"Wizza",
-    "player_id":"2035406",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2492,6 +2875,7 @@
     "friend_flags":"1",
     "name":"xDrManhattanx",
     "player_id":"15863200",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2500,6 +2884,7 @@
     "friend_flags":"1",
     "name":"XGameOfThronesX",
     "player_id":"11234483",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2508,6 +2893,7 @@
     "friend_flags":"1",
     "name":"xgrangerx",
     "player_id":"711431007",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2516,6 +2902,7 @@
     "friend_flags":"1",
     "name":"xHitsux",
     "player_id":"6588914",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2524,6 +2911,7 @@
     "friend_flags":"1",
     "name":"Xtroja",
     "player_id":"13163708",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2532,6 +2920,7 @@
     "friend_flags":"1",
     "name":"xXJesenXx",
     "player_id":"12703485",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2540,6 +2929,7 @@
     "friend_flags":"1",
     "name":"XxNinguemxX",
     "player_id":"16740582",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2548,6 +2938,7 @@
     "friend_flags":"1",
     "name":"yblackkz",
     "player_id":"11105205",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2556,6 +2947,7 @@
     "friend_flags":"1",
     "name":"",
     "player_id":"0",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2564,6 +2956,16 @@
     "friend_flags":"1",
     "name":"YuriVinicius",
     "player_id":"5974418",
+    "portal_id":"5",
+    "ret_msg":null,
+    "status":"Friend"
+  },
+  {
+    "account_id":"0",
+    "friend_flags":"1",
+    "name":"",
+    "player_id":"0",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2572,6 +2974,7 @@
     "friend_flags":"1",
     "name":"Zanclair",
     "player_id":"11717915",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2580,6 +2983,7 @@
     "friend_flags":"1",
     "name":"Zäyron",
     "player_id":"10342773",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2588,6 +2992,7 @@
     "friend_flags":"1",
     "name":"zBielziin",
     "player_id":"15497797",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2596,22 +3001,25 @@
     "friend_flags":"1",
     "name":"ZéDroguinh4",
     "player_id":"15607499",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
   {
     "account_id":"19776606",
     "friend_flags":"1",
-    "name":"Zef23",
+    "name":"Zefinho23",
     "player_id":"3753405",
+    "portal_id":"28",
     "ret_msg":null,
     "status":"Friend"
   },
   {
-    "account_id":"16510851",
+    "account_id":"38361141",
     "friend_flags":"1",
-    "name":"zELVISz",
-    "player_id":"11900887",
+    "name":"Zenity11",
+    "player_id":"14335197",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2620,6 +3028,7 @@
     "friend_flags":"1",
     "name":"zerodeadlie",
     "player_id":"14493397",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2628,6 +3037,7 @@
     "friend_flags":"1",
     "name":"Zezaoo",
     "player_id":"2943363",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2636,6 +3046,7 @@
     "friend_flags":"1",
     "name":"zGajeel",
     "player_id":"6659357",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2644,6 +3055,7 @@
     "friend_flags":"1",
     "name":"Zoom08",
     "player_id":"7307695",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2652,6 +3064,7 @@
     "friend_flags":"1",
     "name":"zSuvacoDeKobra",
     "player_id":"2423986",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2660,6 +3073,7 @@
     "friend_flags":"1",
     "name":"Zuer0",
     "player_id":"8831177",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2668,6 +3082,7 @@
     "friend_flags":"1",
     "name":"ZxedwinxZal",
     "player_id":"10377007",
+    "portal_id":"1",
     "ret_msg":null,
     "status":"Friend"
   },
@@ -2676,6 +3091,7 @@
     "friend_flags":"1",
     "name":"zxpaladinoxz",
     "player_id":"12989226",
+    "portal_id":"5",
     "ret_msg":null,
     "status":"Friend"
   }
