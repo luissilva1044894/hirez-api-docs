@@ -132,7 +132,17 @@ Valid values are:
   <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
 
-  <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug-out.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_seris.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_imani.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_inara.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_io.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/celestial_io.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/seris.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/mernos.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talk_pirate_day.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/fan_forge.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Unstable Power</td><td><img src="./../.assets/paladins/avatar/unstable_power.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
