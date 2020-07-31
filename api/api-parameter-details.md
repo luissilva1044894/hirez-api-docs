@@ -131,7 +131,7 @@ Valid values are:
   <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
-  <tr><td>26510</td><td>LGBTQIA+ Pride</td><td><img src="./../.assets/paladins/avatar/26510.gif" height="32" width="32"/></td></tr>
+  <tr><td>26510</td><td>LGBTQIA+ Pride</td><td><img src="./../.assets/paladins/avatar/26510.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_seris.png" height="32" width="32"/></td></tr>
