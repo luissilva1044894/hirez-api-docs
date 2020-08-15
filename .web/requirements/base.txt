@@ -19,7 +19,7 @@ beautifulsoup4==4.9.1;python_version>='3.6'
 urllib3==1.25.10;python_version>='3.6'
 
 # https://github.com/simplejson/simplejson
-simplejson==3.17.0
+simplejson==3.17.2
 
 # https://github.com/MagicStack/uvloop
 uvloop==0.14.0;platform_system!='Windows' and sys_platform != 'cygwin' and implementation_name != 'pypy'
