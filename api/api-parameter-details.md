@@ -131,21 +131,19 @@ Valid values are:
   <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
+  <tr><td>26326</td><td>Unstable Power</td><td><img src="./../.assets/paladins/avatar/26326.png" height="32" width="32"/></td></tr>
   <tr><td>26346</td><td>Devotion</td><td><img src="./../.assets/paladins/avatar/26346.png" height="32" width="32"/></td></tr>
   <tr><td>26347</td><td>Spirit</td><td><img src="./../.assets/paladins/avatar/26347.png" height="32" width="32"/></td></tr>
+  <tr><td>26348</td><td>Determination</td><td><img src="./../.assets/paladins/avatar/26348.png" height="32" width="32"/></td></tr>
+  <tr><td>26349</td><td>Passion</td><td><img src="./../.assets/paladins/avatar/26349.png" height="32" width="32"/></td></tr>
+  <tr><td>26350</td><td>Under the Sea</td><td><img src="./../.assets/paladins/avatar/26350.gif" height="32" width="32"/></td></tr>
+  <tr><td>26351</td><td>Starry Eyed</td><td><img src="./../.assets/paladins/avatar/26351.gif" height="32" width="32"/></td></tr>
+  <tr><td>26352</td><td>Serene</td><td><img src="./../.assets/paladins/avatar/26352.gif" height="32" width="32"/></td></tr>
   <tr><td>26510</td><td>LGBTQIA+ Pride</td><td><img src="./../.assets/paladins/avatar/26510.png" height="32" width="32"/></td></tr>
   <tr><td>26521</td><td>Winner Winner</td><td><img src="./../.assets/paladins/avatar/26521.png" height="32" width="32"/></td></tr>
-  <tr><td>26326</td><td>Unstable Power</td><td><img src="./../.assets/paladins/avatar/26326.png" height="32" width="32"/></td></tr>
 
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_seris.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_imani.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_inara.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/stellar_io.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/celestial_io.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/seris.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/mernos.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talk_pirate_day.png" height="32" width="32"/></td></tr>
 </table>
 </details>
