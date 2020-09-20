@@ -131,6 +131,7 @@ Valid values are:
   <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
+  <tr><td>Captain's Guile</td><td>26325</td><td><img src="./../.assets/paladins/avatar/26325.png" height="32" width="32"/></td></tr>
   <tr><td>26326</td><td>Unstable Power</td><td><img src="./../.assets/paladins/avatar/26326.png" height="32" width="32"/></td></tr>
   <tr><td>26346</td><td>Devotion</td><td><img src="./../.assets/paladins/avatar/26346.png" height="32" width="32"/></td></tr>
   <tr><td>26347</td><td>Spirit</td><td><img src="./../.assets/paladins/avatar/26347.png" height="32" width="32"/></td></tr>
@@ -144,7 +145,6 @@ Valid values are:
 
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>???</td><td><img src="./../.assets/paladins/avatar/talk_pirate_day.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
