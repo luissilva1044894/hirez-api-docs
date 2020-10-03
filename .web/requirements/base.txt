@@ -2,7 +2,7 @@
 # Base requirements
 
 # https://github.com/crsmithdev/arrow
-arrow==0.15.8;python_version>='3.6'
+arrow==0.16.0;python_version>='3.6'
 
 # https://github.com/luissilva1044894/boolify
 boolify==0.0.4.dev0;python_version>='3.6.1'
