@@ -94,7 +94,7 @@ def create_app(*args, **kw):
     return response
 
   @app.route('/', methods=['GET'])
-  @app.errorhandler(404)
+  #@app.errorhandler(404)
   def root(error=None):
     if not requested_json(request) and get_env('REDIRECT_URL'):
       return redirect(get_env('REDIRECT_URL'))
