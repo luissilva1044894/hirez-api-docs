@@ -144,7 +144,26 @@ Valid values are:
   <tr><td>26521</td><td>Winner Winner</td><td><img src="./../.assets/paladins/avatar/26521.png" height="32" width="32"/></td></tr>
 
 
+  <tr><td>MISSING</td><td>Asexual Pride</td><td><img src="./../.assets/paladins/avatar/asexual_pride.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/beevie.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Bisexual Pride</td><td><img src="./../.assets/paladins/avatar/bisexual_pride.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Ember</td><td><img src="./../.assets/paladins/avatar/fire_flame.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/grover_xmas.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/harbinger.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Lesbian Pride</td><td><img src="./../.assets/paladins/avatar/lesbian_pride.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Lily-hopper</td><td><img src="./../.assets/paladins/avatar/magic_froggo.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Non-Binary Pride</td><td><img src="./../.assets/paladins/avatar/non_binary_pride.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/pansexual_pride.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Transgender Pride</td><td><img src="./../.assets/paladins/avatar/transgender_pride.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/vivian.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Blazing Spirit</td><td><img src="./../.assets/paladins/avatar/witch_tyra.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Dark Gaze</td><td><img src="./../.assets/paladins/avatar/wizard_zhin.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Trailblazer</td><td><img src="./../.assets/paladins/avatar/zhin_whiz.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
@@ -218,7 +237,9 @@ There are currently 44 playable champions in the game (Updated in 12/09/2019 13:
     <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="./../.assets/paladins/characters/tyra.jpg" height="64" width="64"/></td></tr>
     <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="./../.assets/paladins/characters/viktor.jpg" height="64" width="64"/></td></tr>
     <tr><td>2480</td><td>Vivian</td><td>Damage</td><td>The Cunning</td><td><img src="./../.assets/paladins/characters/vivian.jpg" height="64" width="64"/></td></tr>
+    <tr><td>MISSING</td><td>Vora</td><td>Flank</td><td>The Harbinger</td><td><img src="./../.assets/paladins/characters/vora.jpg" height="64" width="64"/></td></tr>
     <tr><td>2393</td><td>Willo</td><td>Damage</td><td>of the Summer Court</td><td><img src="./../.assets/paladins/characters/willo.jpg" height="64" width="64"/></td></tr>
+    <tr><td>MISSING</td><td>Yagorath</td><td></td><td></td><td><img src="./../.assets/paladins/characters/yagorath.jpg" height="64" width="64"/></td></tr>
     <tr><td>2267</td><td>Ying</td><td>Support</td><td>The Blossom</td><td><img src="./../.assets/paladins/characters/ying.jpg" height="64" width="64"/></td></tr>
     <tr><td>2420</td><td>Zhin</td><td>Flank</td><td>The Tyrant</td><td><img src="./../.assets/paladins/characters/zhin.jpg" height="64" width="64"/></td></tr>
   </table>
