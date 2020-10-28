@@ -11,7 +11,7 @@ pyrez==1.1.0.3.1;python_version>='3.6'
 #-e git+https://github.com/luissilva1044894/pyrez.git@rewrite#egg=pyrez
 
 # https://github.com/aio-libs/aiohttp
-aiohttp==3.6.3;python_version>='3.6'
+aiohttp==3.7.2;python_version>='3.6'
 
 beautifulsoup4==4.9.3;python_version>='3.6'
 
