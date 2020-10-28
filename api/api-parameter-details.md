@@ -144,7 +144,7 @@ Valid values are:
   <tr><td>26521</td><td>Winner Winner</td><td><img src="./../.assets/paladins/avatar/26521.png" height="32" width="32"/></td></tr>
   <tr><td>26761</td><td>Lily-hopper</td><td><img src="./../.assets/paladins/avatar/26761.png" height="32" width="32"/></td></tr>
   <tr><td>26780</td><td>Asexual Pride</td><td><img src="./../.assets/paladins/avatar/26780.png" height="32" width="32"/></td></tr>
-
+  <tr><td>26781</td><td>Transgender Pride</td><td><img src="./../.assets/paladins/avatar/26781.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/beevie.jpg" height="32" width="32"/></td></tr>
@@ -159,7 +159,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Lesbian Pride</td><td><img src="./../.assets/paladins/avatar/lesbian_pride.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Non-Binary Pride</td><td><img src="./../.assets/paladins/avatar/non_binary_pride.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/pansexual_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Transgender Pride</td><td><img src="./../.assets/paladins/avatar/transgender_pride.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/vivian.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Blazing Spirit</td><td><img src="./../.assets/paladins/avatar/witch_tyra.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Dark Gaze</td><td><img src="./../.assets/paladins/avatar/wizard_zhin.gif" height="32" width="32"/></td></tr>
