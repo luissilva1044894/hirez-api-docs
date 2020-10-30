@@ -319,7 +319,7 @@ There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:4
     <tr><td>3336</td><td>Artio</td><td>Guardian</td><td>The Bear Goddess</td><td><img src="https://web2.hirez.com/smite/god-icons/artio.jpg" height="64" width="64"/></td></tr>
     <tr><td>1919</td><td>Athena</td><td>Guardian</td><td>Goddess of Wisdom</td><td><img src="https://web2.hirez.com/smite/god-icons/athena.jpg" height="64" width="64"/></td></tr>
     <tr><td>2037</td><td>Awilix</td><td>Assassin</td><td>Goddess of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/awilix.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3925</td><td>Baba Yaga</td><td>age</td><td>Witch of the Woods</td><td><img src="https://web2.hirez.com/smite/god-icons/baba-yaga.jpg" height="64" width="64"/></td></tr>
+    <tr><td>3925</td><td>Baba Yaga</td><td>Mage</td><td>Witch of the Woods</td><td><img src="https://web2.hirez.com/smite/god-icons/baba-yaga.jpg" height="64" width="64"/></td></tr>
     <tr><td>1809</td><td>Bacchus</td><td>Guardian</td><td>God of Wine</td><td><img src="https://web2.hirez.com/smite/god-icons/bacchus.jpg" height="64" width="64"/></td></tr>
     <tr><td>1755</td><td>Bakasura</td><td>Assassin</td><td>the Great Devourer</td><td><img src="https://web2.hirez.com/smite/god-icons/bakasura.jpg" height="64" width="64"/></td></tr>
     <tr><td>3518</td><td>Baron Samedi</td><td>Mage</td><td>God of Life and Death</td><td><img src="https://web2.hirez.com/smite/god-icons/baron-samedi.jpg" height="64" width="64"/></td></tr>
@@ -334,7 +334,7 @@ There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:4
     <tr><td>3509</td><td>Chernobog</td><td>Hunter</td><td>Lord of Darkness</td><td><img src="https://web2.hirez.com/smite/god-icons/chernobog.jpg" height="64" width="64"/></td></tr>
     <tr><td>2075</td><td>Chiron</td><td>Hunter</td><td>The Great Teacher</td><td><img src="https://web2.hirez.com/smite/god-icons/chiron.jpg" height="64" width="64"/></td></tr>
     <tr><td>1920</td><td>Chronos</td><td>Mage</td><td>Keeper of Time</td><td><img src="https://web2.hirez.com/smite/god-icons/chronos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3945</td><td>Cthulhu</td><td>uardian</td><td>The Great Dreamer</td><td><img src="https://web2.hirez.com/smite/god-icons/cthulhu.jpg" height="64" width="64"/></td></tr>
+    <tr><td>3945</td><td>Cthulhu</td><td>Guardian</td><td>The Great Dreamer</td><td><img src="https://web2.hirez.com/smite/god-icons/cthulhu.jpg" height="64" width="64"/></td></tr>
     <tr><td>2319</td><td>Cu Chulainn</td><td>Warrior</td><td>Hound of Ulster</td><td><img src="https://web2.hirez.com/smite/god-icons/cu-chulainn.jpg" height="64" width="64"/></td></tr>
     <tr><td>1778</td><td>Cupid</td><td>Hunter</td><td>God of Love</td><td><img src="https://web2.hirez.com/smite/god-icons/cupid.jpg" height="64" width="64"/></td></tr>
     <tr><td>2270</td><td>Da Ji</td><td>Assassin</td><td>The Nine-Tailed Fox</td><td><img src="https://web2.hirez.com/smite/god-icons/da-ji.jpg" height="64" width="64"/></td></tr>
@@ -349,7 +349,7 @@ There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:4
     <tr><td>3344</td><td>Hachiman</td><td>Hunter</td><td>Lord of the Eight Banners</td><td><img src="https://web2.hirez.com/smite/god-icons/hachiman.jpg" height="64" width="64"/></td></tr>
     <tr><td>1676</td><td>Hades</td><td>Mage</td><td>King of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hades.jpg" height="64" width="64"/></td></tr>
     <tr><td>1674</td><td>He Bo</td><td>Mage</td><td>God of the Yellow River</td><td><img src="https://web2.hirez.com/smite/god-icons/he-bo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3812</td><td>Heimdallr</td><td>unter</td><td>The Vigilant</td><td><img src="https://web2.hirez.com/smite/god-icons/heimdallr.jpg" height="64" width="64"/></td></tr>
+    <tr><td>3812</td><td>Heimdallr</td><td>Hunter</td><td>The Vigilant</td><td><img src="https://web2.hirez.com/smite/god-icons/heimdallr.jpg" height="64" width="64"/></td></tr>
     <tr><td>1718</td><td>Hel</td><td>Mage</td><td>Goddess of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hel.jpg" height="64" width="64"/></td></tr>
     <tr><td>3558</td><td>Hera</td><td>Mage</td><td>Queen of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/hera.jpg" height="64" width="64"/></td></tr>
     <tr><td>1848</td><td>Hercules</td><td>Warrior</td><td>Champion of Rome</td><td><img src="https://web2.hirez.com/smite/god-icons/hercules.jpg" height="64" width="64"/></td></tr>
@@ -371,7 +371,7 @@ There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:4
     <tr><td>2051</td><td>Medusa</td><td>Hunter</td><td>The Gorgon</td><td><img src="https://web2.hirez.com/smite/god-icons/medusa.jpg" height="64" width="64"/></td></tr>
     <tr><td>1941</td><td>Mercury</td><td>Assassin</td><td>Messenger of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/mercury.jpg" height="64" width="64"/></td></tr>
     <tr><td>3566</td><td>Merlin</td><td>Mage</td><td>The Master Wizard</td><td><img src="https://web2.hirez.com/smite/god-icons/merlin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3881</td><td>Mulan</td><td>arrior</td><td>The Ascendant Warrior</td><td><img src="https://web2.hirez.com/smite/god-icons/mulan.jpg" height="64" width="64"/></td></tr>
+    <tr><td>3881</td><td>Mulan</td><td>Warrior</td><td>The Ascendant Warrior</td><td><img src="https://web2.hirez.com/smite/god-icons/mulan.jpg" height="64" width="64"/></td></tr>
     <tr><td>1915</td><td>Ne Zha</td><td>Assassin</td><td>the Third Lotus Prince</td><td><img src="https://web2.hirez.com/smite/god-icons/ne-zha.jpg" height="64" width="64"/></td></tr>
     <tr><td>1872</td><td>Neith</td><td>Hunter</td><td>Weaver of Fate</td><td><img src="https://web2.hirez.com/smite/god-icons/neith.jpg" height="64" width="64"/></td></tr>
     <tr><td>1980</td><td>Nemesis</td><td>Assassin</td><td>Goddess of Vengeance</td><td><img src="https://web2.hirez.com/smite/god-icons/nemesis.jpg" height="64" width="64"/></td></tr>
@@ -403,7 +403,7 @@ There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:4
     <tr><td>2226</td><td>The Morrigan</td><td>Mage</td><td>Phantom Queen</td><td><img src="https://web2.hirez.com/smite/god-icons/the-morrigan.jpg" height="64" width="64"/></td></tr>
     <tr><td>1779</td><td>Thor</td><td>Assassin</td><td>God of Thunder</td><td><img src="https://web2.hirez.com/smite/god-icons/thor.jpg" height="64" width="64"/></td></tr>
     <tr><td>2203</td><td>Thoth</td><td>Mage</td><td>Arbiter of the Damned</td><td><img src="https://web2.hirez.com/smite/god-icons/thoth.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3954</td><td>Tsukuyomi</td><td>ssassin</td><td>God of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
+    <tr><td>3954</td><td>Tsukuyomi</td><td>Assassin</td><td>God of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
     <tr><td>1924</td><td>Tyr</td><td>Warrior</td><td>the Lawgiver</td><td><img src="https://web2.hirez.com/smite/god-icons/tyr.jpg" height="64" width="64"/></td></tr>
     <tr><td>1991</td><td>Ullr</td><td>Hunter</td><td>The Glorious One</td><td><img src="https://web2.hirez.com/smite/god-icons/ullr.jpg" height="64" width="64"/></td></tr>
     <tr><td>1723</td><td>Vamana</td><td>Warrior</td><td>Fifth Avatar of Vishnu</td><td><img src="https://web2.hirez.com/smite/god-icons/vamana.jpg" height="64" width="64"/></td></tr>
