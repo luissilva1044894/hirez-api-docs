@@ -49,6 +49,7 @@ To retrieve all information from the API, you will need to append all requests t
 
   - [Paladins][paladins]: `http://api.paladins.com/paladinsapi.svc`
   - [Realm Royale][realm_royale]: `http://api.realmroyale.com/realmapi.svc`
+  - [Rogue Company][rogue_company]: `http://api.roguecompany.com/RoCoApi.svc`
   - [Smite][smite]: `http://api.smitegame.com/smiteapi.svc`
 
 ## Calling API Request's
@@ -336,4 +337,5 @@ However, since each endpoint is serviced by a unique Web Service, applications m
 [hi_rez_studios]: https://www.hirezstudios.com "Visit Hi-Rez Studios Website"
 [paladins]: https://www.paladins.com/ "Paladins Game · Website"
 [realm_royale]: https://www.realmroyale.com/ "Realm Royale Game · Website"
+[rogue_company]: https://www.roguecompany.com/ "Rogue Company Game · Website"
 [smite]: https://www.smitegame.com/ "Smite Game · Website"
