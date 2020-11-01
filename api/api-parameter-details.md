@@ -131,7 +131,7 @@ Valid values are:
   <tr><td>25545</td><td>Brood-Guard</td><td><img src="./../.assets/paladins/avatar/25545.gif" height="32" width="32"/></td></tr>
   <tr><td>25546</td><td>Eye of Saurus</td><td><img src="./../.assets/paladins/avatar/25546.gif" height="32" width="32"/></td></tr>
   <tr><td>26291</td><td>Survivor</td><td><img src="./../.assets/paladins/avatar/26291.png" height="32" width="32"/></td></tr>
-  <tr><td>Captain's Guile</td><td>26325</td><td><img src="./../.assets/paladins/avatar/26325.png" height="32" width="32"/></td></tr>
+  <tr><td>26325</td><td>Captain's Guile</td><td><img src="./../.assets/paladins/avatar/26325.png" height="32" width="32"/></td></tr>
   <tr><td>26326</td><td>Unstable Power</td><td><img src="./../.assets/paladins/avatar/26326.png" height="32" width="32"/></td></tr>
   <tr><td>26346</td><td>Devotion</td><td><img src="./../.assets/paladins/avatar/26346.png" height="32" width="32"/></td></tr>
   <tr><td>26347</td><td>Spirit</td><td><img src="./../.assets/paladins/avatar/26347.png" height="32" width="32"/></td></tr>
@@ -143,6 +143,7 @@ Valid values are:
   <tr><td>26510</td><td>LGBTQIA+ Pride</td><td><img src="./../.assets/paladins/avatar/26510.png" height="32" width="32"/></td></tr>
   <tr><td>26521</td><td>Winner Winner</td><td><img src="./../.assets/paladins/avatar/26521.png" height="32" width="32"/></td></tr>
   <tr><td>26761</td><td>Lily-hopper</td><td><img src="./../.assets/paladins/avatar/26761.png" height="32" width="32"/></td></tr>
+  <tr><td>26762</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/26762.png" height="32" width="32"/></td></tr>
   <tr><td>26774</td><td>Beevie</td><td><img src="./../.assets/paladins/avatar/26774.jpg" height="32" width="32"/></td></tr>
   <tr><td>26776</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/26776.jpg" height="32" width="32"/></td></tr>
   <tr><td>26779</td><td>Bisexual Pride</td><td><img src="./../.assets/paladins/avatar/26779.png" height="32" width="32"/></td></tr>
@@ -159,7 +160,6 @@ Valid values are:
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/vivian.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Blazing Spirit</td><td><img src="./../.assets/paladins/avatar/witch_tyra.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Dark Gaze</td><td><img src="./../.assets/paladins/avatar/wizard_zhin.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Trailblazer</td><td><img src="./../.assets/paladins/avatar/zhin_whiz.png" height="32" width="32"/></td></tr>
