@@ -143,6 +143,7 @@ Valid values are:
   <tr><td>26510</td><td>LGBTQIA+ Pride</td><td><img src="./../.assets/paladins/avatar/26510.png" height="32" width="32"/></td></tr>
   <tr><td>26521</td><td>Winner Winner</td><td><img src="./../.assets/paladins/avatar/26521.png" height="32" width="32"/></td></tr>
   <tr><td>26759</td><td>Blazing Spirit</td><td><img src="./../.assets/paladins/avatar/26759.gif" height="32" width="32"/></td></tr>
+  <tr><td>26760</td><td>Dark Gaze</td><td><img src="./../.assets/paladins/avatar/26760.gif" height="32" width="32"/></td></tr>
   <tr><td>26761</td><td>Lily-hopper</td><td><img src="./../.assets/paladins/avatar/26761.png" height="32" width="32"/></td></tr>
   <tr><td>26762</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/26762.png" height="32" width="32"/></td></tr>
   <tr><td>26764</td><td>Ember</td><td><img src="./../.assets/paladins/avatar/26764.png" height="32" width="32"/></td></tr>
@@ -161,7 +162,6 @@ Valid values are:
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Dark Gaze</td><td><img src="./../.assets/paladins/avatar/wizard_zhin.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Trailblazer</td><td><img src="./../.assets/paladins/avatar/zhin_whiz.png" height="32" width="32"/></td></tr>
 </table>
 </details>
