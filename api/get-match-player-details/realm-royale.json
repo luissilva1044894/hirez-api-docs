@@ -1,0 +1,18 @@
+[{
+  "Account_Level": 0,
+  "ChampionId": 0,
+  "ChampionName": null,
+  "Mastery_Level": 0,
+  "Match": 0,
+  "Queue": null,
+  "SkinId": 0,
+  "Tier": 0,
+  "mapGame": null,
+  "playerCreated": null,
+  "playerId": null,
+  "playerName": null,
+  "ret_msg": "Only training queues 424, 425, 427. 428, 437, 444, 452, 453, & 469 are supported for GetMatchPlayerDetails()",
+  "taskForce": 0,
+  "tierLosses": 0,
+  "tierWins": 0
+}]

@@ -1,0 +1,1656 @@
+{
+  "aggregate_stats": {
+    "assists": 0,
+    "average_placement": 19,
+    "damage": 46055472,
+    "damage_done_in_hand": 0,
+    "damage_mitigated": 0,
+    "damage_taken": 16186921,
+    "deaths": 4836,
+    "duration_secs": 3073060,
+    "earned_tokens": 0,
+    "earned_xp": 3891160,
+    "games_played": 3450,
+    "healing_player": 455263.973472,
+    "healing_player_self": 7227660.510215,
+    "killing_spree_max": 0,
+    "kills_bot": 14991,
+    "kills_player": 14991,
+    "losses": 2331,
+    "placement_list": "{\"1\":436,\"2\":61,\"3\":78,\"4\":47,\"5\":40,\"6\":26,\"7\":26,\"8\":18,\"9\":29,\"10\":13,\"11\":19,\"12\":16,\"13\":12,\"14\":16,\"15\":9,\"16\":10,\"17\":8,\"18\":5,\"19\":9,\"20\":19,\"21\":12,\"22\":9,\"23\":14,\"24\":5,\"25\":22,\"26\":39,\"27\":8,\"28\":2,\"29\":3,\"31\":2,\"32\":1,\"33\":1,\"34\":2,\"35\":2,\"36\":3,\"37\":1,\"38\":2,\"39\":4,\"40\":6,\"41\":4,\"42\":4,\"43\":4,\"44\":7,\"45\":2,\"46\":3,\"47\":2,\"48\":4,\"49\":7,\"50\":15,\"51\":3,\"54\":1,\"73\":2,\"75\":1,\"85\":2,\"98\":1}",
+    "placements": [
+      {
+        "occurrences": 436,
+        "position": "1"
+      },
+      {
+        "occurrences": 61,
+        "position": "2"
+      },
+      {
+        "occurrences": 78,
+        "position": "3"
+      },
+      {
+        "occurrences": 47,
+        "position": "4"
+      },
+      {
+        "occurrences": 40,
+        "position": "5"
+      },
+      {
+        "occurrences": 26,
+        "position": "6"
+      },
+      {
+        "occurrences": 26,
+        "position": "7"
+      },
+      {
+        "occurrences": 18,
+        "position": "8"
+      },
+      {
+        "occurrences": 29,
+        "position": "9"
+      },
+      {
+        "occurrences": 13,
+        "position": "10"
+      },
+      {
+        "occurrences": 19,
+        "position": "11"
+      },
+      {
+        "occurrences": 16,
+        "position": "12"
+      },
+      {
+        "occurrences": 12,
+        "position": "13"
+      },
+      {
+        "occurrences": 16,
+        "position": "14"
+      },
+      {
+        "occurrences": 9,
+        "position": "15"
+      },
+      {
+        "occurrences": 10,
+        "position": "16"
+      },
+      {
+        "occurrences": 8,
+        "position": "17"
+      },
+      {
+        "occurrences": 5,
+        "position": "18"
+      },
+      {
+        "occurrences": 9,
+        "position": "19"
+      },
+      {
+        "occurrences": 19,
+        "position": "20"
+      },
+      {
+        "occurrences": 12,
+        "position": "21"
+      },
+      {
+        "occurrences": 9,
+        "position": "22"
+      },
+      {
+        "occurrences": 14,
+        "position": "23"
+      },
+      {
+        "occurrences": 5,
+        "position": "24"
+      },
+      {
+        "occurrences": 22,
+        "position": "25"
+      },
+      {
+        "occurrences": 39,
+        "position": "26"
+      },
+      {
+        "occurrences": 8,
+        "position": "27"
+      },
+      {
+        "occurrences": 2,
+        "position": "28"
+      },
+      {
+        "occurrences": 3,
+        "position": "29"
+      },
+      {
+        "occurrences": 2,
+        "position": "31"
+      },
+      {
+        "occurrences": 1,
+        "position": "32"
+      },
+      {
+        "occurrences": 1,
+        "position": "33"
+      },
+      {
+        "occurrences": 2,
+        "position": "34"
+      },
+      {
+        "occurrences": 2,
+        "position": "35"
+      },
+      {
+        "occurrences": 3,
+        "position": "36"
+      },
+      {
+        "occurrences": 1,
+        "position": "37"
+      },
+      {
+        "occurrences": 2,
+        "position": "38"
+      },
+      {
+        "occurrences": 4,
+        "position": "39"
+      },
+      {
+        "occurrences": 6,
+        "position": "40"
+      },
+      {
+        "occurrences": 4,
+        "position": "41"
+      },
+      {
+        "occurrences": 4,
+        "position": "42"
+      },
+      {
+        "occurrences": 4,
+        "position": "43"
+      },
+      {
+        "occurrences": 7,
+        "position": "44"
+      },
+      {
+        "occurrences": 2,
+        "position": "45"
+      },
+      {
+        "occurrences": 3,
+        "position": "46"
+      },
+      {
+        "occurrences": 2,
+        "position": "47"
+      },
+      {
+        "occurrences": 4,
+        "position": "48"
+      },
+      {
+        "occurrences": 7,
+        "position": "49"
+      },
+      {
+        "occurrences": 15,
+        "position": "50"
+      },
+      {
+        "occurrences": 3,
+        "position": "51"
+      },
+      {
+        "occurrences": 1,
+        "position": "54"
+      },
+      {
+        "occurrences": 2,
+        "position": "73"
+      },
+      {
+        "occurrences": 1,
+        "position": "75"
+      },
+      {
+        "occurrences": 2,
+        "position": "85"
+      },
+      {
+        "occurrences": 1,
+        "position": "98"
+      }
+    ],
+    "wards_mines_placed": 0,
+    "wins": 1119
+  },
+  "placement_window_end": "2019-12-01T14:59:20.933",
+  "placement_window_start": "2019-09-17T00:00:00.103",
+  "player_id": 10443859,
+  "queue_class_stats": [
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 10189,
+      "match_queue_name": "Custom Game Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 12,
+        "damage": 57720,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 60862,
+        "deaths": 17,
+        "duration_secs": 10898,
+        "earned_tokens": 0,
+        "earned_xp": 5033,
+        "games_played": 14,
+        "healing_player": 0,
+        "healing_player_self": 27304,
+        "killing_spree_max": 0,
+        "kills_bot": 12,
+        "kills_player": 12,
+        "losses": 14,
+        "placement_list": "{\"3\":1,\"11\":1,\"23\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "3"
+          },
+          {
+            "occurrences": 1,
+            "position": "11"
+          },
+          {
+            "occurrences": 1,
+            "position": "23"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 10189,
+      "match_queue_name": "Custom Game Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 15,
+        "damage": 13883,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 20884,
+        "deaths": 7,
+        "duration_secs": 3464,
+        "earned_tokens": 0,
+        "earned_xp": 1345,
+        "games_played": 4,
+        "healing_player": 1074,
+        "healing_player_self": 7863,
+        "killing_spree_max": 0,
+        "kills_bot": 0,
+        "kills_player": 0,
+        "losses": 4,
+        "placement_list": "{\"2\":1,\"16\":1,\"29\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "2"
+          },
+          {
+            "occurrences": 1,
+            "position": "16"
+          },
+          {
+            "occurrences": 1,
+            "position": "29"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 10189,
+      "match_queue_name": "Custom Game Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 0,
+        "damage": 5163,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 6081,
+        "deaths": 3,
+        "duration_secs": 1154,
+        "earned_tokens": 0,
+        "earned_xp": 422,
+        "games_played": 2,
+        "healing_player": 0,
+        "healing_player_self": 331,
+        "killing_spree_max": 0,
+        "kills_bot": 0,
+        "kills_player": 0,
+        "losses": 2,
+        "placement_list": null,
+        "placements": null,
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 10190,
+      "match_queue_name": "Custom Game Quad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 4,
+        "damage": 21366,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 9817,
+        "deaths": 3,
+        "duration_secs": 2644,
+        "earned_tokens": 0,
+        "earned_xp": 1368,
+        "games_played": 3,
+        "healing_player": 0,
+        "healing_player_self": 1495,
+        "killing_spree_max": 0,
+        "kills_bot": 5,
+        "kills_player": 5,
+        "losses": 3,
+        "placement_list": "{\"3\":1,\"5\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "3"
+          },
+          {
+            "occurrences": 1,
+            "position": "5"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2493,
+      "class_name": "Hunter",
+      "match_queue_id": 10190,
+      "match_queue_name": "Custom Game Quad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 19,
+        "damage": 3127,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 5395,
+        "deaths": 2,
+        "duration_secs": 207,
+        "earned_tokens": 0,
+        "earned_xp": 215,
+        "games_played": 1,
+        "healing_player": 249.999985,
+        "healing_player_self": 0,
+        "killing_spree_max": 0,
+        "kills_bot": 1,
+        "kills_player": 1,
+        "losses": 1,
+        "placement_list": "{\"19\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "19"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 10190,
+      "match_queue_name": "Custom Game Quad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 9,
+        "damage": 75539,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 199025,
+        "deaths": 53,
+        "duration_secs": 26496,
+        "earned_tokens": 0,
+        "earned_xp": 10753,
+        "games_played": 29,
+        "healing_player": 46817.996826,
+        "healing_player_self": 76309,
+        "killing_spree_max": 0,
+        "kills_bot": 12,
+        "kills_player": 12,
+        "losses": 28,
+        "placement_list": "{\"1\":1,\"3\":2,\"4\":6,\"5\":2,\"7\":2,\"9\":4,\"10\":2,\"11\":2,\"13\":3,\"14\":3,\"18\":1,\"19\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "1"
+          },
+          {
+            "occurrences": 2,
+            "position": "3"
+          },
+          {
+            "occurrences": 6,
+            "position": "4"
+          },
+          {
+            "occurrences": 2,
+            "position": "5"
+          },
+          {
+            "occurrences": 2,
+            "position": "7"
+          },
+          {
+            "occurrences": 4,
+            "position": "9"
+          },
+          {
+            "occurrences": 2,
+            "position": "10"
+          },
+          {
+            "occurrences": 2,
+            "position": "11"
+          },
+          {
+            "occurrences": 3,
+            "position": "13"
+          },
+          {
+            "occurrences": 3,
+            "position": "14"
+          },
+          {
+            "occurrences": 1,
+            "position": "18"
+          },
+          {
+            "occurrences": 1,
+            "position": "19"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 1
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 10190,
+      "match_queue_name": "Custom Game Quad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 6,
+        "damage": 16670,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 45813,
+        "deaths": 14,
+        "duration_secs": 4594,
+        "earned_tokens": 0,
+        "earned_xp": 1777,
+        "games_played": 5,
+        "healing_player": 4263,
+        "healing_player_self": 13502,
+        "killing_spree_max": 0,
+        "kills_bot": 3,
+        "kills_player": 3,
+        "losses": 5,
+        "placement_list": "{\"2\":1,\"4\":1,\"6\":1,\"8\":1,\"14\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "2"
+          },
+          {
+            "occurrences": 1,
+            "position": "4"
+          },
+          {
+            "occurrences": 1,
+            "position": "6"
+          },
+          {
+            "occurrences": 1,
+            "position": "8"
+          },
+          {
+            "occurrences": 1,
+            "position": "14"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 10188,
+      "match_queue_name": "Custom Game Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 0,
+        "damage": 51991,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 38275,
+        "deaths": 12,
+        "duration_secs": 6610,
+        "earned_tokens": 0,
+        "earned_xp": 3550,
+        "games_played": 12,
+        "healing_player": 0,
+        "healing_player_self": 6777,
+        "killing_spree_max": 0,
+        "kills_bot": 13,
+        "kills_player": 13,
+        "losses": 11,
+        "placement_list": null,
+        "placements": null,
+        "wards_mines_placed": 0,
+        "wins": 1
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 10188,
+      "match_queue_name": "Custom Game Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 17,
+        "damage": 23498,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 36333,
+        "deaths": 11,
+        "duration_secs": 4452,
+        "earned_tokens": 0,
+        "earned_xp": 2219,
+        "games_played": 9,
+        "healing_player": 0,
+        "healing_player_self": 8879,
+        "killing_spree_max": 0,
+        "kills_bot": 4,
+        "kills_player": 4,
+        "losses": 9,
+        "placement_list": "{\"9\":1,\"11\":2,\"12\":1,\"22\":2,\"34\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "9"
+          },
+          {
+            "occurrences": 2,
+            "position": "11"
+          },
+          {
+            "occurrences": 1,
+            "position": "12"
+          },
+          {
+            "occurrences": 2,
+            "position": "22"
+          },
+          {
+            "occurrences": 1,
+            "position": "34"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 10188,
+      "match_queue_name": "Custom Game Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 9,
+        "damage": 13301,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 14444,
+        "deaths": 5,
+        "duration_secs": 642,
+        "earned_tokens": 0,
+        "earned_xp": 551,
+        "games_played": 2,
+        "healing_player": 0,
+        "healing_player_self": 5491,
+        "killing_spree_max": 0,
+        "kills_bot": 2,
+        "kills_player": 2,
+        "losses": 2,
+        "placement_list": "{\"9\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "9"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 10205,
+      "match_queue_name": "Custom Game Trio",
+      "stats": {
+        "assists": 0,
+        "average_placement": 2,
+        "damage": 9698,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 8312,
+        "deaths": 4,
+        "duration_secs": 1602,
+        "earned_tokens": 0,
+        "earned_xp": 789,
+        "games_played": 2,
+        "healing_player": 4083,
+        "healing_player_self": 6314,
+        "killing_spree_max": 0,
+        "kills_bot": 1,
+        "kills_player": 1,
+        "losses": 2,
+        "placement_list": "{\"2\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "2"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 10205,
+      "match_queue_name": "Custom Game Trio",
+      "stats": {
+        "assists": 0,
+        "average_placement": 6,
+        "damage": 8771,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 13884,
+        "deaths": 5,
+        "duration_secs": 2189,
+        "earned_tokens": 0,
+        "earned_xp": 541,
+        "games_played": 4,
+        "healing_player": 299.999969,
+        "healing_player_self": 484,
+        "killing_spree_max": 0,
+        "kills_bot": 0,
+        "kills_player": 0,
+        "losses": 4,
+        "placement_list": "{\"3\":1,\"7\":1,\"8\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "3"
+          },
+          {
+            "occurrences": 1,
+            "position": "7"
+          },
+          {
+            "occurrences": 1,
+            "position": "8"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 475,
+      "match_queue_name": "Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 23,
+        "damage": 4959507,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 1688940,
+        "deaths": 543,
+        "duration_secs": 312972,
+        "earned_tokens": 0,
+        "earned_xp": 539209,
+        "games_played": 379,
+        "healing_player": 11140.999541,
+        "healing_player_self": 650396.14919,
+        "killing_spree_max": 0,
+        "kills_bot": 1556,
+        "kills_player": 1556,
+        "losses": 306,
+        "placement_list": "{\"1\":9,\"2\":5,\"3\":5,\"4\":1,\"5\":1,\"8\":1,\"10\":1,\"11\":1,\"15\":2,\"20\":1,\"21\":1,\"22\":1,\"25\":1,\"39\":1,\"40\":1,\"41\":1,\"43\":1,\"45\":1,\"46\":1,\"47\":1,\"49\":1}",
+        "placements": [
+          {
+            "occurrences": 9,
+            "position": "1"
+          },
+          {
+            "occurrences": 5,
+            "position": "2"
+          },
+          {
+            "occurrences": 5,
+            "position": "3"
+          },
+          {
+            "occurrences": 1,
+            "position": "4"
+          },
+          {
+            "occurrences": 1,
+            "position": "5"
+          },
+          {
+            "occurrences": 1,
+            "position": "8"
+          },
+          {
+            "occurrences": 1,
+            "position": "10"
+          },
+          {
+            "occurrences": 1,
+            "position": "11"
+          },
+          {
+            "occurrences": 2,
+            "position": "15"
+          },
+          {
+            "occurrences": 1,
+            "position": "20"
+          },
+          {
+            "occurrences": 1,
+            "position": "21"
+          },
+          {
+            "occurrences": 1,
+            "position": "22"
+          },
+          {
+            "occurrences": 1,
+            "position": "25"
+          },
+          {
+            "occurrences": 1,
+            "position": "39"
+          },
+          {
+            "occurrences": 1,
+            "position": "40"
+          },
+          {
+            "occurrences": 1,
+            "position": "41"
+          },
+          {
+            "occurrences": 1,
+            "position": "43"
+          },
+          {
+            "occurrences": 1,
+            "position": "45"
+          },
+          {
+            "occurrences": 1,
+            "position": "46"
+          },
+          {
+            "occurrences": 1,
+            "position": "47"
+          },
+          {
+            "occurrences": 1,
+            "position": "49"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 73
+      }
+    },
+    {
+      "class_id": 2493,
+      "class_name": "Hunter",
+      "match_queue_id": 475,
+      "match_queue_name": "Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 0,
+        "damage": 1092626,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 391145,
+        "deaths": 118,
+        "duration_secs": 87979,
+        "earned_tokens": 0,
+        "earned_xp": 69486,
+        "games_played": 96,
+        "healing_player": 0,
+        "healing_player_self": 165816.649659,
+        "killing_spree_max": 0,
+        "kills_bot": 310,
+        "kills_player": 310,
+        "losses": 71,
+        "placement_list": null,
+        "placements": null,
+        "wards_mines_placed": 0,
+        "wins": 25
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 475,
+      "match_queue_name": "Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 26,
+        "damage": 6230891,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 2275598,
+        "deaths": 625,
+        "duration_secs": 371136,
+        "earned_tokens": 0,
+        "earned_xp": 347437,
+        "games_played": 457,
+        "healing_player": 55463.996778,
+        "healing_player_self": 1024622.5,
+        "killing_spree_max": 0,
+        "kills_bot": 1996,
+        "kills_player": 1996,
+        "losses": 347,
+        "placement_list": "{\"1\":57,\"2\":8,\"3\":15,\"4\":6,\"5\":3,\"6\":10,\"7\":5,\"8\":5,\"9\":5,\"10\":2,\"11\":1,\"12\":1,\"13\":2,\"14\":1,\"15\":1,\"16\":3,\"17\":3,\"19\":1,\"20\":2,\"21\":3,\"22\":1,\"23\":3,\"24\":1,\"25\":1,\"26\":1,\"28\":1,\"29\":2,\"31\":2,\"32\":1,\"33\":1,\"34\":1,\"35\":2,\"36\":3,\"37\":1,\"38\":2,\"39\":3,\"40\":5,\"41\":3,\"42\":4,\"43\":3,\"44\":7,\"45\":1,\"46\":2,\"47\":1,\"48\":4,\"49\":6,\"50\":14,\"51\":3}",
+        "placements": [
+          {
+            "occurrences": 57,
+            "position": "1"
+          },
+          {
+            "occurrences": 8,
+            "position": "2"
+          },
+          {
+            "occurrences": 15,
+            "position": "3"
+          },
+          {
+            "occurrences": 6,
+            "position": "4"
+          },
+          {
+            "occurrences": 3,
+            "position": "5"
+          },
+          {
+            "occurrences": 10,
+            "position": "6"
+          },
+          {
+            "occurrences": 5,
+            "position": "7"
+          },
+          {
+            "occurrences": 5,
+            "position": "8"
+          },
+          {
+            "occurrences": 5,
+            "position": "9"
+          },
+          {
+            "occurrences": 2,
+            "position": "10"
+          },
+          {
+            "occurrences": 1,
+            "position": "11"
+          },
+          {
+            "occurrences": 1,
+            "position": "12"
+          },
+          {
+            "occurrences": 2,
+            "position": "13"
+          },
+          {
+            "occurrences": 1,
+            "position": "14"
+          },
+          {
+            "occurrences": 1,
+            "position": "15"
+          },
+          {
+            "occurrences": 3,
+            "position": "16"
+          },
+          {
+            "occurrences": 3,
+            "position": "17"
+          },
+          {
+            "occurrences": 1,
+            "position": "19"
+          },
+          {
+            "occurrences": 2,
+            "position": "20"
+          },
+          {
+            "occurrences": 3,
+            "position": "21"
+          },
+          {
+            "occurrences": 1,
+            "position": "22"
+          },
+          {
+            "occurrences": 3,
+            "position": "23"
+          },
+          {
+            "occurrences": 1,
+            "position": "24"
+          },
+          {
+            "occurrences": 1,
+            "position": "25"
+          },
+          {
+            "occurrences": 1,
+            "position": "26"
+          },
+          {
+            "occurrences": 1,
+            "position": "28"
+          },
+          {
+            "occurrences": 2,
+            "position": "29"
+          },
+          {
+            "occurrences": 2,
+            "position": "31"
+          },
+          {
+            "occurrences": 1,
+            "position": "32"
+          },
+          {
+            "occurrences": 1,
+            "position": "33"
+          },
+          {
+            "occurrences": 1,
+            "position": "34"
+          },
+          {
+            "occurrences": 2,
+            "position": "35"
+          },
+          {
+            "occurrences": 3,
+            "position": "36"
+          },
+          {
+            "occurrences": 1,
+            "position": "37"
+          },
+          {
+            "occurrences": 2,
+            "position": "38"
+          },
+          {
+            "occurrences": 3,
+            "position": "39"
+          },
+          {
+            "occurrences": 5,
+            "position": "40"
+          },
+          {
+            "occurrences": 3,
+            "position": "41"
+          },
+          {
+            "occurrences": 4,
+            "position": "42"
+          },
+          {
+            "occurrences": 3,
+            "position": "43"
+          },
+          {
+            "occurrences": 7,
+            "position": "44"
+          },
+          {
+            "occurrences": 1,
+            "position": "45"
+          },
+          {
+            "occurrences": 2,
+            "position": "46"
+          },
+          {
+            "occurrences": 1,
+            "position": "47"
+          },
+          {
+            "occurrences": 4,
+            "position": "48"
+          },
+          {
+            "occurrences": 6,
+            "position": "49"
+          },
+          {
+            "occurrences": 14,
+            "position": "50"
+          },
+          {
+            "occurrences": 3,
+            "position": "51"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 110
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 475,
+      "match_queue_name": "Duo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 50,
+        "damage": 1652236,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 715667,
+        "deaths": 220,
+        "duration_secs": 143055,
+        "earned_tokens": 0,
+        "earned_xp": 137020,
+        "games_played": 173,
+        "healing_player": 3673.999939,
+        "healing_player_self": 290192.10022,
+        "killing_spree_max": 0,
+        "kills_bot": 513,
+        "kills_player": 513,
+        "losses": 149,
+        "placement_list": "{\"50\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "50"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 24
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 474,
+      "match_queue_name": "Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 75,
+        "damage": 865504,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 310862,
+        "deaths": 100,
+        "duration_secs": 56649,
+        "earned_tokens": 0,
+        "earned_xp": 91347,
+        "games_played": 80,
+        "healing_player": 0,
+        "healing_player_self": 113443.5,
+        "killing_spree_max": 0,
+        "kills_bot": 302,
+        "kills_player": 302,
+        "losses": 72,
+        "placement_list": "{\"75\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "75"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 8
+      }
+    },
+    {
+      "class_id": 2493,
+      "class_name": "Hunter",
+      "match_queue_id": 474,
+      "match_queue_name": "Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 0,
+        "damage": 69505,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 42185,
+        "deaths": 13,
+        "duration_secs": 5165,
+        "earned_tokens": 0,
+        "earned_xp": 3725,
+        "games_played": 9,
+        "healing_player": 0,
+        "healing_player_self": 16285,
+        "killing_spree_max": 0,
+        "kills_bot": 21,
+        "kills_player": 21,
+        "losses": 9,
+        "placement_list": null,
+        "placements": null,
+        "wards_mines_placed": 0,
+        "wins": 0
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 474,
+      "match_queue_name": "Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 40,
+        "damage": 986230,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 321885,
+        "deaths": 83,
+        "duration_secs": 56066,
+        "earned_tokens": 0,
+        "earned_xp": 51777,
+        "games_played": 78,
+        "healing_player": 0,
+        "healing_player_self": 143853,
+        "killing_spree_max": 0,
+        "kills_bot": 327,
+        "kills_player": 327,
+        "losses": 65,
+        "placement_list": "{\"1\":2,\"3\":1,\"4\":1,\"5\":2,\"54\":1,\"73\":2,\"85\":2,\"98\":1}",
+        "placements": [
+          {
+            "occurrences": 2,
+            "position": "1"
+          },
+          {
+            "occurrences": 1,
+            "position": "3"
+          },
+          {
+            "occurrences": 1,
+            "position": "4"
+          },
+          {
+            "occurrences": 2,
+            "position": "5"
+          },
+          {
+            "occurrences": 1,
+            "position": "54"
+          },
+          {
+            "occurrences": 2,
+            "position": "73"
+          },
+          {
+            "occurrences": 2,
+            "position": "85"
+          },
+          {
+            "occurrences": 1,
+            "position": "98"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 13
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 474,
+      "match_queue_name": "Solo",
+      "stats": {
+        "assists": 0,
+        "average_placement": 11,
+        "damage": 760013,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 221860,
+        "deaths": 68,
+        "duration_secs": 48052,
+        "earned_tokens": 0,
+        "earned_xp": 42100,
+        "games_played": 60,
+        "healing_player": 0,
+        "healing_player_self": 94793.5,
+        "killing_spree_max": 0,
+        "kills_bot": 267,
+        "kills_player": 267,
+        "losses": 51,
+        "placement_list": "{\"11\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "11"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 9
+      }
+    },
+    {
+      "class_id": 2496,
+      "class_name": "Assassin",
+      "match_queue_id": 476,
+      "match_queue_name": "Squad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 13,
+        "damage": 12354416,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 3987953,
+        "deaths": 1302,
+        "duration_secs": 844644,
+        "earned_tokens": 0,
+        "earned_xp": 1329857,
+        "games_played": 882,
+        "healing_player": 44080.498392,
+        "healing_player_self": 1766056.261109,
+        "killing_spree_max": 0,
+        "kills_bot": 3995,
+        "kills_player": 3995,
+        "losses": 506,
+        "placement_list": "{\"1\":56,\"2\":9,\"3\":10,\"4\":4,\"5\":1,\"6\":1,\"7\":1,\"9\":8,\"10\":1,\"11\":1,\"12\":2,\"13\":3,\"14\":1,\"15\":4,\"16\":2,\"17\":1,\"20\":2,\"21\":1,\"23\":1,\"24\":2,\"25\":2,\"26\":5,\"27\":1}",
+        "placements": [
+          {
+            "occurrences": 56,
+            "position": "1"
+          },
+          {
+            "occurrences": 9,
+            "position": "2"
+          },
+          {
+            "occurrences": 10,
+            "position": "3"
+          },
+          {
+            "occurrences": 4,
+            "position": "4"
+          },
+          {
+            "occurrences": 1,
+            "position": "5"
+          },
+          {
+            "occurrences": 1,
+            "position": "6"
+          },
+          {
+            "occurrences": 1,
+            "position": "7"
+          },
+          {
+            "occurrences": 8,
+            "position": "9"
+          },
+          {
+            "occurrences": 1,
+            "position": "10"
+          },
+          {
+            "occurrences": 1,
+            "position": "11"
+          },
+          {
+            "occurrences": 2,
+            "position": "12"
+          },
+          {
+            "occurrences": 3,
+            "position": "13"
+          },
+          {
+            "occurrences": 1,
+            "position": "14"
+          },
+          {
+            "occurrences": 4,
+            "position": "15"
+          },
+          {
+            "occurrences": 2,
+            "position": "16"
+          },
+          {
+            "occurrences": 1,
+            "position": "17"
+          },
+          {
+            "occurrences": 2,
+            "position": "20"
+          },
+          {
+            "occurrences": 1,
+            "position": "21"
+          },
+          {
+            "occurrences": 1,
+            "position": "23"
+          },
+          {
+            "occurrences": 2,
+            "position": "24"
+          },
+          {
+            "occurrences": 2,
+            "position": "25"
+          },
+          {
+            "occurrences": 5,
+            "position": "26"
+          },
+          {
+            "occurrences": 1,
+            "position": "27"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 376
+      }
+    },
+    {
+      "class_id": 2493,
+      "class_name": "Hunter",
+      "match_queue_id": 476,
+      "match_queue_name": "Squad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 26,
+        "damage": 486849,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 224253,
+        "deaths": 66,
+        "duration_secs": 43645,
+        "earned_tokens": 0,
+        "earned_xp": 36820,
+        "games_played": 49,
+        "healing_player": 1335.999996,
+        "healing_player_self": 97366.700195,
+        "killing_spree_max": 0,
+        "kills_bot": 140,
+        "kills_player": 140,
+        "losses": 37,
+        "placement_list": "{\"26\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "26"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 12
+      }
+    },
+    {
+      "class_id": 2494,
+      "class_name": "Mage",
+      "match_queue_id": 476,
+      "match_queue_name": "Squad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 14,
+        "damage": 14573299,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 4753782,
+        "deaths": 1269,
+        "duration_secs": 867488,
+        "earned_tokens": 0,
+        "earned_xp": 1045176,
+        "games_played": 902,
+        "healing_player": 272696.482504,
+        "healing_player_self": 2407571.749757,
+        "killing_spree_max": 0,
+        "kills_bot": 4949,
+        "kills_player": 4949,
+        "losses": 469,
+        "placement_list": "{\"1\":310,\"2\":36,\"3\":42,\"4\":28,\"5\":30,\"6\":14,\"7\":17,\"8\":10,\"9\":10,\"10\":7,\"11\":10,\"12\":12,\"13\":4,\"14\":10,\"15\":2,\"16\":4,\"17\":4,\"18\":4,\"19\":5,\"20\":14,\"21\":7,\"22\":5,\"23\":9,\"24\":2,\"25\":16,\"26\":31,\"27\":7,\"28\":1}",
+        "placements": [
+          {
+            "occurrences": 310,
+            "position": "1"
+          },
+          {
+            "occurrences": 36,
+            "position": "2"
+          },
+          {
+            "occurrences": 42,
+            "position": "3"
+          },
+          {
+            "occurrences": 28,
+            "position": "4"
+          },
+          {
+            "occurrences": 30,
+            "position": "5"
+          },
+          {
+            "occurrences": 14,
+            "position": "6"
+          },
+          {
+            "occurrences": 17,
+            "position": "7"
+          },
+          {
+            "occurrences": 10,
+            "position": "8"
+          },
+          {
+            "occurrences": 10,
+            "position": "9"
+          },
+          {
+            "occurrences": 7,
+            "position": "10"
+          },
+          {
+            "occurrences": 10,
+            "position": "11"
+          },
+          {
+            "occurrences": 12,
+            "position": "12"
+          },
+          {
+            "occurrences": 4,
+            "position": "13"
+          },
+          {
+            "occurrences": 10,
+            "position": "14"
+          },
+          {
+            "occurrences": 2,
+            "position": "15"
+          },
+          {
+            "occurrences": 4,
+            "position": "16"
+          },
+          {
+            "occurrences": 4,
+            "position": "17"
+          },
+          {
+            "occurrences": 4,
+            "position": "18"
+          },
+          {
+            "occurrences": 5,
+            "position": "19"
+          },
+          {
+            "occurrences": 14,
+            "position": "20"
+          },
+          {
+            "occurrences": 7,
+            "position": "21"
+          },
+          {
+            "occurrences": 5,
+            "position": "22"
+          },
+          {
+            "occurrences": 9,
+            "position": "23"
+          },
+          {
+            "occurrences": 2,
+            "position": "24"
+          },
+          {
+            "occurrences": 16,
+            "position": "25"
+          },
+          {
+            "occurrences": 31,
+            "position": "26"
+          },
+          {
+            "occurrences": 7,
+            "position": "27"
+          },
+          {
+            "occurrences": 1,
+            "position": "28"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 433
+      }
+    },
+    {
+      "class_id": 2285,
+      "class_name": "Warrior",
+      "match_queue_id": 476,
+      "match_queue_name": "Squad",
+      "stats": {
+        "assists": 0,
+        "average_placement": 17,
+        "damage": 1723669,
+        "damage_done_in_hand": 0,
+        "damage_mitigated": 0,
+        "damage_taken": 793666,
+        "deaths": 293,
+        "duration_secs": 171257,
+        "earned_tokens": 0,
+        "earned_xp": 168643,
+        "games_played": 198,
+        "healing_player": 10083.999542,
+        "healing_player_self": 302514.400085,
+        "killing_spree_max": 0,
+        "kills_bot": 562,
+        "kills_player": 562,
+        "losses": 164,
+        "placement_list": "{\"1\":1,\"19\":1,\"25\":2,\"26\":1}",
+        "placements": [
+          {
+            "occurrences": 1,
+            "position": "1"
+          },
+          {
+            "occurrences": 1,
+            "position": "19"
+          },
+          {
+            "occurrences": 2,
+            "position": "25"
+          },
+          {
+            "occurrences": 1,
+            "position": "26"
+          }
+        ],
+        "wards_mines_placed": 0,
+        "wins": 34
+      }
+    }
+  ],
+  "ret_msg": null
+}

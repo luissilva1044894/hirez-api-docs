@@ -1,0 +1,78 @@
+<ArrayOfplayer xmlns="http://schemas.datacontract.org/2004/07/SmiteApi" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<player>
+		<Avatar_URL>http://cds.q6u4m8x5.hwcdn.net/web/smite-app//wp-content/uploads/2015/06/CountryFlag_Denmark.png</Avatar_URL>
+		<Created_Datetime>11/13/2017 6:25:33 PM</Created_Datetime>
+		<Id>12983796</Id>
+		<Last_Login_Datetime>11/15/2017 1:17:17 AM</Last_Login_Datetime>
+		<Leaves>1</Leaves>
+		<Level>8</Level>
+		<Losses>9</Losses>
+		<MasteryLevel>0</MasteryLevel>
+		<Name>Mittow</Name>
+		<Personal_Status_Message/>
+		<Rank_Stat_Conquest>0</Rank_Stat_Conquest>
+		<Rank_Stat_Duel>0</Rank_Stat_Duel>
+		<Rank_Stat_Joust>0</Rank_Stat_Joust>
+		<RankedConquest>
+			<Leaves>0</Leaves>
+			<Losses>0</Losses>
+			<Name>League</Name>
+			<Points>0</Points>
+			<PrevRank>0</PrevRank>
+			<Rank>0</Rank>
+			<Rank_Stat_Conquest i:nil="true"/>
+			<Rank_Stat_Duel i:nil="true"/>
+			<Rank_Stat_Joust i:nil="true"/>
+			<Season>0</Season>
+			<Tier>0</Tier>
+			<Trend>0</Trend>
+			<Wins>0</Wins>
+			<player_id i:nil="true"/>
+			<ret_msg i:nil="true"/>
+		</RankedConquest>
+		<RankedDuel>
+			<Leaves>0</Leaves>
+			<Losses>0</Losses>
+			<Name>Duel</Name>
+			<Points>0</Points>
+			<PrevRank>0</PrevRank>
+			<Rank>0</Rank>
+			<Rank_Stat_Conquest i:nil="true"/>
+			<Rank_Stat_Duel i:nil="true"/>
+			<Rank_Stat_Joust i:nil="true"/>
+			<Season>0</Season>
+			<Tier>0</Tier>
+			<Trend>0</Trend>
+			<Wins>0</Wins>
+			<player_id i:nil="true"/>
+			<ret_msg i:nil="true"/>
+		</RankedDuel>
+		<RankedJoust>
+			<Leaves>0</Leaves>
+			<Losses>0</Losses>
+			<Name>Joust</Name>
+			<Points>0</Points>
+			<PrevRank>0</PrevRank>
+			<Rank>0</Rank>
+			<Rank_Stat_Conquest i:nil="true"/>
+			<Rank_Stat_Duel i:nil="true"/>
+			<Rank_Stat_Joust i:nil="true"/>
+			<Season>0</Season>
+			<Tier>0</Tier>
+			<Trend>0</Trend>
+			<Wins>0</Wins>
+			<player_id i:nil="true"/>
+			<ret_msg i:nil="true"/>
+		</RankedJoust>
+	<Region>Brazil</Region>
+	<TeamId>0</TeamId>
+	<Team_Name/>
+	<Tier_Conquest>0</Tier_Conquest>
+	<Tier_Duel>0</Tier_Duel>
+	<Tier_Joust>0</Tier_Joust>
+	<Total_Achievements>15</Total_Achievements>
+	<Total_Worshippers>102</Total_Worshippers>
+	<Wins>7</Wins>
+	<ret_msg i:nil="true"/>
+	</player>
+</ArrayOfplayer>
