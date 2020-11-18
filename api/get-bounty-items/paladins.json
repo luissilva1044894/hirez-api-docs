@@ -1,11 +1,154 @@
 [
   {
     "active":"y",
+    "bounty_item_id1":66094,
+    "bounty_item_id2":16344,
+    "bounty_item_name":"Heartbreaker",
+    "final_price":"hidden",
+    "initial_price":"hidden",
+    "ret_msg":null,
+    "sale_end_datetime":"11/19/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"y",
+    "bounty_item_id1":66035,
+    "bounty_item_id2":23843,
+    "bounty_item_name":"Cuddly",
+    "final_price":"hidden",
+    "initial_price":"hidden",
+    "ret_msg":null,
+    "sale_end_datetime":"11/18/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66003,
+    "bounty_item_id2":19486,
+    "bounty_item_name":"Goddess",
+    "final_price":"191",
+    "initial_price":"214",
+    "ret_msg":null,
+    "sale_end_datetime":"11/17/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":63366,
+    "bounty_item_id2":22062,
+    "bounty_item_name":"Carnival",
+    "final_price":"202",
+    "initial_price":"216",
+    "ret_msg":null,
+    "sale_end_datetime":"11/16/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66053,
+    "bounty_item_id2":18848,
+    "bounty_item_name":"B.E.T.A.",
+    "final_price":"127",
+    "initial_price":"135",
+    "ret_msg":null,
+    "sale_end_datetime":"11/15/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66103,
+    "bounty_item_id2":21155,
+    "bounty_item_name":"Infiltrator",
+    "final_price":"208",
+    "initial_price":"251",
+    "ret_msg":null,
+    "sale_end_datetime":"11/14/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66009,
+    "bounty_item_id2":23865,
+    "bounty_item_name":"Merrymaker",
+    "final_price":"157",
+    "initial_price":"148",
+    "ret_msg":null,
+    "sale_end_datetime":"11/13/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66029,
+    "bounty_item_id2":19258,
+    "bounty_item_name":"Defiler",
+    "final_price":"169",
+    "initial_price":"175",
+    "ret_msg":null,
+    "sale_end_datetime":"11/12/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66133,
+    "bounty_item_id2":20142,
+    "bounty_item_name":"Drakefire",
+    "final_price":"151",
+    "initial_price":"174",
+    "ret_msg":null,
+    "sale_end_datetime":"11/11/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66038,
+    "bounty_item_id2":23454,
+    "bounty_item_name":"Dragonborn",
+    "final_price":"123",
+    "initial_price":"127",
+    "ret_msg":null,
+    "sale_end_datetime":"11/10/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66127,
+    "bounty_item_id2":16571,
+    "bounty_item_name":"Baroness",
+    "final_price":"141",
+    "initial_price":"150",
+    "ret_msg":null,
+    "sale_end_datetime":"11/9/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":65937,
+    "bounty_item_id2":23521,
+    "bounty_item_name":"Aurora",
+    "final_price":"220",
+    "initial_price":"20",
+    "ret_msg":null,
+    "sale_end_datetime":"11/8/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":63360,
+    "bounty_item_id2":23184,
+    "bounty_item_name":"Archangel",
+    "final_price":"140",
+    "initial_price":"25",
+    "ret_msg":null,
+    "sale_end_datetime":"11/6/2020 12:00:00 PM",
+    "sale_type":"Decreasing"
+  },
+  {
+    "active":"n",
     "bounty_item_id1":65950,
     "bounty_item_id2":14144,
     "bounty_item_name":"Winter",
-    "final_price":"hidden",
-    "initial_price":"hidden",
+    "final_price":"160",
+    "initial_price":"25",
     "ret_msg":null,
     "sale_end_datetime":"11/3/2020 12:00:00 PM",
     "sale_type":"Decreasing"
@@ -19,6 +162,17 @@
     "initial_price":"30",
     "ret_msg":null,
     "sale_end_datetime":"10/31/2020 12:00:00 PM",
+    "sale_type":"Increasing"
+  },
+  {
+    "active":"n",
+    "bounty_item_id1":66138,
+    "bounty_item_id2":16311,
+    "bounty_item_name":"Code Green Comms",
+    "final_price":"230",
+    "initial_price":"90",
+    "ret_msg":null,
+    "sale_end_datetime":"10/30/2020 12:00:00 PM",
     "sale_type":"Increasing"
   },
   {
@@ -59,17 +213,6 @@
     "bounty_item_id1":66029,
     "bounty_item_id2":19258,
     "bounty_item_name":"Defiler",
-    "final_price":"230",
-    "initial_price":"90",
-    "ret_msg":null,
-    "sale_end_datetime":"10/30/2020 12:00:00 PM",
-    "sale_type":"Increasing"
-  },
-  {
-    "active":"n",
-    "bounty_item_id1":66138,
-    "bounty_item_id2":16311,
-    "bounty_item_name":"Code Green Comms",
     "final_price":"230",
     "initial_price":"90",
     "ret_msg":null,
