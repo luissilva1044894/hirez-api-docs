@@ -1,381 +1,982 @@
-[{
-  "player_id": 412349,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 3486376,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 4699957,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 6110285,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 12261261,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 700098491,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 700993116,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 701893446,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 702904443,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 704051039,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 705299063,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 705342069,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706607051,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706618579,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706634677,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706634721,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706635997,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706816114,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706816996,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706830117,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706838309,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706854949,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706864962,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706889378,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706890796,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706893090,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706900840,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706972414,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706974084,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 706982977,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707006066,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707037063,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707048597,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707090817,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707109443,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707153964,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707165028,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707199824,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707230188,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707243813,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707333905,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707360935,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707380704,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707470778,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707502795,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707516743,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707562470,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707564826,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707582168,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707593710,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707599438,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707616368,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707644484,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707783546,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707829638,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 707856642,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708107118,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708167193,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708289456,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708347482,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708350602,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708424919,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708432716,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708463423,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708468494,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708531057,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708608743,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708621607,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708685693,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708703342,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 708898458,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 709129116,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 709195174,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 709248362,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 709297871,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}, {
-  "player_id": 709362402,
-  "portal": "Switch",
-  "portal_id": "22",
-  "ret_msg": null
-}]
+[
+  {
+    "player_id":412349,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":3486376,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":4699957,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":6110285,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":7998976,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":9931150,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":12261261,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":700098491,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":700170830,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":700842367,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":700993116,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":701172821,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":701703720,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"y",
+    "ret_msg":null
+  },
+  {
+    "player_id":701893446,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":702904443,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":703475255,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":704008867,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":704051039,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":704744496,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":704775612,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":705299063,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":705342069,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706618579,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706634677,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706634721,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706635997,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706816114,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706816996,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706830117,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706835592,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"y",
+    "ret_msg":null
+  },
+  {
+    "player_id":706838309,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706854949,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706864962,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706890796,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706893090,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706900840,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706972414,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706974084,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":706982977,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707006066,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707037063,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707048597,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707090817,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707109443,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707153964,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707165028,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707199824,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707230188,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707270761,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707333905,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707360935,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707380704,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707470778,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707502795,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707516743,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707562470,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707564826,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707582168,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707593710,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707599438,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707616368,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707644484,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707704637,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707783546,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707829638,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707856642,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":707931549,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708107118,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708167193,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708289456,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708347482,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708350602,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708424919,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708463423,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708468494,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708531057,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708608743,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708621607,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708685693,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708703342,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708898458,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":708961345,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709129116,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709195174,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709248362,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709297871,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709362402,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709367757,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709413364,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709421193,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709514676,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709575267,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709576496,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709588629,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709596207,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709600478,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709608641,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709629084,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709645639,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709649196,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709666815,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709741265,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709783127,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709795578,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709823661,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709910728,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":709924582,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710126136,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710168785,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710276923,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710308956,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710322396,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710349662,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710700018,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710726327,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":710864111,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711365811,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711402618,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711489811,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711499233,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711513869,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711650323,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711717186,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711893162,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711914757,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711914801,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711955903,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711982574,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":711994827,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712420186,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712437201,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712548012,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712549730,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712592154,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712643893,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712861003,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":712905209,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":713234358,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":713246388,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "player_id":713302462,
+    "portal":"Switch",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  }
+]

@@ -1,5 +1,13 @@
 [
   {
+    "Name":"frz",
+    "hz_player_name":null,
+    "player_id":"713853302",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
     "Name":"FRZ",
     "hz_player_name":null,
     "player_id":"705912097",
@@ -11,14 +19,6 @@
     "Name":"Frz",
     "hz_player_name":null,
     "player_id":"707486308",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frz",
-    "hz_player_name":null,
-    "player_id":"713853302",
     "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
@@ -40,17 +40,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz07",
-    "hz_player_name":"Frz07",
-    "player_id":"10153976",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ105",
-    "hz_player_name":"FRZ105",
-    "player_id":"2667096",
+    "Name":"FRZ1",
+    "hz_player_name":"FRZ1",
+    "player_id":"923090",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -72,41 +64,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRz15",
-    "hz_player_name":"FRz15",
-    "player_id":"717273086",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz17",
-    "hz_player_name":"Frz17",
-    "player_id":"15421321",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ19",
     "hz_player_name":"FRZ19",
     "player_id":"717149757",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ22",
-    "hz_player_name":"FRZ22",
-    "player_id":"5461608",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ23",
-    "hz_player_name":"FRZ23",
-    "player_id":"1396205",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -160,22 +120,6 @@
     "ret_msg":null
   },
   {
-    "Name":"frz557wander",
-    "hz_player_name":"frz557wander",
-    "player_id":"6431565",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ6",
-    "hz_player_name":"FrZ6",
-    "player_id":"716175700",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frz666",
     "hz_player_name":"frz666",
     "player_id":"13680502",
@@ -192,57 +136,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ777",
-    "hz_player_name":"FRZ777",
-    "player_id":"7583323",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ78RUS",
-    "hz_player_name":"FRZ78RUS",
-    "player_id":"2816851",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ92",
     "hz_player_name":"FRZ92",
     "player_id":"4560998",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz98",
-    "hz_player_name":"Frz98",
-    "player_id":"7072766",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frza",
-    "hz_player_name":"Frza",
-    "player_id":"1990824",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzaaaaaaaaaan",
-    "hz_player_name":"frzaaaaaaaaaan",
-    "player_id":"717682883",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZaAkS",
-    "hz_player_name":"FRZaAkS",
-    "player_id":"7514072",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -264,22 +160,6 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzache",
-    "hz_player_name":"Frzache",
-    "player_id":"10293435",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZAD",
-    "hz_player_name":"FRZAD",
-    "player_id":"15430833",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZAdrien",
     "hz_player_name":"FrZAdrien",
     "player_id":"7266218",
@@ -296,26 +176,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzaidan",
-    "hz_player_name":"frzaidan",
-    "player_id":"709984302",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzaiem",
     "hz_player_name":"frzaiem",
     "player_id":"4910799",
     "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzAleKs",
-    "hz_player_name":"frzAleKs",
-    "player_id":"6774906",
-    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -328,41 +192,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzAlysonS2",
-    "hz_player_name":"FrzAlysonS2",
-    "player_id":"13114579",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzamalocul",
-    "hz_player_name":"Frzamalocul",
-    "player_id":"16179417",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzAmine",
-    "hz_player_name":"FrzAmine",
-    "player_id":"715514197",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZanzigliss",
     "hz_player_name":"FRZanzigliss",
     "player_id":"6643125",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzaptan",
-    "hz_player_name":"Frzaptan",
-    "player_id":"712465443",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -384,25 +216,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzb",
-    "hz_player_name":"Frzb",
-    "player_id":"713737836",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzB33",
     "hz_player_name":"frzB33",
     "player_id":"9680990",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzbad",
-    "hz_player_name":"frzbad",
-    "player_id":"15015449",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -424,22 +240,6 @@
     "ret_msg":null
   },
   {
-    "Name":"frzbek",
-    "hz_player_name":"frzbek",
-    "player_id":"2376415",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzbgd",
-    "hz_player_name":"frzbgd",
-    "player_id":"718213250",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzbgolfer",
     "hz_player_name":"frzbgolfer",
     "player_id":"14945152",
@@ -451,22 +251,6 @@
     "Name":"frzboi",
     "hz_player_name":"frzboi",
     "player_id":"12153991",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzbot",
-    "hz_player_name":"Frzbot",
-    "player_id":"16389016",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzboy",
-    "hz_player_name":"frzboy",
-    "player_id":"715306310",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -512,26 +296,10 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzcnzy",
-    "hz_player_name":"Frzcnzy",
-    "player_id":"9356932",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzcold",
     "hz_player_name":"frzcold",
     "player_id":"15649109",
     "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRzConnor",
-    "hz_player_name":"FRzConnor",
-    "player_id":"11672106",
-    "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -592,41 +360,17 @@
     "ret_msg":null
   },
   {
-    "Name":"frzdory",
-    "hz_player_name":"frzdory",
-    "player_id":"712752998",
+    "Name":"Frzdøg",
+    "hz_player_name":"Frzdøg",
+    "player_id":"9006706",
     "portal_id":"5",
-    "privacy_flag":"n",
+    "privacy_flag":"y",
     "ret_msg":null
   },
   {
     "Name":"FrZDrK",
     "hz_player_name":"FrZDrK",
     "player_id":"11402214",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzdοg",
-    "hz_player_name":"frzdοg",
-    "player_id":"6835848",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frze",
-    "hz_player_name":"Frze",
-    "player_id":"712322573",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZÊ",
-    "hz_player_name":"FRZÊ",
-    "player_id":"717123968",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -640,42 +384,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzeac",
-    "hz_player_name":"frzeac",
-    "player_id":"15711719",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzedes",
-    "hz_player_name":"frzedes",
-    "player_id":"8563047",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzedpower",
-    "hz_player_name":"frzedpower",
-    "player_id":"712404240",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZedxcOP1",
     "hz_player_name":"FrZedxcOP1",
     "player_id":"16583264",
     "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZEE",
-    "hz_player_name":"FRZEE",
-    "player_id":"11762138",
-    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -720,22 +432,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZeno",
-    "hz_player_name":"FRZeno",
-    "player_id":"8358387",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZeno974",
-    "hz_player_name":"FRZeno974",
-    "player_id":"10274050",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZenosmurf",
     "hz_player_name":"FRZenosmurf",
     "player_id":"11387837",
@@ -744,41 +440,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzer",
-    "hz_player_name":"Frzer",
-    "player_id":"4412863",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzer1126",
-    "hz_player_name":"frzer1126",
-    "player_id":"10129276",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frzera",
     "hz_player_name":"Frzera",
     "player_id":"6324673",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzerbrn",
-    "hz_player_name":"Frzerbrn",
-    "player_id":"1911889",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzero",
-    "hz_player_name":"Frzero",
-    "player_id":"9348144",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -800,14 +464,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZeyroX",
-    "hz_player_name":"FRZeyroX",
-    "player_id":"713384047",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZFarros135",
     "hz_player_name":"FRZFarros135",
     "player_id":"10628379",
@@ -819,14 +475,6 @@
     "Name":"FrzFODE",
     "hz_player_name":"FrzFODE",
     "player_id":"717346369",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzfox",
-    "hz_player_name":"Frzfox",
-    "player_id":"717109677",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -848,26 +496,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZG0D1",
-    "hz_player_name":"FRZG0D1",
-    "player_id":"708740220",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZG0DSMURF",
     "hz_player_name":"FRZG0DSMURF",
     "player_id":"717055458",
     "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzg0ld",
-    "hz_player_name":"Frzg0ld",
-    "player_id":"708050720",
-    "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -888,33 +520,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzGaming",
-    "hz_player_name":"FrzGaming",
-    "player_id":"16197658",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzGaming70",
-    "hz_player_name":"FrzGaming70",
-    "player_id":"12836451",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZglitcherTM",
-    "hz_player_name":"FRZglitcherTM",
-    "player_id":"14442646",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgn",
-    "hz_player_name":"frzgn",
-    "player_id":"8313668",
+    "Name":"frzgn99",
+    "hz_player_name":"frzgn99",
+    "player_id":"8325992",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -923,7 +531,7 @@
     "Name":"frzgod",
     "hz_player_name":"frzgod",
     "player_id":"1384423",
-    "portal_id":"5",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -931,7 +539,7 @@
     "Name":"frzgód",
     "hz_player_name":"frzgód",
     "player_id":"710257824",
-    "portal_id":"5",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -944,17 +552,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frzgød",
-    "hz_player_name":"frzgød",
-    "player_id":"707532234",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgod1",
-    "hz_player_name":"frzgod1",
-    "player_id":"709606288",
+    "Name":"frzgod01",
+    "hz_player_name":"frzgod01",
+    "player_id":"722842197",
     "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
@@ -968,25 +568,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frzgod3",
-    "hz_player_name":"frzgod3",
-    "player_id":"10683981",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgoda",
-    "hz_player_name":"frzgoda",
-    "player_id":"15280191",
-    "portal_id":"1",
-    "privacy_flag":"y",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgoddess",
-    "hz_player_name":"frzgoddess",
-    "player_id":"16782050",
+    "Name":"frzgöddess",
+    "hz_player_name":"frzgöddess",
+    "player_id":"11036177",
     "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1000,19 +584,19 @@
     "ret_msg":null
   },
   {
-    "Name":"frzgodLOBR",
-    "hz_player_name":"frzgodLOBR",
-    "player_id":"14702478",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzgods",
     "hz_player_name":"frzgods",
     "player_id":"15390642",
     "portal_id":"5",
     "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzgodTRAVAZAP",
+    "hz_player_name":"frzgodTRAVAZAP",
+    "player_id":"722777871",
+    "portal_id":"1",
+    "privacy_flag":"y",
     "ret_msg":null
   },
   {
@@ -1032,10 +616,18 @@
     "ret_msg":null
   },
   {
+    "Name":"frzgod仮",
+    "hz_player_name":"frzgod仮",
+    "player_id":"722321615",
+    "portal_id":"28",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
     "Name":"frzgold",
     "hz_player_name":"frzgold",
     "player_id":"16479295",
-    "portal_id":"1",
+    "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1043,14 +635,6 @@
     "Name":"frzGood",
     "hz_player_name":"frzGood",
     "player_id":"14770774",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgooood",
-    "hz_player_name":"frzgooood",
-    "player_id":"712819904",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1088,26 +672,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FrZgSkYZz",
-    "hz_player_name":"FrZgSkYZz",
-    "player_id":"13601175",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzgud",
     "hz_player_name":"frzgud",
     "player_id":"13341312",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzh4",
-    "hz_player_name":"frzh4",
-    "player_id":"1835126",
-    "portal_id":"5",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1128,9 +696,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzHert",
-    "hz_player_name":"FrzHert",
-    "player_id":"5113382",
+    "Name":"FrzHeart",
+    "hz_player_name":"FrzHeart",
+    "player_id":"4367581",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1144,26 +712,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzhjfrbegfr",
-    "hz_player_name":"frzhjfrbegfr",
-    "player_id":"718799305",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frzhn",
     "hz_player_name":"Frzhn",
     "player_id":"8381141",
     "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZHN13",
-    "hz_player_name":"FRZHN13",
-    "player_id":"712487083",
-    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1184,22 +736,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FrZi72",
-    "hz_player_name":"FrZi72",
-    "player_id":"714719696",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzie",
-    "hz_player_name":"Frzie",
-    "player_id":"712245951",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZiiType",
     "hz_player_name":"FrZiiType",
     "player_id":"714816934",
@@ -1208,57 +744,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzika",
-    "hz_player_name":"Frzika",
-    "player_id":"8938813",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzimn",
-    "hz_player_name":"frzimn",
-    "player_id":"9207804",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzimnnnn",
-    "hz_player_name":"frzimnnnn",
-    "player_id":"717721900",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzion",
-    "hz_player_name":"Frzion",
-    "player_id":"9771547",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzIqbal",
-    "hz_player_name":"FrzIqbal",
-    "player_id":"1910978",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrziX",
     "hz_player_name":"FrziX",
     "player_id":"708670120",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzjfdzruiztfr6",
-    "hz_player_name":"frzjfdzruiztfr6",
-    "player_id":"710984951",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1280,33 +768,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzjY",
-    "hz_player_name":"FrzjY",
-    "player_id":"7443797",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzk",
     "hz_player_name":"frzk",
     "player_id":"10280234",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzKayzen",
-    "hz_player_name":"FrzKayzen",
-    "player_id":"716292805",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzke",
-    "hz_player_name":"Frzke",
-    "player_id":"716577589",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1328,9 +792,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frzkooliad",
-    "hz_player_name":"frzkooliad",
-    "player_id":"713828181",
+    "Name":"FRZKoga",
+    "hz_player_name":"FRZKoga",
+    "player_id":"722646775",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1344,18 +808,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZL",
-    "hz_player_name":"FRZL",
-    "player_id":"4593644",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZLeo",
-    "hz_player_name":"FRZLeo",
-    "player_id":"1211652",
-    "portal_id":"5",
+    "Name":"FRZl4g",
+    "hz_player_name":"FRZl4g",
+    "player_id":"720978673",
+    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1376,97 +832,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRzLunar",
-    "hz_player_name":"FRzLunar",
-    "player_id":"2292125",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgn99",
-    "hz_player_name":"frzgn99",
-    "player_id":"8325992",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzEZ",
-    "hz_player_name":"FrzEZ",
-    "player_id":"709334",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzdqaliraqe",
-    "hz_player_name":"frzdqaliraqe",
-    "player_id":"11556390",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"fRZbabbaaaxx",
-    "hz_player_name":"fRZbabbaaaxx",
-    "player_id":"645355",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frz58895",
-    "hz_player_name":"frz58895",
-    "player_id":"7824516",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ1",
-    "hz_player_name":"FRZ1",
-    "player_id":"923090",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frz0x7",
-    "hz_player_name":"frz0x7",
-    "player_id":"8576851",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzep",
-    "hz_player_name":"frzep",
-    "player_id":"2407800",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzHeart",
-    "hz_player_name":"FrzHeart",
-    "player_id":"4367581",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZM96",
     "hz_player_name":"FRZM96",
     "player_id":"4354602",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzMAMAKI",
-    "hz_player_name":"frzMAMAKI",
-    "player_id":"3834924",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1476,14 +844,6 @@
     "hz_player_name":"FRZMCMANIAQUE",
     "player_id":"12324160",
     "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzMLG",
-    "hz_player_name":"FrzMLG",
-    "player_id":"1196940",
-    "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1512,41 +872,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZN0",
-    "hz_player_name":"FRZN0",
-    "player_id":"4117747",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzn1",
-    "hz_player_name":"Frzn1",
-    "player_id":"10536364",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZN17",
-    "hz_player_name":"FRZN17",
-    "player_id":"6445075",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzn6404",
-    "hz_player_name":"frzn6404",
-    "player_id":"11776029",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzNaoGod",
-    "hz_player_name":"FrzNaoGod",
-    "player_id":"707599496",
+    "Name":"frznAiR",
+    "hz_player_name":"frznAiR",
+    "player_id":"720237262",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1576,14 +904,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FrznCowJuice",
-    "hz_player_name":"FrznCowJuice",
-    "player_id":"708730450",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZND",
     "hz_player_name":"FRZND",
     "player_id":"3005483",
@@ -1600,25 +920,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrznFlr",
-    "hz_player_name":"FrznFlr",
-    "player_id":"7586840",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrznFreezy",
     "hz_player_name":"FrznFreezy",
     "player_id":"14738350",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrznFreezy2",
-    "hz_player_name":"FrznFreezy2",
-    "player_id":"15175737",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1628,30 +932,6 @@
     "hz_player_name":"FrzngDeath",
     "player_id":"5963116",
     "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZnGrimm",
-    "hz_player_name":"FrZnGrimm",
-    "player_id":"710268784",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZNHeart",
-    "hz_player_name":"FRZNHeart",
-    "player_id":"5054320",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrznHero",
-    "hz_player_name":"FrznHero",
-    "player_id":"548814",
-    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -1672,22 +952,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FrznKng",
-    "hz_player_name":"FrznKng",
-    "player_id":"14090564",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrznLghtng",
-    "hz_player_name":"FrznLghtng",
-    "player_id":"15323371",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frznlich",
     "hz_player_name":"frznlich",
     "player_id":"3659976",
@@ -1696,33 +960,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frznN",
-    "hz_player_name":"frznN",
-    "player_id":"11731465",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frznnd",
     "hz_player_name":"Frznnd",
     "player_id":"2788557",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frznnn08",
-    "hz_player_name":"frznnn08",
-    "player_id":"13308211",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzNNNN",
-    "hz_player_name":"FrzNNNN",
-    "player_id":"8173507",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1768,22 +1008,6 @@
     "ret_msg":null
   },
   {
-    "Name":"frZNrx",
-    "hz_player_name":"frZNrx",
-    "player_id":"1993012",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrznTrnrSms",
-    "hz_player_name":"FrznTrnrSms",
-    "player_id":"5062962",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frznVipR",
     "hz_player_name":"frznVipR",
     "player_id":"715613002",
@@ -1795,14 +1019,6 @@
     "Name":"frznvr",
     "hz_player_name":"frznvr",
     "player_id":"10025769",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frznVV",
-    "hz_player_name":"frznVV",
-    "player_id":"13635839",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1824,14 +1040,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FrznYoghurt",
-    "hz_player_name":"FrznYoghurt",
-    "player_id":"6047586",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZNZeek",
     "hz_player_name":"FrZNZeek",
     "player_id":"16226111",
@@ -1840,17 +1048,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZO",
-    "hz_player_name":"FRZO",
+    "Name":"frzo",
+    "hz_player_name":"frzo",
     "player_id":"4294684",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzoen",
-    "hz_player_name":"Frzoen",
-    "player_id":"5379287",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1880,14 +1080,6 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzone98",
-    "hz_player_name":"Frzone98",
-    "player_id":"3116591",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frzone99",
     "hz_player_name":"Frzone99",
     "player_id":"2206042",
@@ -1899,6 +1091,14 @@
     "Name":"frzoneisthebest",
     "hz_player_name":"frzoneisthebest",
     "player_id":"710100831",
+    "portal_id":"5",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZoRya",
+    "hz_player_name":"FrZoRya",
+    "player_id":"719245656",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1920,41 +1120,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzPlayer",
-    "hz_player_name":"FrzPlayer",
-    "player_id":"16040878",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZPortyu",
     "hz_player_name":"FrZPortyu",
     "player_id":"714798513",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZQ",
-    "hz_player_name":"FRZQ",
-    "player_id":"14924539",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzqPLAY",
-    "hz_player_name":"frzqPLAY",
-    "player_id":"13396355",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzr",
-    "hz_player_name":"Frzr",
-    "player_id":"1917314",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -1968,26 +1136,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzro",
-    "hz_player_name":"frzro",
-    "player_id":"8562507",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZRoyalSky",
-    "hz_player_name":"FrZRoyalSky",
-    "player_id":"10241265",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzRzkyyy",
-    "hz_player_name":"FrzRzkyyy",
-    "player_id":"16034961",
-    "portal_id":"5",
+    "Name":"frzshapado",
+    "hz_player_name":"frzshapado",
+    "player_id":"721497571",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2000,10 +1152,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzsinged",
-    "hz_player_name":"frzsinged",
-    "player_id":"15891151",
-    "portal_id":"5",
+    "Name":"frzsnake",
+    "hz_player_name":"frzsnake",
+    "player_id":"718650074",
+    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2024,10 +1176,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzstr",
-    "hz_player_name":"frzstr",
-    "player_id":"6470108",
-    "portal_id":"5",
+    "Name":"FrzSup",
+    "hz_player_name":"FrzSup",
+    "player_id":"10554474",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2040,18 +1192,18 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZsz",
-    "hz_player_name":"FRZsz",
-    "player_id":"10979091",
+    "Name":"Frzt",
+    "hz_player_name":"Frzt",
+    "player_id":"1306746",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"Frzt",
-    "hz_player_name":"Frzt",
-    "player_id":"1306746",
-    "portal_id":"5",
+    "Name":"FrzTank",
+    "hz_player_name":"FrzTank",
+    "player_id":"710392397",
+    "portal_id":"1",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2080,41 +1232,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzTheB0ss",
-    "hz_player_name":"FrzTheB0ss",
-    "player_id":"2468588",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzTheOne",
-    "hz_player_name":"FrzTheOne",
-    "player_id":"15161983",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzTime",
-    "hz_player_name":"FrzTime",
-    "player_id":"1407061",
-    "portal_id":"1",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZTLR",
     "hz_player_name":"FRZTLR",
     "player_id":"11743284",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrztOwnr",
-    "hz_player_name":"FrztOwnr",
-    "player_id":"11160693",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2155,15 +1275,7 @@
     "Name":"FrzTy",
     "hz_player_name":"FrzTy",
     "player_id":"710082422",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frztyx",
-    "hz_player_name":"frztyx",
-    "player_id":"715099300",
-    "portal_id":"5",
+    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2176,10 +1288,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzwanahmad",
-    "hz_player_name":"frzwanahmad",
-    "player_id":"15709397",
-    "portal_id":"5",
+    "Name":"FRZumaki2",
+    "hz_player_name":"FRZumaki2",
+    "player_id":"14329720",
+    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2187,86 +1299,6 @@
     "Name":"FRZWT",
     "hz_player_name":"FRZWT",
     "player_id":"715079402",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzwutang",
-    "hz_player_name":"frzwutang",
-    "player_id":"8333718",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZx",
-    "hz_player_name":"FrZx",
-    "player_id":"1188131",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZxAmE",
-    "hz_player_name":"FrZxAmE",
-    "player_id":"717149684",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzxj",
-    "hz_player_name":"frzxj",
-    "player_id":"9495017",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZxK",
-    "hz_player_name":"FrZxK",
-    "player_id":"2679192",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzxLy",
-    "hz_player_name":"FrzxLy",
-    "player_id":"15206974",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZy",
-    "hz_player_name":"FrZy",
-    "player_id":"13171108",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzy01",
-    "hz_player_name":"Frzy01",
-    "player_id":"718537274",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZY11",
-    "hz_player_name":"FRZY11",
-    "player_id":"719140015",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZYGNxx",
-    "hz_player_name":"FRZYGNxx",
-    "player_id":"13172370",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2288,49 +1320,17 @@
     "ret_msg":null
   },
   {
-    "Name":"FrZyGODx",
-    "hz_player_name":"FrZyGODx",
-    "player_id":"709026149",
+    "Name":"Frzyy",
+    "hz_player_name":"Frzyy",
+    "player_id":"721977339",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"FRZyLoX",
-    "hz_player_name":"FRZyLoX",
-    "player_id":"9987653",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzymstr",
-    "hz_player_name":"frzymstr",
-    "player_id":"15949879",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRzYSLiVeRSHoT",
-    "hz_player_name":"FRzYSLiVeRSHoT",
-    "player_id":"710433957",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzYT",
-    "hz_player_name":"FrzYT",
-    "player_id":"13940272",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzz",
-    "hz_player_name":"frzz",
-    "player_id":"1842636",
+    "Name":"FRZZ06",
+    "hz_player_name":"FRZZ06",
+    "player_id":"720034833",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2352,41 +1352,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzz3r",
-    "hz_player_name":"Frzz3r",
-    "player_id":"3651499",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzz96",
     "hz_player_name":"frzz96",
     "player_id":"712449802",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzza30",
-    "hz_player_name":"frzza30",
-    "player_id":"16661378",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzZe",
-    "hz_player_name":"FrzZe",
-    "player_id":"714252450",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzzer",
-    "hz_player_name":"frzzer",
-    "player_id":"1121095",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2400,27 +1368,11 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzzFodde",
-    "hz_player_name":"FrzzFodde",
-    "player_id":"717404047",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzzFode",
-    "hz_player_name":"FrzzFode",
-    "player_id":"717347208",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzzhatched",
-    "hz_player_name":"frzzhatched",
-    "player_id":"717386542",
-    "portal_id":"5",
-    "privacy_flag":"n",
+    "Name":"Frzzgod",
+    "hz_player_name":"Frzzgod",
+    "player_id":"8479159",
+    "portal_id":"1",
+    "privacy_flag":"y",
     "ret_msg":null
   },
   {
@@ -2432,17 +1384,17 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzzQ",
-    "hz_player_name":"FrzzQ",
-    "player_id":"714244457",
+    "Name":"Frzznn",
+    "hz_player_name":"Frzznn",
+    "player_id":"722100332",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"FRZZTER",
-    "hz_player_name":"FRZZTER",
-    "player_id":"12556759",
+    "Name":"Frzzns",
+    "hz_player_name":"Frzzns",
+    "player_id":"721489771",
     "portal_id":"5",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2456,81 +1408,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frzzyy",
-    "hz_player_name":"frzzyy",
-    "player_id":"6124068",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZZZ",
-    "hz_player_name":"FRZZZ",
-    "player_id":"714728809",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzzz420",
-    "hz_player_name":"Frzzz420",
-    "player_id":"712061728",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZZZN",
-    "hz_player_name":"FRZZZN",
-    "player_id":"8506879",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzzzy",
-    "hz_player_name":"Frzzzy",
-    "player_id":"10409873",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzzzz",
-    "hz_player_name":"Frzzzz",
-    "player_id":"16334541",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"fRZZZZZZZZZZ",
-    "hz_player_name":"fRZZZZZZZZZZ",
-    "player_id":"713786267",
-    "portal_id":"5",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ ᴸᴵᴸᴿᴼᴮᴵᴵ -α-",
-    "hz_player_name":null,
-    "player_id":"717832610",
-    "portal_id":"28",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZ 2rue",
     "hz_player_name":null,
     "player_id":"713617179",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ ABRAHAM JR",
-    "hz_player_name":null,
-    "player_id":"705495842",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2544,10 +1424,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ BAW",
+    "Name":"Frz Bee",
     "hz_player_name":null,
-    "player_id":"704598882",
-    "portal_id":"22",
+    "player_id":"711320302",
+    "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2563,30 +1443,6 @@
     "Name":"FRZ Celim YT",
     "hz_player_name":null,
     "player_id":"711256310",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ COL SANDERS",
-    "hz_player_name":null,
-    "player_id":"703910425",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz Dark",
-    "hz_player_name":null,
-    "player_id":"702428529",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ DesiredZone",
-    "hz_player_name":null,
-    "player_id":"703003219",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2608,17 +1464,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ Froman",
+    "Name":"FRZ HUGO87",
     "hz_player_name":null,
-    "player_id":"705229050",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ GaminG 25",
-    "hz_player_name":null,
-    "player_id":"700996416",
+    "player_id":"709159637",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2632,26 +1480,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ KARMA",
+    "Name":"FRZ Koga",
     "hz_player_name":null,
-    "player_id":"712195529",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ LIQUID",
-    "hz_player_name":null,
-    "player_id":"702843606",
+    "player_id":"702603627",
     "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"fRz Lucifer",
-    "hz_player_name":null,
-    "player_id":"717769149",
-    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2659,38 +1491,6 @@
     "Name":"FRZ Lunar Wolf",
     "hz_player_name":null,
     "player_id":"700179514",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ Meliodas",
-    "hz_player_name":null,
-    "player_id":"703141234",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ Minato",
-    "hz_player_name":null,
-    "player_id":"702367042",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ Mystery",
-    "hz_player_name":null,
-    "player_id":"703899624",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ PRZ ICEMAN",
-    "hz_player_name":null,
-    "player_id":"700731662",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2720,17 +1520,17 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ VeNoX",
+    "Name":"FrZ TOXSIN",
     "hz_player_name":null,
-    "player_id":"703579052",
+    "player_id":"721313419",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"FRZ WeeZy",
+    "Name":"FRZ VeNoX",
     "hz_player_name":null,
-    "player_id":"700684726",
+    "player_id":"703579052",
     "portal_id":"10",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2744,10 +1544,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ えへへへへへへへかいせい",
+    "Name":"frz.revrse",
     "hz_player_name":null,
-    "player_id":"718925088",
-    "portal_id":"28",
+    "player_id":"716025955",
+    "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2756,22 +1556,6 @@
     "hz_player_name":null,
     "player_id":"705714910",
     "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_12",
-    "hz_player_name":null,
-    "player_id":"712180803",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frz_662",
-    "hz_player_name":null,
-    "player_id":"713122541",
-    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -2808,25 +1592,17 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ_bilal",
-    "hz_player_name":null,
-    "player_id":"710676074",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ_BJK",
-    "hz_player_name":null,
-    "player_id":"503629461",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ_Black",
     "hz_player_name":null,
     "player_id":"716401485",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Champ77",
+    "hz_player_name":null,
+    "player_id":"506350581",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2872,9 +1648,17 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz_Dragonfrost",
+    "Name":"FRZ_Deluxe",
     "hz_player_name":null,
-    "player_id":"711704864",
+    "player_id":"505910109",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_F3ee7e_m-16",
+    "hz_player_name":null,
+    "player_id":"505773471",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2896,33 +1680,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frz_Felix08",
-    "hz_player_name":null,
-    "player_id":"509311879",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frz_Fivoz",
     "hz_player_name":null,
     "player_id":"707919168",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ_flamez-",
-    "hz_player_name":null,
-    "player_id":"508088379",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ-_-Floww",
-    "hz_player_name":null,
-    "player_id":"502821773",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2936,14 +1696,6 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz_Greg",
-    "hz_player_name":null,
-    "player_id":"500810173",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ_H4CK3R",
     "hz_player_name":null,
     "player_id":"505109687",
@@ -2952,9 +1704,17 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz_hisoka__",
+    "Name":"FRZ_HIAGO",
     "hz_player_name":null,
-    "player_id":"716283205",
+    "player_id":"721102386",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_inwin",
+    "hz_player_name":null,
+    "player_id":"502645671",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -2963,30 +1723,6 @@
     "Name":"frz_ivi",
     "hz_player_name":null,
     "player_id":"508482375",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz_JakobXDYT",
-    "hz_player_name":null,
-    "player_id":"717300503",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz_Jukeya",
-    "hz_player_name":null,
-    "player_id":"508584759",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz_Kendall2604",
-    "hz_player_name":null,
-    "player_id":"707911441",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3008,18 +1744,18 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ_L3gend",
+    "Name":"FRZ_KrypZ",
     "hz_player_name":null,
-    "player_id":"708154192",
-    "portal_id":"22",
+    "player_id":"502526727",
+    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"FRZ_LAOSSS",
+    "Name":"FRZ_L3gend",
     "hz_player_name":null,
-    "player_id":"509035153",
-    "portal_id":"9",
+    "player_id":"708154192",
+    "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3072,17 +1808,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ_MKB",
+    "Name":"FrZ-_MoDzZ",
     "hz_player_name":null,
-    "player_id":"506910277",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ_MoD5",
-    "hz_player_name":null,
-    "player_id":"502565778",
+    "player_id":"505759187",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3096,26 +1824,10 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz_neo243",
-    "hz_player_name":null,
-    "player_id":"714578950",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ_Otaku",
     "hz_player_name":null,
     "player_id":"712376621",
     "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_Paul06",
-    "hz_player_name":null,
-    "player_id":"716943083",
-    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3128,10 +1840,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ_Powerade77",
+    "Name":"frz_rage1",
     "hz_player_name":null,
-    "player_id":"718184179",
-    "portal_id":"9",
+    "player_id":"722810428",
+    "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3140,14 +1852,6 @@
     "hz_player_name":null,
     "player_id":"715546016",
     "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_ROBY",
-    "hz_player_name":null,
-    "player_id":"714390506",
-    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3184,18 +1888,18 @@
     "ret_msg":null
   },
   {
-    "Name":"FrZ_SuresH",
+    "Name":"FRZ_sTup3",
     "hz_player_name":null,
-    "player_id":"508333266",
+    "player_id":"503273073",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"FRZ_Th3od0r_",
+    "Name":"Frz_Swaits",
     "hz_player_name":null,
-    "player_id":"712183907",
-    "portal_id":"9",
+    "player_id":"720973679",
+    "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3203,30 +1907,6 @@
     "Name":"FRz_Tidy",
     "hz_player_name":null,
     "player_id":"507023329",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz_trixx_XX",
-    "hz_player_name":null,
-    "player_id":"509401008",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_V1NC3NT",
-    "hz_player_name":null,
-    "player_id":"506795353",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz_Venom",
-    "hz_player_name":null,
-    "player_id":"710203974",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3240,41 +1920,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ_Vixen",
-    "hz_player_name":null,
-    "player_id":"505983411",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_WIIRZOX",
-    "hz_player_name":null,
-    "player_id":"713358742",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZ_Youndark69",
-    "hz_player_name":null,
-    "player_id":"713152605",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZ_ZAC4TACK",
     "hz_player_name":null,
     "player_id":"506018437",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ_Zamasu",
-    "hz_player_name":null,
-    "player_id":"507720365",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3304,14 +1952,6 @@
     "ret_msg":null
   },
   {
-    "Name":"Frz2p",
-    "hz_player_name":null,
-    "player_id":"706964756",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frz3_x",
     "hz_player_name":null,
     "player_id":"504262054",
@@ -3328,14 +1968,6 @@
     "ret_msg":null
   },
   {
-    "Name":"frz666_XD",
-    "hz_player_name":null,
-    "player_id":"509000813",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZ67-",
     "hz_player_name":null,
     "player_id":"504515893",
@@ -3344,34 +1976,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frz91rus",
+    "Name":"frz6mcAS31tBM70P",
     "hz_player_name":null,
-    "player_id":"500258908",
+    "player_id":"506466582",
     "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZ95",
-    "hz_player_name":null,
-    "player_id":"702132650",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frza",
-    "hz_player_name":null,
-    "player_id":"706435503",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZA",
-    "hz_player_name":null,
-    "player_id":"706861523",
-    "portal_id":"22",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3384,42 +1992,10 @@
     "ret_msg":null
   },
   {
-    "Name":"FrZahryL_",
-    "hz_player_name":null,
-    "player_id":"717218370",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzaidg",
-    "hz_player_name":null,
-    "player_id":"504768838",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZaiIKo",
-    "hz_player_name":null,
-    "player_id":"505036318",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzanatorka222",
     "hz_player_name":null,
     "player_id":"703405447",
     "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzaRezolf",
-    "hz_player_name":null,
-    "player_id":"714204273",
-    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3440,9 +2016,41 @@
     "ret_msg":null
   },
   {
+    "Name":"frzbode",
+    "hz_player_name":null,
+    "player_id":"508873424",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzbot-",
+    "hz_player_name":null,
+    "player_id":"720753198",
+    "portal_id":"9",
+    "privacy_flag":"y",
+    "ret_msg":null
+  },
+  {
     "Name":"frzbro",
     "hz_player_name":null,
     "player_id":"501431504",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-Cam",
+    "hz_player_name":null,
+    "player_id":"705045050",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzcracked",
+    "hz_player_name":null,
+    "player_id":"719402874",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3456,18 +2064,18 @@
     "ret_msg":null
   },
   {
-    "Name":"FrzDary",
+    "Name":"FRZ-DeadShot",
     "hz_player_name":null,
-    "player_id":"715878435",
-    "portal_id":"10",
+    "player_id":"508481219",
+    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
   {
-    "Name":"frzday",
+    "Name":"FRZDK_",
     "hz_player_name":null,
-    "player_id":"707872732",
-    "portal_id":"22",
+    "player_id":"503966455",
+    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3488,34 +2096,10 @@
     "ret_msg":null
   },
   {
-    "Name":"frzdosertão",
-    "hz_player_name":"SmurfdoFhelics",
-    "player_id":"15435191",
-    "portal_id":"28",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrZe D3mi",
     "hz_player_name":null,
     "player_id":"701868818",
     "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRzE SHoCkErZz",
-    "hz_player_name":null,
-    "player_id":"701117105",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frze_CHRis",
-    "hz_player_name":null,
-    "player_id":"712021925",
-    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3536,14 +2120,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZE_NIGHTMARE",
-    "hz_player_name":null,
-    "player_id":"716178989",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FRZE_Wolf",
     "hz_player_name":null,
     "player_id":"711304397",
@@ -3552,57 +2128,9 @@
     "ret_msg":null
   },
   {
-    "Name":"Frze101",
-    "hz_player_name":null,
-    "player_id":"708258623",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frze2",
-    "hz_player_name":null,
-    "player_id":"710766373",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"Frze900",
     "hz_player_name":null,
     "player_id":"506375254",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzeed11",
-    "hz_player_name":null,
-    "player_id":"504564328",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZeiKo_06",
-    "hz_player_name":null,
-    "player_id":"716028214",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZeiKo_80",
-    "hz_player_name":null,
-    "player_id":"716181072",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FRZeiKoO_06",
-    "hz_player_name":null,
-    "player_id":"716890372",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3640,10 +2168,10 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzerbrn",
+    "Name":"FrzeRayGaming101",
     "hz_player_name":null,
-    "player_id":"706064907",
-    "portal_id":"22",
+    "player_id":"501871049",
+    "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3664,41 +2192,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZFABY",
+    "Name":"frzfode",
     "hz_player_name":null,
-    "player_id":"509094575",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzfire",
-    "hz_player_name":null,
-    "player_id":"715690396",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzfireXX",
-    "hz_player_name":null,
-    "player_id":"717615808",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frzflix123",
-    "hz_player_name":null,
-    "player_id":"705774140",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzfrttf",
-    "hz_player_name":null,
-    "player_id":"715910367",
+    "player_id":"718273239",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3720,6 +2216,14 @@
     "ret_msg":null
   },
   {
+    "Name":"FRZGOD",
+    "hz_player_name":null,
+    "player_id":"716386843",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
     "Name":"FRZGOD Br",
     "hz_player_name":null,
     "player_id":"700429576",
@@ -3728,19 +2232,11 @@
     "ret_msg":null
   },
   {
-    "Name":"Frzgod_",
-    "hz_player_name":null,
-    "player_id":"509280209",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzgod-_-",
     "hz_player_name":null,
     "player_id":"718617885",
     "portal_id":"9",
-    "privacy_flag":"n",
+    "privacy_flag":"y",
     "ret_msg":null
   },
   {
@@ -3748,6 +2244,14 @@
     "hz_player_name":null,
     "player_id":"718917593",
     "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzgod1",
+    "hz_player_name":null,
+    "player_id":"717765260",
+    "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
   },
@@ -3776,33 +2280,9 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZ-GODL2",
-    "hz_player_name":null,
-    "player_id":"716751376",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgody",
-    "hz_player_name":null,
-    "player_id":"11525904",
-    "portal_id":"28",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"frzgody",
     "hz_player_name":null,
     "player_id":"718225654",
-    "portal_id":"28",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzgodي",
-    "hz_player_name":null,
-    "player_id":"717864248",
     "portal_id":"28",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3848,22 +2328,6 @@
     "ret_msg":null
   },
   {
-    "Name":"FRZH_Rob",
-    "hz_player_name":null,
-    "player_id":"501044486",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzh_white-fang",
-    "hz_player_name":null,
-    "player_id":"507895769",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrzHiroshi",
     "hz_player_name":null,
     "player_id":"11357539",
@@ -3888,57 +2352,9 @@
     "ret_msg":null
   },
   {
-    "Name":"frziceberg",
+    "Name":"FrzingFrnchToast",
     "hz_player_name":null,
-    "player_id":"500189579",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzin-",
-    "hz_player_name":null,
-    "player_id":"715524905",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzingPLut0",
-    "hz_player_name":null,
-    "player_id":"710445853",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrzingTrtl",
-    "hz_player_name":null,
-    "player_id":"707358026",
-    "portal_id":"22",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZiti",
-    "hz_player_name":null,
-    "player_id":"702494243",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZiti",
-    "hz_player_name":null,
-    "player_id":"704607123",
-    "portal_id":"10",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"FrZiZ0U",
-    "hz_player_name":null,
-    "player_id":"714677283",
+    "player_id":"500871539",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3952,33 +2368,961 @@
     "ret_msg":null
   },
   {
-    "Name":"frzkeeeee",
-    "hz_player_name":null,
-    "player_id":"717939686",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"frzkillers261",
-    "hz_player_name":null,
-    "player_id":"504312136",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
-    "Name":"Frz-KrOexuS-",
-    "hz_player_name":null,
-    "player_id":"505887101",
-    "portal_id":"9",
-    "privacy_flag":"n",
-    "ret_msg":null
-  },
-  {
     "Name":"FrzLegacy",
     "hz_player_name":null,
     "player_id":"501493562",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzmamaof4",
+    "hz_player_name":null,
+    "player_id":"702266921",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzMavrick",
+    "hz_player_name":null,
+    "player_id":"719015083",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-MrFix",
+    "hz_player_name":null,
+    "player_id":"713996418",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzmt",
+    "hz_player_name":null,
+    "player_id":"500258313",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn",
+    "hz_player_name":null,
+    "player_id":"709076838",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn | Zam",
+    "hz_player_name":null,
+    "player_id":"706609065",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzn Coyote",
+    "hz_player_name":null,
+    "player_id":"702043624",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN Dępth",
+    "hz_player_name":null,
+    "player_id":"706943354",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Banane",
+    "hz_player_name":null,
+    "player_id":"719390034",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_BlueNation",
+    "hz_player_name":null,
+    "player_id":"508266161",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Cyntiax",
+    "hz_player_name":null,
+    "player_id":"508266159",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_Fear",
+    "hz_player_name":null,
+    "player_id":"504744628",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzn_Iceblokz",
+    "hz_player_name":null,
+    "player_id":"500477304",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_L2_BTW",
+    "hz_player_name":null,
+    "player_id":"507129905",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_PoSeiDoN",
+    "hz_player_name":null,
+    "player_id":"502809983",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_UNKNOWN",
+    "hz_player_name":null,
+    "player_id":"714287073",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_Xykedelik",
+    "hz_player_name":null,
+    "player_id":"713672858",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-Nazuro",
+    "hz_player_name":null,
+    "player_id":"714653027",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzncis",
+    "hz_player_name":null,
+    "player_id":"507131106",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzncstrd",
+    "hz_player_name":null,
+    "player_id":"500762841",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZNFVNG",
+    "hz_player_name":null,
+    "player_id":"707080501",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzngrvyrd",
+    "hz_player_name":null,
+    "player_id":"708273012",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznInfrn0",
+    "hz_player_name":null,
+    "player_id":"715921528",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznJoe7752",
+    "hz_player_name":null,
+    "player_id":"722140654",
+    "portal_id":"10",
+    "privacy_flag":"y",
+    "ret_msg":null
+  },
+  {
+    "Name":"frznk13",
+    "hz_player_name":null,
+    "player_id":"712974524",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frznnn",
+    "hz_player_name":null,
+    "player_id":"717817403",
+    "portal_id":"28",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznRpe",
+    "hz_player_name":null,
+    "player_id":"702787404",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZNShadow",
+    "hz_player_name":null,
+    "player_id":"715846609",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frznthndrX8",
+    "hz_player_name":null,
+    "player_id":"708968632",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzo_007",
+    "hz_player_name":null,
+    "player_id":"502063233",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZorian",
+    "hz_player_name":null,
+    "player_id":"503038530",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZorka",
+    "hz_player_name":null,
+    "player_id":"505123809",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzqnthr",
+    "hz_player_name":null,
+    "player_id":"708370769",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ-Rossyy",
+    "hz_player_name":null,
+    "player_id":"507331888",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZS I T0rtuga",
+    "hz_player_name":null,
+    "player_id":"704223424",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzskilled",
+    "hz_player_name":null,
+    "player_id":"703687955",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzstey",
+    "hz_player_name":null,
+    "player_id":"700736336",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzSunset",
+    "hz_player_name":null,
+    "player_id":"707687094",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZSwifty",
+    "hz_player_name":null,
+    "player_id":"709762208",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzswq__",
+    "hz_player_name":null,
+    "player_id":"712016539",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZT_GEE",
+    "hz_player_name":null,
+    "player_id":"507079065",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRzTaqkl",
+    "hz_player_name":null,
+    "player_id":"505604717",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZt--B1te",
+    "hz_player_name":null,
+    "player_id":"503152181",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz-Tom",
+    "hz_player_name":null,
+    "player_id":"709851891",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZtutur65",
+    "hz_player_name":null,
+    "player_id":"709160779",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzuh",
+    "hz_player_name":null,
+    "player_id":"507680916",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRzWeedNinja",
+    "hz_player_name":null,
+    "player_id":"501143109",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZwf",
+    "hz_player_name":null,
+    "player_id":"502682817",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzx_Lcm",
+    "hz_player_name":null,
+    "player_id":"507461883",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzXGod",
+    "hz_player_name":null,
+    "player_id":"715653506",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZxQ",
+    "hz_player_name":null,
+    "player_id":"504040379",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzxtyz",
+    "hz_player_name":null,
+    "player_id":"508968444",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZXXMURILOXX",
+    "hz_player_name":null,
+    "player_id":"717809048",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZy_DRAGONZED33",
+    "hz_player_name":null,
+    "player_id":"504390177",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzy_Jubileu",
+    "hz_player_name":null,
+    "player_id":"501789545",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZy-Kurdo",
+    "hz_player_name":null,
+    "player_id":"720671498",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzyns",
+    "hz_player_name":null,
+    "player_id":"502200456",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZyx_gOn3s",
+    "hz_player_name":null,
+    "player_id":"711294106",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZz ViiFrOz",
+    "hz_player_name":null,
+    "player_id":"703955639",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzz_exe",
+    "hz_player_name":null,
+    "player_id":"721616187",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzzer_jules",
+    "hz_player_name":null,
+    "player_id":"721600486",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRzzGamer187",
+    "hz_player_name":null,
+    "player_id":"509222000",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzzlfly2",
+    "hz_player_name":null,
+    "player_id":"715195462",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzxdsrzvxsfx",
+    "hz_player_name":null,
+    "player_id":"715803445",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzvelocity133",
+    "hz_player_name":null,
+    "player_id":"704034433",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZV__",
+    "hz_player_name":null,
+    "player_id":"717836814",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzt Willy",
+    "hz_player_name":null,
+    "player_id":"706559604",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frz-sutton",
+    "hz_player_name":null,
+    "player_id":"708190558",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzst--",
+    "hz_player_name":null,
+    "player_id":"711614304",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-prosamu",
+    "hz_player_name":null,
+    "player_id":"721920693",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZPKindeRjo",
+    "hz_player_name":null,
+    "player_id":"719034897",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzorila344",
+    "hz_player_name":null,
+    "player_id":"505609037",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzono",
+    "hz_player_name":null,
+    "player_id":"507009735",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzone99",
+    "hz_player_name":null,
+    "player_id":"707932217",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzone99",
+    "hz_player_name":null,
+    "player_id":"503739672",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzone21",
+    "hz_player_name":null,
+    "player_id":"506442400",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZone_59",
+    "hz_player_name":null,
+    "player_id":"503375118",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznToes",
+    "hz_player_name":null,
+    "player_id":"705917686",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frznSnowyy",
+    "hz_player_name":null,
+    "player_id":"703287444",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznRose",
+    "hz_player_name":null,
+    "player_id":"710403335",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZNPanda",
+    "hz_player_name":null,
+    "player_id":"710353394",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzNowtgz",
+    "hz_player_name":null,
+    "player_id":"708346516",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frznmnky",
+    "hz_player_name":null,
+    "player_id":"720985917",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznHero",
+    "hz_player_name":null,
+    "player_id":"507586213",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZNG_Hydro",
+    "hz_player_name":null,
+    "player_id":"503205095",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznFox",
+    "hz_player_name":null,
+    "player_id":"710890374",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzNevio",
+    "hz_player_name":null,
+    "player_id":"720027407",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-Nerfight",
+    "hz_player_name":null,
+    "player_id":"500834611",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZnCs17",
+    "hz_player_name":null,
+    "player_id":"711618604",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzncookie",
+    "hz_player_name":null,
+    "player_id":"713570221",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frznbeenz",
+    "hz_player_name":null,
+    "player_id":"703165827",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzNate",
+    "hz_player_name":null,
+    "player_id":"701185630",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrznAngel",
+    "hz_player_name":null,
+    "player_id":"708828211",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzn_WhiTeWiDo_",
+    "hz_player_name":null,
+    "player_id":"502643882",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn-_-weeb",
+    "hz_player_name":null,
+    "player_id":"710688509",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_WaynerZ",
+    "hz_player_name":null,
+    "player_id":"717654899",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzn_urMadSuS",
+    "hz_player_name":null,
+    "player_id":"720657334",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_S7ar",
+    "hz_player_name":null,
+    "player_id":"710361266",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_RIXT",
+    "hz_player_name":null,
+    "player_id":"507236872",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Pzion",
+    "hz_player_name":null,
+    "player_id":"709967850",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Mimo",
+    "hz_player_name":null,
+    "player_id":"714139204",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_Keys_YT",
+    "hz_player_name":null,
+    "player_id":"715891210",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Gaming",
+    "hz_player_name":null,
+    "player_id":"709884365",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Fight",
+    "hz_player_name":null,
+    "player_id":"508202352",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_CRYPT7",
+    "hz_player_name":null,
+    "player_id":"710023586",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn_Bobert",
+    "hz_player_name":null,
+    "player_id":"713645474",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_BangBangYT",
+    "hz_player_name":null,
+    "player_id":"716332263",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN_Asigent",
+    "hz_player_name":null,
+    "player_id":"507029582",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN Pizza Roll",
+    "hz_player_name":null,
+    "player_id":"700358160",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN Meatball",
+    "hz_player_name":null,
+    "player_id":"710705548",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN mark2000",
+    "hz_player_name":null,
+    "player_id":"702450417",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN Kitty",
+    "hz_player_name":null,
+    "player_id":"711613179",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn InFINITy",
+    "hz_player_name":null,
+    "player_id":"700291432",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN GWAVY",
+    "hz_player_name":null,
+    "player_id":"711497268",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZN Destiny",
+    "hz_player_name":null,
+    "player_id":"703164642",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZn",
+    "hz_player_name":null,
+    "player_id":"706417966",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZMX",
+    "hz_player_name":null,
+    "player_id":"508935318",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzmtn4",
+    "hz_player_name":null,
+    "player_id":"502290442",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzlvs_",
+    "hz_player_name":null,
+    "player_id":"713271692",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null
@@ -3992,9 +3336,665 @@
     "ret_msg":null
   },
   {
-    "Name":"frzlvs_",
+    "Name":"Frz-KrOexuS-",
     "hz_player_name":null,
-    "player_id":"713271692",
+    "player_id":"505887101",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzkillers261",
+    "hz_player_name":null,
+    "player_id":"504312136",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzkeeeee",
+    "hz_player_name":null,
+    "player_id":"717939686",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRzK zer0xx",
+    "hz_player_name":null,
+    "player_id":"721111933",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzizoufr",
+    "hz_player_name":null,
+    "player_id":"717514836",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZiZ0U",
+    "hz_player_name":null,
+    "player_id":"714677283",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZiti",
+    "hz_player_name":null,
+    "player_id":"704607123",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZiti",
+    "hz_player_name":null,
+    "player_id":"702494243",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzingTrtl",
+    "hz_player_name":null,
+    "player_id":"707358026",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzin-",
+    "hz_player_name":null,
+    "player_id":"715524905",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzieYT",
+    "hz_player_name":null,
+    "player_id":"720144426",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frziceberg",
+    "hz_player_name":null,
+    "player_id":"500189579",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzh_white-fang",
+    "hz_player_name":null,
+    "player_id":"507895769",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZH_Rob",
+    "hz_player_name":null,
+    "player_id":"501044486",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-GODL2",
+    "hz_player_name":null,
+    "player_id":"716751376",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZGODD",
+    "hz_player_name":null,
+    "player_id":"720759800",
+    "portal_id":"9",
+    "privacy_flag":"y",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZGOD1",
+    "hz_player_name":null,
+    "player_id":"712588358",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzgod_",
+    "hz_player_name":null,
+    "player_id":"509280209",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZGÓD",
+    "hz_player_name":null,
+    "player_id":"717921905",
+    "portal_id":"28",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzfrttf",
+    "hz_player_name":null,
+    "player_id":"715910367",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzflix24",
+    "hz_player_name":null,
+    "player_id":"705877491",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzflix123",
+    "hz_player_name":null,
+    "player_id":"705774140",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzfireXX",
+    "hz_player_name":null,
+    "player_id":"717615808",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZFABY",
+    "hz_player_name":null,
+    "player_id":"509094575",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZezko",
+    "hz_player_name":null,
+    "player_id":"712340578",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZEROTy",
+    "hz_player_name":null,
+    "player_id":"504575745",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzerbrn",
+    "hz_player_name":null,
+    "player_id":"706064907",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZeiKoO_06",
+    "hz_player_name":null,
+    "player_id":"716890372",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZeiKo_80",
+    "hz_player_name":null,
+    "player_id":"716181072",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZeiKo_06",
+    "hz_player_name":null,
+    "player_id":"716028214",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frzeed11",
+    "hz_player_name":null,
+    "player_id":"504564328",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frze2",
+    "hz_player_name":null,
+    "player_id":"710766373",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frze_Shadow",
+    "hz_player_name":null,
+    "player_id":"502218668",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZE_NIGHTMARE",
+    "hz_player_name":null,
+    "player_id":"716178989",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZE_flicksss",
+    "hz_player_name":null,
+    "player_id":"720687222",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frze_CHRis",
+    "hz_player_name":null,
+    "player_id":"712021925",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRzE SHoCkErZz",
+    "hz_player_name":null,
+    "player_id":"701117105",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzday",
+    "hz_player_name":null,
+    "player_id":"707872732",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzDary",
+    "hz_player_name":null,
+    "player_id":"715878435",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frz-Brownboy",
+    "hz_player_name":null,
+    "player_id":"500994487",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzaRezolf",
+    "hz_player_name":null,
+    "player_id":"714204273",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrzAreu",
+    "hz_player_name":null,
+    "player_id":"708317908",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzapex",
+    "hz_player_name":null,
+    "player_id":"715690396",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzan74",
+    "hz_player_name":null,
+    "player_id":"502020319",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZaiIKo",
+    "hz_player_name":null,
+    "player_id":"505036318",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzaidg",
+    "hz_player_name":null,
+    "player_id":"504768838",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZahryL_",
+    "hz_player_name":null,
+    "player_id":"717218370",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frzachy-_-",
+    "hz_player_name":null,
+    "player_id":"506626711",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZA",
+    "hz_player_name":null,
+    "player_id":"706861523",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frza",
+    "hz_player_name":null,
+    "player_id":"706435503",
+    "portal_id":"22",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ95",
+    "hz_player_name":null,
+    "player_id":"702132650",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frz91rus",
+    "hz_player_name":null,
+    "player_id":"500258908",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frz91",
+    "hz_player_name":null,
+    "player_id":"701554983",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ6gRoy",
+    "hz_player_name":null,
+    "player_id":"700487110",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz3snipEr",
+    "hz_player_name":null,
+    "player_id":"708008935",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz2p",
+    "hz_player_name":null,
+    "player_id":"706964756",
+    "portal_id":"10",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Zamasu",
+    "hz_player_name":null,
+    "player_id":"507720365",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ_Youndark69",
+    "hz_player_name":null,
+    "player_id":"713152605",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_WIIRZOX",
+    "hz_player_name":null,
+    "player_id":"713358742",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Vixen",
+    "hz_player_name":null,
+    "player_id":"505983411",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_Venom",
+    "hz_player_name":null,
+    "player_id":"710203974",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_V1NC3NT",
+    "hz_player_name":null,
+    "player_id":"506795353",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_trixx_XX",
+    "hz_player_name":null,
+    "player_id":"509401008",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Th3od0r_",
+    "hz_player_name":null,
+    "player_id":"712183907",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ_SuresH",
+    "hz_player_name":null,
+    "player_id":"508333266",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ_SnezeE",
+    "hz_player_name":null,
+    "player_id":"509386128",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ_Sirius",
+    "hz_player_name":null,
+    "player_id":"507291421",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_ROBY",
+    "hz_player_name":null,
+    "player_id":"714390506",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Powerade77",
+    "hz_player_name":null,
+    "player_id":"718184179",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_Paul06",
+    "hz_player_name":null,
+    "player_id":"716943083",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_neo243",
+    "hz_player_name":null,
+    "player_id":"714578950",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_NaYzRoX",
+    "hz_player_name":null,
+    "player_id":"501021265",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FrZ_MoD5",
+    "hz_player_name":null,
+    "player_id":"502565778",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_MKB",
+    "hz_player_name":null,
+    "player_id":"506910277",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_LAOSSS",
+    "hz_player_name":null,
+    "player_id":"509035153",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_Kendall2604",
+    "hz_player_name":null,
+    "player_id":"707911441",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_Jukeya",
+    "hz_player_name":null,
+    "player_id":"508584759",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_JakobXDYT",
+    "hz_player_name":null,
+    "player_id":"717300503",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_hisoka__",
+    "hz_player_name":null,
+    "player_id":"716283205",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"Frz_Greg",
+    "hz_player_name":null,
+    "player_id":"500810173",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ-_-Floww",
+    "hz_player_name":null,
+    "player_id":"502821773",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"frz_Felix08",
+    "hz_player_name":null,
+    "player_id":"509311879",
+    "portal_id":"9",
+    "privacy_flag":"n",
+    "ret_msg":null
+  },
+  {
+    "Name":"FRZ_DyabloXx",
+    "hz_player_name":null,
+    "player_id":"721055044",
     "portal_id":"9",
     "privacy_flag":"n",
     "ret_msg":null

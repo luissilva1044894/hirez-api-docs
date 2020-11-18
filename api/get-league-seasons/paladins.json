@@ -1,49 +1,92 @@
-[{
-  "complete": true,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 1,
-  "season": 3
-}, {
-  "complete": true,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 2,
-  "season": 3
-}, {
-  "complete": true,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 3,
-  "season": 3
-}, {
-  "complete": true,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 4,
-  "season": 3
-}, {
-  "complete": true,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 5,
-  "season": 3
-}, {
-  "complete": false,
-  "id": 3,
-  "league_description": "Ranked",
-  "name": "Season 3",
-  "ret_msg": null,
-  "round": 6,
-  "season": 3
-}]
+[
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":1,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":2,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":3,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":4,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":5,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":3,
+    "league_description":"Ranked",
+    "name":"Season 3",
+    "ret_msg":null,
+    "round":6,
+    "season":3
+  },
+  {
+    "complete":true,
+    "id":4,
+    "league_description":"Ranked",
+    "name":"Season 4",
+    "ret_msg":null,
+    "round":1,
+    "season":4
+  },
+  {
+    "complete":true,
+    "id":4,
+    "league_description":"Ranked",
+    "name":"Season 4",
+    "ret_msg":null,
+    "round":2,
+    "season":4
+  },
+  {
+    "complete":true,
+    "id":4,
+    "league_description":"Ranked",
+    "name":"Season 4",
+    "ret_msg":null,
+    "round":3,
+    "season":4
+  },
+  {
+    "complete":false,
+    "id":4,
+    "league_description":"Ranked",
+    "name":"Season 4",
+    "ret_msg":null,
+    "round":4,
+    "season":4
+  }
+]
