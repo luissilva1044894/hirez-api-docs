@@ -157,12 +157,17 @@ Valid values are:
   <tr><td>26783</td><td>Lesbian Pride</td><td><img src="./../.assets/paladins/avatar/26783.png" height="32" width="32"/></td></tr>
   <tr><td>26784</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/26784.png" height="32" width="32"/></td></tr>
 
-  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/grover_xmas.jpg" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Holiday Cheer</td><td><img src="./../.assets/paladins/avatar/grover_xmas.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>First Fruits</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_khan.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_koga.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_lian.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_lian_wings.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_statue.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
