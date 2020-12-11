@@ -148,6 +148,7 @@ Valid values are:
   <tr><td>26762</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/26762.png" height="32" width="32"/></td></tr>
   <tr><td>26763</td><td>Trailblazer</td><td><img src="./../.assets/paladins/avatar/26763.png" height="32" width="32"/></td></tr>
   <tr><td>26764</td><td>Ember</td><td><img src="./../.assets/paladins/avatar/26764.png" height="32" width="32"/></td></tr>
+  <tr><td>26769</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/26769.jpg" height="32" width="32"/></td></tr>
   <tr><td>26774</td><td>Beevie</td><td><img src="./../.assets/paladins/avatar/26774.jpg" height="32" width="32"/></td></tr>
   <tr><td>26776</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/26776.jpg" height="32" width="32"/></td></tr>
   <tr><td>26779</td><td>Bisexual Pride</td><td><img src="./../.assets/paladins/avatar/26779.png" height="32" width="32"/></td></tr>
@@ -160,7 +161,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Holiday Cheer</td><td><img src="./../.assets/paladins/avatar/grover_xmas.jpg" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/hannukah.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>First Fruits</td><td><img src="./../.assets/paladins/avatar/kwanzah.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_khan.gif" height="32" width="32"/></td></tr>
