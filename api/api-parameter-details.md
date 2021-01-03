@@ -151,6 +151,7 @@ Valid values are:
   <tr><td>26769</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/26769.jpg" height="32" width="32"/></td></tr>
   <tr><td>26770</td><td>First Fruits</td><td><img src="./../.assets/paladins/avatar/26770.jpg" height="32" width="32"/></td></tr>
   <tr><td>26771</td><td>Holiday Cheer</td><td><img src="./../.assets/paladins/avatar/26771.jpg" height="32" width="32"/></td></tr>
+  <tr><td>26772</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/26772.jpg" height="32" width="32"/></td></tr>
   <tr><td>26774</td><td>Beevie</td><td><img src="./../.assets/paladins/avatar/26774.jpg" height="32" width="32"/></td></tr>
   <tr><td>26776</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/26776.jpg" height="32" width="32"/></td></tr>
   <tr><td>26779</td><td>Bisexual Pride</td><td><img src="./../.assets/paladins/avatar/26779.png" height="32" width="32"/></td></tr>
@@ -160,7 +161,6 @@ Valid values are:
   <tr><td>26783</td><td>Lesbian Pride</td><td><img src="./../.assets/paladins/avatar/26783.png" height="32" width="32"/></td></tr>
   <tr><td>26784</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/26784.png" height="32" width="32"/></td></tr>
 
-  <tr><td>MISSING</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/baby_new_year.jpg" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>MISSING</td><td><img src="./../.assets/paladins/avatar/pyre_khan.gif" height="32" width="32"/></td></tr>
