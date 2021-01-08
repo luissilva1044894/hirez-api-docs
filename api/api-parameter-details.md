@@ -173,7 +173,7 @@ Valid values are:
   <tr><td>MISSING</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/ramadan_2021.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>St. Patricks Snek</td><td><img src="./../.assets/paladins/avatar/st_damba_day.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>The Maw</td><td><img src="./../.assets/paladins/avatar/yagorath_ranked.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Valentines Ying</td><td><img src="./../.assets/paladins/avatar/ying_valentines_day.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Valentines Ying</td><td><img src="./../.assets/paladins/avatar/ying_valentines_day.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
