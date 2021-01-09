@@ -160,12 +160,12 @@ Valid values are:
   <tr><td>26782</td><td>Non-Binary Pride</td><td><img src="./../.assets/paladins/avatar/26782.png" height="32" width="32"/></td></tr>
   <tr><td>26783</td><td>Lesbian Pride</td><td><img src="./../.assets/paladins/avatar/26783.png" height="32" width="32"/></td></tr>
   <tr><td>26784</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/26784.png" height="32" width="32"/></td></tr>
+  <tr><td>26875</td><td>Dark Deeds</td><td><img src="./../.assets/paladins/avatar/26875.png" height="32" width="32"/></td></tr>
   <tr><td>26876</td><td>Beauty in Conflict</td><td><img src="./../.assets/paladins/avatar/26876.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Penitence</td><td><img src="./../.assets/paladins/avatar/pyre_khan.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Dark Deeds</td><td><img src="./../.assets/paladins/avatar/pyre_koga.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Uplifting Grace</td><td><img src="./../.assets/paladins/avatar/pyre_lian_wings.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Relic of Salvation</td><td><img src="./../.assets/paladins/avatar/pyre_statue.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Lunar New Year</td><td><img src="./../.assets/paladins/avatar/lunar_new_year.png" height="32" width="32"/></td></tr>
