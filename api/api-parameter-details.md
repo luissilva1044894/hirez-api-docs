@@ -116,7 +116,7 @@ Valid values are:
   <tr><td>25227</td><td>Mischievous</td><td><img src="./../.assets/paladins/avatar/25227.gif" height="32" width="32"/></td></tr>
   <tr><td>25228</td><td>Forest Protector</td><td><img src="./../.assets/paladins/avatar/25228.gif" height="32" width="32"/></td></tr>
   <tr><td>25229</td><td>Ice Box</td><td><img src="./../.assets/paladins/avatar/25229.png" height="32" width="32"/></td></tr>
-  <tr><td>25342</td><td>Charity Avatar Community Patch</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
+  <tr><td>25342</td><td>2019 Charity Avatar</td><td><img src="./../.assets/paladins/avatar/25342.png" height="32" width="32"/></td></tr>
   <tr><td>25355</td><td>Adanas The Balance Master</td><td><img src="./../.assets/paladins/avatar/25355.png" height="32" width="32"/></td></tr>
   <tr><td>25356</td><td>Gentleman Raum</td><td><img src="./../.assets/paladins/avatar/25356.png" height="32" width="32"/></td></tr>
   <tr><td>25357</td><td>Tyra-nova</td><td><img src="./../.assets/paladins/avatar/25357.png" height="32" width="32"/></td></tr>
