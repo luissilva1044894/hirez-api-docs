@@ -162,18 +162,19 @@ Valid values are:
   <tr><td>26784</td><td>Pansexual Pride</td><td><img src="./../.assets/paladins/avatar/26784.png" height="32" width="32"/></td></tr>
   <tr><td>26875</td><td>Dark Deeds</td><td><img src="./../.assets/paladins/avatar/26875.png" height="32" width="32"/></td></tr>
   <tr><td>26876</td><td>Beauty in Conflict</td><td><img src="./../.assets/paladins/avatar/26876.png" height="32" width="32"/></td></tr>
+  <tr><td>26877</td><td>Relic of Salvation</td><td><img src="./../.assets/paladins/avatar/26877.png" height="32" width="32"/></td></tr>
+  <tr><td>26878</td><td>Penitence</td><td><img src="./../.assets/paladins/avatar/26878.gif" height="32" width="32"/></td></tr>
+  <tr><td>26879</td><td>Uplifting Grace</td><td><img src="./../.assets/paladins/avatar/26879.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Penitence</td><td><img src="./../.assets/paladins/avatar/pyre_khan.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Uplifting Grace</td><td><img src="./../.assets/paladins/avatar/pyre_lian_wings.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Relic of Salvation</td><td><img src="./../.assets/paladins/avatar/pyre_statue.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Lunar New Year</td><td><img src="./../.assets/paladins/avatar/lunar_new_year.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Egg Hunter Moji</td><td><img src="./../.assets/paladins/avatar/moji_easter.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Magic Easter Moji</td><td><img src="./../.assets/paladins/avatar/moji_easter.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/ramadan_2021.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>St. Patricks Snek</td><td><img src="./../.assets/paladins/avatar/st_damba_day.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Charmed, I'm Sure</td><td><img src="./../.assets/paladins/avatar/st_damba_day.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>The Maw</td><td><img src="./../.assets/paladins/avatar/yagorath_ranked.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Valentines Ying</td><td><img src="./../.assets/paladins/avatar/ying_valentines_day.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/ying_valentines_day.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Self-Sufficient</td><td><img src="./../.assets/paladins/avatar/torvald_ranked.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
