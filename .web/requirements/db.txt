@@ -4,7 +4,7 @@ databases[postgresql,sqlite]==0.4.1;python_version>='3.6'
 
 ## Database
 # https://github.com/miguelgrinberg/Flask-Migrate
-Flask-Migrate==2.5.3 
+Flask-Migrate==2.6.0 
 
 # https://github.com/smurfix/flask-script
 Flask-Script==2.0.6
