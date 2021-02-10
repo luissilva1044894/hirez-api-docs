@@ -22,4 +22,4 @@ urllib3==1.26.3;python_version>='3.6'
 simplejson==3.17.2
 
 # https://github.com/MagicStack/uvloop
-uvloop==0.14.0;platform_system!='Windows' and sys_platform != 'cygwin' and implementation_name != 'pypy'
+uvloop==0.15.0;platform_system!='Windows' and sys_platform != 'cygwin' and implementation_name != 'pypy'
