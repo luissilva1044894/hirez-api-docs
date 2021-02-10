@@ -203,57 +203,57 @@ Champions are organized into 4 different classes:
   - <img src="./../.assets/paladins/icons/class/front-line-team.png" height="12" width="16"/>Front Line: These champions are the best at maintaining control of objectives and protecting their teammates through shields, personal force fields, or just by taking fire. Front Line champions gain 100% more [Credits][credits] for standing near an objective. 
   - <img src="./../.assets/paladins/icons/class/support-team.png" height="12" width="16"/>Support: These champions offer a wide range of utility, both offensive and defensive. However, they specialize in healing and causing chaos in enemy attacks. Support champions gain 100% more [Credits][credits] for healing allies, and eliminations from healing a target that gets the killing blow on an enemy. Support champions also gain ultimate charge from healing done to teammates besides themselves. Healing that restores 0 Health (for example, healing someone who is at full health) won't provide ultimate charge. 
 
-There are currently 46 playable champions in the game (Updated in 10/30/2020 04:55:20):
+There are currently 47 playable champions in the game (Updated in 02/10/2021 14:07:45):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Portrait</th></tr>
-  <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="./../.assets/paladins/characters/androxus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2404</td><td>Ash</td><td>Front Line</td><td>The War Machine</td><td><img src="./../.assets/paladins/characters/ash.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2512</td><td>Atlas</td><td>Front Line</td><td>The Man Out of Time</td><td><img src="./../.assets/paladins/characters/atlas.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2073</td><td>Barik</td><td>Front Line</td><td>The Master Mechanic</td><td><img src="./../.assets/paladins/characters/barik.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2281</td><td>Bomb King</td><td>Damage</td><td>His Majesty</td><td><img src="./../.assets/paladins/characters/bomb-king.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2147</td><td>Buck</td><td>Flank</td><td>The Unyielding</td><td><img src="./../.assets/paladins/characters/buck.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2092</td><td>Cassie</td><td>Damage</td><td>The Hunter's Daughter</td><td><img src="./../.assets/paladins/characters/cassie.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2533</td><td>Corvus</td><td>Support</td><td>The Magistrate's Blade</td><td><img src="./../.assets/paladins/characters/corvus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2495</td><td>Dredge</td><td>Damage</td><td>Admiral of the Abyss</td><td><img src="./../.assets/paladins/characters/dredge.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2277</td><td>Drogoz</td><td>Damage</td><td>The Greedy</td><td><img src="./../.assets/paladins/characters/drogoz.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2094</td><td>Evie</td><td>Flank</td><td>The Winter Witch</td><td><img src="./../.assets/paladins/characters/evie.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2071</td><td>Fernando</td><td>Front Line</td><td>The Self-Appointed Knight</td><td><img src="./../.assets/paladins/characters/fernando.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2491</td><td>Furia</td><td>Support</td><td>Angel of Vengeance</td><td><img src="./../.assets/paladins/characters/furia.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2093</td><td>Grohk</td><td>Support</td><td>The Lightning Orc</td><td><img src="./../.assets/paladins/characters/grohk.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2254</td><td>Grover</td><td>Support</td><td>The Wild</td><td><img src="./../.assets/paladins/characters/grover.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2509</td><td>Imani</td><td>Damage</td><td>The Last Warder</td><td><img src="./../.assets/paladins/characters/imani.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2348</td><td>Inara</td><td>Front Line</td><td>The Stone Warden</td><td><img src="./../.assets/paladins/characters/inara.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2517</td><td>Io</td><td>Support</td><td>the Shattered Goddess</td><td><img src="./../.assets/paladins/characters/io.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2431</td><td>Jenos</td><td>Support</td><td>The Ascended</td><td><img src="./../.assets/paladins/characters/jenos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2479</td><td>Khan</td><td>Front Line</td><td>Primus of house Aico</td><td><img src="./../.assets/paladins/characters/khan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2249</td><td>Kinessa</td><td>Damage</td><td>The Bounty Hunter</td><td><img src="./../.assets/paladins/characters/kinessa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2493</td><td>Koga</td><td>Flank</td><td>The Lost Hand</td><td><img src="./../.assets/paladins/characters/koga.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2362</td><td>Lex</td><td>Flank</td><td>The Hand of Justice</td><td><img src="./../.assets/paladins/characters/lex.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2417</td><td>Lian</td><td>Damage</td><td>Scion of House Aico</td><td><img src="./../.assets/paladins/characters/lian.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2338</td><td>Maeve</td><td>Flank</td><td>of Blades</td><td><img src="./../.assets/paladins/characters/maeve.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2288</td><td>Makoa</td><td>Front Line</td><td>The Ancient</td><td><img src="./../.assets/paladins/characters/makoa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2303</td><td>Mal'Damba</td><td>Support</td><td>Wekono's Chosen</td><td><img src="./../.assets/paladins/characters/maldamba.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2481</td><td>Moji</td><td>Flank</td><td>and Friends</td><td><img src="./../.assets/paladins/characters/moji.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2056</td><td>Pip</td><td>Support</td><td>The Rogue Alchemist</td><td><img src="./../.assets/paladins/characters/pip.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2528</td><td>Raum</td><td>Front Line</td><td>Rage of the Abyss</td><td><img src="./../.assets/paladins/characters/raum.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2149</td><td>Ruckus</td><td>Front Line</td><td>The Worst of Friends</td><td><img src="./../.assets/paladins/characters/ruckus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2372</td><td>Seris</td><td>Support</td><td>Oracle of the Abyss</td><td><img src="./../.assets/paladins/characters/seris.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2307</td><td>Sha Lin</td><td>Damage</td><td>The Desert Wind</td><td><img src="./../.assets/paladins/characters/sha-lin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2057</td><td>Skye</td><td>Flank</td><td>The Twilight Assassin</td><td><img src="./../.assets/paladins/characters/skye.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2438</td><td>Strix</td><td>Damage</td><td>Ghost Feather</td><td><img src="./../.assets/paladins/characters/strix.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2472</td><td>Talus</td><td>Flank</td><td>of the Ska'drin</td><td><img src="./../.assets/paladins/characters/talus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2477</td><td>Terminus</td><td>Front Line</td><td>The Fallen</td><td><img src="./../.assets/paladins/characters/terminus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2529</td><td>Tiberius</td><td>Damage</td><td>The Weapons Master</td><td><img src="./../.assets/paladins/characters/tiberius/icon.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2322</td><td>Torvald</td><td>Front Line</td><td>The Runic Sage</td><td><img src="./../.assets/paladins/characters/torvald.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="./../.assets/paladins/characters/tyra.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="./../.assets/paladins/characters/viktor.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2480</td><td>Vivian</td><td>Damage</td><td>The Cunning</td><td><img src="./../.assets/paladins/characters/vivian.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2536</td><td>Vora</td><td>Flank</td><td>The Harbinger</td><td><img src="./../.assets/paladins/characters/vora.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2393</td><td>Willo</td><td>Damage</td><td>of the Summer Court</td><td><img src="./../.assets/paladins/characters/willo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>MISSING</td><td>Yagorath</td><td></td><td></td><td><img src="./../.assets/paladins/characters/yagorath.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2267</td><td>Ying</td><td>Support</td><td>The Blossom</td><td><img src="./../.assets/paladins/characters/ying.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2420</td><td>Zhin</td><td>Flank</td><td>The Tyrant</td><td><img src="./../.assets/paladins/characters/zhin.jpg" height="64" width="64"/></td></tr>
-  </table>
+  <tr><td>2056</td><td>Pip</td><td>Support</td><td>The Rogue Alchemist</td><td><img src="https://web2.hirez.com/paladins/champion-icons/pip.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2057</td><td>Skye</td><td>Flank</td><td>The Twilight Assassin</td><td><img src="https://web2.hirez.com/paladins/champion-icons/skye.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2071</td><td>Fernando</td><td>Front Line</td><td>The Self-Appointed Knight</td><td><img src="https://web2.hirez.com/paladins/champion-icons/fernando.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2073</td><td>Barik</td><td>Front Line</td><td>The Master Mechanic</td><td><img src="https://web2.hirez.com/paladins/champion-icons/barik.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2092</td><td>Cassie</td><td>Damage</td><td>The Hunter's Daughter</td><td><img src="https://web2.hirez.com/paladins/champion-icons/cassie.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2093</td><td>Grohk</td><td>Support</td><td>The Lightning Orc</td><td><img src="https://web2.hirez.com/paladins/champion-icons/grohk.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2094</td><td>Evie</td><td>Flank</td><td>The Winter Witch</td><td><img src="https://web2.hirez.com/paladins/champion-icons/evie.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2147</td><td>Buck</td><td>Flank</td><td>The Unyielding</td><td><img src="https://web2.hirez.com/paladins/champion-icons/buck.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2149</td><td>Ruckus</td><td>Front Line</td><td>The Worst of Friends</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ruckus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2205</td><td>Androxus</td><td>Flank</td><td>The Godslayer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/androxus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2249</td><td>Kinessa</td><td>Damage</td><td>The Bounty Hunter</td><td><img src="https://web2.hirez.com/paladins/champion-icons/kinessa.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2254</td><td>Grover</td><td>Support</td><td>The Wild</td><td><img src="https://web2.hirez.com/paladins/champion-icons/grover.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2267</td><td>Ying</td><td>Support</td><td>The Blossom</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ying.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2277</td><td>Drogoz</td><td>Damage</td><td>The Greedy</td><td><img src="https://web2.hirez.com/paladins/champion-icons/drogoz.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2281</td><td>Bomb King</td><td>Damage</td><td>His Majesty</td><td><img src="https://web2.hirez.com/paladins/champion-icons/bomb-king.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2285</td><td>Viktor</td><td>Damage</td><td>The Lone Wolf</td><td><img src="https://web2.hirez.com/paladins/champion-icons/viktor.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2288</td><td>Makoa</td><td>Front Line</td><td>The Ancient</td><td><img src="https://web2.hirez.com/paladins/champion-icons/makoa.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2303</td><td>Mal'Damba</td><td>Support</td><td>Wekono's Chosen</td><td><img src="https://web2.hirez.com/paladins/champion-icons/maldamba.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2307</td><td>Sha Lin</td><td>Damage</td><td>The Desert Wind</td><td><img src="https://web2.hirez.com/paladins/champion-icons/sha-lin.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2314</td><td>Tyra</td><td>Damage</td><td>The Untamed</td><td><img src="https://web2.hirez.com/paladins/champion-icons/tyra.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2322</td><td>Torvald</td><td>Front Line</td><td>The Runic Sage</td><td><img src="https://web2.hirez.com/paladins/champion-icons/torvald.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2338</td><td>Maeve</td><td>Flank</td><td>of Blades</td><td><img src="https://web2.hirez.com/paladins/champion-icons/maeve.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2348</td><td>Inara</td><td>Front Line</td><td>The Stone Warden</td><td><img src="https://web2.hirez.com/paladins/champion-icons/inara.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2362</td><td>Lex</td><td>Flank</td><td>The Hand of Justice</td><td><img src="https://web2.hirez.com/paladins/champion-icons/lex.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2372</td><td>Seris</td><td>Support</td><td>Oracle of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/seris.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2393</td><td>Willo</td><td>Damage</td><td>of the Summer Court</td><td><img src="https://web2.hirez.com/paladins/champion-icons/willo.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2404</td><td>Ash</td><td>Front Line</td><td>The War Machine</td><td><img src="https://web2.hirez.com/paladins/champion-icons/ash.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2417</td><td>Lian</td><td>Damage</td><td>Scion of House Aico</td><td><img src="https://web2.hirez.com/paladins/champion-icons/lian.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2420</td><td>Zhin</td><td>Flank</td><td>The Tyrant</td><td><img src="https://web2.hirez.com/paladins/champion-icons/zhin.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2431</td><td>Jenos</td><td>Support</td><td>The Ascended</td><td><img src="https://web2.hirez.com/paladins/champion-icons/jenos.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2438</td><td>Strix</td><td>Damage</td><td>Ghost Feather</td><td><img src="https://web2.hirez.com/paladins/champion-icons/strix.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2472</td><td>Talus</td><td>Flank</td><td>of the Ska'drin</td><td><img src="https://web2.hirez.com/paladins/champion-icons/talus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2477</td><td>Terminus</td><td>Front Line</td><td>The Fallen</td><td><img src="https://web2.hirez.com/paladins/champion-icons/terminus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2479</td><td>Khan</td><td>Front Line</td><td>Primus of house Aico</td><td><img src="https://web2.hirez.com/paladins/champion-icons/khan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2480</td><td>Vivian</td><td>Damage</td><td>The Cunning</td><td><img src="https://web2.hirez.com/paladins/champion-icons/vivian.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2481</td><td>Moji</td><td>Flank</td><td>and Friends</td><td><img src="https://web2.hirez.com/paladins/champion-icons/moji.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2491</td><td>Furia</td><td>Support</td><td>Angel of Vengeance</td><td><img src="https://web2.hirez.com/paladins/champion-icons/furia.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2493</td><td>Koga</td><td>Flank</td><td>The Lost Hand</td><td><img src="https://web2.hirez.com/paladins/champion-icons/koga.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2495</td><td>Dredge</td><td>Damage</td><td>Admiral of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/dredge.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2509</td><td>Imani</td><td>Damage</td><td>The Last Warder</td><td><img src="https://web2.hirez.com/paladins/champion-icons/imani.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2512</td><td>Atlas</td><td>Front Line</td><td>The Man Out of Time</td><td><img src="https://web2.hirez.com/paladins/champion-icons/atlas.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2517</td><td>Io</td><td>Support</td><td>the Shattered Goddess</td><td><img src="https://web2.hirez.com/paladins/champion-icons/io.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2528</td><td>Raum</td><td>Front Line</td><td>Rage of the Abyss</td><td><img src="https://web2.hirez.com/paladins/champion-icons/raum.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2529</td><td>Tiberius</td><td>Damage</td><td>The Weapons Master</td><td><img src="https://web2.hirez.com/paladins/champion-icons/tiberius.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2533</td><td>Corvus</td><td>Support</td><td>The Magistrate's Blade</td><td><img src="https://web2.hirez.com/paladins/champion-icons/corvus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2536</td><td>Vora</td><td>Flank</td><td>The Harbinger</td><td><img src="https://web2.hirez.com/paladins/champion-icons/vora.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2538</td><td>Yagorath</td><td>Front Line</td><td>The Devourer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/yagorath.jpg" height="64" width="64"/></td></tr>
+</table>
 </details>
 
 ### Character - Realm Royale
@@ -312,121 +312,122 @@ Gods are sorted by their Pantheons:
   - Yoruba
 -->
 
-There are currently 111 playable gods in the game (Updated in 10/30/2020 04:55:47):
+There are currently 112 playable gods in the game (Updated in 02/10/2021 14:05:03):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
+  <tr><td>1649</td><td>Kali</td><td>Assassin</td><td>Goddess of Destruction</td><td><img src="https://web2.hirez.com/smite/god-icons/kali.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1668</td><td>Anubis</td><td>Mage</td><td>God of the Dead</td><td><img src="https://web2.hirez.com/smite/god-icons/anubis.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1669</td><td>Odin</td><td>Warrior</td><td>The Allfather</td><td><img src="https://web2.hirez.com/smite/god-icons/odin.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1670</td><td>Ymir</td><td>Guardian</td><td>Father of the Frost Giants</td><td><img src="https://web2.hirez.com/smite/god-icons/ymir.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1672</td><td>Zeus</td><td>Mage</td><td>God of the Sky</td><td><img src="https://web2.hirez.com/smite/god-icons/zeus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1673</td><td>Hun Batz</td><td>Assassin</td><td>the Howler Monkey God</td><td><img src="https://web2.hirez.com/smite/god-icons/hun-batz.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1674</td><td>He Bo</td><td>Mage</td><td>God of the Yellow River</td><td><img src="https://web2.hirez.com/smite/god-icons/he-bo.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1676</td><td>Hades</td><td>Mage</td><td>King of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hades.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1677</td><td>Kukulkan</td><td>Mage</td><td>Serpent of the Nine Winds</td><td><img src="https://web2.hirez.com/smite/god-icons/kukulkan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1678</td><td>Bastet</td><td>Assassin</td><td>Goddess of Cats</td><td><img src="https://web2.hirez.com/smite/god-icons/bastet.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1698</td><td>Ra</td><td>Mage</td><td>Sun God</td><td><img src="https://web2.hirez.com/smite/god-icons/ra.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1699</td><td>Arachne</td><td>Assassin</td><td>the Weaver</td><td><img src="https://web2.hirez.com/smite/god-icons/arachne.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1718</td><td>Hel</td><td>Mage</td><td>Goddess of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hel.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1723</td><td>Vamana</td><td>Warrior</td><td>Fifth Avatar of Vishnu</td><td><img src="https://web2.hirez.com/smite/god-icons/vamana.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1737</td><td>Agni</td><td>Mage</td><td>God of Fire</td><td><img src="https://web2.hirez.com/smite/god-icons/agni.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1747</td><td>Sobek</td><td>Guardian</td><td>God of the Nile</td><td><img src="https://web2.hirez.com/smite/god-icons/sobek.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1748</td><td>Artemis</td><td>Hunter</td><td>Goddess of the Hunt</td><td><img src="https://web2.hirez.com/smite/god-icons/artemis.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1755</td><td>Bakasura</td><td>Assassin</td><td>the Great Devourer</td><td><img src="https://web2.hirez.com/smite/god-icons/bakasura.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1763</td><td>Guan Yu</td><td>Warrior</td><td>Saint of War</td><td><img src="https://web2.hirez.com/smite/god-icons/guan-yu.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1773</td><td>Anhur</td><td>Hunter</td><td>Slayer of Enemies</td><td><img src="https://web2.hirez.com/smite/god-icons/anhur.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1778</td><td>Cupid</td><td>Hunter</td><td>God of Love</td><td><img src="https://web2.hirez.com/smite/god-icons/cupid.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1779</td><td>Thor</td><td>Assassin</td><td>God of Thunder</td><td><img src="https://web2.hirez.com/smite/god-icons/thor.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1782</td><td>Ares</td><td>Guardian</td><td>God of War</td><td><img src="https://web2.hirez.com/smite/god-icons/ares.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1784</td><td>Freya</td><td>Mage</td><td>Queen of the Valkyries</td><td><img src="https://web2.hirez.com/smite/god-icons/freya.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1797</td><td>Loki</td><td>Assassin</td><td>The Trickster God</td><td><img src="https://web2.hirez.com/smite/god-icons/loki.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1809</td><td>Bacchus</td><td>Guardian</td><td>God of Wine</td><td><img src="https://web2.hirez.com/smite/god-icons/bacchus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1843</td><td>Fenrir</td><td>Assassin</td><td>the Unbound</td><td><img src="https://web2.hirez.com/smite/god-icons/fenrir.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1848</td><td>Hercules</td><td>Warrior</td><td>Champion of Rome</td><td><img src="https://web2.hirez.com/smite/god-icons/hercules.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1864</td><td>Xbalanque</td><td>Hunter</td><td>Hidden Jaguar Sun</td><td><img src="https://web2.hirez.com/smite/god-icons/xbalanque.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1869</td><td>Vulcan</td><td>Mage</td><td>Smith of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/vulcan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1872</td><td>Neith</td><td>Hunter</td><td>Weaver of Fate</td><td><img src="https://web2.hirez.com/smite/god-icons/neith.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1881</td><td>Poseidon</td><td>Mage</td><td>God of the Oceans</td><td><img src="https://web2.hirez.com/smite/god-icons/poseidon.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1898</td><td>Aphrodite</td><td>Mage</td><td>Goddess of Beauty</td><td><img src="https://web2.hirez.com/smite/god-icons/aphrodite.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1899</td><td>Apollo</td><td>Hunter</td><td>God of Music</td><td><img src="https://web2.hirez.com/smite/god-icons/apollo.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1915</td><td>Ne Zha</td><td>Assassin</td><td>the Third Lotus Prince</td><td><img src="https://web2.hirez.com/smite/god-icons/ne-zha.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1918</td><td>Isis</td><td>Mage</td><td>Goddess of Magic</td><td><img src="https://web2.hirez.com/smite/god-icons/isis.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1919</td><td>Athena</td><td>Guardian</td><td>Goddess of Wisdom</td><td><img src="https://web2.hirez.com/smite/god-icons/athena.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1920</td><td>Chronos</td><td>Mage</td><td>Keeper of Time</td><td><img src="https://web2.hirez.com/smite/god-icons/chronos.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1921</td><td>Chang'e</td><td>Mage</td><td>Faerie of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/change.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1924</td><td>Tyr</td><td>Warrior</td><td>the Lawgiver</td><td><img src="https://web2.hirez.com/smite/god-icons/tyr.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1926</td><td>Zhong Kui</td><td>Mage</td><td>the Demon Queller</td><td><img src="https://web2.hirez.com/smite/god-icons/zhong-kui.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1941</td><td>Mercury</td><td>Assassin</td><td>Messenger of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/mercury.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1943</td><td>Thanatos</td><td>Assassin</td><td>Hand of Death</td><td><img src="https://web2.hirez.com/smite/god-icons/thanatos.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1944</td><td>Sun Wukong</td><td>Warrior</td><td>the Monkey King</td><td><img src="https://web2.hirez.com/smite/god-icons/sun-wukong.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1956</td><td>Ah Muzen Cab</td><td>Hunter</td><td>God of Bees</td><td><img src="https://web2.hirez.com/smite/god-icons/ah-muzen-cab.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1958</td><td>Nu Wa</td><td>Mage</td><td>Guardian of Heaven</td><td><img src="https://web2.hirez.com/smite/god-icons/nu-wa.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1966</td><td>Chaac</td><td>Warrior</td><td>God of Rain</td><td><img src="https://web2.hirez.com/smite/god-icons/chaac.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1978</td><td>Geb</td><td>Guardian</td><td>God of Earth</td><td><img src="https://web2.hirez.com/smite/god-icons/geb.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1980</td><td>Nemesis</td><td>Assassin</td><td>Goddess of Vengeance</td><td><img src="https://web2.hirez.com/smite/god-icons/nemesis.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1988</td><td>Scylla</td><td>Mage</td><td>Horror of the Sea</td><td><img src="https://web2.hirez.com/smite/god-icons/scylla.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1991</td><td>Ullr</td><td>Hunter</td><td>The Glorious One</td><td><img src="https://web2.hirez.com/smite/god-icons/ullr.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1993</td><td>Kumbhakarna</td><td>Guardian</td><td>The Sleeping Giant</td><td><img src="https://web2.hirez.com/smite/god-icons/kumbhakarna.jpg" height="64" width="64"/></td></tr>
+  <tr><td>1999</td><td>Janus</td><td>Mage</td><td>God of Portals and Transitions</td><td><img src="https://web2.hirez.com/smite/god-icons/janus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2000</td><td>Osiris</td><td>Warrior</td><td>Broken God of the Afterlife</td><td><img src="https://web2.hirez.com/smite/god-icons/osiris.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2002</td><td>Rama</td><td>Hunter</td><td>Seventh Avatar of Vishnu</td><td><img src="https://web2.hirez.com/smite/god-icons/rama.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2005</td><td>Serqet</td><td>Assassin</td><td>Goddess of Venom</td><td><img src="https://web2.hirez.com/smite/god-icons/serqet.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2008</td><td>Cabrakan</td><td>Guardian</td><td>Destroyer of Mountains</td><td><img src="https://web2.hirez.com/smite/god-icons/cabrakan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2030</td><td>Sylvanus</td><td>Guardian</td><td>Keeper of the Wild</td><td><img src="https://web2.hirez.com/smite/god-icons/sylvanus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2034</td><td>Ao Kuang</td><td>Mage</td><td>Dragon King of the Eastern Seas</td><td><img src="https://web2.hirez.com/smite/god-icons/ao-kuang.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2036</td><td>Nox</td><td>Mage</td><td>Goddess of Night</td><td><img src="https://web2.hirez.com/smite/god-icons/nox.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2037</td><td>Awilix</td><td>Assassin</td><td>Goddess of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/awilix.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2040</td><td>Hou Yi</td><td>Hunter</td><td>Defender of the Earth</td><td><img src="https://web2.hirez.com/smite/god-icons/hou-yi.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2047</td><td>Bellona</td><td>Warrior</td><td>Goddess of War</td><td><img src="https://web2.hirez.com/smite/god-icons/bellona.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2051</td><td>Medusa</td><td>Hunter</td><td>The Gorgon</td><td><img src="https://web2.hirez.com/smite/god-icons/medusa.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2056</td><td>Ah Puch</td><td>Mage</td><td>Horrific God of Decay</td><td><img src="https://web2.hirez.com/smite/god-icons/ah-puch.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2063</td><td>Ratatoskr</td><td>Assassin</td><td>The Sly Messenger</td><td><img src="https://web2.hirez.com/smite/god-icons/ratatoskr.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2065</td><td>Ravana</td><td>Assassin</td><td>Demon King of Lanka</td><td><img src="https://web2.hirez.com/smite/god-icons/ravana.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2066</td><td>Khepri</td><td>Guardian</td><td>The Dawn Bringer</td><td><img src="https://web2.hirez.com/smite/god-icons/khepri.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2072</td><td>Xing Tian</td><td>Guardian</td><td>The Relentless</td><td><img src="https://web2.hirez.com/smite/god-icons/xing-tian.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2074</td><td>Sol</td><td>Mage</td><td>Goddess of the Sun</td><td><img src="https://web2.hirez.com/smite/god-icons/sol.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2075</td><td>Chiron</td><td>Hunter</td><td>The Great Teacher</td><td><img src="https://web2.hirez.com/smite/god-icons/chiron.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2107</td><td>Skadi</td><td>Hunter</td><td>Goddess of Winter</td><td><img src="https://web2.hirez.com/smite/god-icons/skadi.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2110</td><td>Amaterasu</td><td>Warrior</td><td>The Shining Light</td><td><img src="https://web2.hirez.com/smite/god-icons/amaterasu.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2113</td><td>Raijin</td><td>Mage</td><td>Master of Thunder</td><td><img src="https://web2.hirez.com/smite/god-icons/raijin.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2122</td><td>Jing Wei</td><td>Hunter</td><td>The Oathkeeper</td><td><img src="https://web2.hirez.com/smite/god-icons/jing-wei.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2123</td><td>Susano</td><td>Assassin</td><td>God of the Summer Storm</td><td><img src="https://web2.hirez.com/smite/god-icons/susano.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2136</td><td>Fafnir</td><td>Guardian</td><td>The Lord of Glittering Gold</td><td><img src="https://web2.hirez.com/smite/god-icons/fafnir.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2138</td><td>Erlang Shen</td><td>Warrior</td><td>The Illustrious Sage</td><td><img src="https://web2.hirez.com/smite/god-icons/erlang-shen.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2147</td><td>Terra</td><td>Guardian</td><td>The Earth Mother</td><td><img src="https://web2.hirez.com/smite/god-icons/terra.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2179</td><td>Izanami</td><td>Hunter</td><td>Matron of the Dead</td><td><img src="https://web2.hirez.com/smite/god-icons/izanami.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2189</td><td>Camazotz</td><td>Assassin</td><td>Deadly God of Bats</td><td><img src="https://web2.hirez.com/smite/god-icons/camazotz.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2203</td><td>Thoth</td><td>Mage</td><td>Arbiter of the Damned</td><td><img src="https://web2.hirez.com/smite/god-icons/thoth.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2214</td><td>Nike</td><td>Warrior</td><td>Goddess of Victory</td><td><img src="https://web2.hirez.com/smite/god-icons/nike.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2226</td><td>The Morrigan</td><td>Mage</td><td>Phantom Queen</td><td><img src="https://web2.hirez.com/smite/god-icons/the-morrigan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2260</td><td>Kuzenbo</td><td>Guardian</td><td>King Kappa</td><td><img src="https://web2.hirez.com/smite/god-icons/kuzenbo.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2268</td><td>Cernunnos</td><td>Hunter</td><td>The Horned God</td><td><img src="https://web2.hirez.com/smite/god-icons/cernunnos.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2269</td><td>Ganesha</td><td>Guardian</td><td>God of Success</td><td><img src="https://web2.hirez.com/smite/god-icons/ganesha.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2270</td><td>Da Ji</td><td>Assassin</td><td>The Nine-Tailed Fox</td><td><img src="https://web2.hirez.com/smite/god-icons/da-ji.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2319</td><td>Cu Chulainn</td><td>Warrior</td><td>Hound of Ulster</td><td><img src="https://web2.hirez.com/smite/god-icons/cu-chulainn.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3336</td><td>Artio</td><td>Guardian</td><td>The Bear Goddess</td><td><img src="https://web2.hirez.com/smite/god-icons/artio.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3344</td><td>Hachiman</td><td>Hunter</td><td>Lord of the Eight Banners</td><td><img src="https://web2.hirez.com/smite/god-icons/hachiman.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3377</td><td>Discordia</td><td>Mage</td><td>Goddess of Strife</td><td><img src="https://web2.hirez.com/smite/god-icons/discordia.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3419</td><td>Cerberus</td><td>Guardian</td><td>Warden of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/cerberus.jpg" height="64" width="64"/></td></tr>
   <tr><td>3492</td><td>Achilles</td><td>Warrior</td><td>Hero of the Trojan War</td><td><img src="https://web2.hirez.com/smite/god-icons/achilles.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1737</td><td>Agni</td><td>Mage</td><td>God of Fire</td><td><img src="https://web2.hirez.com/smite/god-icons/agni.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1956</td><td>Ah Muzen Cab</td><td>Hunter</td><td>God of Bees</td><td><img src="https://web2.hirez.com/smite/god-icons/ah-muzen-cab.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2056</td><td>Ah Puch</td><td>Mage</td><td>Horrific God of Decay</td><td><img src="https://web2.hirez.com/smite/god-icons/ah-puch.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2110</td><td>Amaterasu</td><td>Warrior</td><td>The Shining Light</td><td><img src="https://web2.hirez.com/smite/god-icons/amaterasu.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1773</td><td>Anhur</td><td>Hunter</td><td>Slayer of Enemies</td><td><img src="https://web2.hirez.com/smite/god-icons/anhur.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1668</td><td>Anubis</td><td>Mage</td><td>God of the Dead</td><td><img src="https://web2.hirez.com/smite/god-icons/anubis.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2034</td><td>Ao Kuang</td><td>Mage</td><td>Dragon King of the Eastern Seas</td><td><img src="https://web2.hirez.com/smite/god-icons/ao-kuang.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1898</td><td>Aphrodite</td><td>Mage</td><td>Goddess of Beauty</td><td><img src="https://web2.hirez.com/smite/god-icons/aphrodite.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1899</td><td>Apollo</td><td>Hunter</td><td>God of Music</td><td><img src="https://web2.hirez.com/smite/god-icons/apollo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1699</td><td>Arachne</td><td>Assassin</td><td>the Weaver</td><td><img src="https://web2.hirez.com/smite/god-icons/arachne.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1782</td><td>Ares</td><td>Guardian</td><td>God of War</td><td><img src="https://web2.hirez.com/smite/god-icons/ares.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1748</td><td>Artemis</td><td>Hunter</td><td>Goddess of the Hunt</td><td><img src="https://web2.hirez.com/smite/god-icons/artemis.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3336</td><td>Artio</td><td>Guardian</td><td>The Bear Goddess</td><td><img src="https://web2.hirez.com/smite/god-icons/artio.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1919</td><td>Athena</td><td>Guardian</td><td>Goddess of Wisdom</td><td><img src="https://web2.hirez.com/smite/god-icons/athena.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2037</td><td>Awilix</td><td>Assassin</td><td>Goddess of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/awilix.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3925</td><td>Baba Yaga</td><td>Mage</td><td>Witch of the Woods</td><td><img src="https://web2.hirez.com/smite/god-icons/baba-yaga.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1809</td><td>Bacchus</td><td>Guardian</td><td>God of Wine</td><td><img src="https://web2.hirez.com/smite/god-icons/bacchus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1755</td><td>Bakasura</td><td>Assassin</td><td>the Great Devourer</td><td><img src="https://web2.hirez.com/smite/god-icons/bakasura.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3518</td><td>Baron Samedi</td><td>Mage</td><td>God of Life and Death</td><td><img src="https://web2.hirez.com/smite/god-icons/baron-samedi.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1678</td><td>Bastet</td><td>Assassin</td><td>Goddess of Cats</td><td><img src="https://web2.hirez.com/smite/god-icons/bastet.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2047</td><td>Bellona</td><td>Warrior</td><td>Goddess of War</td><td><img src="https://web2.hirez.com/smite/god-icons/bellona.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2008</td><td>Cabrakan</td><td>Guardian</td><td>Destroyer of Mountains</td><td><img src="https://web2.hirez.com/smite/god-icons/cabrakan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2189</td><td>Camazotz</td><td>Assassin</td><td>Deadly God of Bats</td><td><img src="https://web2.hirez.com/smite/god-icons/camazotz.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3419</td><td>Cerberus</td><td>Guardian</td><td>Warden of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/cerberus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2268</td><td>Cernunnos</td><td>Hunter</td><td>The Horned God</td><td><img src="https://web2.hirez.com/smite/god-icons/cernunnos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1966</td><td>Chaac</td><td>Warrior</td><td>God of Rain</td><td><img src="https://web2.hirez.com/smite/god-icons/chaac.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1921</td><td>Chang'e</td><td>Mage</td><td>Faerie of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/change.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3509</td><td>Chernobog</td><td>Hunter</td><td>Lord of Darkness</td><td><img src="https://web2.hirez.com/smite/god-icons/chernobog.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2075</td><td>Chiron</td><td>Hunter</td><td>The Great Teacher</td><td><img src="https://web2.hirez.com/smite/god-icons/chiron.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1920</td><td>Chronos</td><td>Mage</td><td>Keeper of Time</td><td><img src="https://web2.hirez.com/smite/god-icons/chronos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3945</td><td>Cthulhu</td><td>Guardian</td><td>The Great Dreamer</td><td><img src="https://web2.hirez.com/smite/god-icons/cthulhu.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2319</td><td>Cu Chulainn</td><td>Warrior</td><td>Hound of Ulster</td><td><img src="https://web2.hirez.com/smite/god-icons/cu-chulainn.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1778</td><td>Cupid</td><td>Hunter</td><td>God of Love</td><td><img src="https://web2.hirez.com/smite/god-icons/cupid.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2270</td><td>Da Ji</td><td>Assassin</td><td>The Nine-Tailed Fox</td><td><img src="https://web2.hirez.com/smite/god-icons/da-ji.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3377</td><td>Discordia</td><td>Mage</td><td>Goddess of Strife</td><td><img src="https://web2.hirez.com/smite/god-icons/discordia.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2138</td><td>Erlang Shen</td><td>Warrior</td><td>The Illustrious Sage</td><td><img src="https://web2.hirez.com/smite/god-icons/erlang-shen.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2136</td><td>Fafnir</td><td>Guardian</td><td>The Lord of Glittering Gold</td><td><img src="https://web2.hirez.com/smite/god-icons/fafnir.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1843</td><td>Fenrir</td><td>Assassin</td><td>the Unbound</td><td><img src="https://web2.hirez.com/smite/god-icons/fenrir.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1784</td><td>Freya</td><td>Mage</td><td>Queen of the Valkyries</td><td><img src="https://web2.hirez.com/smite/god-icons/freya.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2269</td><td>Ganesha</td><td>Guardian</td><td>God of Success</td><td><img src="https://web2.hirez.com/smite/god-icons/ganesha.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1978</td><td>Geb</td><td>Guardian</td><td>God of Earth</td><td><img src="https://web2.hirez.com/smite/god-icons/geb.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1763</td><td>Guan Yu</td><td>Warrior</td><td>Saint of War</td><td><img src="https://web2.hirez.com/smite/god-icons/guan-yu.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3344</td><td>Hachiman</td><td>Hunter</td><td>Lord of the Eight Banners</td><td><img src="https://web2.hirez.com/smite/god-icons/hachiman.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1676</td><td>Hades</td><td>Mage</td><td>King of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hades.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1674</td><td>He Bo</td><td>Mage</td><td>God of the Yellow River</td><td><img src="https://web2.hirez.com/smite/god-icons/he-bo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3812</td><td>Heimdallr</td><td>Hunter</td><td>The Vigilant</td><td><img src="https://web2.hirez.com/smite/god-icons/heimdallr.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1718</td><td>Hel</td><td>Mage</td><td>Goddess of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/hel.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3558</td><td>Hera</td><td>Mage</td><td>Queen of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/hera.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1848</td><td>Hercules</td><td>Warrior</td><td>Champion of Rome</td><td><img src="https://web2.hirez.com/smite/god-icons/hercules.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3611</td><td>Horus</td><td>Warrior</td><td>The Rightful Heir</td><td><img src="https://web2.hirez.com/smite/god-icons/horus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2040</td><td>Hou Yi</td><td>Hunter</td><td>Defender of the Earth</td><td><img src="https://web2.hirez.com/smite/god-icons/hou-yi.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1673</td><td>Hun Batz</td><td>Assassin</td><td>the Howler Monkey God</td><td><img src="https://web2.hirez.com/smite/god-icons/hun-batz.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1918</td><td>Isis</td><td>Mage</td><td>Goddess of Magic</td><td><img src="https://web2.hirez.com/smite/god-icons/isis.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2179</td><td>Izanami</td><td>Hunter</td><td>Matron of the Dead</td><td><img src="https://web2.hirez.com/smite/god-icons/izanami.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1999</td><td>Janus</td><td>Mage</td><td>God of Portals and Transitions</td><td><img src="https://web2.hirez.com/smite/god-icons/janus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2122</td><td>Jing Wei</td><td>Hunter</td><td>The Oathkeeper</td><td><img src="https://web2.hirez.com/smite/god-icons/jing-wei.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3585</td><td>Jormungandr</td><td>Guardian</td><td>The World Serpent</td><td><img src="https://web2.hirez.com/smite/god-icons/jormungandr.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1649</td><td>Kali</td><td>Assassin</td><td>Goddess of Destruction</td><td><img src="https://web2.hirez.com/smite/god-icons/kali.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2066</td><td>Khepri</td><td>Guardian</td><td>The Dawn Bringer</td><td><img src="https://web2.hirez.com/smite/god-icons/khepri.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3565</td><td>King Arthur</td><td>Warrior</td><td>Wielder of Excalibur</td><td><img src="https://web2.hirez.com/smite/god-icons/king-arthur.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1677</td><td>Kukulkan</td><td>Mage</td><td>Serpent of the Nine Winds</td><td><img src="https://web2.hirez.com/smite/god-icons/kukulkan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1993</td><td>Kumbhakarna</td><td>Guardian</td><td>The Sleeping Giant</td><td><img src="https://web2.hirez.com/smite/god-icons/kumbhakarna.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2260</td><td>Kuzenbo</td><td>Guardian</td><td>King Kappa</td><td><img src="https://web2.hirez.com/smite/god-icons/kuzenbo.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1797</td><td>Loki</td><td>Assassin</td><td>The Trickster God</td><td><img src="https://web2.hirez.com/smite/god-icons/loki.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2051</td><td>Medusa</td><td>Hunter</td><td>The Gorgon</td><td><img src="https://web2.hirez.com/smite/god-icons/medusa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1941</td><td>Mercury</td><td>Assassin</td><td>Messenger of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/mercury.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3566</td><td>Merlin</td><td>Mage</td><td>The Master Wizard</td><td><img src="https://web2.hirez.com/smite/god-icons/merlin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3881</td><td>Mulan</td><td>Warrior</td><td>The Ascendant Warrior</td><td><img src="https://web2.hirez.com/smite/god-icons/mulan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1915</td><td>Ne Zha</td><td>Assassin</td><td>the Third Lotus Prince</td><td><img src="https://web2.hirez.com/smite/god-icons/ne-zha.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1872</td><td>Neith</td><td>Hunter</td><td>Weaver of Fate</td><td><img src="https://web2.hirez.com/smite/god-icons/neith.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1980</td><td>Nemesis</td><td>Assassin</td><td>Goddess of Vengeance</td><td><img src="https://web2.hirez.com/smite/god-icons/nemesis.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2214</td><td>Nike</td><td>Warrior</td><td>Goddess of Victory</td><td><img src="https://web2.hirez.com/smite/god-icons/nike.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2036</td><td>Nox</td><td>Mage</td><td>Goddess of Night</td><td><img src="https://web2.hirez.com/smite/god-icons/nox.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1958</td><td>Nu Wa</td><td>Mage</td><td>Guardian of Heaven</td><td><img src="https://web2.hirez.com/smite/god-icons/nu-wa.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1669</td><td>Odin</td><td>Warrior</td><td>The Allfather</td><td><img src="https://web2.hirez.com/smite/god-icons/odin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3664</td><td>Olorun</td><td>Mage</td><td>Ruler of the Heavens</td><td><img src="https://web2.hirez.com/smite/god-icons/olorun.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2000</td><td>Osiris</td><td>Warrior</td><td>Broken God of the Afterlife</td><td><img src="https://web2.hirez.com/smite/god-icons/osiris.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3543</td><td>Pele</td><td>Assassin</td><td>Goddess of Volcanoes</td><td><img src="https://web2.hirez.com/smite/god-icons/pele.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3705</td><td>Persephone</td><td>Mage</td><td>Queen of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/persephone.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1881</td><td>Poseidon</td><td>Mage</td><td>God of the Oceans</td><td><img src="https://web2.hirez.com/smite/god-icons/poseidon.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1698</td><td>Ra</td><td>Mage</td><td>Sun God</td><td><img src="https://web2.hirez.com/smite/god-icons/ra.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2113</td><td>Raijin</td><td>Mage</td><td>Master of Thunder</td><td><img src="https://web2.hirez.com/smite/god-icons/raijin.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2002</td><td>Rama</td><td>Hunter</td><td>Seventh Avatar of Vishnu</td><td><img src="https://web2.hirez.com/smite/god-icons/rama.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2063</td><td>Ratatoskr</td><td>Assassin</td><td>The Sly Messenger</td><td><img src="https://web2.hirez.com/smite/god-icons/ratatoskr.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2065</td><td>Ravana</td><td>Assassin</td><td>Demon King of Lanka</td><td><img src="https://web2.hirez.com/smite/god-icons/ravana.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1988</td><td>Scylla</td><td>Mage</td><td>Horror of the Sea</td><td><img src="https://web2.hirez.com/smite/god-icons/scylla.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2005</td><td>Serqet</td><td>Assassin</td><td>Goddess of Venom</td><td><img src="https://web2.hirez.com/smite/god-icons/serqet.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3612</td><td>Set</td><td>Assassin</td><td>The Usurper</td><td><img src="https://web2.hirez.com/smite/god-icons/set.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2107</td><td>Skadi</td><td>Hunter</td><td>Goddess of Winter</td><td><img src="https://web2.hirez.com/smite/god-icons/skadi.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1747</td><td>Sobek</td><td>Guardian</td><td>God of the Nile</td><td><img src="https://web2.hirez.com/smite/god-icons/sobek.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2074</td><td>Sol</td><td>Mage</td><td>Goddess of the Sun</td><td><img src="https://web2.hirez.com/smite/god-icons/sol.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1944</td><td>Sun Wukong</td><td>Warrior</td><td>the Monkey King</td><td><img src="https://web2.hirez.com/smite/god-icons/sun-wukong.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2123</td><td>Susano</td><td>Assassin</td><td>God of the Summer Storm</td><td><img src="https://web2.hirez.com/smite/god-icons/susano.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2030</td><td>Sylvanus</td><td>Guardian</td><td>Keeper of the Wild</td><td><img src="https://web2.hirez.com/smite/god-icons/sylvanus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2147</td><td>Terra</td><td>Guardian</td><td>The Earth Mother</td><td><img src="https://web2.hirez.com/smite/god-icons/terra.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1943</td><td>Thanatos</td><td>Assassin</td><td>Hand of Death</td><td><img src="https://web2.hirez.com/smite/god-icons/thanatos.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2226</td><td>The Morrigan</td><td>Mage</td><td>Phantom Queen</td><td><img src="https://web2.hirez.com/smite/god-icons/the-morrigan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1779</td><td>Thor</td><td>Assassin</td><td>God of Thunder</td><td><img src="https://web2.hirez.com/smite/god-icons/thor.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2203</td><td>Thoth</td><td>Mage</td><td>Arbiter of the Damned</td><td><img src="https://web2.hirez.com/smite/god-icons/thoth.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3954</td><td>Tsukuyomi</td><td>Assassin</td><td>God of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1924</td><td>Tyr</td><td>Warrior</td><td>the Lawgiver</td><td><img src="https://web2.hirez.com/smite/god-icons/tyr.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1991</td><td>Ullr</td><td>Hunter</td><td>The Glorious One</td><td><img src="https://web2.hirez.com/smite/god-icons/ullr.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1723</td><td>Vamana</td><td>Warrior</td><td>Fifth Avatar of Vishnu</td><td><img src="https://web2.hirez.com/smite/god-icons/vamana.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1869</td><td>Vulcan</td><td>Mage</td><td>Smith of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/vulcan.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1864</td><td>Xbalanque</td><td>Hunter</td><td>Hidden Jaguar Sun</td><td><img src="https://web2.hirez.com/smite/god-icons/xbalanque.jpg" height="64" width="64"/></td></tr>
-    <tr><td>2072</td><td>Xing Tian</td><td>Guardian</td><td>The Relentless</td><td><img src="https://web2.hirez.com/smite/god-icons/xing-tian.jpg" height="64" width="64"/></td></tr>
-    <tr><td>3811</td><td>Yemoja</td><td>Guardian</td><td>Goddess of Rivers</td><td><img src="https://web2.hirez.com/smite/god-icons/yemoja.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1670</td><td>Ymir</td><td>Guardian</td><td>Father of the Frost Giants</td><td><img src="https://web2.hirez.com/smite/god-icons/ymir.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1672</td><td>Zeus</td><td>Mage</td><td>God of the Sky</td><td><img src="https://web2.hirez.com/smite/god-icons/zeus.jpg" height="64" width="64"/></td></tr>
-    <tr><td>1926</td><td>Zhong Kui</td><td>Mage</td><td>the Demon Queller</td><td><img src="https://web2.hirez.com/smite/god-icons/zhong-kui.jpg" height="64" width="64"/></td></tr>
-  </table>
+  <tr><td>3509</td><td>Chernobog</td><td>Hunter</td><td>Lord of Darkness</td><td><img src="https://web2.hirez.com/smite/god-icons/chernobog.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3518</td><td>Baron Samedi</td><td>Mage</td><td>God of Life and Death</td><td><img src="https://web2.hirez.com/smite/god-icons/baron-samedi.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3543</td><td>Pele</td><td>Assassin</td><td>Goddess of Volcanoes</td><td><img src="https://web2.hirez.com/smite/god-icons/pele.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3558</td><td>Hera</td><td>Mage</td><td>Queen of the Gods</td><td><img src="https://web2.hirez.com/smite/god-icons/hera.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3565</td><td>King Arthur</td><td>Warrior</td><td>Wielder of Excalibur</td><td><img src="https://web2.hirez.com/smite/god-icons/king-arthur.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3566</td><td>Merlin</td><td>Mage</td><td>The Master Wizard</td><td><img src="https://web2.hirez.com/smite/god-icons/merlin.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3585</td><td>Jormungandr</td><td>Guardian</td><td>The World Serpent</td><td><img src="https://web2.hirez.com/smite/god-icons/jormungandr.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3611</td><td>Horus</td><td>Warrior</td><td>The Rightful Heir</td><td><img src="https://web2.hirez.com/smite/god-icons/horus.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3612</td><td>Set</td><td>Assassin</td><td>The Usurper</td><td><img src="https://web2.hirez.com/smite/god-icons/set.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3664</td><td>Olorun</td><td>Mage</td><td>Ruler of the Heavens</td><td><img src="https://web2.hirez.com/smite/god-icons/olorun.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3705</td><td>Persephone</td><td>Mage</td><td>Queen of the Underworld</td><td><img src="https://web2.hirez.com/smite/god-icons/persephone.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3811</td><td>Yemoja</td><td>Guardian</td><td>Goddess of Rivers</td><td><img src="https://web2.hirez.com/smite/god-icons/yemoja.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3812</td><td>Heimdallr</td><td>Hunter</td><td>The Vigilant</td><td><img src="https://web2.hirez.com/smite/god-icons/heimdallr.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3881</td><td>Mulan</td><td>Warrior</td><td>The Ascendant Warrior</td><td><img src="https://web2.hirez.com/smite/god-icons/mulan.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3925</td><td>Baba Yaga</td><td>Mage</td><td>Witch of the Woods</td><td><img src="https://web2.hirez.com/smite/god-icons/baba-yaga.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3945</td><td>Cthulhu</td><td>Guardian</td><td>The Great Dreamer</td><td><img src="https://web2.hirez.com/smite/god-icons/cthulhu.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3954</td><td>Tsukuyomi</td><td>Assassin</td><td>God of the Moon</td><td><img src="https://web2.hirez.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3984</td><td>Danzaburou</td><td>Hunter</td><td>The Legendary Tanuki</td><td><img src="https://web2.hirez.com/smite/god-icons/danzaburou.jpg" height="64" width="64"/></td></tr>
+</table>
 </details>
 
 ## Date Format :date:
