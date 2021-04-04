@@ -269,6 +269,7 @@ There are currently 47 playable champions in the game (Updated in 02/10/2021 14:
   <tr><td>2533</td><td>Corvus</td><td>Support</td><td>The Magistrate's Blade</td><td><img src="https://web2.hirez.com/paladins/champion-icons/corvus.jpg" height="64" width="64"/></td></tr>
   <tr><td>2536</td><td>Vora</td><td>Flank</td><td>The Harbinger</td><td><img src="https://web2.hirez.com/paladins/champion-icons/vora.jpg" height="64" width="64"/></td></tr>
   <tr><td>2538</td><td>Yagorath</td><td>Front Line</td><td>The Devourer</td><td><img src="https://web2.hirez.com/paladins/champion-icons/yagorath.jpg" height="64" width="64"/></td></tr>
+  <tr><td>2540</td><td>Octavia</td><td>Damage</td><td>The Indomitable</td><td><img src="https://web2.hirez.com/paladins/champion-icons/octavia.jpg" height="64" width="64"/></td></tr>
 </table>
 </details>
 
