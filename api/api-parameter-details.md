@@ -177,6 +177,20 @@ Valid values are:
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/ramadan_2021.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Charmed, I'm Sure</td><td><img src="./../.assets/paladins/avatar/st_damba_day.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Buck</td><td><img src="./../.assets/paladins/avatar/birthday_party_buck.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/birthday_party_cassie.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Io</td><td><img src="./../.assets/paladins/avatar/birthday_party_io.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Luna</td><td><img src="./../.assets/paladins/avatar/birthday_party_luna.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Mal'Damba</td><td><img src="./../.assets/paladins/avatar/birthday_party_mal_damba.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Moji</td><td><img src="./../.assets/paladins/avatar/birthday_party_moji.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Pip and Pepper</td><td><img src="./../.assets/paladins/avatar/birthday_party_pip_and_pepper.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Vora</td><td><img src="./../.assets/paladins/avatar/birthday_party_vora.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Yagorath</td><td><img src="./../.assets/paladins/avatar/birthday_party_yagorath.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Birthday Party Ying</td><td><img src="./../.assets/paladins/avatar/birthday_party_ying.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Dev Environment</td><td><img src="./../.assets/paladins/avatar/dev_environment.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Raum.hack</td><td><img src="./../.assets/paladins/avatar/game_on_raum.hack.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Malicious Software</td><td><img src="./../.assets/paladins/avatar/malicious_software.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
