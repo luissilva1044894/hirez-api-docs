@@ -171,6 +171,7 @@ Valid values are:
   <tr><td>26974</td><td>Lunar New Year</td><td><img src="./../.assets/paladins/avatar/26974.png" height="32" width="32"/></td></tr>
   <tr><td>26976</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/26976.gif" height="32" width="32"/></td></tr>
   <tr><td>27097</td><td>Virtual Pilot</td><td><img src="./../.assets/paladins/avatar/27097.png" height="32" width="32"/></td></tr>
+  <tr><td>27122</td><td>E-motions</td><td><img src="./../.assets/paladins/avatar/27122.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
