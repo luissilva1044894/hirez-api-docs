@@ -167,6 +167,7 @@ Valid values are:
   <tr><td>26879</td><td>Uplifting Grace</td><td><img src="./../.assets/paladins/avatar/26879.gif" height="32" width="32"/></td></tr>
   <tr><td>26967</td><td>Self-Sufficient</td><td><img src="./../.assets/paladins/avatar/26967.png" height="32" width="32"/></td></tr>
   <tr><td>26969</td><td>The Maw</td><td><img src="./../.assets/paladins/avatar/26969.png" height="32" width="32"/></td></tr>
+  <tr><td>26972</td><td>Charmed, I'm Sure</td><td><img src="./../.assets/paladins/avatar/26972.png" height="32" width="32"/></td></tr>
   <tr><td>26973</td><td>Magic Easter Moji</td><td><img src="./../.assets/paladins/avatar/26973.png" height="32" width="32"/></td></tr>
   <tr><td>26974</td><td>Lunar New Year</td><td><img src="./../.assets/paladins/avatar/26974.png" height="32" width="32"/></td></tr>
   <tr><td>26976</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/26976.gif" height="32" width="32"/></td></tr>
@@ -177,7 +178,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/ramadan_2021.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Charmed, I'm Sure</td><td><img src="./../.assets/paladins/avatar/st_damba_day.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Birthday Party Buck</td><td><img src="./../.assets/paladins/avatar/birthday_party_buck.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/birthday_party_cassie.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Birthday Party Io</td><td><img src="./../.assets/paladins/avatar/birthday_party_io.png" height="32" width="32"/></td></tr>
