@@ -4,9 +4,6 @@
 /.github
 /_scripts
 /code-samples
-/.assets/paladins/cards/
-.assets/paladins/cards/
-./.assets/paladins/cards/
 
 *.md
 *.xml
