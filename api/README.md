@@ -271,6 +271,11 @@ We recommend using this field value as an unique identifier for errors, with the
     <td style='text-align:center;vertical-align:middle'>You may wait until the limit ends.</td>
   </tr>
   <tr>
+    <td align='center'> No match_queue returned.  It is likely that the match wasn't live when GetMatchPlayerDetails() was called. </td>
+    <td style='text-align:center;vertical-align:middle'>  </td>
+    <td style='text-align:center;vertical-align:middle'>  </td>
+  </tr>
+  <tr>
     <td align='center'> No Match Details:{match_id} </td>
     <td style='text-align:center;vertical-align:middle'> The player was not found, has private account or haven't played any matches in the last 30 days </td>
     <td style='text-align:center;vertical-align:middle'>  </td>
