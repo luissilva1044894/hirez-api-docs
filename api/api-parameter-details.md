@@ -173,6 +173,7 @@ Valid values are:
   <tr><td>26975</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/26975.png" height="32" width="32"/></td></tr>
   <tr><td>26976</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/26976.gif" height="32" width="32"/></td></tr>
   <tr><td>27097</td><td>Virtual Pilot</td><td><img src="./../.assets/paladins/avatar/27097.png" height="32" width="32"/></td></tr>
+  <tr><td>27098</td><td>Raum.hack</td><td><img src="./../.assets/paladins/avatar/27098.hack.png" height="32" width="32"/></td></tr>
   <tr><td>27111</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/27111.png" height="32" width="32"/></td></tr>
   <tr><td>27112</td><td>Birthday Party Mal'Damba</td><td><img src="./../.assets/paladins/avatar/27112.png" height="32" width="32"/></td></tr>
   <tr><td>27113</td><td>Birthday Party Moji</td><td><img src="./../.assets/paladins/avatar/27113.png" height="32" width="32"/></td></tr>
@@ -193,7 +194,7 @@ Valid values are:
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Raum.hack</td><td><img src="./../.assets/paladins/avatar/game_on_raum.hack.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Summer Breeze</td><td><img src="./../.assets/paladins/avatar/summer_breeze.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
