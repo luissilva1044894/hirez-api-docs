@@ -2,7 +2,6 @@
 # Unofficial Hi-Rez Studios API Developer Guide
 
 [![License][project_bagde_license]][project_license]
-[![*Nonsocial's support server*][project_bagde_discord_support_server]][project_discord_support_server]
 
 > :construction: **It's a work in progress, still undergoing some change, documentation is in-progress.**
 
@@ -77,7 +76,8 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 * [![wrapper_go_paladins_go][badge_wrapper_go_paladins_go]][badge_wrapper_go_paladins_go_github]
   [![wrapper_go_smite_paladins_realm_api_usage][badge_wrapper_go_smite_paladins_realm_api_usage]][badge_wrapper_go_smite_paladins_realm_api_usage_github]
   [![wrapper_go_go_smite_api][badge_wrapper_go_go_smite_api]][badge_wrapper_go_go_smite_api_github]
-* [![wrapper_java_hi_rez_api][badge_wrapper_java_hi_rez_api]][badge_wrapper_java_hi_rez_api_github]
+* [![wrapper_java_paladins_wrapper][badge_wrapper_java_paladins_wrapper]][badge_wrapper_java_paladins_wrapper_github]
+[![wrapper_java_hi_rez_api][badge_wrapper_java_hi_rez_api]][badge_wrapper_java_hi_rez_api_github]
 [![wrapper_java_paladins_java_api][badge_wrapper_java_paladins_java_api]][badge_wrapper_java_paladins_java_api_github]
 [![wrapper_java_smite_api][badge_wrapper_java_smite_api]][badge_wrapper_java_smite_api_github]
 * [![wrapper_javascript_joshmiquel-hirez][badge_wrapper_javascript_joshmiquel-hirez]][badge_wrapper_javascript_joshmiquel-hirez_github]
@@ -165,8 +165,6 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [project_code_samples_folder]: ./code-samples "Code Samples"
 [project_code_samples_java]: ./code-samples/java.md "Code Sample · Java"
 [project_code_samples_python]: ./code-samples/python.md "Code Sample · Python"
-[project_discord_support_server]: https://discord.gg/XkydRPS "Support Server · Discord"
-[project_bagde_discord_support_server]: https://img.shields.io/discord/549020573846470659.svg?logo=discordlogoWidth=15&style=plastic
 [project_github_repo]: https://github.com/luissilva1044894/hirez-api-docs "hirez-api-docs · Github repo"
 [project_license]: ./LICENSE "Hi-Rez API Docs · License"
 [project_bagde_license]: https://img.shields.io/github/license/luissilva1044894/hirez-api-docs.svg?logo=githublogoWidth=10style=plastic
@@ -203,6 +201,9 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_go_go_smite_api]: https://img.shields.io/static/v1?label=Go&logo=go&logoWidth=20&message=go%20smite%20api&color=blueviolet&style=plastic&link=https://github.com/duncanleo/go-smite-api
 [badge_wrapper_go_go_smite_api_github]: https://github.com/duncanleo/go-smite-api "go-smite-api · Github repo"
 
+[badge_wrapper_java_paladins_wrapper]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=Paladins-Wrapper&color=blueviolet&style=plastic&link=https://github.com/Cristian-Sknz/Paladins-Wrapper
+[badge_wrapper_java_paladins_wrapper_github]: https://github.com/Cristian-Sknz/Paladins-Wrapper "Paladins-Wrapper · Github repo"
+
 [badge_wrapper_java_hi_rez_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=HiRezAPI&color=blueviolet&style=plastic&link=https://github.com/stachu540/HiRezAPI
 [badge_wrapper_java_hi_rez_api_github]: https://github.com/stachu540/HiRezAPI "HiRezAPI · Github repo"
 
@@ -212,7 +213,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_java_smite_api]: https://img.shields.io/static/v1?label=Java&logo=java&logoWidth=20&message=smite%20api&color=blueviolet&style=plastic&link=https://github.com/Rabrg/smite-api
 [badge_wrapper_java_smite_api_github]: https://github.com/Rabrg/smite-api "smite-api · Github repo"
 
-[badge_wrapper_javascript_joshmiquel-hirez]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=joshmiquel-hirez&color=blueviolet&style=plastic&link=https://github.com/JoShMiQueL/joshmiquel-hirez
+[badge_wrapper_javascript_joshmiquel-hirez]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=joshmiquel-hirez&fcolor=blueviolet&style=plastic&link=https://github.com/JoShMiQueL/joshmiquel-hirez
 [badge_wrapper_javascript_joshmiquel-hirez_github]: https://github.com/JoShMiQueL/joshmiquel-hirez "joshmiquel-hirez · Github repo"
 
 [badge_wrapper_javascript_paladins_api]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins%20api&color=blueviolet&style=plastic&link=https://github.com/itspauloroberto/paladins-api
