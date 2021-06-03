@@ -190,11 +190,11 @@ Valid values are:
   <tr><td>27124</td><td>Dev Environment</td><td><img src="./../.assets/paladins/avatar/27124.gif" height="32" width="32"/></td></tr>
   <tr><td>27258</td><td>Deep Dive</td><td><img src="./../.assets/paladins/avatar/27258.png" height="32" width="32"/></td></tr>
   <tr><td>27259</td><td>Sun, Sand, and Salt</td><td><img src="./../.assets/paladins/avatar/27259.png" height="32" width="32"/></td></tr>
+  <tr><td>27260</td><td>Summer Breeze</td><td><img src="./../.assets/paladins/avatar/27260.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Summer Breeze</td><td><img src="./../.assets/paladins/avatar/summer_breeze.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
