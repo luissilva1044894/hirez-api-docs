@@ -173,22 +173,25 @@ Valid values are:
   <tr><td>26975</td><td>Ramadan</td><td><img src="./../.assets/paladins/avatar/26975.png" height="32" width="32"/></td></tr>
   <tr><td>26976</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/26976.gif" height="32" width="32"/></td></tr>
   <tr><td>27097</td><td>Virtual Pilot</td><td><img src="./../.assets/paladins/avatar/27097.png" height="32" width="32"/></td></tr>
+  <tr><td>27111</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/27111.png" height="32" width="32"/></td></tr>
+  <tr><td>27112</td><td>Birthday Party Mal'Damba</td><td><img src="./../.assets/paladins/avatar/27112.png" height="32" width="32"/></td></tr>
+  <tr><td>27113</td><td>Birthday Party Moji</td><td><img src="./../.assets/paladins/avatar/27113.png" height="32" width="32"/></td></tr>
+  <tr><td>27114</td><td>Birthday Party Io</td><td><img src="./../.assets/paladins/avatar/27114.png" height="32" width="32"/></td></tr>
+  <tr><td>27115</td><td>Birthday Party Buck</td><td><img src="./../.assets/paladins/avatar/27115.png" height="32" width="32"/></td></tr>
+  <tr><td>27116</td><td>Birthday Party Vora</td><td><img src="./../.assets/paladins/avatar/27116.png" height="32" width="32"/></td></tr>
+  <tr><td>27117</td><td>Birthday Party Luna</td><td><img src="./../.assets/paladins/avatar/27117.png" height="32" width="32"/></td></tr>
+  <tr><td>27118</td><td>Birthday Party Pip and Pepper</td><td><img src="./../.assets/paladins/avatar/27118.png" height="32" width="32"/></td></tr>
+  <tr><td>27119</td><td>Birthday Party Ying</td><td><img src="./../.assets/paladins/avatar/27119.png" height="32" width="32"/></td></tr>
+  <tr><td>27120</td><td>Birthday Party Yagorath</td><td><img src="./../.assets/paladins/avatar/27120.png" height="32" width="32"/></td></tr>
+  <tr><td>27121</td><td>E-motions</td><td><img src="./../.assets/paladins/avatar/27121.gif" height="32" width="32"/></td></tr>
   <tr><td>27122</td><td>E-motions</td><td><img src="./../.assets/paladins/avatar/27122.gif" height="32" width="32"/></td></tr>
   <tr><td>27123</td><td>Malicious Software</td><td><img src="./../.assets/paladins/avatar/27123.gif" height="32" width="32"/></td></tr>
+  <tr><td>27124</td><td>Dev Environment</td><td><img src="./../.assets/paladins/avatar/27124.gif" height="32" width="32"/></td></tr>
+  <tr><td>27258</td><td>Deep Dive</td><td><img src="./../.assets/paladins/avatar/27258.png" height="32" width="32"/></td></tr>
+  <tr><td>27259</td><td>Sun, Sand, and Salt</td><td><img src="./../.assets/paladins/avatar/27259.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Buck</td><td><img src="./../.assets/paladins/avatar/birthday_party_buck.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/birthday_party_cassie.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Io</td><td><img src="./../.assets/paladins/avatar/birthday_party_io.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Luna</td><td><img src="./../.assets/paladins/avatar/birthday_party_luna.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Mal'Damba</td><td><img src="./../.assets/paladins/avatar/birthday_party_mal_damba.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Moji</td><td><img src="./../.assets/paladins/avatar/birthday_party_moji.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Pip and Pepper</td><td><img src="./../.assets/paladins/avatar/birthday_party_pip_and_pepper.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Vora</td><td><img src="./../.assets/paladins/avatar/birthday_party_vora.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Yagorath</td><td><img src="./../.assets/paladins/avatar/birthday_party_yagorath.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Birthday Party Ying</td><td><img src="./../.assets/paladins/avatar/birthday_party_ying.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Dev Environment</td><td><img src="./../.assets/paladins/avatar/dev_environment.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Raum.hack</td><td><img src="./../.assets/paladins/avatar/game_on_raum.hack.png" height="32" width="32"/></td></tr>
 </table>
