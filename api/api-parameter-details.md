@@ -223,7 +223,7 @@ Champions are organized into 4 different classes:
   - <img src="./../.assets/paladins/icons/class/front-line-team.png" height="12" width="16"/>Front Line: These champions are the best at maintaining control of objectives and protecting their teammates through shields, personal force fields, or just by taking fire. Front Line champions gain 100% more [Credits][credits] for standing near an objective. 
   - <img src="./../.assets/paladins/icons/class/support-team.png" height="12" width="16"/>Support: These champions offer a wide range of utility, both offensive and defensive. However, they specialize in healing and causing chaos in enemy attacks. Support champions gain 100% more [Credits][credits] for healing allies, and eliminations from healing a target that gets the killing blow on an enemy. Support champions also gain ultimate charge from healing done to teammates besides themselves. Healing that restores 0 Health (for example, healing someone who is at full health) won't provide ultimate charge. 
 
-There are currently 48 playable champions in the game (Updated in 04/04/2021 22:59:49):
+There are currently 49 playable champions in the game (Updated in 06/04/2021 00:05:02):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Portrait</th><th>Header</th><th>Carousel</th><th>Background</th></tr>
   <tr><td>2056</td><td>Pip</td><td>Support</td><td>The Rogue Alchemist</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/pip.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/pip.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/pip.png" height="64" width="32"/></td><td> </td></tr>
@@ -274,6 +274,7 @@ There are currently 48 playable champions in the game (Updated in 04/04/2021 22:
   <tr><td>2536</td><td>Vora</td><td>Flank</td><td>The Harbinger</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/vora.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vora.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/vora.png" height="64" width="32"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vora/bkg.jpg" height="32" width="64"/></td></tr>
   <tr><td>2538</td><td>Yagorath</td><td>Front Line</td><td>The Devourer</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/yagorath.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/yagorath.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/yagorath.png" height="64" width="32"/></td><td> </td></tr>
   <tr><td>2540</td><td>Octavia</td><td>Damage</td><td>The Indomitable</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/octavia.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/octavia.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/octavia.png" height="64" width="32"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/octavia/bkg.jpg" height="32" width="64"/></td></tr>
+  <tr><td>2541</td><td>Vatu</td><td>Flank</td><td>The Shadow</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/vatu.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vatu.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/vatu.png" height="64" width="32"/></td></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vatu/bkg.jpg" height="32" width="64"/></td></tr>
 </table>
 </details>
 
@@ -333,7 +334,7 @@ Gods are sorted by their Pantheons:
   - Yoruba
 -->
 
-There are currently 113 playable gods in the game (Updated in 04/05/2021 00:05:10):
+There are currently 114 playable gods in the game (Updated in 06/04/2021 00:05:25):
 <table>
   <tr><th>ID</th><th>Name</th><th>Role</th><th>Title</th><th>Image</th></tr>
   <tr><td>1649</td><td>Kali</td><td>Assassin</td><td>Goddess of Destruction</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/kali.jpg" height="64" width="64"/></td></tr>
@@ -449,6 +450,7 @@ There are currently 113 playable gods in the game (Updated in 04/05/2021 00:05:1
   <tr><td>3954</td><td>Tsukuyomi</td><td>Assassin</td><td>God of the Moon</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
   <tr><td>3984</td><td>Danzaburou</td><td>Hunter</td><td>The Legendary Tanuki</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/danzaburou.jpg" height="64" width="64"/></td></tr>
   <tr><td>3990</td><td>Tiamat</td><td>Mage</td><td>Goddess of the Salt Sea</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/tiamat.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3997</td><td>Gilgamesh</td><td>Warrior</td><td>King Of Uruk</td><td><img src="https://web2.hirez.com/smite/god-icons/gilgamesh.jpg" height="64" width="64"/></td></tr>
 </table>
 </details>
 
