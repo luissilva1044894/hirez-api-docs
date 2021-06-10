@@ -8,15 +8,15 @@
 import requests
 from hashlib import md5
 from datetime import datetime
+from sys import version_info
 
 class HiRezAPI:
   def __init__ (self, dev_id, auth_key, *args, **kw):
     self.auth_key = auth_key;
     self.dev_id = dev_id;
-    self.endpoint = kw.pop('endpoint', 'http://api.paladins.com/paladinsapi.svc') 
+    self.endpoint = kw.pop('endpoint', 'https://api.paladins.com/paladinsapi.svc') 
     self.headers = kw.pop('headers', {})
     if 'user-agent' not in self.headers:
-      from sys import version_info
       self.headers['user-agent'] = f'HiRezAPIWrapper [Python/{version_info.major}.{version_info.minor}]'
 
   def request(self, url, *args, **kw):

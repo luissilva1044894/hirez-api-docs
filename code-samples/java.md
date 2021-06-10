@@ -35,7 +35,7 @@ class Program {
 	}
 
 	public static class RealmAPI {
-		private static final String BASE_ENDPOINT = "http://api.realmroyale.com/realmapi.svc";
+		private static final String BASE_ENDPOINT = "https://api.realmroyale.com/realmapi.svc";
 
 		private final Integer devId;
 		private final String authKey;

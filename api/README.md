@@ -23,7 +23,7 @@ Here are the Credentials for a sample account:
   </tr>
 </table>
 
-Use your personal Credentials to access the API via a <i>Representational State Transfer</i> (<b>REST</b>) Web Service hosted at [http://api.{game}.com/{game}api.svc](#endpoint-base-urls).
+Use your personal Credentials to access the API via a <i>Representational State Transfer</i> (<b>REST</b>) Web Service hosted at [https://api.{game}.com/{game}api.svc](#endpoint-base-urls).
 
 ### Obtaining API Key (Registration)
 ><i>An</i> [<b>``API Key``</b>](#api-key) <i>that will provide access to API.</i> The process of obtaining [<b>``API Key``</b>](#api-key) should be an one-time activity.
@@ -47,10 +47,10 @@ Any requests to the API made via client-side JavaScript present the risk of your
 ## Endpoint Base URLs
 To retrieve all information from the API, you will need to append all requests to the endpoint you want to retrieve data, and all requests must begin with the method you are wanting to access concatenated with the response type you are wanting.
 
-  - [Paladins][paladins]: `http://api.paladins.com/paladinsapi.svc`
-  - [Realm Royale][realm_royale]: `http://api.realmroyale.com/realmapi.svc`
-  - [Rogue Company][rogue_company]: `http://api.roguecompany.com/RoCoApi.svc`
-  - [Smite][smite]: `http://api.smitegame.com/smiteapi.svc`
+  - [Paladins][paladins]: `https://api.paladins.com/paladinsapi.svc`
+  - [Realm Royale][realm_royale]: `https://api.realmroyale.com/realmapi.svc`
+  - [Rogue Company][rogue_company]: `https://api.roguecompany.com/RoCoApi.svc`
+  - [Smite][smite]: `https://api.smitegame.com/smiteapi.svc`
 
 ## Calling API Request's
 
@@ -65,7 +65,7 @@ To retrieve all information from the API, you will need to append all requests t
   <tr>
     <td>base_url_endpoint</td>
     <td>The URL prefix for the <a href="#endpoint-base-urls" title="Endpoints">Endpoint</a> that you want to use</td>
-    <td>http://api.paladins.com/paladinsapi.svc</td>
+    <td>https://api.paladins.com/paladinsapi.svc</td>
   </tr>
   <tr>
     <td>method_pattern</td>
@@ -79,7 +79,7 @@ To retrieve all information from the API, you will need to append all requests t
   </tr>
 </table>
 
-##### URI example: http://api.paladins.com/paladinsapi.svc/CreateSessionJSON/{dev_id}/{signature}/{timestamp}
+##### URI example: https://api.paladins.com/paladinsapi.svc/CreateSessionJSON/{dev_id}/{signature}/{timestamp}
 
 ## Rate Limiting
 The API rate limits in order to prevent abuse and over use of the API (either intentional, more likely unintentional “over use”). All API requests are subject to rate limits.
@@ -312,7 +312,7 @@ We recommend using this field value as an unique identifier for errors, with the
 ### How do I connect to the API?
 - The API don't require a specific programming language to be used, so feel free to choose a language / tool that you are able to do ``Http Requests`` and read ``JSON`` and/or ``XML`` responses. If you want a wrapper, you can see them [here](./../README.md#wrappers).
 
-### I got “Endpoint not Found” when I go to <http://api.{game}.com/{game}api.svc>.
+### I got “Endpoint not Found” when I go to <https://api.{game}.com/{game}api.svc>.
 - You will receive ``Endpoint not Found`` if you are trying to access a non-existent endpoint, submitting a invalid [Method Pattern](#calling-api-methods) or even trying to access it directly on your Web Browser.
 
 ### I'm getting “Maximum number of active sessions reached”. Is there way to close those current Sessions?

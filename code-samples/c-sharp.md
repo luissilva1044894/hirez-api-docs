@@ -18,7 +18,7 @@ namespace HiRezAPIWrapper {
 		public class HirezAPI {
 			private int dev_id;
 			private string auth_key;
-			private static string BASE_ENDPOINT = "http://api.realmroyale.com/realmapi.svc";
+			private static string BASE_ENDPOINT = "https://api.realmroyale.com/realmapi.svc";
 			private Session session;
 			
 			public HirezAPI(string dev_id, string auth_key) : this(int.Parse(dev_id), auth_key) { }

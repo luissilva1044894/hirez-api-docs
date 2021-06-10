@@ -9,7 +9,8 @@ The [``Session``](./../README.md#session-authentication) is contained in an elem
 With exception of [``CreateSession``](#create-session) and [``Ping``](./../ping#ping), all endpoints require authentication, so there is no concept of unauthenticated calls and rate limits.
 
 <h2>URI Parameter</h2>
-**Request**: <i>/**CreateSession**[response_type]/{dev_id}/{signature}/{timestamp}</i> `GET` 
+
+**Request**: <i>/**CreateSession**[response_type]/{dev_id}/{signature}/{timestamp}</i> `GET`
 <table>
   <thead>
     <tr>
