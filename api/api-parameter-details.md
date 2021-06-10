@@ -861,6 +861,7 @@ Represents Platform as follows:
   <tr><td>14</td><td>Mixer</td><td><img src="./../.assets/logos/mixer.png" height="32" width="32"/></td></tr>
   <tr><td>22</td><td>Nintendo Switch</td><td><img src="./../.assets/logos/nintendo-switch.png" height="32" width="32"/></td></tr>
   <tr><td>25</td><td>Discord</td><td><img src="./../.assets/logos/discord.png" height="32" width="32"/></td></tr>
+  <tr><td>28</td><td>Epic Games</td><td><img src="./../.assets/logos/epic-games.png" height="32" width="32"/></td></tr>
 </table>
 
 <!--
