@@ -450,7 +450,7 @@ There are currently 114 playable gods in the game (Updated in 06/04/2021 00:05:2
   <tr><td>3954</td><td>Tsukuyomi</td><td>Assassin</td><td>God of the Moon</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/tsukuyomi.jpg" height="64" width="64"/></td></tr>
   <tr><td>3984</td><td>Danzaburou</td><td>Hunter</td><td>The Legendary Tanuki</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/danzaburou.jpg" height="64" width="64"/></td></tr>
   <tr><td>3990</td><td>Tiamat</td><td>Mage</td><td>Goddess of the Salt Sea</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/tiamat.jpg" height="64" width="64"/></td></tr>
-  <tr><td>3997</td><td>Gilgamesh</td><td>Warrior</td><td>King Of Uruk</td><td><img src="https://web2.hirez.com/smite/god-icons/gilgamesh.jpg" height="64" width="64"/></td></tr>
+  <tr><td>3997</td><td>Gilgamesh</td><td>Warrior</td><td>King Of Uruk</td><td><img src="https://webcdn.hirezstudios.com/smite/god-icons/gilgamesh.jpg" height="64" width="64"/></td></tr>
 </table>
 </details>
 
