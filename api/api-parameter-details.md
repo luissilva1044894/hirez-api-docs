@@ -195,6 +195,14 @@ Valid values are:
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Adorable</td><td><img src="./../.assets/paladins/avatar/adorable.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Chibi Cammie</td><td><img src="./../.assets/paladins/avatar/chibi_cammie.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Chibi Chase</td><td><img src="./../.assets/paladins/avatar/chibi_chase.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Chibi Kazu</td><td><img src="./../.assets/paladins/avatar/chibi_kazu.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Chibi Valentina</td><td><img src="./../.assets/paladins/avatar/chibi_valentina.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Chibi Yaz</td><td><img src="./../.assets/paladins/avatar/chibi_yaz.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Dedicated</td><td><img src="./../.assets/paladins/avatar/dedicated.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Schism</td><td><img src="./../.assets/paladins/avatar/schism.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
