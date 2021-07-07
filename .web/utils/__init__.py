@@ -66,7 +66,7 @@ def join_path(arr, relative_path=True):
 
 def read_file(filename, mode='rb', **kw):
   """Loads a file"""
-  is_json, silent = kw.pop('is_json', filename[-5:]=='.json'), kw.pop('silent', False)
+  is_json, silent = kw.pop('is_json', filename[-5:]=='.json'), kw.pop('silent', True)
   try:
     f = open_if_exists(filename, mode, encoding=kw.pop('encoding', 'utf-8'))
     if f:

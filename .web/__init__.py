@@ -8,6 +8,7 @@ from email.utils import format_datetime
 import functools
 import json
 import os
+from os import path
 import time
 
 from boolify import boolify
@@ -33,6 +34,7 @@ from utils import (
   slugify,
 )
 
+HERE = os.path.dirname(os.path.abspath(__file__))
 def get_value(request, field, default=None):
     if request.is_json:
       _ = request.get_json(force=True, silent=True, cache=True)
@@ -76,7 +78,12 @@ def on_heroku():
   return 'heroku' in get_env('PYTHONHOME', '').lower() or boolify(get_env('ON_HEROKU'))
 
 def create_app(*args, **kw):
-  app = Flask(kw.pop('name', __name__), static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), '.assets')), **kw)#, static_url_path=kw.pop('static_folder', '')
+  app = Flask(
+    kw.pop('name', __name__),
+    static_folder=kw.pop('static_folder', os.path.join(os.path.dirname(HERE), '.assets')),
+    static_url_path=kw.pop('static_folder', ''),
+    **kw
+  )
   app.url_map.strict_slashes = not on_heroku()
 
   def requested_json(arg):
@@ -193,6 +200,23 @@ def create_app(*args, **kw):
           return redirect(url_for('static', filename=f'{game}/{folder}/{_}', _external=True))
         return send_from_directory(path, _)
 
+  @app.route('/<game>/<folder>/', defaults={'file': None}, methods=['GET'])
+  @app.route('/<game>/<folder>/<file>', methods=['GET'])
+  def cdn_(game, folder, file):
+    p = path.join(app.static_folder, game, folder)
+    if file is not None:
+      f = file.rsplit('.', 1)
+      if len(f) > 1:
+        ext = f'{f[-1]}'
+      elif '.' not in str(f):
+        ext = '.jpg'
+      f = f'{slugify(f[0])}{ext}'
+    else:
+      f = f'{slugify(file)}'
+    if not path.isfile(path.join(p, f)):
+      r = read_file(path.join(p, f'{folder}.json'))
+      return jsonify(r or {}), 404
+    return send_from_directory(p, f)
   return app
 
 def main():

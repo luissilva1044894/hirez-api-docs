@@ -17,4 +17,4 @@ python-editor==1.0.4
 six==1.16.0;python_version>='2.7'
 
 # https://github.com/sqlalchemy/sqlalchemy
-SQLAlchemy==1.4.18;python_version>='3.6'
+SQLAlchemy==1.4.20;python_version>='3.6'
