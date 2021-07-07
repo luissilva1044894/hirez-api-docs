@@ -1,0 +1,378 @@
+[
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":423,
+    "name":"Stone Keep",
+    "image":"paladins/maps/stone-keep.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"siege",
+    "id":424,
+    "name":"Siege",
+    "image":"paladins/game-modes/siege.jpg",
+    "desc":"Capture the objective then push the payload",
+    "players":"5v5",
+    "time":"25 Minutes"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"siege",
+    "id":425,
+    "name":"Siege - Pratice",
+    "image":"paladins/game-modes/siege.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":426,
+    "name":"Bazaar",
+    "image":"paladins/maps/bazaar.jpg"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"tutorial",
+    "id":427,
+    "name":"Tutorial",
+    "image":"paladins/maps/tutorial.jpg"
+  },
+  {
+    "queue":"ranked",
+    "game_mode":"siege",
+    "id":428,
+    "name":"Competitive Gamepad",
+    "image":"paladins/game-modes/ranked.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":430,
+    "name":"Timber Mill",
+    "image":"paladins/maps/timber-mill.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":431,
+    "name":"Fish Market",
+    "image":"paladins/maps/fish-market.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":432,
+    "name":"Frozen Guard",
+    "image":"paladins/maps/frozen-guard.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":433,
+    "name":"Frog Isle",
+    "image":"paladins/maps/frog-isle.jpg"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"shooting_range",
+    "id":434,
+    "name":"Shooting Range",
+    "image":"paladins/maps/shooting-range.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":438,
+    "name":"Jaguar Falls",
+    "image":"paladins/maps/jaguar-falls.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":439,
+    "name":"Ice Mines",
+    "image":"paladins/maps/ice-mines.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":440,
+    "name":"Serpent Beach",
+    "image":"paladins/maps/serpent-beach.jpg"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"tutorial",
+    "id":444,
+    "name":"Tutorial",
+    "image":"paladins/maps/tutorial.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"siege",
+    "id":445,
+    "name":"Test Maps",
+    "image":"paladins/maps/test-maps.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"siege",
+    "id":445,
+    "name":"Test Maps",
+    "image":"paladins/game-modes/test-maps.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"onslaught",
+    "id":452,
+    "name":"Onslaught - King of the Hill",
+    "image":"paladins/game-modes/onslaught.jpg",
+    "desc":"Slay your enemies and control the objective to win",
+    "players":"5v5",
+    "time":"15 Minutes"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"onslaught",
+    "id":453,
+    "name":"Onslaught - Pratice",
+    "image":"paladins/game-modes/onslaught.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"onslaught",
+    "id":454,
+    "name":"Snowfall Junction",
+    "image":"paladins/maps/snowfall-junction.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"onslaught",
+    "id":455,
+    "name":"Primal Court",
+    "image":"paladins/maps/primal-court.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":458,
+    "name":"Brightmarsh",
+    "image":"paladins/maps/brightmarsh.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":459,
+    "name":"Splitstone Quarry",
+    "image":"paladins/maps/splitstone-quarry.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"onslaught",
+    "id":462,
+    "name":"Foreman's Rise",
+    "image":"paladins/maps/foremans-rise.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"onslaught",
+    "id":464,
+    "name":"Magistrate's Archives",
+    "image":"paladins/maps/magistrates-archives.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":468,
+    "name":"Trade District",
+    "image":"paladins/maps/trade-district.jpg",
+    "desc":"Eliminate enemy players",
+    "players":"5v5",
+    "time":"10 Minutes"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"tdm",
+    "id":469,
+    "name":"Team Deathmatch",
+    "image":"paladins/game-modes/team-deathmatch.jpg"
+  },
+  {
+    "queue":"pratice",
+    "game_mode":"tdm",
+    "id":470,
+    "name":"Team Deathmatch - Pratice",
+    "image":"paladins/game-modes/team-deathmatch.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":471,
+    "name":"Foreman's Rise",
+    "image":"paladins/maps/foremans-rise.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":472,
+    "name":"Magistrate's Archives",
+    "image":"paladins/maps/magistrates-archives.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":473,
+    "name":"Ascension Peak",
+    "image":"paladins/maps/ascension-peak.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"event",
+    "id":477,
+    "name":"Siege of Ascension Peak",
+    "image":"paladins/game-modes/siege-of-ascension-peak.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"event",
+    "id":478,
+    "name":"Rise of Furia",
+    "image":"paladins/game-modes/rise-of-furia.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":479,
+    "name":"Abyss",
+    "image":"paladins/maps/abyss.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":480,
+    "name":"Throne",
+    "image":"paladins/maps/abyss-spire.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"onslaught",
+    "id":483,
+    "name":"Marauders Port",
+    "image":"paladins/maps/marauders-port.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"tdm",
+    "id":484,
+    "name":"Dragon Arena",
+    "image":"paladins/maps/dragon-arena.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":485,
+    "name":"Warders Gate",
+    "image":"paladins/maps/warders-gate.jpg"
+  },
+  {
+    "queue":"ranked",
+    "game_mode":"siege",
+    "id":486,
+    "name":"Competitive KBM",
+    "image":"paladins/game-modes/ranked.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"siege",
+    "id":487,
+    "name":"Shattered Desert",
+    "image":"paladins/maps/shattered-desert.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"event",
+    "id":488,
+    "name":"End Times",
+    "image":"paladins/game-modes/end-times.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"event",
+    "id":489,
+    "name":"End Times",
+    "image":"paladins/game-modes/end-times.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"koth",
+    "id":10200,
+    "name":"Magistrate's Archives",
+    "image":"paladins/maps/magistrates-archives.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"koth",
+    "id":10201,
+    "name":"Snowfall Junction",
+    "image":"paladins/maps/snowfall-junction.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"koth",
+    "id":10202,
+    "name":"Marauders Port",
+    "image":"paladins/maps/marauders-port.jpg"
+  },
+  {
+    "queue":"custom",
+    "game_mode":"king_of_the_hill",
+    "id":10203,
+    "name":"Trade District",
+    "image":"paladins/maps/marauders-port.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"battlegrounds",
+    "id":null,
+    "name":"Battlegrounds",
+    "image":"paladins/game-modes/battlegrounds.jpg",
+    "desc":"Fight to survive, find loot, and become the last team standing",
+    "players":"100",
+    "time":"20 Minutes"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"event",
+    "id":null,
+    "name":"Dragon's Call",
+    "image":"paladins/game-modes/dragons-call.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"payload",
+    "id":null,
+    "name":"Frostbite Caverns.jpg",
+    "image":"paladins/maps/frostbite-caverns.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"Payload",
+    "id":null,
+    "name":"Forest",
+    "image":"paladins/maps/payload-forest.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"siege",
+    "id":null,
+    "name":"Heaven And Hell.jpg",
+    "image":"paladins/maps/heaven-and-hell.jpg"
+  },
+  {
+    "queue":"casual",
+    "game_mode":"Payload",
+    "id":null,
+    "name":"Ruins",
+    "image":"paladins/maps/payload-ruins.jpg"
+  }
+]
