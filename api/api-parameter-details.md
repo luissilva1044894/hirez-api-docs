@@ -199,8 +199,8 @@ Valid values are:
   <tr><td>27398</td><td>Dedicated</td><td><img src="./../.assets/paladins/avatar/27398.png" height="32" width="32"/></td></tr>
   <tr><td>27405</td><td>Schism</td><td><img src="./../.assets/paladins/avatar/27405.png" height="32" width="32"/></td></tr>
   <tr><td>27450</td><td>Adorable</td><td><img src="./../.assets/paladins/avatar/27450.gif" height="32" width="32"/></td></tr>
-  <tr><td>27469</td><td>Finch</td><td><img src="./../.assets/paladins/avatar/27469.gif" height="32" width="32"/></td></tr>
-  <tr><td>27646</td><td>Autumn Maeve</td><td><img src="./../.assets/paladins/avatar/27646.gif" height="32" width="32"/></td></tr>
+  <tr><td>27469</td><td>Finch</td><td><img src="./../.assets/paladins/avatar/27469.png" height="32" width="32"/></td></tr>
+  <tr><td>27646</td><td>Autumn Maeve</td><td><img src="./../.assets/paladins/avatar/27646.png" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
@@ -303,6 +303,8 @@ There are currently 49 playable champions in the game (Updated in 06/04/2021 00:
   <tr><td>2538</td><td>Yagorath</td><td>Front Line</td><td>The Devourer</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/yagorath.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/yagorath.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/yagorath.png" height="64" width="32"/></td><td> </td></tr>
   <tr><td>2540</td><td>Octavia</td><td>Damage</td><td>The Indomitable</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/octavia.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/octavia.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/octavia.png" height="64" width="32"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/octavia/bkg.jpg" height="32" width="64"/></td></tr>
   <tr><td>2541</td><td>Vatu</td><td>Flank</td><td>The Shadow</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/vatu.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vatu.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/vatu.png" height="64" width="32"/></td></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/vatu/bkg.jpg" height="32" width="64"/></td></tr>
+  <tr><td>2542</td><td>Rei</td><td>Support</td><td>Scholar of House Aico</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/rei.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/rei.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/rei.png" height="64" width="32"/></td></tr>
+  <tr><td>2543</td><td>Saati</td><td>Damage</td><td>The Trickshot</td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-icons/saati.jpg" height="64" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/champion-headers/saati.png" height="32" width="64"/></td><td><img src="https://webcdn.hirezstudios.com/paladins/assets/carousel/saati.png" height="64" width="32"/></td></tr>
 </table>
 </details>
 
