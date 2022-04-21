@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema",
   "type": "array",
   "title": "'get-bounty-items' schema",
-  "description": "Schema for paladins 'getbountyitems' endpoint",
+  "description": "Schema for paladins 'getbountyitemsJSON' endpoint",
   "minItems": 1,
   "items": {
     "type": "object",
