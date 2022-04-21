@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "array",
+  "title": "'get-bounty-items' schema",
+  "description": "Schema for paladins 'getbountyitems' endpoint",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "properties": {
+      "active": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 1
+      },
+      "bounty_item_id1": {
+        "type": "integer"
+      },
+      "bounty_item_id2": {
+        "type": "integer"
+      },
+      "bounty_item_name": {
+        "type": "string"
+      },
+      "champion_id": {
+        "type": "integer"
+      },
+      "champion_name": {
+        "type": "string"
+      },
+      "final_price": {
+        "type": "string"
+      },
+      "initial_price": {
+        "type": "string"
+      },
+      "ret_msg": {
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      "sale_end_datetime": {
+        "type": "string"
+      },
+      "sale_type": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "active",
+      "bounty_item_id1",
+      "bounty_item_id2",
+      "bounty_item_name",
+      "champion_id",
+      "champion_name",
+      "final_price",
+      "initial_price",
+      "ret_msg",
+      "sale_end_datetime",
+      "sale_type"
+    ]
+  }
+}
+
