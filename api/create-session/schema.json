@@ -19,7 +19,7 @@
   ],
   "properties": {
     "ret_msg": {
-      "type": "string",
+      "type": ["string", "null"],
       "examples": [
         "Approved",
         "Invalid Signature"
