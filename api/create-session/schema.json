@@ -27,10 +27,11 @@
     },
     "session_id": {
       "type": "string",
-      "minLength": 2
+      "pattern": "\\S+"
     },
     "timestamp": {
-      "type": "string"
+      "type": "string",
+      "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$"
     }
   },
   "additionalProperties": false
