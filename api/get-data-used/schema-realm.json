@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.realmroyale.com/realmapi.svc/getdatausedjson",
+  "type": "object",
+  "title": "'get-data-used' schema",
+  "description": "Schema for realmroyale 'getdatausedJSON' endpoint",
+  "default": {},
+  "properties": {
+    "active_sessions": {
+      "type": "integer"
+    },
+    "concurrent_sessions": {
+      "type": "integer"
+    },
+    "request_limit_daily": {
+      "type": "integer"
+    },
+    "session_cap": {
+      "type": "integer"
+    },
+    "session_time_limit": {
+      "type": "integer",
+      "description": "Time in minutes"
+    },
+    "total_requests_today": {
+      "type": "integer"
+    },
+    "total_sessions_today": {
+      "type": "integer"
+    },
+    "ret_msg": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "required": [
+    "active_sessions",
+    "concurrent_sessions",
+    "request_limit_daily",
+    "session_cap",
+    "session_time_limit",
+    "total_requests_today",
+    "total_sessions_today",
+    "ret_msg"
+  ],
+  "additionalItems": false
+}
