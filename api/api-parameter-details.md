@@ -1095,7 +1095,7 @@ signature = generate_signature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD20
 ## Timestamp
 > string
 
-Current UTC time (GMT+0) in the following format: “**``YYYYMMDDHHmmss``**”.
+Current UTC time (GMT+0) in the following format: “**``yyyyMMddHHmmss``**”.
 
 **Timestamps** are used by [**Signatures**](#signature) and embedded into URLs when sending requests, they have to be formatted properly to ensure the request completes without error.
 
@@ -1130,7 +1130,7 @@ public final String timestamp = get_timestamp();
 ```js
 const moment = require("moment");
 function get_timestamp() {
-  return moment.utc().format("YYYYMMDDHHmmss");
+  return moment.utc().format("yyyyMMddHHmmss");
 }
 var timestamp = get_timestamp();
 ```

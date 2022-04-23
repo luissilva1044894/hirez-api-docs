@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.paladins.com/paladinsapi.svc/getdatausedjson",
+  "type": "array",
+  "title": "'get-data-used' schema",
+  "description": "Schema for paladins/smite 'getdatausedJSON' endpoint",
+  "minItems": 1,
+  "maxItems": 1,
+  "default": {},
+  "items": {
+    "type": "object",
+    "properties": {
+      "Active_Sessions": {
+        "type": "integer"
+      },
+      "Concurrent_Sessions": {
+        "type": "integer"
+      },
+      "Request_Limit_Daily": {
+        "type": "integer"
+      },
+      "Session_Cap": {
+        "type": "integer"
+      },
+      "Session_Time_Limit": {
+        "type": "integer",
+        "description": "Time in minutes"
+      },
+      "Total_Requests_Today": {
+        "type": "integer"
+      },
+      "Total_Sessions_Today": {
+        "type": "integer"
+      },
+      "ret_msg": {
+        "type": [
+          "string",
+          "null"
+        ]
+      }
+    },
+    "required": [
+      "Active_Sessions",
+      "Concurrent_Sessions",
+      "Request_Limit_Daily",
+      "Session_Cap",
+      "Session_Time_Limit",
+      "Total_Requests_Today",
+      "Total_Sessions_Today",
+      "ret_msg"
+    ]
+  },
+  "additionalItems": false
+}

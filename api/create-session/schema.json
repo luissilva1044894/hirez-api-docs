@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.paladins.com/paladinsapi.svc/createsessionjson",
+  "type": "object",
+  "title": "'create-session' schema",
+  "description": "Schema for paladins/realm/smite 'createsessionJSON' endpoint",
+  "default": {},
+  "examples": [
+    {
+      "ret_msg": "Approved",
+      "session_id": "4D3064CF27D0473CA4CF142330E97FB5",
+      "timestamp": "11/28/2019 3:09:16 PM"
+    }
+  ],
+  "required": [
+    "ret_msg",
+    "session_id",
+    "timestamp"
+  ],
+  "properties": {
+    "ret_msg": {
+      "type": ["string", "null"],
+      "examples": [
+        "Approved",
+        "Invalid Signature"
+      ]
+    },
+    "session_id": {
+      "type": "string",
+      "pattern": "\\S+"
+    },
+    "timestamp": {
+      "type": "string",
+      "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$"
+    }
+  },
+  "additionalProperties": false
+}
