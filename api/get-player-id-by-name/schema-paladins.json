@@ -1,0 +1,60 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://api.paladins.com/paladinsapi.svc/getplayeridbynamejson",
+    "type": "array",
+    "title": "'get-player-id-by-name' schema",
+    "description": "Schema for paladins 'getplayeridbynameJSON' endpoint",
+    "default": {},
+    "items": {
+      "type": "object",
+      "properties": {
+        "ret_msg": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "examples": [
+            "Approved",
+            "Invalid Signature"
+          ]
+        },
+        "Name": {
+          "type": "string"
+        },
+        "player_id": {
+          "type": "number"
+        },
+        "portal": {
+          "type": "string"
+        },
+        "portal_id": {
+          "type": "string"
+        },
+        "privacy_flag": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "Name",
+        "player_id",
+        "portal",
+        "portal_id",
+        "privacy_flag",
+        "ret_msg"
+      ],
+      "additionalProperties": false
+    },
+    "examples": [
+      [
+        {
+          "Name": "Likqez",
+          "player_id": 10182473,
+          "portal": "Steam",
+          "portal_id": "5",
+          "privacy_flag": "n",
+          "ret_msg": null
+        }
+      ]
+    ]
+  }
+  

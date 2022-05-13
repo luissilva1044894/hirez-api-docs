@@ -1,0 +1,81 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://api.paladins.com/paladinsapi.svc/getchampionranksjson",
+    "type": "array",
+    "title": "'get-champion-ranks' schema",
+    "description": "Schema for paladins 'GetChampionRanks' endpoint",
+    "default": {},
+    "items": {
+      "type": "object",
+      "properties": {
+        "Assists": {
+          "type": "number"
+        },
+        "Deaths": {
+          "type": "number"
+        },
+        "Gold": {
+          "type": "number"
+        },
+        "Kills": {
+          "type": "number"
+        },
+        "LastPlayed": {
+          "type": "string",
+          "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$"
+        },
+        "Losses": {
+          "type": "number"
+        },
+        "MinionKills": {
+          "type": "number"
+        },
+        "Minutes": {
+          "type": "number"
+        },
+        "Rank": {
+          "type": "number"
+        },
+        "Wins": {
+          "type": "number"
+        },
+        "Worshippers": {
+          "type": "number"
+        },
+        "champion": {
+          "type": "string"
+        },
+        "champion_id": {
+          "type": "string"
+        },
+        "player_id": {
+          "type": "string"
+        },
+        "ret_msg": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "Assists",
+        "Deaths",
+        "Gold",
+        "Kills",
+        "LastPlayed",
+        "Losses",
+        "MinionKills",
+        "Minutes",
+        "Rank",
+        "Wins",
+        "Worshippers",
+        "champion",
+        "champion_id",
+        "player_id",
+        "ret_msg"
+      ]
+    },
+    "additionalItems": false
+  }
+  
