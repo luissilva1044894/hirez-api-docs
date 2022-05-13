@@ -1,0 +1,62 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "ttps://api.realmroyale.com/realmapi.svc/searchplayersjson",
+    "type": "array",
+    "title": "'search-players' schema",
+    "description": "Schema for realm 'searchplayersJSON' endpoint",
+    "default": {},
+    "items": {
+      "type": "object",
+      "properties": {
+        "ret_msg": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "examples": [
+            "Approved",
+            "Invalid Signature"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "portal_id": {
+          "type": "number"
+        },
+        "steam_id": {
+          "type": "number"
+        },
+        "id": {
+            "type": "number"
+          }
+      },
+      "required": [
+        "id",
+        "name",
+        "portal_id",
+        "ret_msg",
+        "steam_id"
+      ],
+      "additionalProperties": false
+    },
+    "examples": [
+        [
+            {
+              "id":10443859,
+              "name":"SeriousMarineTTV",
+              "portal_id":9,
+              "ret_msg":null,
+              "steam_id":9
+            },
+            {
+              "id":15126164,
+              "name":"SeriousMarineTTV",
+              "portal_id":5,
+              "ret_msg":null,
+              "steam_id":5
+            }
+          ]
+    ]
+  }
+  
