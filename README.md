@@ -85,6 +85,7 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
   [![badge_wrapper_javascript_paladins_api][badge_wrapper_javascript_paladins_api]][badge_wrapper_javascript_paladins_api_github]
   [![wrapper_javascript_paladins.js][badge_wrapper_javascript_paladins.js]][badge_wrapper_javascript_paladins.js_github]
   [![wrapper_javascript_paladins_api_node.js][badge_wrapper_javascript_paladins_api_node]][badge_wrapper_javascript_paladins_api_node_github]
+  [![wrapper_javascript_pe_paladins.js][badge_wrapper_javascript_pe_paladins.js]][badge_wrapper_javascript_pe_paladins.js_github]
 * [![wrapper_kotlin_hirez_sdk_kotlin][badge_wrapper_kotlin_hirez_sdk_kotlin]][badge_wrapper_kotlin_hirez_sdk_kotlin_github]
   [![wrapper_kotlin_paladins_api_kotlin][badge_wrapper_kotlin_paladins_api_kotlin]][badge_wrapper_kotlin_paladins_api_kotlin_github]
 * [![wrapper_php_php_api][badge_wrapper_php_php_api]][badge_wrapper_php_php_api_github]
