@@ -229,6 +229,9 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 [badge_wrapper_javascript_paladins_api_node]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=paladins%20api%20node&color=blueviolet&style=plastic&link=https://github.com/barenddt/paladins-api-node
 [badge_wrapper_javascript_paladins_api_node_github]: https://github.com/barenddt/paladins-api-node "paladins-api-node · Github repo"
 
+[badge_wrapper_javascript_pe_paladins.js]: https://img.shields.io/static/v1?label=Javascript&logo=javascript&logoWidth=20&message=pe-paladins.js&color=blueviolet&style=plastic&link=https://github.com/tusharlock10/pe-paladins.js
+[badge_wrapper_javascript_pe_paladins.js_github]: https://github.com/tusharlock10/pe-paladins.js "pe-paladins.js · Github repo"
+
 [badge_wrapper_kotlin_hirez_sdk_kotlin]: https://img.shields.io/static/v1?label=Kotlin&logo=kotlin&logoWidth=20&message=Hirez%20sdk%20kotlin&color=blueviolet&style=plastic&link=https://github.com/tafel-io/Hirez-sdk-kotlin
 [badge_wrapper_kotlin_hirez_sdk_kotlin_github]: https://github.com/tafel-io/Hirez-sdk-kotlin "Hirez-sdk-kotlin · Github repo"
 
