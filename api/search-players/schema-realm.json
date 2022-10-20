@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "ttps://api.realmroyale.com/realmapi.svc/searchplayersjson",
+    "$id": "https://api.realmroyale.com/realmapi.svc/searchplayersjson",
     "type": "array",
     "title": "'search-players' schema",
     "description": "Schema for realm 'searchplayersJSON' endpoint",
@@ -59,4 +59,3 @@
           ]
     ]
   }
-  
