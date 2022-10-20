@@ -1,0 +1,237 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.paladins.com/paladinsapi.svc/getplayerjson",
+  "type": "array",
+  "title": "'get-player' schema",
+  "description": "Schema for paladins 'getplayerJSON' endpoint",
+  "default": {},
+  "items": {
+    "type": "object",
+    "properties": {
+      "ret_msg": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "examples": [
+          "Approved",
+          "Invalid Signature"
+        ]
+      },
+      "ActivePlayerId": {
+        "type": "number"
+      },
+      "AvatarId": {
+        "type": "number"
+      },
+      "AvatarURL": {
+        "type": ["string", "null"]
+      },
+      "Created_Datetime": {
+        "type": "string",
+        "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$"
+      },
+      "HoursPlayed": {
+        "type": "number"
+      },
+      "Id": {
+        "type": "number"
+      },
+      "Last_Login_Datetime": {
+        "type": "string",
+        "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$"
+      },
+      "Leaves": {
+        "type": "number"
+      },
+      "Level": {
+        "type": "number"
+      },
+      "LoadingFrame": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "Losses": {
+        "type": "number"
+      },
+      "MasteryLevel": {
+        "type": "number"
+      },
+      "MergedPlayers": {
+        "type": [
+          "null",
+          "object"
+        ]
+      },
+      "MinutesPlayed": {
+        "type": "number"
+      },
+      "Name": {
+        "type": "string"
+      },
+      "Personal_Status_Message": {
+        "type": "string"
+      },
+      "Platform": {
+        "type": "string"
+      },
+      "RankedConquest": {
+        "$ref": "#/$definitions/RankedContainer"
+      },
+      "RankedController": {
+        "$ref": "#/$definitions/RankedContainer"
+      },
+      "RankedKBM": {
+        "$ref": "#/$definitions/RankedContainer"
+      },
+      "Region": {
+        "type": "string"
+      },
+      "TeamId": {
+        "type": "number"
+      },
+      "Team_Name": {
+        "type": "string"
+      },
+      "Tier_Conquest": {
+        "type": "number"
+      },
+      "Tier_RankedController": {
+        "type": "number"
+      },
+      "Tier_RankedKBM": {
+        "type": "number"
+      },
+      "Title": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "Total_Achievements": {
+        "type": "number"
+      },
+      "Total_Worshippers": {
+        "type": "number"
+      },
+      "Total_XP": {
+        "type": "number"
+      },
+      "Wins": {
+        "type": "number"
+      },
+      "hz_gamer_tag": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "hz_player_name": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "ActivePlayerId",
+      "AvatarId",
+      "AvatarURL",
+      "Created_Datetime",
+      "HoursPlayed",
+      "Id",
+      "Last_Login_Datetime",
+      "Leaves",
+      "Level",
+      "LoadingFrame",
+      "Losses",
+      "MasteryLevel",
+      "MergedPlayers",
+      "MinutesPlayed",
+      "Name",
+      "Personal_Status_Message",
+      "Platform",
+      "RankedConquest",
+      "RankedController",
+      "RankedKBM",
+      "Region",
+      "TeamId",
+      "Team_Name",
+      "Tier_Conquest",
+      "Tier_RankedController",
+      "Tier_RankedKBM",
+      "Title",
+      "Total_Achievements",
+      "Total_Worshippers",
+      "Total_XP",
+      "Wins",
+      "hz_gamer_tag",
+      "hz_player_name",
+      "ret_msg"
+    ],
+    "additionalProperties": false
+  },
+  "$definitions": {
+    "RankedContainer": {
+      "type": "object",
+      "properties": {
+        "Leaves": {
+          "type": "number"
+        },
+        "Losses": {
+          "type": "number"
+        },
+        "Name": {
+          "type": "string"
+        },
+        "Points": {
+          "type": "number"
+        },
+        "PrevRank": {
+          "type": "number"
+        },
+        "Rank": {
+          "type": "number"
+        },
+        "Season": {
+          "type": "number"
+        },
+        "Tier": {
+          "type": "number"
+        },
+        "Trend": {
+          "type": "number"
+        },
+        "Wins": {
+          "type": "number"
+        },
+        "player_id": {
+          "type": [
+            "null",
+            "number"
+          ]
+        },
+        "ret_msg": {
+          "type": [
+            "null",
+            "string"
+          ]
+        }
+      },
+      "required": [
+        "Leaves",
+        "Losses",
+        "Name",
+        "Points",
+        "PrevRank",
+        "Rank",
+        "Season",
+        "Tier",
+        "Trend",
+        "Wins",
+        "player_id",
+        "ret_msg"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
