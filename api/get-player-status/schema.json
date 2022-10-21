@@ -1,0 +1,76 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.paladins.com/paladinsapi.svc/getplayerstatusjson",
+  "type": "array",
+  "title": "'get-player-status' schema",
+  "description": "Schema for paladins/smite 'getplayerstatusJSON' endpoint",
+  "default": {},
+  "items": {
+    "type": "object",
+    "properties": {
+      "ret_msg": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "examples": [
+          "Approved",
+          "Invalid Signature"
+        ]
+      },
+      "status_string": {
+        "type": "string"
+      },
+      "status": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 5
+      },
+      "personal_status_message": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "match_queue_id": {
+        "type": "number",
+        "minimum": 0
+      },
+      "Match": {
+        "type": "number",
+        "minimum": 0
+      }
+    },
+    "required": [
+      "status_string",
+      "status",
+      "personal_status_message",
+      "match_queue_id",
+      "Match",
+      "ret_msg"
+    ],
+    "additionalProperties": false
+  },
+  "examples": [
+    [
+      {
+        "Match": 1200672860,
+        "match_queue_id": 434,
+        "personal_status_message": null,
+        "ret_msg": null,
+        "status": 3,
+        "status_string": "In Game"
+      }
+    ],
+    [
+      {
+        "Match": 0,
+        "match_queue_id": 0,
+        "personal_status_message": "",
+        "ret_msg": null,
+        "status": 5,
+        "status_string": "Unknown"
+      }
+    ]
+  ]
+}

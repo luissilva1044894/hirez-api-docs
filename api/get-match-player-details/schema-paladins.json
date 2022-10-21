@@ -1,0 +1,368 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://api.paladins.com/paladinsapi.svc/getmatchplayerdetailsjson",
+  "type": "array",
+  "title": "'get-match-player-details' schema",
+  "description": "Schema for paladins 'getmatchplayerdetailsJSON' endpoint",
+  "default": {},
+  "maxLength": 10,
+  "items": {
+    "type": "object",
+    "properties": {
+      "ret_msg": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "examples": [
+          "Approved",
+          "Invalid Signature"
+        ]
+      },
+      "Account_Champions_Played": {
+        "type": "number",
+        "minimum": 0
+      },
+      "Account_Level": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 999
+      },
+      "ChampionId": {
+        "type": "number"
+      },
+      "ChampionLevel": {
+        "type": "number",
+        "minimum": 0,
+        "maximum": 999
+      },
+      "ChampionName": {
+        "type": "string"
+      },
+      "Mastery_Level": {
+        "type": "number"
+      },
+      "Match": {
+        "type": "number"
+      },
+      "Queue": {
+        "type": "string"
+      },
+      "Skin": {
+        "type": "string"
+      },
+      "SkinId": {
+        "type": "number"
+      },
+      "Tier": {
+        "type": "number"
+      },
+      "mapGame": {
+        "type": "string"
+      },
+      "playerCreated": {
+        "type": "string",
+        "pattern": "^(\\d{1,2}\\/\\d{1,2}\\/\\d{4})\\s(0?[1-9]|1[0-2]):([0-5]\\d):([0-5]?\\d)\\s?([APap]\\.?[Mm]\\.?)$",
+        "examples": [
+          "2/3/2018 12:51:29 AM",
+          "3/17/2018 8:01:25 AM"
+        ]
+      },
+      "playerId": {
+        "type": "string"
+      },
+      "playerName": {
+        "type": "string"
+      },
+      "playerPortalId": {
+        "type": "string"
+      },
+      "playerPortalUserId": {
+        "type": "string"
+      },
+      "playerRegion": {
+        "type": "string"
+      },
+      "taskForce": {
+        "type": "number",
+        "minimum": 1,
+        "maximum": 2
+      },
+      "tierLosses": {
+        "type": "number"
+      },
+      "tierWins": {
+        "type": "number"
+      }
+    },
+    "required": [
+      "Account_Champions_Played",
+      "Account_Level",
+      "ChampionId",
+      "ChampionLevel",
+      "ChampionName",
+      "Mastery_Level",
+      "Match",
+      "Queue",
+      "Skin",
+      "SkinId",
+      "Tier",
+      "mapGame",
+      "playerCreated",
+      "playerId",
+      "playerName",
+      "playerPortalId",
+      "playerPortalUserId",
+      "playerRegion",
+      "ret_msg",
+      "taskForce",
+      "tierLosses",
+      "tierWins"
+    ],
+    "additionalProperties": false
+  },
+  "examples": [
+    [
+      {
+        "Account_Champions_Played": 35,
+        "Account_Level": 54,
+        "ChampionId": 2249,
+        "ChampionLevel": 7,
+        "ChampionName": "Kinessa",
+        "Mastery_Level": 7,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Unknown",
+        "SkinId": 0,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "1\/20\/2020 1:06:34 PM",
+        "playerId": "716338558",
+        "playerName": "forkc",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198328921792",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 1,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 35,
+        "Account_Level": 81,
+        "ChampionId": 2542,
+        "ChampionLevel": 19,
+        "ChampionName": "Rei",
+        "Mastery_Level": 19,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Unknown",
+        "SkinId": 0,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "3\/9\/2019 3:58:38 PM",
+        "playerId": "710102560",
+        "playerName": "ilyzorka",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198137496654",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 1,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 40,
+        "Account_Level": 73,
+        "ChampionId": 2073,
+        "ChampionLevel": 8,
+        "ChampionName": "Barik",
+        "Mastery_Level": 8,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Unknown",
+        "SkinId": 0,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "8\/13\/2022 9:45:17 PM",
+        "playerId": "730650551",
+        "playerName": "DungDevouer",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198309644595",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 1,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 35,
+        "Account_Level": 92,
+        "ChampionId": 2071,
+        "ChampionLevel": 19,
+        "ChampionName": "Fernando",
+        "Mastery_Level": 19,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Daring",
+        "SkinId": 14805,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "10\/15\/2017 12:00:34 PM",
+        "playerId": "702574650",
+        "playerName": "Emarceus II",
+        "playerPortalId": "10",
+        "playerPortalUserId": "2533274929062952",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 2,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 37,
+        "Account_Level": 125,
+        "ChampionId": 2267,
+        "ChampionLevel": 21,
+        "ChampionName": "Ying",
+        "Mastery_Level": 21,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Unknown",
+        "SkinId": 0,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "6\/3\/2021 4:46:16 PM",
+        "playerId": "725824477",
+        "playerName": "Vonvic",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198413407190",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 2,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 56,
+        "Account_Level": 112,
+        "ChampionId": 2555,
+        "ChampionLevel": 7,
+        "ChampionName": "Kasumi",
+        "Mastery_Level": 7,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Spirited",
+        "SkinId": 31418,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "1\/21\/2017 10:05:30 AM",
+        "playerId": "6680371",
+        "playerName": "SteffSteff",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198316616732",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 2,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 56,
+        "Account_Level": 181,
+        "ChampionId": 2554,
+        "ChampionLevel": 30,
+        "ChampionName": "Caspian",
+        "Mastery_Level": 30,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Unknown",
+        "SkinId": 0,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "5\/17\/2017 7:50:00 PM",
+        "playerId": "9201735",
+        "playerName": "Vylnex",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198068175996",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 2,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 48,
+        "Account_Level": 633,
+        "ChampionId": 2431,
+        "ChampionLevel": 82,
+        "ChampionName": "Jenos",
+        "Mastery_Level": 82,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Remix",
+        "SkinId": 23845,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "3\/17\/2018 8:01:25 AM",
+        "playerId": "14012363",
+        "playerName": "Guanyu1407",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561197990196007",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 2,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 57,
+        "Account_Level": 407,
+        "ChampionId": 2147,
+        "ChampionLevel": 18,
+        "ChampionName": "Buck",
+        "Mastery_Level": 18,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Triggerman",
+        "SkinId": 14314,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "7\/2\/2018 3:11:52 PM",
+        "playerId": "15384035",
+        "playerName": "RedJ0k3r",
+        "playerPortalId": "5",
+        "playerPortalUserId": "76561198275996204",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 1,
+        "tierLosses": 0,
+        "tierWins": 0
+      },
+      {
+        "Account_Champions_Played": 57,
+        "Account_Level": 999,
+        "ChampionId": 2555,
+        "ChampionLevel": 16,
+        "ChampionName": "Kasumi",
+        "Mastery_Level": 16,
+        "Match": 1200676334,
+        "Queue": "424",
+        "Skin": "Spirited",
+        "SkinId": 31418,
+        "Tier": 0,
+        "mapGame": "LIVE Shattered Desert",
+        "playerCreated": "2\/3\/2018 12:51:29 AM",
+        "playerId": "0",
+        "playerName": "",
+        "playerPortalId": "5",
+        "playerPortalUserId": "",
+        "playerRegion": "Europe",
+        "ret_msg": null,
+        "taskForce": 1,
+        "tierLosses": 0,
+        "tierWins": 0
+      }
+    ]
+  ]
+}

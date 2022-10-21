@@ -1,0 +1,71 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "https://api.paladins.com/paladinsapi.svc/searchplayersjson",
+    "type": "array",
+    "title": "'search-players' schema",
+    "description": "Schema for paladins/smite 'searchplayersJSON' endpoint",
+    "default": {},
+    "items": {
+      "type": "object",
+      "properties": {
+        "ret_msg": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "examples": [
+            "Approved",
+            "Invalid Signature"
+          ]
+        },
+        "Name": {
+          "type": "string"
+        },
+        "player_id": {
+          "type": "string"
+        },
+        "hz_player_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "portal_id": {
+          "type": "string"
+        },
+        "privacy_flag": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "Name",
+        "hz_player_name",
+        "player_id",
+        "portal_id",
+        "privacy_flag",
+        "ret_msg"
+      ],
+      "additionalProperties": false
+    },
+    "examples": [
+      [
+        {
+          "Name": "Death",
+          "hz_player_name": null,
+          "player_id": "3720661",
+          "portal_id": "22",
+          "privacy_flag": "n",
+          "ret_msg": null
+        },
+        {
+          "Name": "Death",
+          "hz_player_name": "Death",
+          "player_id": "13059270",
+          "portal_id": "5",
+          "privacy_flag": "n",
+          "ret_msg": null
+        }
+      ]
+    ]
+  }
+  

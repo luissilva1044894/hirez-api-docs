@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "/api.realmroyale.com/realmapi.svc/getplayerstatusjson",
+  "type": "object",
+  "title": "'get-player-status' schema",
+  "description": "Schema for realm 'getplayerstatusJSON' endpoint",
+  "default": {},
+  "properties": {
+    "ret_msg": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "examples": [
+        "Approved",
+        "Invalid Signature"
+      ]
+    },
+    "status": {
+      "type": "string"
+    },
+    "status_id": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "personal_status_message": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "match_queue_id": {
+      "type": "number",
+      "minimum": 0
+    },
+    "match_id": {
+      "type": "number",
+      "minimum": 0
+    }
+  },
+  "required": [
+    "match_id",
+    "match_queue_id",
+    "personal_status_message",
+    "status",
+    "status_id",
+    "ret_msg"
+  ],
+  "examples": [
+    {
+      "match_id": 29722779,
+      "match_queue_id": 476,
+      "personal_status_message": null,
+      "ret_msg": null,
+      "status": "In Game",
+      "status_id": 3
+    }
+  ]
+}
