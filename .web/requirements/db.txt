@@ -1,10 +1,10 @@
 
 # https://github.com/encode/databases
-databases[postgresql,sqlite]==0.4.3;python_version>='3.6'
+databases[postgresql,sqlite]==0.6.2;python_version>='3.6'
 
 ## Database
 # https://github.com/miguelgrinberg/Flask-Migrate
-Flask-Migrate==3.0.1 
+Flask-Migrate==3.1.0 
 
 # https://github.com/smurfix/flask-script
 Flask-Script==2.0.6
