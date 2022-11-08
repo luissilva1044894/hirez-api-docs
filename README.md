@@ -60,7 +60,7 @@ Please note, however, that this license does NOT cover third-party libraries use
 
 All information obtained is provided by Hi-Rez Studios API and is thus their property. According to Section 11a of the [`API Terms of Use`][hi_rez_studios_api_terms_of_use], you must attribute any data provided as below.
 
-> Data provided by Hi-Rez. © 2019 Hi-Rez Studios, Inc. All rights reserved.
+> Data provided by Hi-Rez. © 2022 Hi-Rez Studios, Inc. All rights reserved.
 
 ### Resources
 <!-- Quick Links-->
