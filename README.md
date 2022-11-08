@@ -44,8 +44,6 @@ Feel free to contribute to this project, a helping hand is always appreciated.
 
 By contributing contents to this Wiki you shall implicitly accept that others might reuse these contents in other projects without restrictions.
 
-If you have any questions, concerns, need further help, want to be up-to-date on, or like interested to contribute in any way or mantaining this project, please join [*Nonsocial's support server*][project_discord_support_server] on [Discord][discord].
-
 ### Disclaimer :x:
 
 This project, including this repository, is neither created, affiliated, authorized, maintained, associated nor endorsed by [Hi-Rez Studios][hi_rez_studios], or any of its subsidiaries or its affiliates.
@@ -151,7 +149,6 @@ All information obtained is provided by Hi-Rez Studios API and is thus their pro
 	https://www.flaticon.com/search/2?word=mixer
 -->
 
-[discord]: https://discordapp.com/ "Discord App · Website"
 [json_website]: https://json.org/ "Visit json.org"
 [json_formatter]: https://jsonformatter.curiousconcept.com "JSON Formatter & Validator · Website"
 [xml_formatter]: https://jsonformatter.org/xml-formatter "XML Formatter & Validator · Website"
