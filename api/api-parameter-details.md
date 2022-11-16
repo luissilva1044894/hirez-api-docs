@@ -184,7 +184,7 @@ Valid values are:
   <tr><td>27118</td><td>Birthday Party Pip and Pepper</td><td><img src="./../.assets/paladins/avatar/27118.png" height="32" width="32"/></td></tr>
   <tr><td>27119</td><td>Birthday Party Ying</td><td><img src="./../.assets/paladins/avatar/27119.png" height="32" width="32"/></td></tr>
   <tr><td>27120</td><td>Birthday Party Yagorath</td><td><img src="./../.assets/paladins/avatar/27120.png" height="32" width="32"/></td></tr>
-  <tr><td>27121</td><td>E-motions</td><td><img src="./../.assets/paladins/avatar/27121.gif" height="32" width="32"/></td></tr>
+  <tr><td>27121</td><td>Digital Space</td><td><img src="./../.assets/paladins/avatar/27121.gif" height="32" width="32"/></td></tr>
   <tr><td>27122</td><td>E-motions</td><td><img src="./../.assets/paladins/avatar/27122.gif" height="32" width="32"/></td></tr>
   <tr><td>27123</td><td>Malicious Software</td><td><img src="./../.assets/paladins/avatar/27123.gif" height="32" width="32"/></td></tr>
   <tr><td>27124</td><td>Dev Environment</td><td><img src="./../.assets/paladins/avatar/27124.gif" height="32" width="32"/></td></tr>
@@ -220,7 +220,7 @@ Valid values are:
   <tr><td>27659</td><td>Life and Death</td><td><img src="./../.assets/paladins/avatar/27659.png" height="32" width="32"/></td></tr>
   <tr><td>27660</td><td>Hidden Desires</td><td><img src="./../.assets/paladins/avatar/27660.gif" height="32" width="32"/></td></tr>
   <tr><td>27819</td><td>Sea Queen's Gaze</td><td><img src="./../.assets/paladins/avatar/27819.png" height="32" width="32"/></td></tr>
-  <tr><td>27821</td><td></td>Snuggle Up<td><img src="./../.assets/paladins/avatar/27821.png" height="32" width="32"/></td></tr>
+  <tr><td>27821</td><td>Snuggle Up</td><td><img src="./../.assets/paladins/avatar/27821.png" height="32" width="32"/></td></tr>
   <tr><td>27889</td><td>Moji</td><td><img src="./../.assets/paladins/avatar/27889.png" height="32" width="32"/></td></tr>
   <tr><td>27890</td><td>Ash</td><td><img src="./../.assets/paladins/avatar/27890.png" height="32" width="32"/></td></tr>
   <tr><td>27891</td><td>Cassie</td><td><img src="./../.assets/paladins/avatar/27891.png" height="32" width="32"/></td></tr>
