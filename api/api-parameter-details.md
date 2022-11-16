@@ -200,29 +200,83 @@ Valid values are:
   <tr><td>27405</td><td>Schism</td><td><img src="./../.assets/paladins/avatar/27405.png" height="32" width="32"/></td></tr>
   <tr><td>27450</td><td>Adorable</td><td><img src="./../.assets/paladins/avatar/27450.gif" height="32" width="32"/></td></tr>
   <tr><td>27469</td><td>Finch</td><td><img src="./../.assets/paladins/avatar/27469.png" height="32" width="32"/></td></tr>
+  <tr><td>27642</td><td>Hallowed Rei</td><td><img src="./../.assets/paladins/avatar/27642.png" height="32" width="32"/></td></tr>
+  <tr><td>27643</td><td>Hallowed Pip</td><td><img src="./../.assets/paladins/avatar/27643.png" height="32" width="32"/></td></tr>
+  <tr><td>27644</td><td>Hallowed Androxus</td><td><img src="./../.assets/paladins/avatar/27644.png" height="32" width="32"/></td></tr>
+  <tr><td>27645</td><td>Hallowed Evie</td><td><img src="./../.assets/paladins/avatar/27645.png" height="32" width="32"/></td></tr>
   <tr><td>27646</td><td>Autumn Maeve</td><td><img src="./../.assets/paladins/avatar/27646.png" height="32" width="32"/></td></tr>
+  <tr><td>27647</td><td>Hallowed Io</td><td><img src="./../.assets/paladins/avatar/27647.gif" height="32" width="32"/></td></tr>
+  <tr><td>27648</td><td>Hallowed Willo</td><td><img src="./../.assets/paladins/avatar/27648.gif" height="32" width="32"/></td></tr>
+  <tr><td>27649</td><td>Hallowed Corvus</td><td><img src="./../.assets/paladins/avatar/27649.gif" height="32" width="32"/></td></tr>
+  <tr><td>27650</td><td>Hallowed Vatu</td><td><img src="./../.assets/paladins/avatar/27650.gif" height="32" width="32"/></td></tr>
+  <tr><td>27651</td><td>Hallowed Talus</td><td><img src="./../.assets/paladins/avatar/27651.gif" height="32" width="32"/></td></tr>
+  <tr><td>27652</td><td>Straight Ally Pride</td><td><img src="./../.assets/paladins/avatar/27652.png" height="32" width="32"/></td></tr>
+  <tr><td>27653</td><td>Genderqueer Pride</td><td><img src="./../.assets/paladins/avatar/27653.png" height="32" width="32"/></td></tr>
+  <tr><td>27654</td><td>Polysexual Pride</td><td><img src="./../.assets/paladins/avatar/27654.png" height="32" width="32"/></td></tr>
+  <tr><td>27655</td><td>Genderfluid Pride</td><td><img src="./../.assets/paladins/avatar/27655.png" height="32" width="32"/></td></tr>
+  <tr><td>27656</td><td>Agender Pride</td><td><img src="./../.assets/paladins/avatar/27656.png" height="32" width="32"/></td></tr>
+  <tr><td>27657</td><td>Demisexual Pride</td><td><img src="./../.assets/paladins/avatar/27657.png" height="32" width="32"/></td></tr>
+  <tr><td>27658</td><td>That Damned Smile</td><td><img src="./../.assets/paladins/avatar/27658.png" height="32" width="32"/></td></tr>
+  <tr><td>27659</td><td>Life and Death</td><td><img src="./../.assets/paladins/avatar/27659.png" height="32" width="32"/></td></tr>
+  <tr><td>27660</td><td>Hidden Desires</td><td><img src="./../.assets/paladins/avatar/27660.gif" height="32" width="32"/></td></tr>
+  <tr><td>27819</td><td>Sea Queen's Gaze</td><td><img src="./../.assets/paladins/avatar/27819.png" height="32" width="32"/></td></tr>
+  <tr><td>27821</td><td></td>Snuggle Up<td><img src="./../.assets/paladins/avatar/27821.png" height="32" width="32"/></td></tr>
+  <tr><td>27889</td><td>Moji</td><td><img src="./../.assets/paladins/avatar/27889.png" height="32" width="32"/></td></tr>
+  <tr><td>27890</td><td>Ash</td><td><img src="./../.assets/paladins/avatar/27890.png" height="32" width="32"/></td></tr>
+  <tr><td>27891</td><td>Cassie</td><td><img src="./../.assets/paladins/avatar/27891.png" height="32" width="32"/></td></tr>
+  <tr><td>27892</td><td>Grohk</td><td><img src="./../.assets/paladins/avatar/27892.png" height="32" width="32"/></td></tr>
+  <tr><td>27893</td><td>Grover</td><td><img src="./../.assets/paladins/avatar/27893.png" height="32" width="32"/></td></tr>
+  <tr><td>27894</td><td>Makoa</td><td><img src="./../.assets/paladins/avatar/27894.png" height="32" width="32"/></td></tr>
+  <tr><td>27895</td><td>Mal'Damba</td><td><img src="./../.assets/paladins/avatar/27895.png" height="32" width="32"/></td></tr>
+  <tr><td>27896</td><td>Bomb King</td><td><img src="./../.assets/paladins/avatar/27896.png" height="32" width="32"/></td></tr>
+  <tr><td>28041</td><td>Floating Lucipurr</td><td><img src="./../.assets/paladins/avatar/28041.png" height="32" width="32"/></td></tr>
+  <tr><td>28042</td><td>Maeve Charm</td><td><img src="./../.assets/paladins/avatar/28042.png" height="32" width="32"/></td></tr>
+  <tr><td>28044</td><td>Pensive</td><td><img src="./../.assets/paladins/avatar/28044.png" height="32" width="32"/></td></tr>
+  <tr><td>28045</td><td>Year of the Tigron</td><td><img src="./../.assets/paladins/avatar/28045.png" height="32" width="32"/></td></tr>
+  <tr><td>28046</td><td>Insert Coin</td><td><img src="./../.assets/paladins/avatar/28046.png" height="32" width="32"/></td></tr>
+  <tr><td>28047</td><td>Target Acquired</td><td><img src="./../.assets/paladins/avatar/28047.png" height="32" width="32"/></td></tr>
+  <tr><td>28049</td><td>St. Barik's Day</td><td><img src="./../.assets/paladins/avatar/28049.png" height="32" width="32"/></td></tr>
+  <tr><td>28050</td><td>Lovely Saati</td><td><img src="./../.assets/paladins/avatar/28050.png" height="32" width="32"/></td></tr>
+  <tr><td>28051</td><td>Lovely Azaan</td><td><img src="./../.assets/paladins/avatar/28051.png" height="32" width="32"/></td></tr>
+  <tr><td>28052</td><td>Lovely Io</td><td><img src="./../.assets/paladins/avatar/28052.png" height="32" width="32"/></td></tr>
+  <tr><td>28053</td><td>Lovely Raum</td><td><img src="./../.assets/paladins/avatar/28053.gif" height="32" width="32"/></td></tr>
+  <tr><td>28055</td><td>Lovely Zigs</td><td><img src="./../.assets/paladins/avatar/28055.gif" height="32" width="32"/></td></tr>
+  <tr><td>28056</td><td>Lovely Viktor</td><td><img src="./../.assets/paladins/avatar/28056.png" height="32" width="32"/></td></tr>
+  <tr><td>28057</td><td>Lovely Mal'Damba</td><td><img src="./../.assets/paladins/avatar/28057.gif" height="32" width="32"/></td></tr>
+  <tr><td>28058</td><td>Lovely Ash</td><td><img src="./../.assets/paladins/avatar/28058.gif" height="32" width="32"/></td></tr>
+  <tr><td>28059</td><td>Lovely Sha Lin</td><td><img src="./../.assets/paladins/avatar/28059.png" height="32" width="32"/></td></tr>
+  <tr><td>28062</td><td>Valentine's Day 2022</td><td><img src="./../.assets/paladins/avatar/28062.gif" height="32" width="32"/></td></tr>
+  <tr><td>30652</td><td>Atlas</td><td><img src="./../.assets/paladins/avatar/30652.png" height="32" width="32"/></td></tr>
+  <tr><td>30653</td><td>Furia/Seris</td><td><img src="./../.assets/paladins/avatar/30653.png" height="32" width="32"/></td></tr>
+  <tr><td>30654</td><td>Imani</td><td><img src="./../.assets/paladins/avatar/30654.png" height="32" width="32"/></td></tr>
+  <tr><td>30657</td><td>Skye</td><td><img src="./../.assets/paladins/avatar/30657.png" height="32" width="32"/></td></tr>
+  <tr><td>30658</td><td>Vora</td><td><img src="./../.assets/paladins/avatar/30658.png" height="32" width="32"/></td></tr>
+  <tr><td>30659</td><td>Ruckus</td><td><img src="./../.assets/paladins/avatar/30659.png" height="32" width="32"/></td></tr>
+  <tr><td>30662</td><td>Bossfight Koga</td><td><img src="./../.assets/paladins/avatar/30662.png" height="32" width="32"/></td></tr>
+  <tr><td>30664</td><td>Monstercat Vibe</td><td><img src="./../.assets/paladins/avatar/30664.gif" height="32" width="32"/></td></tr>
+  <tr><td>30665</td><td>GG Magree Skye</td><td><img src="./../.assets/paladins/avatar/30665.gif" height="32" width="32"/></td></tr>
+  <tr><td>30667</td><td>Ramadan 2022</td><td><img src="./../.assets/paladins/avatar/30667.png" height="32" width="32"/></td></tr>
+  <tr><td>30880</td><td>Queen of the Knight</td><td><img src="./../.assets/paladins/avatar/30880.png" height="32" width="32"/></td></tr>
+  <tr><td>30881</td><td>Seeker's Gaze</td><td><img src="./../.assets/paladins/avatar/30881.gif" height="32" width="32"/></td></tr>
+  <tr><td>30882</td><td>Eyes of the Beholder</td><td><img src="./../.assets/paladins/avatar/30882.gif" height="32" width="32"/></td></tr>
+  <tr><td>31016</td><td>Blake Belladonna</td><td><img src="./../.assets/paladins/avatar/31016.png" height="32" width="32"/></td></tr>
+  <tr><td>31019</td><td>Qrow Branwen</td><td><img src="./../.assets/paladins/avatar/31019.png" height="32" width="32"/></td></tr>
+  <tr><td>31020</td><td>Ruby Rose</td><td><img src="./../.assets/paladins/avatar/31020.gif" height="32" width="32"/></td></tr>
+  <tr><td>31021</td><td>Salem, the Witch</td><td><img src="./../.assets/paladins/avatar/31021.gif" height="32" width="32"/></td></tr>
+  <tr><td>31226</td><td>Io Love You</td><td><img src="./../.assets/paladins/avatar/31226.gif" height="32" width="32"/></td></tr>
+  <tr><td>31227</td><td>A-Vora-Ble</td><td><img src="./../.assets/paladins/avatar/31227.gif" height="32" width="32"/></td></tr>
+  <tr><td>31228</td><td>Feeling Cute</td><td><img src="./../.assets/paladins/avatar/31228.png" height="32" width="32"/></td></tr>
+  <tr><td>31230</td><td>Echoes of Ascension</td><td><img src="./../.assets/paladins/avatar/31230.png" height="32" width="32"/></td></tr>
+  <tr><td>31231</td><td>Dashing Duelist</td><td><img src="./../.assets/paladins/avatar/31231.png" height="32" width="32"/></td></tr>
+  <tr><td>31455</td><td>Kasumi</td><td><img src="./../.assets/paladins/avatar/31455.png" height="32" width="32"/></td></tr>
+  <tr><td>31480</td><td>Abyss Cultist</td><td><img src="./../.assets/paladins/avatar/31480.png" height="32" width="32"/></td></tr>
+  <tr><td>31481</td><td>Soulweaver</td><td><img src="./../.assets/paladins/avatar/31481.gif" height="32" width="32"/></td></tr>
+  <tr><td>31482</td><td>Oni Tiberius</td><td><img src="./../.assets/paladins/avatar/31482.png" height="32" width="32"/></td></tr>
+  <tr><td>31483</td><td>Karasu</td><td><img src="./../.assets/paladins/avatar/31483.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Agender Pride</td><td><img src="./../.assets/paladins/avatar/agender_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Demisexual Pride</td><td><img src="./../.assets/paladins/avatar/demisexual_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Genderfluid Pride</td><td><img src="./../.assets/paladins/avatar/genderfluid_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Genderqueer Pride</td><td><img src="./../.assets/paladins/avatar/genderqueer_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Androxus</td><td><img src="./../.assets/paladins/avatar/hallowed_androxus.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Corvus</td><td><img src="./../.assets/paladins/avatar/hallowed_corvus.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Evie</td><td><img src="./../.assets/paladins/avatar/hallowed_evie.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Io</td><td><img src="./../.assets/paladins/avatar/hallowed_io.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Pip</td><td><img src="./../.assets/paladins/avatar/hallowed_pip.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Rei</td><td><img src="./../.assets/paladins/avatar/hallowed_rei.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Talus</td><td><img src="./../.assets/paladins/avatar/hallowed_talus.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Vatu</td><td><img src="./../.assets/paladins/avatar/hallowed_vatu.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hallowed Willo</td><td><img src="./../.assets/paladins/avatar/hallowed_willo.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Hidden Desires</td><td><img src="./../.assets/paladins/avatar/hidden_desires.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Life and Death</td><td><img src="./../.assets/paladins/avatar/life_and_death.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Polysexual Pride</td><td><img src="./../.assets/paladins/avatar/polysexual_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Straight Ally Pride</td><td><img src="./../.assets/paladins/avatar/straight_ally_pride.png" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>That Damned Smile</td><td><img src="./../.assets/paladins/avatar/that_damned_smile.png" height="32" width="32"/></td></tr>
 </table>
 </details>
 
