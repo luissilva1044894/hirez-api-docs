@@ -249,6 +249,8 @@ Valid values are:
   <tr><td>30652</td><td>Atlas</td><td><img src="./../.assets/paladins/avatar/30652.png" height="32" width="32"/></td></tr>
   <tr><td>30653</td><td>Furia/Seris</td><td><img src="./../.assets/paladins/avatar/30653.png" height="32" width="32"/></td></tr>
   <tr><td>30654</td><td>Imani</td><td><img src="./../.assets/paladins/avatar/30654.png" height="32" width="32"/></td></tr>
+  <tr><td>30655</td><td>Jenos</td><td><img src="./../.assets/paladins/avatar/30655.png" height="32" width="32"/></td></tr>
+  <tr><td>30656</td><td>Lian</td><td><img src="./../.assets/paladins/avatar/30656.png" height="32" width="32"/></td></tr>
   <tr><td>30657</td><td>Skye</td><td><img src="./../.assets/paladins/avatar/30657.png" height="32" width="32"/></td></tr>
   <tr><td>30658</td><td>Vora</td><td><img src="./../.assets/paladins/avatar/30658.png" height="32" width="32"/></td></tr>
   <tr><td>30659</td><td>Ruckus</td><td><img src="./../.assets/paladins/avatar/30659.png" height="32" width="32"/></td></tr>
