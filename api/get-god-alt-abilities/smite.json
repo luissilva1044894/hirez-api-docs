@@ -1,0 +1,498 @@
+[
+  {
+    "alt_name":"Loki V2A A02 Sub Device",
+    "alt_position":"2",
+    "god":"Loki",
+    "god_id":1797,
+    "item_id":18614,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Loki V2A A03 Sub",
+    "alt_position":"3",
+    "god":"Loki",
+    "god_id":1797,
+    "item_id":18621,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Loki V2A A04 Sub",
+    "alt_position":"4",
+    "god":"Loki",
+    "god_id":1797,
+    "item_id":18934,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Sol Basic Attack - Dev 2",
+    "alt_position":"Basic",
+    "god":"Sol",
+    "god_id":2074,
+    "item_id":12716,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Crushing Earth Shatter",
+    "alt_position":"2",
+    "god":"Terra",
+    "god_id":2147,
+    "item_id":13150,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Monolith Shatter",
+    "alt_position":"3",
+    "god":"Terra",
+    "god_id":2147,
+    "item_id":13160,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Maul Prey (Energy Surge)",
+    "alt_position":"1",
+    "god":"Artio",
+    "god_id":3336,
+    "item_id":14682,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Ferocious Roar (Entangling Vines)",
+    "alt_position":"2",
+    "god":"Artio",
+    "god_id":3336,
+    "item_id":14677,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Heavy Charge (Life Tap)",
+    "alt_position":"3",
+    "god":"Artio",
+    "god_id":3336,
+    "item_id":14684,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Shapeshift",
+    "alt_position":"4",
+    "god":"Artio",
+    "god_id":3336,
+    "item_id":14921,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Artio Basic Attack",
+    "alt_position":"Basic",
+    "god":"Artio",
+    "god_id":3336,
+    "item_id":14703,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Argus, Attack!",
+    "alt_position":"4",
+    "god":"Hera",
+    "god_id":3558,
+    "item_id":16614,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Hamstring (Overhead Slash)",
+    "alt_position":"1",
+    "god":"King_Arthur",
+    "god_id":3565,
+    "item_id":16595,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Uppercut (Battle Stomp)",
+    "alt_position":"2",
+    "god":"King_Arthur",
+    "god_id":3565,
+    "item_id":16608,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Bladestorm (Twin Cleave)",
+    "alt_position":"3",
+    "god":"King_Arthur",
+    "god_id":3565,
+    "item_id":16622,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Excalibur's Wrath (Sundering Strike)",
+    "alt_position":"4",
+    "god":"King_Arthur",
+    "god_id":3565,
+    "item_id":16660,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Frostbolt (Eclipse/Radiate)",
+    "alt_position":"1",
+    "god":"Merlin",
+    "god_id":3566,
+    "item_id":16585,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Blizzard (Vortex/Dragonfire)",
+    "alt_position":"2",
+    "god":"Merlin",
+    "god_id":3566,
+    "item_id":16586,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Flicker",
+    "alt_position":"3",
+    "god":"Merlin",
+    "god_id":3566,
+    "item_id":16577,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Elemental Mastery",
+    "alt_position":"4",
+    "god":"Merlin",
+    "god_id":3566,
+    "item_id":16578,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Jormungandr Poison Cloud Dev",
+    "alt_position":"1",
+    "god":"Jormungandr",
+    "god_id":3585,
+    "item_id":16934,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Jormungandr A03 - Sonar",
+    "alt_position":"3",
+    "god":"Jormungandr",
+    "god_id":3585,
+    "item_id":17054,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Jormungandr Arch - Sub 1",
+    "alt_position":"4",
+    "god":"Jormungandr",
+    "god_id":3585,
+    "item_id":16949,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Horus Alt Auto",
+    "alt_position":"Basic",
+    "god":"Horus",
+    "god_id":3611,
+    "item_id":17188,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Sandstorm",
+    "alt_position":"3",
+    "god":"Set",
+    "god_id":3612,
+    "item_id":17206,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Olorun A02 Deployable Sub",
+    "alt_position":"2",
+    "god":"Olorun",
+    "god_id":3664,
+    "item_id":17289,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Olorun A03 Deployable Sub",
+    "alt_position":"3",
+    "god":"Olorun",
+    "god_id":3664,
+    "item_id":17288,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Olorun A04 Deployable Sub",
+    "alt_position":"4",
+    "god":"Olorun",
+    "god_id":3664,
+    "item_id":17200,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Persephone A04 - V2 Deployable Sub Device",
+    "alt_position":"4",
+    "god":"Persephone",
+    "god_id":3705,
+    "item_id":20136,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Moonstrike (Bouncing Bubble)",
+    "alt_position":"1",
+    "god":"Yemoja",
+    "god_id":3811,
+    "item_id":17664,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Yemoja A04 Sub Device",
+    "alt_position":"4",
+    "god":"Yemoja",
+    "god_id":3811,
+    "item_id":17752,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Piercing Sight (Hofuð)",
+    "alt_position":"1",
+    "god":"Heimdallr",
+    "god_id":3812,
+    "item_id":17907,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Through The Realms (Muspelheim)",
+    "alt_position":"4",
+    "god":"Heimdallr",
+    "god_id":3812,
+    "item_id":17838,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Heimdallr A01 Sub Deploy",
+    "alt_position":"Basic",
+    "god":"Heimdallr",
+    "god_id":3812,
+    "item_id":17908,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Cross Strike Sub Device",
+    "alt_position":"1",
+    "god":"Mulan",
+    "god_id":3881,
+    "item_id":18152,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Spear Thrust Sub Device",
+    "alt_position":"2",
+    "god":"Mulan",
+    "god_id":3881,
+    "item_id":18104,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Divine Mastery",
+    "alt_position":"4",
+    "god":"Mulan",
+    "god_id":3881,
+    "item_id":18284,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Baba Yaga Potion",
+    "alt_position":"1",
+    "god":"Baba_Yaga",
+    "god_id":3925,
+    "item_id":18575,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Baba Yaga A02 Spawning Sub",
+    "alt_position":"2",
+    "god":"Baba_Yaga",
+    "god_id":3925,
+    "item_id":18443,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Baba's Brew",
+    "alt_position":"3",
+    "god":"Baba_Yaga",
+    "god_id":3925,
+    "item_id":18474,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Baba Yaga A04 Spawning Sub",
+    "alt_position":"4",
+    "god":"Baba_Yaga",
+    "god_id":3925,
+    "item_id":18492,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Sever",
+    "alt_position":"1",
+    "god":"Cthulhu",
+    "god_id":3945,
+    "item_id":18497,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Devastate",
+    "alt_position":"2",
+    "god":"Cthulhu",
+    "god_id":3945,
+    "item_id":18602,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Transfuse",
+    "alt_position":"3",
+    "god":"Cthulhu",
+    "god_id":3945,
+    "item_id":18603,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Tsukuyomi A02 Sub",
+    "alt_position":"2",
+    "god":"Tsukuyomi",
+    "god_id":3954,
+    "item_id":18754,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Tsukuyomi A04 Sub",
+    "alt_position":"4",
+    "god":"Tsukuyomi",
+    "god_id":3954,
+    "item_id":18702,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Danzaburou A01 Sub",
+    "alt_position":"1",
+    "god":"Danzaburou",
+    "god_id":3984,
+    "item_id":19151,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Danzaburou A02 Sub ",
+    "alt_position":"2",
+    "god":"Danzaburou",
+    "god_id":3984,
+    "item_id":19085,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Danzaburou A04 Charge",
+    "alt_position":"4",
+    "god":"Danzaburou",
+    "god_id":3984,
+    "item_id":19101,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Consume",
+    "alt_position":"1",
+    "god":"Tiamat",
+    "god_id":3990,
+    "item_id":19333,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Outburst",
+    "alt_position":"2",
+    "god":"Tiamat",
+    "god_id":3990,
+    "item_id":19642,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Rising Flight",
+    "alt_position":"3",
+    "god":"Tiamat",
+    "god_id":3990,
+    "item_id":19339,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Tempest of Undoing",
+    "alt_position":"4",
+    "god":"Tiamat",
+    "god_id":3990,
+    "item_id":19340,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Tiamat Ground Basic Attack",
+    "alt_position":"Basic",
+    "god":"Tiamat",
+    "god_id":3990,
+    "item_id":19565,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Morgan Le Fay A02 Sub",
+    "alt_position":"2",
+    "god":"Morgan_Le_Fay",
+    "god_id":4006,
+    "item_id":20140,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Morgan Le Fay A04 Sub",
+    "alt_position":"4",
+    "god":"Morgan_Le_Fay",
+    "god_id":4006,
+    "item_id":20133,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Gravity Pull",
+    "alt_position":"2",
+    "god":"Atlas",
+    "god_id":4034,
+    "item_id":21134,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Atlas Basic Attack B",
+    "alt_position":"Basic",
+    "god":"Atlas",
+    "god_id":4034,
+    "item_id":20950,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Shining Gallop",
+    "alt_position":"1",
+    "god":"Lancelot",
+    "god_id":4075,
+    "item_id":21908,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Crashing Dive",
+    "alt_position":"2",
+    "god":"Lancelot",
+    "god_id":4075,
+    "item_id":21909,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"Quick Turn",
+    "alt_position":"3",
+    "god":"Lancelot",
+    "god_id":4075,
+    "item_id":21910,
+    "ret_msg":null
+  },
+  {
+    "alt_name":"The Grand Joust",
+    "alt_position":"4",
+    "god":"Lancelot",
+    "god_id":4075,
+    "item_id":22077,
+    "ret_msg":null
+  }
+]
