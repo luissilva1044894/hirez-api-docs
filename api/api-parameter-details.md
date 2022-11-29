@@ -1151,8 +1151,8 @@ private function generate_signature($dev_id, $method, $auth_key, $timestamp) {
  <summary>Python Sample</summary>
 
 ```python
+from hashlib import md5
 def generate_signature(dev_id, method, auth_key, timestamp):
-	from hashlib import md5
 	return md5(f'{dev_id}{method.lower()}{auth_key}{timestamp}'.encode('utf-8')).hexdigest()
 signature = generate_signature(1004, 'createsession', '23DF3C7E9BD14D84BF892AD206B6755C', get_timestamp())
 ```
@@ -1223,10 +1223,10 @@ private function get_timestamp() {
  <summary>Python Sample</summary>
 
 ```python
+from datetime import datetime
 def get_timestamp(_format='%Y%m%d%H%M%S'):
-  from datetime import datetime
   return datetime.utcnow().strftime(_format)
-timeStamp = get_timestamp()
+timestamp = get_timestamp()
 ```
 </details>
 
