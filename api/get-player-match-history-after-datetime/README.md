@@ -1,6 +1,6 @@
 
-### Get Player Match History
-<i>/**GetPlayerMatchHistory**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id}</i> `GET`
+### Get Player Match History After Datetime
+`GET` <i>/**GetPlayerMatchHistoryAfterDatetime**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{start_datetime}/{player_id}</i>
 
 <table>
 	<tr>
@@ -20,8 +20,8 @@
 	</tr>
 	<tr>
 		<td>signature</td>
-		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>GetPlayerMatchHistory</b> method</td>
-		<td>“bbe63c46bafa256284a066adf49913fb”</td>
+		<td>The generated <a href="./../api-parameter-details.md#signature" title="Signature">Signature</a> of <b>GetPlayerMatchHistoryAfterDatetime</b> method</td>
+		<td>“beced04d97e4ae9163b6e405eea34fd7”</td>
 	</tr>
 	<tr>
 		<td>session_id</td>
@@ -31,6 +31,11 @@
 	<tr>
 		<td>timestamp</td>
 		<td>A valid <a href="./../api-parameter-details.md#timestamp" title="Timestamp">Timestamp</a></td>
+		<td>“20191128030916”</td>
+	</tr>
+	<tr>
+		<td>start_datetime</td>
+		<td>Datetime in the following format <b>yyyyMMddHHmmss</b></td>
 		<td>“20191128030916”</td>
 	</tr>
 	<tr>
