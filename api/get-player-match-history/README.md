@@ -1,7 +1,6 @@
 
 ### Get Player Match History
-
-**Request**: <i>/**GetPlayerMatchHistory**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id}</i> `GET`
+<i>/**GetPlayerMatchHistory**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{player_id}</i> `GET`
 
 <table>
 	<tr>
@@ -37,13 +36,12 @@
 	<tr>
 		<td>player_id</td>
 		<td><a href="./../api-parameter-details.md#player-id" title="Player Id">player id</a> of the <a href="./../api-parameter-details.md#player" title="Player">Player</a> you want to get info on</td>
-		<td>“5691962”</td>
+		<td>“10443859”</td>
 	</tr>
 </table>
 
 ### Get Player Match History After Datetime
-
-**Request**: <i>/**GetPlayerMatchHistoryAfterDatetime**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{start_datetime}/{player_id}</i> `GET`
+<i>/**GetPlayerMatchHistoryAfterDatetime**[response_type]/{dev_id}/{signature}/{session_id}/{timestamp}/{start_datetime}/{player_id}</i> `GET`
 
 <table>
 	<tr>
