@@ -4,7 +4,7 @@
 
 <table>
 	<tr>
-		<th>URI Parameter</th>
+		<th>Parameter</th>
 		<th>Description</th>
 		<th>Example</th>
 	</tr>
@@ -45,7 +45,7 @@
 
 <table>
 	<tr>
-		<th>URI Parameter</th>
+		<th>Parameter</th>
 		<th>Description</th>
 		<th>Example</th>
 	</tr>
