@@ -1592,6 +1592,12 @@ Valid values are:
   </tr>
   
   <tr>
+    <td>31229</td>
+    <td>Stellar Gaze</td>
+    <td><img src="./31229.png" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
     <td>31230</td>
     <td>Echoes of Ascension</td>
     <td><img src="./31230.png" height="32" width="32"/></td>
@@ -1673,6 +1679,42 @@ Valid values are:
     <td>hrx</td>
     <td>Zephyr</td>
     <td><img src="./hrx.gif" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Class_Puppet</td>
+    <td>Class Puppet</td>
+    <td><img src="./Class_Puppet.png" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Dark_Embrace_Pip</td>
+    <td>Dark Embrace Pip</td>
+    <td><img src="./Dark_Embrace_Pip.png" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Eye_Captain</td>
+    <td>Eye Captain</td>
+    <td><img src="./Eye_Captain.png" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Justin_OH_Khan</td>
+    <td>Justin OH Khan</td>
+    <td><img src="./Justin_OH_Khan.png" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Lurking</td>
+    <td>Lurking</td>
+    <td><img src="./Lurking.gif" height="32" width="32"/></td>
+  </tr>
+  
+  <tr>
+    <td>Sweet_Lucipurr</td>
+    <td>Sweet Lucipurr</td>
+    <td><img src="./Sweet_Lucipurr.gif" height="32" width="32"/></td>
   </tr>
   
 </table>
