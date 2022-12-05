@@ -1,0 +1,32 @@
+name: Update Paladins - Avatars
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [Component_update]
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  update-enums:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Get short SHA
+      id: slug
+      run: echo "{sha8}={$(echo ${GITHUB_SHA} | cut -c1-8)}" >> $GITHUB_OUTPUT
+
+    - name: Updating Avatars
+      run: |
+        cd .scripts
+        cd paladins
+        python avatars.py
+
+    - uses: EndBug/add-and-commit@v7
+      with:
+        default_author: github_actions
+        message: 'Update Paladins - Avatars'
