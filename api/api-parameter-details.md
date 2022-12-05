@@ -148,12 +148,12 @@ Valid values are:
   <tr><td>26762</td><td>Knowledge-Seeker</td><td><img src="./../.assets/paladins/avatar/26762.png" height="32" width="32"/></td></tr>
   <tr><td>26763</td><td>Trailblazer</td><td><img src="./../.assets/paladins/avatar/26763.png" height="32" width="32"/></td></tr>
   <tr><td>26764</td><td>Ember</td><td><img src="./../.assets/paladins/avatar/26764.png" height="32" width="32"/></td></tr>
-  <tr><td>26769</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/26769.jpg" height="32" width="32"/></td></tr>
-  <tr><td>26770</td><td>First Fruits</td><td><img src="./../.assets/paladins/avatar/26770.jpg" height="32" width="32"/></td></tr>
-  <tr><td>26771</td><td>Holiday Cheer</td><td><img src="./../.assets/paladins/avatar/26771.jpg" height="32" width="32"/></td></tr>
-  <tr><td>26772</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/26772.jpg" height="32" width="32"/></td></tr>
-  <tr><td>26774</td><td>Beevie</td><td><img src="./../.assets/paladins/avatar/26774.jpg" height="32" width="32"/></td></tr>
-  <tr><td>26776</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/26776.jpg" height="32" width="32"/></td></tr>
+  <tr><td>26769</td><td>Festive Menorah</td><td><img src="./../.assets/paladins/avatar/26769.png" height="32" width="32"/></td></tr>
+  <tr><td>26770</td><td>First Fruits</td><td><img src="./../.assets/paladins/avatar/26770.png" height="32" width="32"/></td></tr>
+  <tr><td>26771</td><td>Holiday Cheer</td><td><img src="./../.assets/paladins/avatar/26771.png" height="32" width="32"/></td></tr>
+  <tr><td>26772</td><td>Ruckus' New Year</td><td><img src="./../.assets/paladins/avatar/26772.png" height="32" width="32"/></td></tr>
+  <tr><td>26774</td><td>Beevie</td><td><img src="./../.assets/paladins/avatar/26774.png" height="32" width="32"/></td></tr>
+  <tr><td>26776</td><td>Harbinger of the End</td><td><img src="./../.assets/paladins/avatar/26776.png" height="32" width="32"/></td></tr>
   <tr><td>26779</td><td>Bisexual Pride</td><td><img src="./../.assets/paladins/avatar/26779.png" height="32" width="32"/></td></tr>
   <tr><td>26780</td><td>Asexual Pride</td><td><img src="./../.assets/paladins/avatar/26780.png" height="32" width="32"/></td></tr>
   <tr><td>26781</td><td>Transgender Pride</td><td><img src="./../.assets/paladins/avatar/26781.png" height="32" width="32"/></td></tr>
@@ -174,6 +174,7 @@ Valid values are:
   <tr><td>26976</td><td>Will U B Mine?</td><td><img src="./../.assets/paladins/avatar/26976.gif" height="32" width="32"/></td></tr>
   <tr><td>27097</td><td>Virtual Pilot</td><td><img src="./../.assets/paladins/avatar/27097.png" height="32" width="32"/></td></tr>
   <tr><td>27098</td><td>Raum.hack</td><td><img src="./../.assets/paladins/avatar/27098.png" height="32" width="32"/></td></tr>
+  <tr><td>27099</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/27099.png" height="32" width="32"/></td></tr>
   <tr><td>27111</td><td>Birthday Party Cassie</td><td><img src="./../.assets/paladins/avatar/27111.png" height="32" width="32"/></td></tr>
   <tr><td>27112</td><td>Birthday Party Mal'Damba</td><td><img src="./../.assets/paladins/avatar/27112.png" height="32" width="32"/></td></tr>
   <tr><td>27113</td><td>Birthday Party Moji</td><td><img src="./../.assets/paladins/avatar/27113.png" height="32" width="32"/></td></tr>
@@ -247,6 +248,7 @@ Valid values are:
   <tr><td>28057</td><td>Lovely Mal'Damba</td><td><img src="./../.assets/paladins/avatar/28057.gif" height="32" width="32"/></td></tr>
   <tr><td>28058</td><td>Lovely Ash</td><td><img src="./../.assets/paladins/avatar/28058.gif" height="32" width="32"/></td></tr>
   <tr><td>28059</td><td>Lovely Sha Lin</td><td><img src="./../.assets/paladins/avatar/28059.png" height="32" width="32"/></td></tr>
+  <tr><td>28061</td><td>Final Test</td><td><img src="./../.assets/paladins/avatar/28061.png" height="32" width="32"/></td></tr>
   <tr><td>28062</td><td>Valentine's Day 2022</td><td><img src="./../.assets/paladins/avatar/28062.gif" height="32" width="32"/></td></tr>
   <tr><td>30652</td><td>Atlas</td><td><img src="./../.assets/paladins/avatar/30652.png" height="32" width="32"/></td></tr>
   <tr><td>30653</td><td>Furia/Seris</td><td><img src="./../.assets/paladins/avatar/30653.png" height="32" width="32"/></td></tr>
@@ -257,14 +259,19 @@ Valid values are:
   <tr><td>30658</td><td>Vora</td><td><img src="./../.assets/paladins/avatar/30658.png" height="32" width="32"/></td></tr>
   <tr><td>30659</td><td>Ruckus</td><td><img src="./../.assets/paladins/avatar/30659.png" height="32" width="32"/></td></tr>
   <tr><td>30662</td><td>Bossfight Koga</td><td><img src="./../.assets/paladins/avatar/30662.png" height="32" width="32"/></td></tr>
+  <tr><td>30663</td><td>WHIPPED CREAM Cassie</td><td><img src="./../.assets/paladins/avatar/30663.png" height="32" width="32"/></td></tr>
   <tr><td>30664</td><td>Monstercat Vibe</td><td><img src="./../.assets/paladins/avatar/30664.gif" height="32" width="32"/></td></tr>
   <tr><td>30665</td><td>GG Magree Skye</td><td><img src="./../.assets/paladins/avatar/30665.gif" height="32" width="32"/></td></tr>
+  <tr><td>30666</td><td>Easter 2022</td><td><img src="./../.assets/paladins/avatar/30666.png" height="32" width="32"/></td></tr>
   <tr><td>30667</td><td>Ramadan 2022</td><td><img src="./../.assets/paladins/avatar/30667.png" height="32" width="32"/></td></tr>
+  <tr><td>30877</td><td>Dark Embrace Io</td><td><img src="./../.assets/paladins/avatar/30877.png" height="32" width="32"/></td></tr>
   <tr><td>30879</td><td>Dark Embrace Bomb King</td><td><img src="./../.assets/paladins/avatar/30879.png" height="32" width="32"/></td></tr>
   <tr><td>30880</td><td>Queen of the Knight</td><td><img src="./../.assets/paladins/avatar/30880.png" height="32" width="32"/></td></tr>
   <tr><td>30881</td><td>Seeker's Gaze</td><td><img src="./../.assets/paladins/avatar/30881.gif" height="32" width="32"/></td></tr>
   <tr><td>30882</td><td>Eyes of the Beholder</td><td><img src="./../.assets/paladins/avatar/30882.gif" height="32" width="32"/></td></tr>
   <tr><td>31016</td><td>Blake Belladonna</td><td><img src="./../.assets/paladins/avatar/31016.png" height="32" width="32"/></td></tr>
+  <tr><td>31017</td><td>Yang Xiao Long</td><td><img src="./../.assets/paladins/avatar/31017.png" height="32" width="32"/></td></tr>
+  <tr><td>31018</td><td>Weiss Schnee</td><td><img src="./../.assets/paladins/avatar/31018.png" height="32" width="32"/></td></tr>
   <tr><td>31019</td><td>Qrow Branwen</td><td><img src="./../.assets/paladins/avatar/31019.png" height="32" width="32"/></td></tr>
   <tr><td>31020</td><td>Ruby Rose</td><td><img src="./../.assets/paladins/avatar/31020.gif" height="32" width="32"/></td></tr>
   <tr><td>31021</td><td>Salem, the Witch</td><td><img src="./../.assets/paladins/avatar/31021.gif" height="32" width="32"/></td></tr>
@@ -278,11 +285,21 @@ Valid values are:
   <tr><td>31481</td><td>Soulweaver</td><td><img src="./../.assets/paladins/avatar/31481.gif" height="32" width="32"/></td></tr>
   <tr><td>31482</td><td>Oni Tiberius</td><td><img src="./../.assets/paladins/avatar/31482.png" height="32" width="32"/></td></tr>
   <tr><td>31483</td><td>Karasu</td><td><img src="./../.assets/paladins/avatar/31483.gif" height="32" width="32"/></td></tr>
+  <tr><td>31676</td><td>Eternal Prisoner</td><td><img src="./../.assets/paladins/avatar/31676.png" height="32" width="32"/></td></tr>
   <tr><td>31678</td><td>Mine Forever</td><td><img src="./../.assets/paladins/avatar/31678.png" height="32" width="32"/></td></tr>
+  <tr><td>31682</td><td>Feathered Feast</td><td><img src="./../.assets/paladins/avatar/31682.png" height="32" width="32"/></td></tr>
+  <tr><td>31684</td><td>From The Ashes</td><td><img src="./../.assets/paladins/avatar/31684.gif" height="32" width="32"/></td></tr>
+  <tr><td>31685</td><td>Teasing Tresses</td><td><img src="./../.assets/paladins/avatar/31685.gif" height="32" width="32"/></td></tr>
 
   <tr><td>MISSING</td><td>Bug Out</td><td><img src="./../.assets/paladins/avatar/bug_out.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Zephyr</td><td><img src="./../.assets/paladins/avatar/hrx.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Multiplayer</td><td><img src="./../.assets/paladins/avatar/game_on_multiplayer.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Class Puppet</td><td><img src="./../.assets/paladins/avatar/Class_Puppet.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Dark Embrace Pip</td><td><img src="./../.assets/paladins/avatar/Dark_Embrace_Pip.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Eye Captain</td><td><img src="./../.assets/paladins/avatar/Eye_Captain.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Justin OH Khan</td><td><img src="./../.assets/paladins/avatar/Justin_OH_Khan.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Lurking</td><td><img src="./../.assets/paladins/avatar/Lurking.gif" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Stellar Gaze</td><td><img src="./../.assets/paladins/avatar/Stellar_Gaze.png" height="32" width="32"/></td></tr>
+  <tr><td>MISSING</td><td>Sweet Lucipurr</td><td><img src="./../.assets/paladins/avatar/Sweet_Lucipurr.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
 
