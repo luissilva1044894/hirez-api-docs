@@ -248,7 +248,7 @@ Valid values are:
   <tr><td>28057</td><td>Lovely Mal'Damba</td><td><img src="./../.assets/paladins/avatar/28057.gif" height="32" width="32"/></td></tr>
   <tr><td>28058</td><td>Lovely Ash</td><td><img src="./../.assets/paladins/avatar/28058.gif" height="32" width="32"/></td></tr>
   <tr><td>28059</td><td>Lovely Sha Lin</td><td><img src="./../.assets/paladins/avatar/28059.png" height="32" width="32"/></td></tr>
-  <tr><td>28061</td><td>Final Test</td><td><img src="./../.assets/paladins/avatar/28061.png" height="32" width="32"/></td></tr>
+  <tr><td>28061</td><td>Final Test</td><td><img src="./../.assets/paladins/avatar/28061.gif" height="32" width="32"/></td></tr>
   <tr><td>28062</td><td>Valentine's Day 2022</td><td><img src="./../.assets/paladins/avatar/28062.gif" height="32" width="32"/></td></tr>
   <tr><td>30652</td><td>Atlas</td><td><img src="./../.assets/paladins/avatar/30652.png" height="32" width="32"/></td></tr>
   <tr><td>30653</td><td>Furia/Seris</td><td><img src="./../.assets/paladins/avatar/30653.png" height="32" width="32"/></td></tr>
