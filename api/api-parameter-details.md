@@ -278,6 +278,7 @@ Valid values are:
   <tr><td>31226</td><td>Io Love You</td><td><img src="./../.assets/paladins/avatar/31226.gif" height="32" width="32"/></td></tr>
   <tr><td>31227</td><td>A-Vora-Ble</td><td><img src="./../.assets/paladins/avatar/31227.gif" height="32" width="32"/></td></tr>
   <tr><td>31228</td><td>Feeling Cute</td><td><img src="./../.assets/paladins/avatar/31228.png" height="32" width="32"/></td></tr>
+  <tr><td>31229</td><td>Stellar Gaze</td><td><img src="./../.assets/paladins/avatar/31229.png" height="32" width="32"/></td></tr>
   <tr><td>31230</td><td>Echoes of Ascension</td><td><img src="./../.assets/paladins/avatar/31230.png" height="32" width="32"/></td></tr>
   <tr><td>31231</td><td>Dashing Duelist</td><td><img src="./../.assets/paladins/avatar/31231.png" height="32" width="32"/></td></tr>
   <tr><td>31455</td><td>Kasumi</td><td><img src="./../.assets/paladins/avatar/31455.png" height="32" width="32"/></td></tr>
@@ -298,7 +299,6 @@ Valid values are:
   <tr><td>MISSING</td><td>Eye Captain</td><td><img src="./../.assets/paladins/avatar/Eye_Captain.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Justin OH Khan</td><td><img src="./../.assets/paladins/avatar/Justin_OH_Khan.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Lurking</td><td><img src="./../.assets/paladins/avatar/Lurking.gif" height="32" width="32"/></td></tr>
-  <tr><td>MISSING</td><td>Stellar Gaze</td><td><img src="./../.assets/paladins/avatar/Stellar_Gaze.png" height="32" width="32"/></td></tr>
   <tr><td>MISSING</td><td>Sweet Lucipurr</td><td><img src="./../.assets/paladins/avatar/Sweet_Lucipurr.gif" height="32" width="32"/></td></tr>
 </table>
 </details>
