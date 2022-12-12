@@ -5,7 +5,7 @@ on:
   repository_dispatch:
     types: [Component_update]
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '* */12 * * *'
 jobs:
   update-enums:
     runs-on: ubuntu-latest
