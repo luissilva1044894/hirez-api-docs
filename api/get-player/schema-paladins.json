@@ -25,7 +25,10 @@
         "type": "number"
       },
       "AvatarURL": {
-        "type": ["string", "null"]
+        "type": [
+          "string",
+          "null"
+        ]
       },
       "Created_Datetime": {
         "type": "string",
@@ -130,6 +133,9 @@
       },
       "hz_player_name": {
         "type": "string"
+      },
+      "privacy_flag": {
+        "type": "string"
       }
     },
     "required": [
@@ -166,6 +172,7 @@
       "Wins",
       "hz_gamer_tag",
       "hz_player_name",
+      "privacy_flag",
       "ret_msg"
     ],
     "additionalProperties": false
