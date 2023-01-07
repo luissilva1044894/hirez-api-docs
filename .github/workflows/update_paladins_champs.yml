@@ -7,7 +7,7 @@ on:
   schedule:
     - cron: '* */12 * * *'
 jobs:
-  update-enums:
+  update-champions:
     runs-on: ubuntu-latest
     steps:
 
