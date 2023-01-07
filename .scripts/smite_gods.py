@@ -82,5 +82,4 @@ def fetch_all(lang=(1,)):
         god_card(god_name, god_id)
         god_icon(god_name, god_id)
 
-if __name__ == 'main':
-  fetch_all()
+fetch_all()
