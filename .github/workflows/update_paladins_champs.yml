@@ -1,4 +1,4 @@
-name: Update Paladins - Avatars
+name: Update Paladins - Champions
 
 on:
   workflow_dispatch:
