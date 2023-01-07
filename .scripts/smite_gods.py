@@ -20,8 +20,8 @@ from PIL import Image
 import urllib3
 
 PATH = path.join('..', '.assets', 'smite')
-CDN_URL = 'https://webcdn.hirezstudios.com/smite'
 API_URL = 'https://cms.smitegame.com/wp-json/smite-api'
+CDN_URL = 'https://webcdn.hirezstudios.com/smite'
 CARDS_URL = f'{CDN_URL}/god-cards'
 ICONS_URL = f'{CDN_URL}/god-icons'
 
@@ -55,23 +55,22 @@ def save_img(image, folder, name, ext='png'):
   if image:
     folder = get_path(folder)
     make_dir(folder)
-    for n in name:
-      img_path = path.join(folder, f'{str(n).lower()}.{ext}')
+    img_path = path.join(folder, f'{str(name).lower()}.{ext}')
+    try:
       try:
-        try:
-          image.save(img_path, image.mode)
-        except:
-          image.save(img_path, 'PNG')
-      except Exception as e:
-        print(f'Could not save {img_path} as an image. {e}')
-      else:
-        print(f'Saving {img_path} - {image.format}, {image.mode}, {image.size}')
+        image.save(img_path, image.mode)
+      except:
+        image.save(img_path, 'PNG')
+    except Exception as e:
+      print(f'Could not save {img_path} as an image. {e}')
+    else:
+      print(f'Saving {img_path} - {image.format}, {image.mode}, {image.size}')
 
 def god_card(name, god_id, ext='jpg'):
-  save_img(download_img(f'{CARDS_URL}/{name}.{ext}'), 'cards', (name, god_id), ext)
+  save_img(download_img(f'{CARDS_URL}/{name}.{ext}'), 'cards', god_id, ext)
 
 def god_icon(name, god_id, ext='jpg'):
-  save_img(download_img(f'{ICONS_URL}/{name}.{ext}'), 'characters', (name, god_id), ext)
+  save_img(download_img(f'{ICONS_URL}/{name}.{ext}'), 'characters', god_id, ext)
 
 def fetch_all(lang=(1,)):
   for l in lang:
