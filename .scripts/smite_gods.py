@@ -52,10 +52,10 @@ def make_dir(p):
       pass
 
 def save_img(image, folder, name, ext='png'):
-  if image:
-    folder = get_path(folder)
-    make_dir(folder)
-    img_path = path.join(folder, f'{str(name).lower()}.{ext}')
+  folder = get_path(folder)
+  make_dir(folder)
+  img_path = path.join(folder, f'{str(name).lower()}.{ext}')
+  if image and not path.isfile(img_path):
     try:
       try:
         image.save(img_path, image.mode)

@@ -61,15 +61,16 @@ def save_img(image, folder, name, ext='png'):
     make_dir(folder)
     for n in name:
       img_path = path.join(folder, f'{str(n).lower()}.{ext}')
-      try:
+      if not path.isfile(img_path):
         try:
-          image.save(img_path, image.mode)
-        except:
-          image.save(img_path, 'PNG')
-      except Exception as e:
-        print(f'Could not save {img_path} as an image. {e}')
-      else:
-        print(f'Saving {img_path} - {image.format}, {image.mode}, {image.size}')
+          try:
+            image.save(img_path, image.mode)
+          except:
+            image.save(img_path, 'PNG')
+        except Exception as e:
+          print(f'Could not save {img_path} as an image. {e}')
+        else:
+          print(f'Saving {img_path} - {image.format}, {image.mode}, {image.size}')
 
 def ability_icon(name, icon_id, ext='jpg'):
   save_img(download_img(f'{ABITILITIES_URL}/{name}.{ext}'), 'skills', (icon_id), ext)
