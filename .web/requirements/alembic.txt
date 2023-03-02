@@ -1,6 +1,6 @@
 
 # https://github.com/sqlalchemy/alembic
-alembic==1.8.1;python_version>='3.6'
+alembic==1.9.4;python_version>='3.6'
 
 # https://github.com/sqlalchemy/mako
 Mako==1.2.3;python_version>='3.6'
