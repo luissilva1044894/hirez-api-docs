@@ -1,7 +1,7 @@
 
 ## Flask
 # https://github.com/pallets/flask
-Flask[dotenv]==2.2.2;python_version>='3.6'
+Flask[dotenv]==2.2.3;python_version>='3.6'
 
 # https://github.com/pallets/jinja
 Jinja2==3.1.2;python_version>='3.6'
