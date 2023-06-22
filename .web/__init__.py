@@ -168,6 +168,7 @@ def create_app(*args, **kw):
       if 'redirect' in request.args or 'link' in request.args.keys():
         for _ in os.listdir(path):
           if _.split('.', 1)[0] == str(avatar_id):
+            """
             if 'link' in request.args.keys():
               #link' in request.args
               f_path = os.path.join(path, _)
@@ -181,11 +182,13 @@ def create_app(*args, **kw):
                'updated_at': get_file_date(f_path),
                'url': url_for('static', filename=f'{game}/avatar/{_}', _external=True)
               })
+            """
           return redirect(url_for('static', filename=f'{game}/avatar/{_}', _external=True))#send_from_directory(path, _)
         #return send_from_directory(path, '0.png')
       return get_avatar(avatar_id, path)
     for _ in os.listdir(path):
       if _.split('.', 1)[0] == str(_avatar_id):
+        """
         if requested_json(request):
           f_path = os.path.join(path, _)
           return jsonify({
@@ -196,6 +199,7 @@ def create_app(*args, **kw):
            'remote_path': url_for('static', filename=f'{game}/{folder}/{_}'),
            'url': url_for('static', filename=f'{game}/{folder}/{_}', _external=True)
           })
+        """
         if 'redirect' in request.args:
           return redirect(url_for('static', filename=f'{game}/{folder}/{_}', _external=True))
         return send_from_directory(path, _)
