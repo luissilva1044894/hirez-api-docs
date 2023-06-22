@@ -1,5 +1,6 @@
 # Champion loading portraits
-These are the portrait you see when a game is loading. They are extracted from the game files.
+These are the portrait you see when a game is loading. They are extracted from the game files.  
+The directory names match the champions Ids. 
 
 ## How to extract:
 In case there are new updates and champions.
