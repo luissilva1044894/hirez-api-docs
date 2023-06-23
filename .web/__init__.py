@@ -155,9 +155,9 @@ def create_app(*args, **kw):
     #time.ctime(os.path.getatime(path))
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
-  @app.route('/paladins/avatar/', defaults={'avatar_id': 0}, methods=['GET', 'POST'])
-  @app.route('/paladins/avatar/<avatar_id>', methods=['GET', 'POST'])
-  def legacy_images(avatar_id, game='paladins', folder='avatar'):
+  @app.route('/paladins/avatar/', defaults={'format': '', 'avatar_id': 0}, methods=['GET', 'POST'])
+  @app.route("/paladins/avatar/<avatar_id><any('.gif', '.png', '.jpg', ''):format>", methods=['GET', 'POST'])
+  def legacy_images(avatar_id, format, game='paladins', folder='avatar'):
     path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_value(request, 'avatar_id', avatar_id), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
     if not str(_avatar_id).isnumeric():
       _avatar_id = slugify(_avatar_id)
@@ -205,8 +205,8 @@ def create_app(*args, **kw):
         return send_from_directory(path, _)
 
   @app.route('/<game>/<folder>/', defaults={'file': None}, methods=['GET'])
-  @app.route('/<game>/<folder>/<file>', methods=['GET'])
-  def cdn_(game, folder, file):
+  @app.route("/<game>/<folder>/<file><any('.gif', '.png', '.jpg', ''):format>", methods=['GET'])
+  def cdn_(game, folder, file, format):
     p = path.join(app.static_folder, game, folder)
     if file is not None:
       f = file.rsplit('.', 1)
