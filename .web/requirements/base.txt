@@ -16,7 +16,7 @@ aiohttp==3.8.4;python_version>='3.6'
 beautifulsoup4==4.12.2;python_version>='3.6'
 
 # https://github.com/urllib3/urllib3
-urllib3==2.0.2;python_version>='3.6'
+urllib3==2.0.3;python_version>='3.6'
 
 # https://github.com/simplejson/simplejson
 simplejson==3.17.6
