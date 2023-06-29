@@ -207,7 +207,7 @@ def create_app(*args, **kw):
 
   @app.route('/<game>/<folder>/', defaults={'file': None, 'format':''}, methods=['GET'])
   @app.route("/<game>/<folder>/<file>", defaults={'format':''}, methods=['GET'])
-  @app.route("/<game>/<folder>/<file><any('.gif', '.png', '.jpg':format>")
+  @app.route("/<game>/<folder>/<file>.<any('gif', 'png', 'jpg'):format>")
   def cdn_(game, folder, file, format):
     p = path.join(app.static_folder, game, folder)
     if file is not None:
