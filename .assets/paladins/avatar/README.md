@@ -1953,13 +1953,13 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Rei Charm</td>
     <td><img src="./avatar_dha_reikeychain_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Hanukkah Sameach!</td>
     <td><img src="./avatar_hanukkah2022_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -2007,7 +2007,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Rise of Seris</td>
     <td><img src="./avatar_masquerade_seris_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -2019,7 +2019,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Pride</td>
     <td><img src="./avatar_pride_rainbow_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -2043,7 +2043,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Snuggle Up</td>
     <td><img src="./avatar_winter2021_maeve_i1.png" height="32" width="32"/></td>
   </tr>
 
