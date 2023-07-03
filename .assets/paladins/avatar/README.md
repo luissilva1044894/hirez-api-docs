@@ -1929,13 +1929,13 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Ameri-Khan Independence</td>
     <td><img src="./avatar_4thofjuly2023_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>AAPI Heritage 2023</td>
     <td><img src="./avatar_aapi2023_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -1947,7 +1947,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Cinco de Mayo 2023</td>
     <td><img src="./avatar_cincodemayo2023_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -1965,7 +1965,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Black History 2023</td>
     <td><img src="./avatar_holidays2023_blackhistory_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -1995,13 +1995,13 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Juneteenth 2023</td>
     <td><img src="./avatar_juneteenth2023_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Glorious Beard</td>
     <td><img src="./avatar_masquerade_barik_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -2025,7 +2025,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Pride 2023</td>
     <td><img src="./avatar_pride2023_i1.png" height="32" width="32"/></td>
   </tr>
 
@@ -2037,7 +2037,7 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Queen of the Night</td>
     <td><img src="./avatar_rankedsplit2022_lillith_i1.png" height="32" width="32"/></td>
   </tr>
 
