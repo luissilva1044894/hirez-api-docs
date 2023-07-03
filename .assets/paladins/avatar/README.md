@@ -1784,6 +1784,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32344</td>
+    <td>Class Puppet</td>
+    <td><img src="./32344.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32637</td>
     <td>Androxus</td>
     <td><img src="./32637.png" height="32" width="32"/></td>
@@ -1826,9 +1832,9 @@ Valid values are:
   </tr>
 
   <tr>
-    <td>32643</td>
+    <td>32644</td>
     <td>Viktor</td>
-    <td><img src="./32643.png" height="32" width="32"/></td>
+    <td><img src="./32644.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1901,12 +1907,6 @@ Valid values are:
     <td></td>
     <td>Zephyr</td>
     <td><img src="./hrx.gif" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Class Puppet</td>
-    <td><img src="./Class_Puppet.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
