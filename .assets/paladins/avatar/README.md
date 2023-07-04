@@ -1844,6 +1844,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32664</td>
+    <td>Ameri-Khan Independence</td>
+    <td><img src="./32664.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32666</td>
     <td>Cat Got Your Tongue</td>
     <td><img src="./32666.png" height="32" width="32"/></td>
@@ -1925,12 +1931,6 @@ Valid values are:
     <td></td>
     <td>Sweet Lucipurr</td>
     <td><img src="./Sweet_Lucipurr.gif" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Ameri-Khan Independence</td>
-    <td><img src="./avatar_4thofjuly2023_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
