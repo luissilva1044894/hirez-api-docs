@@ -155,10 +155,10 @@ def create_app(*args, **kw):
     #time.ctime(os.path.getatime(path))
 
   #@app.route('/paladins/avatar/<int:avatar_id>/', strict_slashes=False)
-  @app.route('/paladins/avatar/', defaults={'format': '', 'avatar_id': 0}, methods=['GET', 'POST'])
-  @app.route("/paladins/avatar/<avatar_id>", defaults={'format': ''}, methods=['GET', 'POST'])
-  @app.route("/paladins/avatar/<avatar_id>.<any('gif', 'png', 'jpg'):format>", methods=['GET', 'POST'])
-  def legacy_images(avatar_id, format, game='paladins', folder='avatar'):
+  @app.route('/paladins/avatar/', defaults={'file_format':None, 'avatar_id':0}, methods=['GET', 'POST'])
+  @app.route("/paladins/avatar/<avatar_id>", defaults={'file_format':None}, methods=['GET', 'POST'])
+  @app.route("/paladins/avatar/<avatar_id>.<any('gif', 'png', 'jpg'):file_format>", methods=['GET', 'POST'])
+  def legacy_images(avatar_id, file_format=None, game='paladins', folder='avatar'):
     path, _avatar_id, _avatars = os.path.join(app.static_folder, game, folder), get_value(request, 'avatar_id', avatar_id), read_file(join_path([get_path(root=True).replace('.web', ''), '.assets', 'paladins', 'avatar', 'avatars.json']))
     if not str(_avatar_id).isnumeric():
       _avatar_id = slugify(_avatar_id)
@@ -205,15 +205,17 @@ def create_app(*args, **kw):
           return redirect(url_for('static', filename=f'{game}/{folder}/{_}', _external=True))
         return send_from_directory(path, _)
 
-  @app.route('/<game>/<folder>/', defaults={'file': None, 'format':''}, methods=['GET'])
-  @app.route("/<game>/<folder>/<file>", defaults={'format':''}, methods=['GET'])
-  @app.route("/<game>/<folder>/<file>.<any('gif', 'png', 'jpg'):format>")
-  def cdn_(game, folder, file, format):
+  @app.route('/<game>/<folder>/', defaults={'file': None, 'file_format':None}, methods=['GET'])
+  @app.route("/<game>/<folder>/<file>", defaults={'file_format':None}, methods=['GET'])
+  @app.route("/<game>/<folder>/<file>.<any('gif', 'png', 'jpg'):file_format>")
+  def cdn_(game, folder, file, file_format=None):
     p = path.join(app.static_folder, game, folder)
     if file is not None:
       f = file.rsplit('.', 1)
       if len(f) > 1:
         ext = f'{f[-1]}'
+      elif file_format is not None:
+        ext = f'.{file_format}'
       elif '.' not in str(f):
         ext = '.jpg'
       f = f'{slugify(f[0])}{ext}'
