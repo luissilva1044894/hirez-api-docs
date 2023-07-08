@@ -1856,6 +1856,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32667</td>
+    <td>Rise of Seris</td>
+    <td><img src="./32667.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32668</td>
     <td>Un-masked</td>
     <td><img src="./32668.gif" height="32" width="32"/></td>
@@ -2003,12 +2009,6 @@ Valid values are:
     <td></td>
     <td>Glorious Beard</td>
     <td><img src="./avatar_masquerade_barik_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Rise of Seris</td>
-    <td><img src="./avatar_masquerade_seris_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
