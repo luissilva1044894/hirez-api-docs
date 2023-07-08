@@ -1,0 +1,92 @@
+[
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115770,
+    "skin_id2":31146,
+    "skin_name":"Aka Oni",
+    "skin_name_english":"Aka Oni"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115774,
+    "skin_id2":31151,
+    "skin_name":"Aoi Oni",
+    "skin_name_english":"Aoi Oni"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69665,
+    "skin_id2":25185,
+    "skin_name":"Beast Slayer",
+    "skin_name_english":"Beast Slayer"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118482,
+    "skin_id2":24885,
+    "skin_name":"Default Tiberius",
+    "skin_name_english":"Default Tiberius"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":61083,
+    "skin_id2":25210,
+    "skin_name":"Golden Tiberius",
+    "skin_name_english":"Golden Tiberius"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68209,
+    "skin_id2":27168,
+    "skin_name":"Lifeguard",
+    "skin_name_english":"Lifeguard"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":61075,
+    "skin_id2":25184,
+    "skin_name":"Nightstalker",
+    "skin_name_english":"Nightstalker"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":62463,
+    "skin_id2":25416,
+    "skin_name":"Sphinx Soldier",
+    "skin_name_english":"Sphinx Soldier"
+  },
+  {
+    "champion_id":2529,
+    "champion_name":"Tiberius",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":62334,
+    "skin_id2":25183,
+    "skin_name":"Tomb Keeper",
+    "skin_name_english":"Tomb Keeper"
+  }
+]

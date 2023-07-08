@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52059,
+    "skin_id2":15226,
+    "skin_name":"Artisan",
+    "skin_name_english":"Artisan"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52234,
+    "skin_id2":19772,
+    "skin_name":"Cosmic Barik",
+    "skin_name_english":"Cosmic Barik"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52058,
+    "skin_id2":15225,
+    "skin_name":"Foreman",
+    "skin_name_english":"Foreman"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52222,
+    "skin_id2":19683,
+    "skin_name":"Hi-Tek",
+    "skin_name_english":"Hi-Tek"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52233,
+    "skin_id2":19768,
+    "skin_name":"Obsidian Barik",
+    "skin_name_english":"Obsidian Barik"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58567,
+    "skin_id2":24542,
+    "skin_name":"Steel Forged",
+    "skin_name_english":"Steel Forged"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52145,
+    "skin_id2":17197,
+    "skin_name":"Stone-Cut",
+    "skin_name_english":"Stone-Cut"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52223,
+    "skin_id2":19686,
+    "skin_name":"Swashbuckler",
+    "skin_name_english":"Swashbuckler"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52040,
+    "skin_id2":14870,
+    "skin_name":"Team Fortress 2",
+    "skin_name_english":"Team Fortress 2"
+  },
+  {
+    "champion_id":2073,
+    "champion_name":"Barik",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52021,
+    "skin_id2":13314,
+    "skin_name":"Tinkerer",
+    "skin_name_english":"Tinkerer"
+  }
+]

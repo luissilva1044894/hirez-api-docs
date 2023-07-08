@@ -1,0 +1,92 @@
+[
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52016,
+    "skin_id2":13300,
+    "skin_name":"Assembly",
+    "skin_name_english":"Assembly"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52165,
+    "skin_id2":18848,
+    "skin_name":"B.E.T.A.",
+    "skin_name_english":"B.E.T.A."
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52089,
+    "skin_id2":15813,
+    "skin_name":"Gizmo",
+    "skin_name_english":"Gizmo"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52006,
+    "skin_id2":13271,
+    "skin_name":"H.A.W.K.",
+    "skin_name_english":"H.A.W.K."
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52312,
+    "skin_id2":23052,
+    "skin_name":"Lil' Andy",
+    "skin_name_english":"Lil' Andy"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58571,
+    "skin_id2":24593,
+    "skin_name":"Pirate's Treasure",
+    "skin_name_english":"Pirate's Treasure"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52281,
+    "skin_id2":22059,
+    "skin_name":"Robo Force",
+    "skin_name_english":"Robo Force"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52088,
+    "skin_id2":15812,
+    "skin_name":"Sprocket",
+    "skin_name_english":"Sprocket"
+  },
+  {
+    "champion_id":2149,
+    "champion_name":"Ruckus",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":52007,
+    "skin_id2":13272,
+    "skin_name":"Star Slayer",
+    "skin_name_english":"Star Slayer"
+  }
+]

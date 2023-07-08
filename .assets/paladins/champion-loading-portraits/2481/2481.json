@@ -1,0 +1,32 @@
+[
+  {
+    "champion_id":2481,
+    "champion_name":"Moji",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58514,
+    "skin_id2":23843,
+    "skin_name":"Cuddly",
+    "skin_name_english":"Cuddly"
+  },
+  {
+    "champion_id":2481,
+    "champion_name":"Moji",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58492,
+    "skin_id2":23454,
+    "skin_name":"Dragonborn",
+    "skin_name_english":"Dragonborn"
+  },
+  {
+    "champion_id":2481,
+    "champion_name":"Moji",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52275,
+    "skin_id2":21135,
+    "skin_name":"Plum",
+    "skin_name_english":"Plum"
+  }
+]

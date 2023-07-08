@@ -1,0 +1,62 @@
+[
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68222,
+    "skin_id2":27172,
+    "skin_name":"Beachside",
+    "skin_name_english":"Beachside"
+  },
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69668,
+    "skin_id2":27067,
+    "skin_name":"Commander",
+    "skin_name_english":"Commander"
+  },
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118456,
+    "skin_id2":26984,
+    "skin_name":"Default Octavia",
+    "skin_name_english":"Default Octavia"
+  },
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68236,
+    "skin_id2":27183,
+    "skin_name":"Freedom Fighter",
+    "skin_name_english":"Freedom Fighter"
+  },
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":67937,
+    "skin_id2":27069,
+    "skin_name":"Golden Octavia",
+    "skin_name_english":"Golden Octavia"
+  },
+  {
+    "champion_id":2540,
+    "champion_name":"Octavia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":67945,
+    "skin_id2":27063,
+    "skin_name":"Maverick",
+    "skin_name_english":"Maverick"
+  }
+]

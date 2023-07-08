@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52087,
+    "skin_id2":15762,
+    "skin_name":"Bravado",
+    "skin_name_english":"Bravado"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52118,
+    "skin_id2":16691,
+    "skin_name":"Burrito Jersey",
+    "skin_name_english":"Burrito Jersey"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52085,
+    "skin_id2":15750,
+    "skin_name":"Charisma",
+    "skin_name_english":"Charisma"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52138,
+    "skin_id2":17151,
+    "skin_name":"Crime Fighter",
+    "skin_name_english":"Crime Fighter"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52139,
+    "skin_id2":17152,
+    "skin_name":"Guardian",
+    "skin_name_english":"Guardian"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52291,
+    "skin_id2":22530,
+    "skin_name":"In the Bag",
+    "skin_name_english":"In the Bag"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58531,
+    "skin_id2":23965,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58491,
+    "skin_id2":23450,
+    "skin_name":"Outlaw",
+    "skin_name_english":"Outlaw"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52086,
+    "skin_id2":15751,
+    "skin_name":"Renowned",
+    "skin_name_english":"Renowned"
+  },
+  {
+    "champion_id":2307,
+    "champion_name":"Sha Lin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52137,
+    "skin_id2":17150,
+    "skin_name":"Vigilante",
+    "skin_name_english":"Vigilante"
+  }
+]

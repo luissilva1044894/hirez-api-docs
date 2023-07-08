@@ -1,0 +1,42 @@
+[
+  {
+    "champion_id":2512,
+    "champion_name":"Atlas",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58555,
+    "skin_id2":24406,
+    "skin_name":"Chronomancer",
+    "skin_name_english":"Chronomancer"
+  },
+  {
+    "champion_id":2512,
+    "champion_name":"Atlas",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58552,
+    "skin_id2":24340,
+    "skin_name":"Golden Atlas",
+    "skin_name_english":"Golden Atlas"
+  },
+  {
+    "champion_id":2512,
+    "champion_name":"Atlas",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58561,
+    "skin_id2":24502,
+    "skin_name":"Last Hope",
+    "skin_name_english":"Last Hope"
+  },
+  {
+    "champion_id":2512,
+    "champion_name":"Atlas",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58554,
+    "skin_id2":24369,
+    "skin_name":"Legionnaire",
+    "skin_name_english":"Legionnaire"
+  }
+]

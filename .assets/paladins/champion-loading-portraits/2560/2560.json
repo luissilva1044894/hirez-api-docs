@@ -1,0 +1,42 @@
+[
+  {
+    "champion_id":2560,
+    "champion_name":"Nyx",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":116600,
+    "skin_id2":31829,
+    "skin_name":"Crimson Queen",
+    "skin_name_english":"Crimson Queen"
+  },
+  {
+    "champion_id":2560,
+    "champion_name":"Nyx",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":116597,
+    "skin_id2":31812,
+    "skin_name":"Default Nyx",
+    "skin_name_english":"Default Nyx"
+  },
+  {
+    "champion_id":2560,
+    "champion_name":"Nyx",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":116604,
+    "skin_id2":31831,
+    "skin_name":"Divine Matriarch",
+    "skin_name_english":"Divine Matriarch"
+  },
+  {
+    "champion_id":2560,
+    "champion_name":"Nyx",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":116609,
+    "skin_id2":31833,
+    "skin_name":"Golden Nyx",
+    "skin_name_english":"Golden Nyx"
+  }
+]

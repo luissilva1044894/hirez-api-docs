@@ -1,0 +1,152 @@
+[
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52286,
+    "skin_id2":22173,
+    "skin_name":"Academic",
+    "skin_name_english":"Academic"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52018,
+    "skin_id2":13302,
+    "skin_name":"Aqua",
+    "skin_name_english":"Aqua"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52069,
+    "skin_id2":15414,
+    "skin_name":"Blush",
+    "skin_name_english":"Blush"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52068,
+    "skin_id2":15413,
+    "skin_name":"Canary",
+    "skin_name_english":"Canary"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52001,
+    "skin_id2":12787,
+    "skin_name":"Chrome",
+    "skin_name_english":"Chrome"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52207,
+    "skin_id2":19419,
+    "skin_name":"Cosmic Skye",
+    "skin_name_english":"Cosmic Skye"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58523,
+    "skin_id2":23912,
+    "skin_name":"Golden Skye",
+    "skin_name_english":"Golden Skye"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58522,
+    "skin_id2":23911,
+    "skin_name":"Guild Skye",
+    "skin_name_english":"Guild Skye"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52107,
+    "skin_id2":16344,
+    "skin_name":"Heartbreaker",
+    "skin_name_english":"Heartbreaker"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52193,
+    "skin_id2":19290,
+    "skin_name":"Kunoichi",
+    "skin_name_english":"Kunoichi"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52206,
+    "skin_id2":19418,
+    "skin_name":"Obsidian Skye",
+    "skin_name_english":"Obsidian Skye"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52002,
+    "skin_id2":13263,
+    "skin_name":"Operative",
+    "skin_name_english":"Operative"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52235,
+    "skin_id2":19783,
+    "skin_name":"Pilot Suit",
+    "skin_name_english":"Pilot Suit"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58550,
+    "skin_id2":24298,
+    "skin_name":"Street Style",
+    "skin_name_english":"Street Style"
+  },
+  {
+    "champion_id":2057,
+    "champion_name":"Skye",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58495,
+    "skin_id2":23489,
+    "skin_name":"Twilight Skye",
+    "skin_name_english":"Twilight Skye"
+  }
+]

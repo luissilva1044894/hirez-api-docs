@@ -1,0 +1,82 @@
+[
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52121,
+    "skin_id2":16710,
+    "skin_name":"Amethyst",
+    "skin_name_english":"Amethyst"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52122,
+    "skin_id2":16711,
+    "skin_name":"Celestine",
+    "skin_name_english":"Celestine"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52218,
+    "skin_id2":19547,
+    "skin_name":"Cosmic Inara",
+    "skin_name_english":"Cosmic Inara"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58543,
+    "skin_id2":24264,
+    "skin_name":"Digitized",
+    "skin_name_english":"Digitized"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52169,
+    "skin_id2":18870,
+    "skin_name":"Ice Walker",
+    "skin_name_english":"Ice Walker"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58504,
+    "skin_id2":23672,
+    "skin_name":"Iron Madam",
+    "skin_name_english":"Iron Madam"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52217,
+    "skin_id2":19546,
+    "skin_name":"Obsidian Inara",
+    "skin_name_english":"Obsidian Inara"
+  },
+  {
+    "champion_id":2348,
+    "champion_name":"Inara",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52200,
+    "skin_id2":19344,
+    "skin_name":"Sunstone",
+    "skin_name_english":"Sunstone"
+  }
+]

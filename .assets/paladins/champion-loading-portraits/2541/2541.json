@@ -1,0 +1,62 @@
+[
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":115205,
+    "skin_id2":31068,
+    "skin_name":"Abyss Cultist",
+    "skin_name_english":"Abyss Cultist"
+  },
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118488,
+    "skin_id2":27178,
+    "skin_name":"Default Vatu",
+    "skin_name_english":"Default Vatu"
+  },
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68253,
+    "skin_id2":27205,
+    "skin_name":"Duty",
+    "skin_name_english":"Duty"
+  },
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":68265,
+    "skin_id2":27213,
+    "skin_name":"Golden Vatu",
+    "skin_name_english":"Golden Vatu"
+  },
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68802,
+    "skin_id2":27307,
+    "skin_name":"Mayhem",
+    "skin_name_english":"Mayhem"
+  },
+  {
+    "champion_id":2541,
+    "champion_name":"Vatu",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":69653,
+    "skin_id2":27206,
+    "skin_name":"Sorrow",
+    "skin_name_english":"Sorrow"
+  }
+]

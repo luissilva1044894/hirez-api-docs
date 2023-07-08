@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52194,
+    "skin_id2":19305,
+    "skin_name":"Atomic",
+    "skin_name_english":"Atomic"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58481,
+    "skin_id2":21260,
+    "skin_name":"Battlesuit Eagle Eye",
+    "skin_name_english":"Battlesuit Eagle Eye"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52309,
+    "skin_id2":23048,
+    "skin_name":"Chillweave Beanie",
+    "skin_name_english":"Chillweave Beanie"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52028,
+    "skin_id2":14274,
+    "skin_name":"Cutthroat",
+    "skin_name_english":"Cutthroat"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52019,
+    "skin_id2":13303,
+    "skin_name":"Hunter",
+    "skin_name_english":"Hunter"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52119,
+    "skin_id2":16693,
+    "skin_name":"Nova Strike",
+    "skin_name_english":"Nova Strike"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52060,
+    "skin_id2":15231,
+    "skin_name":"Sharpshooter",
+    "skin_name_english":"Sharpshooter"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52226,
+    "skin_id2":19717,
+    "skin_name":"Star Silver",
+    "skin_name_english":"Star Silver"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52061,
+    "skin_id2":15232,
+    "skin_name":"Tracker",
+    "skin_name_english":"Tracker"
+  },
+  {
+    "champion_id":2249,
+    "champion_name":"Kinessa",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52030,
+    "skin_id2":14335,
+    "skin_name":"Viking",
+    "skin_name_english":"Viking"
+  }
+]

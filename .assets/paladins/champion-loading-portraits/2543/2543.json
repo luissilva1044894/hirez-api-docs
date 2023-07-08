@@ -1,0 +1,92 @@
+[
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114688,
+    "skin_id2":30913,
+    "skin_name":"Blake Belladonna",
+    "skin_name_english":"Blake Belladonna"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":69828,
+    "skin_id2":27755,
+    "skin_name":"Crimson Tide",
+    "skin_name_english":"Crimson Tide"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118466,
+    "skin_id2":27516,
+    "skin_name":"Default Saati",
+    "skin_name_english":"Default Saati"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":69427,
+    "skin_id2":27599,
+    "skin_name":"Golden Saati",
+    "skin_name_english":"Golden Saati"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":69367,
+    "skin_id2":27539,
+    "skin_name":"Hot Shot",
+    "skin_name_english":"Hot Shot"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69369,
+    "skin_id2":27540,
+    "skin_name":"Iced Out",
+    "skin_name_english":"Iced Out"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69841,
+    "skin_id2":27736,
+    "skin_name":"Sea Queen",
+    "skin_name_english":"Sea Queen"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":117416,
+    "skin_id2":31786,
+    "skin_name":"Wings of Carnage",
+    "skin_name_english":"Wings of Carnage"
+  },
+  {
+    "champion_id":2543,
+    "champion_name":"Saati",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":117414,
+    "skin_id2":31772,
+    "skin_name":"Wings of Darkness",
+    "skin_name_english":"Wings of Darkness"
+  }
+]

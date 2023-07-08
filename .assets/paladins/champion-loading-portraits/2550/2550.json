@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2550,
+    "champion_name":"Betty la Bomba",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118255,
+    "skin_id2":29424,
+    "skin_name":"Default Betty",
+    "skin_name_english":"Default Betty"
+  },
+  {
+    "champion_id":2550,
+    "champion_name":"Betty la Bomba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114363,
+    "skin_id2":30834,
+    "skin_name":"Dragonette",
+    "skin_name_english":"Dragonette"
+  },
+  {
+    "champion_id":2550,
+    "champion_name":"Betty la Bomba",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":113828,
+    "skin_id2":30669,
+    "skin_name":"Golden Betty",
+    "skin_name_english":"Golden Betty"
+  },
+  {
+    "champion_id":2550,
+    "champion_name":"Betty la Bomba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":113821,
+    "skin_id2":30639,
+    "skin_name":"Queen of Diamonds",
+    "skin_name_english":"Queen of Diamonds"
+  },
+  {
+    "champion_id":2550,
+    "champion_name":"Betty la Bomba",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":113819,
+    "skin_id2":30637,
+    "skin_name":"Royal Explosive",
+    "skin_name_english":"Royal Explosive"
+  }
+]

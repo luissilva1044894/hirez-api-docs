@@ -1,0 +1,182 @@
+[
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52034,
+    "skin_id2":14588,
+    "skin_name":"Charcoal",
+    "skin_name_english":"Charcoal"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52105,
+    "skin_id2":16310,
+    "skin_name":"Code Green Bandolier",
+    "skin_name_english":"Code Green Bandolier"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52106,
+    "skin_id2":16311,
+    "skin_name":"Code Green Comms",
+    "skin_name_english":"Code Green Comms"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52104,
+    "skin_id2":16309,
+    "skin_name":"Code Green Grenadier",
+    "skin_name_english":"Code Green Grenadier"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52103,
+    "skin_id2":16308,
+    "skin_name":"Code Green Trooper",
+    "skin_name_english":"Code Green Trooper"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52134,
+    "skin_id2":17104,
+    "skin_name":"Cosmic Viktor",
+    "skin_name_english":"Cosmic Viktor"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58502,
+    "skin_id2":23608,
+    "skin_name":"Full Moon",
+    "skin_name_english":"Full Moon"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58479,
+    "skin_id2":15961,
+    "skin_name":"Invitational 2017",
+    "skin_name_english":"Invitational 2017"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52033,
+    "skin_id2":14477,
+    "skin_name":"Khaki",
+    "skin_name_english":"Khaki"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58535,
+    "skin_id2":24015,
+    "skin_name":"Legionnaire",
+    "skin_name_english":"Legionnaire"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52317,
+    "skin_id2":23057,
+    "skin_name":"Lone Heart Patch",
+    "skin_name_english":"Lone Heart Patch"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52055,
+    "skin_id2":15179,
+    "skin_name":"Navy",
+    "skin_name_english":"Navy"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52133,
+    "skin_id2":17103,
+    "skin_name":"Obsidian Viktor",
+    "skin_name_english":"Obsidian Viktor"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52054,
+    "skin_id2":15178,
+    "skin_name":"Olive Drab",
+    "skin_name_english":"Olive Drab"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52285,
+    "skin_id2":22099,
+    "skin_name":"Reaver",
+    "skin_name_english":"Reaver"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58477,
+    "skin_id2":15177,
+    "skin_name":"Soldier +",
+    "skin_name_english":"Soldier +"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52315,
+    "skin_id2":23055,
+    "skin_name":"Ushanka",
+    "skin_name_english":"Ushanka"
+  },
+  {
+    "champion_id":2285,
+    "champion_name":"Viktor",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52188,
+    "skin_id2":19259,
+    "skin_name":"V1-KTOR",
+    "skin_name_english":"V1-KTOR"
+  }
+]

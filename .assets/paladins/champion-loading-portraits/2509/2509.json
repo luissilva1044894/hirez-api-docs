@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2509,
+    "champion_name":"Imani",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58568,
+    "skin_id2":24552,
+    "skin_name":"Dragon Forged",
+    "skin_name_english":"Dragon Forged"
+  },
+  {
+    "champion_id":2509,
+    "champion_name":"Imani",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58542,
+    "skin_id2":24126,
+    "skin_name":"Golden Imani",
+    "skin_name_english":"Golden Imani"
+  },
+  {
+    "champion_id":2509,
+    "champion_name":"Imani",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58545,
+    "skin_id2":24269,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2509,
+    "champion_name":"Imani",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58540,
+    "skin_id2":24123,
+    "skin_name":"Snowdrift",
+    "skin_name_english":"Snowdrift"
+  },
+  {
+    "champion_id":2509,
+    "champion_name":"Imani",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58541,
+    "skin_id2":24124,
+    "skin_name":"Warder",
+    "skin_name_english":"Warder"
+  }
+]

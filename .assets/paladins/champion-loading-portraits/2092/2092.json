@@ -1,0 +1,132 @@
+[
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52095,
+    "skin_id2":15952,
+    "skin_name":"Amaranthine",
+    "skin_name_english":"Amaranthine"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52152,
+    "skin_id2":18615,
+    "skin_name":"Blood Moon Raiment",
+    "skin_name_english":"Blood Moon Raiment"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52205,
+    "skin_id2":19397,
+    "skin_name":"Copacabana",
+    "skin_name_english":"Copacabana"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52094,
+    "skin_id2":15951,
+    "skin_name":"Coral",
+    "skin_name_english":"Coral"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52216,
+    "skin_id2":19545,
+    "skin_name":"Cosmic Cassie",
+    "skin_name_english":"Cosmic Cassie"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":58487,
+    "skin_id2":23395,
+    "skin_name":"Dragoncaller",
+    "skin_name_english":"Dragoncaller"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52251,
+    "skin_id2":20070,
+    "skin_name":"Dune Crawler",
+    "skin_name_english":"Dune Crawler"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52005,
+    "skin_id2":13267,
+    "skin_name":"Night Bane's Raiment",
+    "skin_name_english":"Night Bane's Raiment"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52000,
+    "skin_id2":12786,
+    "skin_name":"Northern Watch",
+    "skin_name_english":"Northern Watch"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52215,
+    "skin_id2":19544,
+    "skin_name":"Obsidian Cassie",
+    "skin_name_english":"Obsidian Cassie"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52164,
+    "skin_id2":18846,
+    "skin_name":"Sun Kissed",
+    "skin_name_english":"Sun Kissed"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52017,
+    "skin_id2":13301,
+    "skin_name":"Timber",
+    "skin_name_english":"Timber"
+  },
+  {
+    "champion_id":2092,
+    "champion_name":"Cassie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52092,
+    "skin_id2":15949,
+    "skin_name":"Tinder",
+    "skin_name_english":"Tinder"
+  }
+]

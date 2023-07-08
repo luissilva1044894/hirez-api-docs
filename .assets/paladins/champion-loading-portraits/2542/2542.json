@@ -1,0 +1,72 @@
+[
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":68864,
+    "skin_id2":27368,
+    "skin_name":"Beach Bunny",
+    "skin_name_english":"Beach Bunny"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":70323,
+    "skin_id2":27942,
+    "skin_name":"Class President",
+    "skin_name_english":"Class President"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118462,
+    "skin_id2":27361,
+    "skin_name":"Default Rei",
+    "skin_name_english":"Default Rei"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":68865,
+    "skin_id2":27370,
+    "skin_name":"Golden Rei",
+    "skin_name_english":"Golden Rei"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":68866,
+    "skin_id2":27369,
+    "skin_name":"Harvest",
+    "skin_name_english":"Harvest"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69284,
+    "skin_id2":27497,
+    "skin_name":"Pumpkin Patch",
+    "skin_name_english":"Pumpkin Patch"
+  },
+  {
+    "champion_id":2542,
+    "champion_name":"Rei",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72259,
+    "skin_id2":27981,
+    "skin_name":"Valedictorian",
+    "skin_name_english":"Valedictorian"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2551,
+    "champion_name":"Lillith",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118447,
+    "skin_id2":30817,
+    "skin_name":"Default Lillith",
+    "skin_name_english":"Default Lillith"
+  },
+  {
+    "champion_id":2551,
+    "champion_name":"Lillith",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":114350,
+    "skin_id2":30857,
+    "skin_name":"Golden Lillith",
+    "skin_name_english":"Golden Lillith"
+  },
+  {
+    "champion_id":2551,
+    "champion_name":"Lillith",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114703,
+    "skin_id2":30961,
+    "skin_name":"Stellar Witch",
+    "skin_name_english":"Stellar Witch"
+  },
+  {
+    "champion_id":2551,
+    "champion_name":"Lillith",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114342,
+    "skin_id2":30840,
+    "skin_name":"Sun Born",
+    "skin_name_english":"Sun Born"
+  },
+  {
+    "champion_id":2551,
+    "champion_name":"Lillith",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114348,
+    "skin_id2":30839,
+    "skin_name":"Wicked Hex",
+    "skin_name_english":"Wicked Hex"
+  }
+]

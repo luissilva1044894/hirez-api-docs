@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52323,
+    "skin_id2":23191,
+    "skin_name":"Abyssal Lord",
+    "skin_name_english":"Abyssal Lord"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52161,
+    "skin_id2":18680,
+    "skin_name":"Cosmic Drogoz",
+    "skin_name_english":"Cosmic Drogoz"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52112,
+    "skin_id2":16558,
+    "skin_name":"Dreadhunter",
+    "skin_name_english":"Dreadhunter"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52236,
+    "skin_id2":19787,
+    "skin_name":"DZ-03 Draco",
+    "skin_name_english":"DZ-03 Draco"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52248,
+    "skin_id2":19971,
+    "skin_name":"HRX 2018",
+    "skin_name_english":"HRX 2018"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52160,
+    "skin_id2":18679,
+    "skin_name":"Obsidian Drogoz",
+    "skin_name_english":"Obsidian Drogoz"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58556,
+    "skin_id2":24468,
+    "skin_name":"Pyre Warrior",
+    "skin_name_english":"Pyre Warrior"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52198,
+    "skin_id2":19335,
+    "skin_name":"Terrormorph",
+    "skin_name_english":"Terrormorph"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52024,
+    "skin_id2":14132,
+    "skin_name":"Tyrant",
+    "skin_name_english":"Tyrant"
+  },
+  {
+    "champion_id":2277,
+    "champion_name":"Drogoz",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52066,
+    "skin_id2":15269,
+    "skin_name":"Wrath",
+    "skin_name_english":"Wrath"
+  }
+]

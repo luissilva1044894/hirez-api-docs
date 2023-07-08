@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52015,
+    "skin_id2":13298,
+    "skin_name":"Beast",
+    "skin_name_english":"Beast"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52023,
+    "skin_id2":14129,
+    "skin_name":"Brimstone",
+    "skin_name_english":"Brimstone"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58536,
+    "skin_id2":24022,
+    "skin_name":"Chieftain",
+    "skin_name_english":"Chieftain"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52263,
+    "skin_id2":20241,
+    "skin_name":"Cosmic Grohk",
+    "skin_name_english":"Cosmic Grohk"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52064,
+    "skin_id2":15253,
+    "skin_name":"Deathcap",
+    "skin_name_english":"Deathcap"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52287,
+    "skin_id2":22526,
+    "skin_name":"Grohk Lobster",
+    "skin_name_english":"Grohk Lobster"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52062,
+    "skin_id2":15251,
+    "skin_name":"Lichen",
+    "skin_name_english":"Lichen"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52318,
+    "skin_id2":23079,
+    "skin_name":"Neon Demon",
+    "skin_name_english":"Neon Demon"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52262,
+    "skin_id2":20240,
+    "skin_name":"Obsidian Grohk",
+    "skin_name_english":"Obsidian Grohk"
+  },
+  {
+    "champion_id":2093,
+    "champion_name":"Grohk",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52003,
+    "skin_id2":13264,
+    "skin_name":"Tribesman",
+    "skin_name_english":"Tribesman"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":59782,
+    "skin_id2":24982,
+    "skin_name":"Abyssal Lord",
+    "skin_name_english":"Abyssal Lord"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":61095,
+    "skin_id2":25206,
+    "skin_name":"Crypt Guardian",
+    "skin_name_english":"Crypt Guardian"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118461,
+    "skin_id2":24900,
+    "skin_name":"Default Raum",
+    "skin_name_english":"Default Raum"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":116221,
+    "skin_id2":31557,
+    "skin_name":"Eternal Devilry",
+    "skin_name_english":"Eternal Devilry"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":60001,
+    "skin_id2":25046,
+    "skin_name":"Golden Raum",
+    "skin_name_english":"Golden Raum"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":67842,
+    "skin_id2":27008,
+    "skin_name":"Heatsink",
+    "skin_name_english":"Heatsink"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":66277,
+    "skin_id2":26705,
+    "skin_name":"Kraumpus",
+    "skin_name_english":"Kraumpus"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":67589,
+    "skin_id2":26885,
+    "skin_name":"R.O.M.",
+    "skin_name_english":"R.O.M."
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":67199,
+    "skin_id2":24983,
+    "skin_name":"Subjugator",
+    "skin_name_english":"Subjugator"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":116218,
+    "skin_id2":31556,
+    "skin_name":"The Harlequin",
+    "skin_name_english":"The Harlequin"
+  },
+  {
+    "champion_id":2528,
+    "champion_name":"Raum",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":61098,
+    "skin_id2":25209,
+    "skin_name":"Undead Colossus",
+    "skin_name_english":"Undead Colossus"
+  }
+]

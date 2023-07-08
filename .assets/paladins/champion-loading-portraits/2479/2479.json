@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2479,
+    "champion_name":"Khan",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58485,
+    "skin_id2":23332,
+    "skin_name":"Ameri-Khan",
+    "skin_name_english":"Ameri-Khan"
+  },
+  {
+    "champion_id":2479,
+    "champion_name":"Khan",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":66302,
+    "skin_id2":19895,
+    "skin_name":"Default Khan",
+    "skin_name_english":"Default Khan"
+  },
+  {
+    "champion_id":2479,
+    "champion_name":"Khan",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58507,
+    "skin_id2":23681,
+    "skin_name":"Mixer",
+    "skin_name_english":"Mixer"
+  },
+  {
+    "champion_id":2479,
+    "champion_name":"Khan",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58497,
+    "skin_id2":23536,
+    "skin_name":"Overlord",
+    "skin_name_english":"Overlord"
+  },
+  {
+    "champion_id":2479,
+    "champion_name":"Khan",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52321,
+    "skin_id2":23099,
+    "skin_name":"Royal Guard",
+    "skin_name_english":"Royal Guard"
+  }
+]

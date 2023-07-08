@@ -1,0 +1,62 @@
+[
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":67247,
+    "skin_id2":26833,
+    "skin_name":"Caustic",
+    "skin_name_english":"Caustic"
+  },
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115221,
+    "skin_id2":30988,
+    "skin_name":"Cuddly Yagorath",
+    "skin_name_english":"Cuddly Yagorath"
+  },
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118167,
+    "skin_id2":26522,
+    "skin_name":"Default Yagorath",
+    "skin_name_english":"Default Yagorath"
+  },
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":67584,
+    "skin_id2":26921,
+    "skin_name":"Golden Yagorath",
+    "skin_name_english":"Golden Yagorath"
+  },
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":69656,
+    "skin_id2":26834,
+    "skin_name":"Graveworm",
+    "skin_name_english":"Graveworm"
+  },
+  {
+    "champion_id":2538,
+    "champion_name":"Yagorath",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69843,
+    "skin_id2":27741,
+    "skin_name":"Leviathan",
+    "skin_name_english":"Leviathan"
+  }
+]

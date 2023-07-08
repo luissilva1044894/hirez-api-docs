@@ -1,0 +1,62 @@
+[
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52201,
+    "skin_id2":19347,
+    "skin_name":"Conqueror",
+    "skin_name_english":"Conqueror"
+  },
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52294,
+    "skin_id2":22863,
+    "skin_name":"Demon Slayer",
+    "skin_name_english":"Demon Slayer"
+  },
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52260,
+    "skin_id2":20204,
+    "skin_name":"Ebon Star",
+    "skin_name_english":"Ebon Star"
+  },
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52177,
+    "skin_id2":19085,
+    "skin_name":"Nomad",
+    "skin_name_english":"Nomad"
+  },
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58538,
+    "skin_id2":24092,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2420,
+    "champion_name":"Zhin",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52176,
+    "skin_id2":19084,
+    "skin_name":"Warlord",
+    "skin_name_english":"Warlord"
+  }
+]

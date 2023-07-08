@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52010,
+    "skin_id2":13275,
+    "skin_name":"Autumn",
+    "skin_name_english":"Autumn"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52227,
+    "skin_id2":19727,
+    "skin_name":"Blightbark",
+    "skin_name_english":"Blightbark"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52128,
+    "skin_id2":17082,
+    "skin_name":"Doom Shroom",
+    "skin_name_english":"Doom Shroom"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52306,
+    "skin_id2":23045,
+    "skin_name":"Frosty Foliage",
+    "skin_name_english":"Frosty Foliage"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58528,
+    "skin_id2":23948,
+    "skin_name":"Golden Grover",
+    "skin_name_english":"Golden Grover"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58498,
+    "skin_id2":23558,
+    "skin_name":"GR0B0T",
+    "skin_name_english":"GR0B0T"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52077,
+    "skin_id2":15598,
+    "skin_name":"Lavender",
+    "skin_name_english":"Lavender"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52307,
+    "skin_id2":23046,
+    "skin_name":"Rosebud Canopy",
+    "skin_name_english":"Rosebud Canopy"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52076,
+    "skin_id2":15597,
+    "skin_name":"Saffron",
+    "skin_name_english":"Saffron"
+  },
+  {
+    "champion_id":2254,
+    "champion_name":"Grover",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52026,
+    "skin_id2":14144,
+    "skin_name":"Winter",
+    "skin_name_english":"Winter"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2555,
+    "champion_name":"Kasumi",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118434,
+    "skin_id2":31333,
+    "skin_name":"Default Kasumi",
+    "skin_name_english":"Default Kasumi"
+  },
+  {
+    "champion_id":2555,
+    "champion_name":"Kasumi",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":115827,
+    "skin_id2":31419,
+    "skin_name":"Evil Spirit",
+    "skin_name_english":"Evil Spirit"
+  },
+  {
+    "champion_id":2555,
+    "champion_name":"Kasumi",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":115824,
+    "skin_id2":31420,
+    "skin_name":"Golden Kasumi",
+    "skin_name_english":"Golden Kasumi"
+  },
+  {
+    "champion_id":2555,
+    "champion_name":"Kasumi",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":116224,
+    "skin_id2":31564,
+    "skin_name":"Lovestruck",
+    "skin_name_english":"Lovestruck"
+  },
+  {
+    "champion_id":2555,
+    "champion_name":"Kasumi",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115829,
+    "skin_id2":31418,
+    "skin_name":"Spirited",
+    "skin_name_english":"Spirited"
+  }
+]

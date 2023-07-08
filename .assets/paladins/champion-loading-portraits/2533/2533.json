@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":62778,
+    "skin_id2":25492,
+    "skin_name":"Abyssal Acolyte",
+    "skin_name_english":"Abyssal Acolyte"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69278,
+    "skin_id2":27440,
+    "skin_name":"Count",
+    "skin_name_english":"Count"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":118918,
+    "skin_id2":32333,
+    "skin_name":"Crimson Crow",
+    "skin_name_english":"Crimson Crow"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118409,
+    "skin_id2":25368,
+    "skin_name":"Default Corvus",
+    "skin_name_english":"Default Corvus"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":118922,
+    "skin_id2":32340,
+    "skin_name":"Eternal Waltz",
+    "skin_name_english":"Eternal Waltz"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":62776,
+    "skin_id2":25479,
+    "skin_name":"Exemplar",
+    "skin_name_english":"Exemplar"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":62780,
+    "skin_id2":25490,
+    "skin_name":"Golden Corvus",
+    "skin_name_english":"Golden Corvus"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69377,
+    "skin_id2":27580,
+    "skin_name":"Midnight Royal",
+    "skin_name_english":"Midnight Royal"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":62802,
+    "skin_id2":25493,
+    "skin_name":"Pyre-Lord Magnus",
+    "skin_name_english":"Pyre-Lord Magnus"
+  },
+  {
+    "champion_id":2533,
+    "champion_name":"Corvus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114706,
+    "skin_id2":30959,
+    "skin_name":"Qrow Branwen",
+    "skin_name_english":"Qrow Branwen"
+  }
+]

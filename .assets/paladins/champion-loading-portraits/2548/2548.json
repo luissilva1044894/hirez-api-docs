@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2548,
+    "champion_name":"Azaan",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":70313,
+    "skin_id2":27943,
+    "skin_name":"Dark Drake",
+    "skin_name_english":"Dark Drake"
+  },
+  {
+    "champion_id":2548,
+    "champion_name":"Azaan",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118251,
+    "skin_id2":27743,
+    "skin_name":"Default Azaan",
+    "skin_name_english":"Default Azaan"
+  },
+  {
+    "champion_id":2548,
+    "champion_name":"Azaan",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":69857,
+    "skin_id2":27777,
+    "skin_name":"Forgemaster",
+    "skin_name_english":"Forgemaster"
+  },
+  {
+    "champion_id":2548,
+    "champion_name":"Azaan",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":69859,
+    "skin_id2":27781,
+    "skin_name":"Golden Azaan",
+    "skin_name_english":"Golden Azaan"
+  },
+  {
+    "champion_id":2548,
+    "champion_name":"Azaan",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":69855,
+    "skin_id2":27778,
+    "skin_name":"Kingdom's End",
+    "skin_name_english":"Kingdom's End"
+  }
+]

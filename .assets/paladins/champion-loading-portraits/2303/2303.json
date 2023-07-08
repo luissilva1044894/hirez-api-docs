@@ -1,0 +1,142 @@
+[
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52115,
+    "skin_id2":16682,
+    "skin_name":"Chancellor",
+    "skin_name_english":"Chancellor"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52174,
+    "skin_id2":19066,
+    "skin_name":"Cosmic Mal'Damba",
+    "skin_name_english":"Cosmic Mal'Damba"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52072,
+    "skin_id2":15425,
+    "skin_name":"Cursed",
+    "skin_name_english":"Cursed"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52187,
+    "skin_id2":19258,
+    "skin_name":"Defiler",
+    "skin_name_english":"Defiler"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58560,
+    "skin_id2":24494,
+    "skin_name":"Dragon Forged",
+    "skin_name_english":"Dragon Forged"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58565,
+    "skin_id2":24529,
+    "skin_name":"Golden Mal'Damba",
+    "skin_name_english":"Golden Mal'Damba"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52070,
+    "skin_id2":15423,
+    "skin_name":"Hexer",
+    "skin_name_english":"Hexer"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52071,
+    "skin_id2":15424,
+    "skin_name":"Juju",
+    "skin_name_english":"Juju"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58506,
+    "skin_id2":23679,
+    "skin_name":"Na'Vi",
+    "skin_name_english":"Na'Vi"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52173,
+    "skin_id2":19065,
+    "skin_name":"Obsidian Mal'Damba",
+    "skin_name_english":"Obsidian Mal'Damba"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52290,
+    "skin_id2":22529,
+    "skin_name":"Prickly",
+    "skin_name_english":"Prickly"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58488,
+    "skin_id2":23407,
+    "skin_name":"Shadow Lord",
+    "skin_name_english":"Shadow Lord"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58559,
+    "skin_id2":24493,
+    "skin_name":"Steel Forged",
+    "skin_name_english":"Steel Forged"
+  },
+  {
+    "champion_id":2303,
+    "champion_name":"Mal'Damba",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52230,
+    "skin_id2":19752,
+    "skin_name":"Wickerman",
+    "skin_name_english":"Wickerman"
+  }
+]

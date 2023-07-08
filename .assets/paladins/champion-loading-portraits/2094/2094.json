@@ -1,0 +1,102 @@
+[
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52229,
+    "skin_id2":19743,
+    "skin_name":"Bewitching",
+    "skin_name_english":"Bewitching"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52004,
+    "skin_id2":13266,
+    "skin_name":"Black Ice",
+    "skin_name_english":"Black Ice"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52014,
+    "skin_id2":13297,
+    "skin_name":"Conjuration",
+    "skin_name_english":"Conjuration"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52172,
+    "skin_id2":19055,
+    "skin_name":"Cosmic Evie",
+    "skin_name_english":"Cosmic Evie"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52039,
+    "skin_id2":14847,
+    "skin_name":"Divination",
+    "skin_name_english":"Divination"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52057,
+    "skin_id2":15216,
+    "skin_name":"Evocation",
+    "skin_name_english":"Evocation"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52090,
+    "skin_id2":15863,
+    "skin_name":"Merrymaker",
+    "skin_name_english":"Merrymaker"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52171,
+    "skin_id2":19054,
+    "skin_name":"Obsidian Evie",
+    "skin_name_english":"Obsidian Evie"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52141,
+    "skin_id2":17162,
+    "skin_name":"Star Glam",
+    "skin_name_english":"Star Glam"
+  },
+  {
+    "champion_id":2094,
+    "champion_name":"Evie",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52056,
+    "skin_id2":15211,
+    "skin_name":"Troublemaker",
+    "skin_name_english":"Troublemaker"
+  }
+]

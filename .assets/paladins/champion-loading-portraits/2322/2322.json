@@ -1,0 +1,72 @@
+[
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52102,
+    "skin_id2":16296,
+    "skin_name":"Arcanist",
+    "skin_name_english":"Arcanist"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52184,
+    "skin_id2":19233,
+    "skin_name":"Clockwork",
+    "skin_name_english":"Clockwork"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52192,
+    "skin_id2":19284,
+    "skin_name":"Cosmic Torvald",
+    "skin_name_english":"Cosmic Torvald"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52250,
+    "skin_id2":20069,
+    "skin_name":"Dark Lord",
+    "skin_name_english":"Dark Lord"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52314,
+    "skin_id2":23054,
+    "skin_name":"Grave-robber's Spoils",
+    "skin_name_english":"Grave-robber's Spoils"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52100,
+    "skin_id2":16294,
+    "skin_name":"Historian",
+    "skin_name_english":"Historian"
+  },
+  {
+    "champion_id":2322,
+    "champion_name":"Torvald",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52191,
+    "skin_id2":19283,
+    "skin_name":"Obsidian Torvald",
+    "skin_name_english":"Obsidian Torvald"
+  }
+]

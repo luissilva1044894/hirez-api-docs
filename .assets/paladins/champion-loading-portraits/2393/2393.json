@@ -1,0 +1,92 @@
+[
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52149,
+    "skin_id2":18313,
+    "skin_name":"Bluebell",
+    "skin_name_english":"Bluebell"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52183,
+    "skin_id2":19129,
+    "skin_name":"Cosmic Willo",
+    "skin_name_english":"Cosmic Willo"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52269,
+    "skin_id2":20424,
+    "skin_name":"Firecracker",
+    "skin_name_english":"Firecracker"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52185,
+    "skin_id2":19245,
+    "skin_name":"Hemlock",
+    "skin_name_english":"Hemlock"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52316,
+    "skin_id2":23056,
+    "skin_name":"Jolly Holly",
+    "skin_name_english":"Jolly Holly"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52148,
+    "skin_id2":18312,
+    "skin_name":"Lilac",
+    "skin_name_english":"Lilac"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52182,
+    "skin_id2":19128,
+    "skin_name":"Obsidian Willo",
+    "skin_name_english":"Obsidian Willo"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58518,
+    "skin_id2":23882,
+    "skin_name":"Sugar Plum",
+    "skin_name_english":"Sugar Plum"
+  },
+  {
+    "champion_id":2393,
+    "champion_name":"Willo",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52147,
+    "skin_id2":18311,
+    "skin_name":"Viceroy",
+    "skin_name_english":"Viceroy"
+  }
+]

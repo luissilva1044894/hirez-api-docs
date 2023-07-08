@@ -1,0 +1,122 @@
+[
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52126,
+    "skin_id2":17074,
+    "skin_name":"Alley Cat",
+    "skin_name_english":"Alley Cat"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52156,
+    "skin_id2":18652,
+    "skin_name":"Cosmic Maeve",
+    "skin_name_english":"Cosmic Maeve"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52319,
+    "skin_id2":23092,
+    "skin_name":"Demonette",
+    "skin_name_english":"Demonette"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52151,
+    "skin_id2":18564,
+    "skin_name":"Dreamhack",
+    "skin_name_english":"Dreamhack"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52111,
+    "skin_id2":16512,
+    "skin_name":"Guttersnipe",
+    "skin_name_english":"Guttersnipe"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58520,
+    "skin_id2":23889,
+    "skin_name":"Merrymaker",
+    "skin_name_english":"Merrymaker"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52155,
+    "skin_id2":18651,
+    "skin_name":"Obsidian Maeve",
+    "skin_name_english":"Obsidian Maeve"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":52189,
+    "skin_id2":19275,
+    "skin_name":"Raeve",
+    "skin_name_english":"Raeve"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52110,
+    "skin_id2":16511,
+    "skin_name":"Riff Raff",
+    "skin_name_english":"Riff Raff"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58551,
+    "skin_id2":24301,
+    "skin_name":"Street Style",
+    "skin_name_english":"Street Style"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52266,
+    "skin_id2":20393,
+    "skin_name":"Strike",
+    "skin_name_english":"Strike"
+  },
+  {
+    "champion_id":2338,
+    "champion_name":"Maeve",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52109,
+    "skin_id2":16510,
+    "skin_name":"Vagrant",
+    "skin_name_english":"Vagrant"
+  }
+]

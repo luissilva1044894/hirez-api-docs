@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2491,
+    "champion_name":"Furia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58496,
+    "skin_id2":23521,
+    "skin_name":"Aurora",
+    "skin_name_english":"Aurora"
+  },
+  {
+    "champion_id":2491,
+    "champion_name":"Furia",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58526,
+    "skin_id2":23940,
+    "skin_name":"Battlesuit Angel",
+    "skin_name_english":"Battlesuit Angel"
+  },
+  {
+    "champion_id":2491,
+    "champion_name":"Furia",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58519,
+    "skin_id2":23884,
+    "skin_name":"Coldsnap",
+    "skin_name_english":"Coldsnap"
+  },
+  {
+    "champion_id":2491,
+    "champion_name":"Furia",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58483,
+    "skin_id2":23074,
+    "skin_name":"Golden Furia",
+    "skin_name_english":"Golden Furia"
+  },
+  {
+    "champion_id":2491,
+    "champion_name":"Furia",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58490,
+    "skin_id2":23418,
+    "skin_name":"Iron Maiden",
+    "skin_name_english":"Iron Maiden"
+  }
+]

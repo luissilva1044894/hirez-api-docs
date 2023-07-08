@@ -1,0 +1,112 @@
+[
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52254,
+    "skin_id2":20145,
+    "skin_name":"A-bomb-inable",
+    "skin_name_english":"A-bomb-inable"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52127,
+    "skin_id2":17079,
+    "skin_name":"Biz-King",
+    "skin_name_english":"Biz-King"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52211,
+    "skin_id2":19424,
+    "skin_name":"Cosmic Bomb King",
+    "skin_name_english":"Cosmic Bomb King"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58546,
+    "skin_id2":24280,
+    "skin_name":"Digitized",
+    "skin_name_english":"Digitized"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58562,
+    "skin_id2":24512,
+    "skin_name":"Golden Bomb King",
+    "skin_name_english":"Golden Bomb King"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52279,
+    "skin_id2":21268,
+    "skin_name":"Love Machine",
+    "skin_name_english":"Love Machine"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52032,
+    "skin_id2":14359,
+    "skin_name":"Monarch",
+    "skin_name_english":"Monarch"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52210,
+    "skin_id2":19422,
+    "skin_name":"Obsidian Bomb King",
+    "skin_name_english":"Obsidian Bomb King"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52075,
+    "skin_id2":15568,
+    "skin_name":"Pumpking",
+    "skin_name_english":"Pumpking"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52046,
+    "skin_id2":14943,
+    "skin_name":"Ruby",
+    "skin_name_english":"Ruby"
+  },
+  {
+    "champion_id":2281,
+    "champion_name":"Bomb King",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52049,
+    "skin_id2":14998,
+    "skin_name":"Twitch Prime King",
+    "skin_name_english":"Twitch Prime King"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52154,
+    "skin_id2":18644,
+    "skin_name":"Cosmic Lex",
+    "skin_name_english":"Cosmic Lex"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52325,
+    "skin_id2":23185,
+    "skin_name":"Covert Ops",
+    "skin_name_english":"Covert Ops"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52289,
+    "skin_id2":22528,
+    "skin_name":"Croakie",
+    "skin_name_english":"Croakie"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52123,
+    "skin_id2":16949,
+    "skin_name":"Justicar",
+    "skin_name_english":"Justicar"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52124,
+    "skin_id2":16950,
+    "skin_name":"Lawbringer",
+    "skin_name_english":"Lawbringer"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52199,
+    "skin_id2":19338,
+    "skin_name":"L-Exo Suit",
+    "skin_name_english":"L-Exo Suit"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52163,
+    "skin_id2":18843,
+    "skin_name":"Longboard",
+    "skin_name_english":"Longboard"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52153,
+    "skin_id2":18643,
+    "skin_name":"Obsidian Lex",
+    "skin_name_english":"Obsidian Lex"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52125,
+    "skin_id2":16951,
+    "skin_name":"Peacekeeper",
+    "skin_name_english":"Peacekeeper"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52252,
+    "skin_id2":20082,
+    "skin_name":"Renegade",
+    "skin_name_english":"Renegade"
+  },
+  {
+    "champion_id":2362,
+    "champion_name":"Lex",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52202,
+    "skin_id2":19354,
+    "skin_name":"Sarrada",
+    "skin_name_english":"Sarrada"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115323,
+    "skin_id2":30995,
+    "skin_name":"Change of Heart",
+    "skin_name_english":"Change of Heart"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118333,
+    "skin_id2":30992,
+    "skin_name":"Default Caspian",
+    "skin_name_english":"Default Caspian"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":115326,
+    "skin_id2":31104,
+    "skin_name":"Free Spirit",
+    "skin_name_english":"Free Spirit"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":115318,
+    "skin_id2":30993,
+    "skin_name":"Golden Caspian",
+    "skin_name_english":"Golden Caspian"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":118954,
+    "skin_id2":32375,
+    "skin_name":"Long Live the King",
+    "skin_name_english":"Long Live the King"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115782,
+    "skin_id2":31157,
+    "skin_name":"Pride of the Realm",
+    "skin_name_english":"Pride of the Realm"
+  },
+  {
+    "champion_id":2554,
+    "champion_name":"Caspian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":115320,
+    "skin_id2":30994,
+    "skin_name":"Skull And Bones",
+    "skin_name_english":"Skull And Bones"
+  }
+]

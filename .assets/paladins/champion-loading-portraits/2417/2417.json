@@ -1,0 +1,82 @@
+[
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52197,
+    "skin_id2":19316,
+    "skin_name":"Dusk",
+    "skin_name_english":"Dusk"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52261,
+    "skin_id2":20208,
+    "skin_name":"Galactic Scion",
+    "skin_name_english":"Galactic Scion"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52212,
+    "skin_id2":19486,
+    "skin_name":"Goddess",
+    "skin_name_english":"Goddess"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52267,
+    "skin_id2":20419,
+    "skin_name":"High Elf",
+    "skin_name_english":"High Elf"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58517,
+    "skin_id2":23865,
+    "skin_name":"Merrymaker",
+    "skin_name_english":"Merrymaker"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52196,
+    "skin_id2":19315,
+    "skin_name":"Peridot",
+    "skin_name_english":"Peridot"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58569,
+    "skin_id2":24569,
+    "skin_name":"Shore Patrol",
+    "skin_name_english":"Shore Patrol"
+  },
+  {
+    "champion_id":2417,
+    "champion_name":"Lian",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52195,
+    "skin_id2":19314,
+    "skin_name":"Veridian",
+    "skin_name_english":"Veridian"
+  }
+]

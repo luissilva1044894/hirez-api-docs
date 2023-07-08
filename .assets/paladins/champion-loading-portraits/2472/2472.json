@@ -1,0 +1,32 @@
+[
+  {
+    "champion_id":2472,
+    "champion_name":"Talus",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52238,
+    "skin_id2":19795,
+    "skin_name":"Geist",
+    "skin_name_english":"Geist"
+  },
+  {
+    "champion_id":2472,
+    "champion_name":"Talus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52239,
+    "skin_id2":19864,
+    "skin_name":"Oni",
+    "skin_name_english":"Oni"
+  },
+  {
+    "champion_id":2472,
+    "champion_name":"Talus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58503,
+    "skin_id2":23643,
+    "skin_name":"Trick or Treat",
+    "skin_name_english":"Trick or Treat"
+  }
+]

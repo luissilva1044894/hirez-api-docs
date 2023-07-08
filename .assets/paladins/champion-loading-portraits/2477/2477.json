@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2477,
+    "champion_name":"Terminus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58521,
+    "skin_id2":23892,
+    "skin_name":"Abominable",
+    "skin_name_english":"Abominable"
+  },
+  {
+    "champion_id":2477,
+    "champion_name":"Terminus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52256,
+    "skin_id2":20174,
+    "skin_name":"Jotunn",
+    "skin_name_english":"Jotunn"
+  },
+  {
+    "champion_id":2477,
+    "champion_name":"Terminus",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52245,
+    "skin_id2":19956,
+    "skin_name":"Monolith",
+    "skin_name_english":"Monolith"
+  },
+  {
+    "champion_id":2477,
+    "champion_name":"Terminus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58527,
+    "skin_id2":23942,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2477,
+    "champion_name":"Terminus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58563,
+    "skin_id2":24524,
+    "skin_name":"Steel Forged",
+    "skin_name_english":"Steel Forged"
+  }
+]

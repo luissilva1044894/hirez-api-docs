@@ -1,0 +1,52 @@
+[
+  {
+    "champion_id":2493,
+    "champion_name":"Koga",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58493,
+    "skin_id2":23476,
+    "skin_name":"Exile",
+    "skin_name_english":"Exile"
+  },
+  {
+    "champion_id":2493,
+    "champion_name":"Koga",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58494,
+    "skin_id2":23477,
+    "skin_name":"Golden Koga",
+    "skin_name_english":"Golden Koga"
+  },
+  {
+    "champion_id":2493,
+    "champion_name":"Koga",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58539,
+    "skin_id2":24108,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2493,
+    "champion_name":"Koga",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58501,
+    "skin_id2":23593,
+    "skin_name":"Prototype",
+    "skin_name_english":"Prototype"
+  },
+  {
+    "champion_id":2493,
+    "champion_name":"Koga",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58570,
+    "skin_id2":24571,
+    "skin_name":"Shore Patrol",
+    "skin_name_english":"Shore Patrol"
+  }
+]

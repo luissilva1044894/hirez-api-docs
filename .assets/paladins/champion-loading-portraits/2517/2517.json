@@ -1,0 +1,32 @@
+[
+  {
+    "champion_id":2517,
+    "champion_name":"Io",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58558,
+    "skin_id2":24476,
+    "skin_name":"Feral",
+    "skin_name_english":"Feral"
+  },
+  {
+    "champion_id":2517,
+    "champion_name":"Io",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58572,
+    "skin_id2":24608,
+    "skin_name":"Golden Io",
+    "skin_name_english":"Golden Io"
+  },
+  {
+    "champion_id":2517,
+    "champion_name":"Io",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":58557,
+    "skin_id2":24475,
+    "skin_name":"Starfall",
+    "skin_name_english":"Starfall"
+  }
+]

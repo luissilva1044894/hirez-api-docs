@@ -1,0 +1,42 @@
+[
+  {
+    "champion_id":2495,
+    "champion_name":"Dredge",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":58486,
+    "skin_id2":23363,
+    "skin_name":"Buccaneer",
+    "skin_name_english":"Buccaneer"
+  },
+  {
+    "champion_id":2495,
+    "champion_name":"Dredge",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58512,
+    "skin_id2":23813,
+    "skin_name":"Golden Dredge",
+    "skin_name_english":"Golden Dredge"
+  },
+  {
+    "champion_id":2495,
+    "champion_name":"Dredge",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58525,
+    "skin_id2":23935,
+    "skin_name":"Merrymaker",
+    "skin_name_english":"Merrymaker"
+  },
+  {
+    "champion_id":2495,
+    "champion_name":"Dredge",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58532,
+    "skin_id2":24001,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  }
+]

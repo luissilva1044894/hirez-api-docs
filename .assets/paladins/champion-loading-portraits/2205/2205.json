@@ -1,0 +1,192 @@
+[
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58529,
+    "skin_id2":23950,
+    "skin_name":"Battlesuit Godslayer",
+    "skin_name_english":"Battlesuit Godslayer"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52300,
+    "skin_id2":23039,
+    "skin_name":"Cangaceiro",
+    "skin_name_english":"Cangaceiro"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52179,
+    "skin_id2":19125,
+    "skin_name":"Cosmic Androxus",
+    "skin_name_english":"Cosmic Androxus"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52301,
+    "skin_id2":23040,
+    "skin_name":"Dasher's Antlers",
+    "skin_name_english":"Dasher's Antlers"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":58475,
+    "skin_id2":12199,
+    "skin_name":"Default Androxus",
+    "skin_name_english":"Default Androxus"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58566,
+    "skin_id2":24533,
+    "skin_name":"Dragon Forged",
+    "skin_name_english":"Dragon Forged"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52108,
+    "skin_id2":16405,
+    "skin_name":"Exalted",
+    "skin_name_english":"Exalted"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52320,
+    "skin_id2":23093,
+    "skin_name":"Fallen",
+    "skin_name_english":"Fallen"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52050,
+    "skin_id2":15143,
+    "skin_name":"Gaunt",
+    "skin_name_english":"Gaunt"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52293,
+    "skin_id2":22836,
+    "skin_name":"Huntsman",
+    "skin_name_english":"Huntsman"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52258,
+    "skin_id2":20189,
+    "skin_name":"Imperator",
+    "skin_name_english":"Imperator"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52178,
+    "skin_id2":19124,
+    "skin_name":"Obsidian Androxus",
+    "skin_name_english":"Obsidian Androxus"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52020,
+    "skin_id2":13309,
+    "skin_name":"Sanguine",
+    "skin_name_english":"Sanguine"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52302,
+    "skin_id2":23041,
+    "skin_name":"Screech",
+    "skin_name_english":"Screech"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52052,
+    "skin_id2":15145,
+    "skin_name":"Stage 4",
+    "skin_name_english":"Stage 4"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52140,
+    "skin_id2":17156,
+    "skin_name":"Steam Demon",
+    "skin_name_english":"Steam Demon"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58564,
+    "skin_id2":24526,
+    "skin_name":"Steel Forged",
+    "skin_name_english":"Steel Forged"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52051,
+    "skin_id2":15144,
+    "skin_name":"Wraith",
+    "skin_name_english":"Wraith"
+  },
+  {
+    "champion_id":2205,
+    "champion_name":"Androxus",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52053,
+    "skin_id2":15146,
+    "skin_name":"X",
+    "skin_name_english":"X"
+  }
+]

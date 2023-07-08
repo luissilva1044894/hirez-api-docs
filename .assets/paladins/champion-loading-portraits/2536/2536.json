@@ -1,0 +1,92 @@
+[
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":118912,
+    "skin_id2":32331,
+    "skin_name":"Danse Macabre",
+    "skin_name_english":"Danse Macabre"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":118492,
+    "skin_id2":26316,
+    "skin_name":"Default Vora",
+    "skin_name_english":"Default Vora"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":65279,
+    "skin_id2":26317,
+    "skin_name":"Galactic Conqueror",
+    "skin_name_english":"Galactic Conqueror"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":65208,
+    "skin_id2":26339,
+    "skin_name":"Golden Vora",
+    "skin_name_english":"Golden Vora"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":69255,
+    "skin_id2":26330,
+    "skin_name":"Herald",
+    "skin_name_english":"Herald"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":70179,
+    "skin_id2":26334,
+    "skin_name":"Honor Guard",
+    "skin_name_english":"Honor Guard"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":118915,
+    "skin_id2":32338,
+    "skin_name":"Patchwork Assassin",
+    "skin_name_english":"Patchwork Assassin"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":114694,
+    "skin_id2":30925,
+    "skin_name":"Ruby Rose",
+    "skin_name_english":"Ruby Rose"
+  },
+  {
+    "champion_id":2536,
+    "champion_name":"Vora",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":65202,
+    "skin_id2":26332,
+    "skin_name":"Seal Guardian",
+    "skin_name_english":"Seal Guardian"
+  }
+]

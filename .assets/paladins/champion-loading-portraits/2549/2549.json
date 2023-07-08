@@ -1,0 +1,82 @@
+[
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72373,
+    "skin_id2":27967,
+    "skin_name":"Biting Wind",
+    "skin_name_english":"Biting Wind"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72227,
+    "skin_id2":27964,
+    "skin_name":"Crimson Guard",
+    "skin_name_english":"Crimson Guard"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72226,
+    "skin_id2":27963,
+    "skin_name":"Deadly Pallor",
+    "skin_name_english":"Deadly Pallor"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72230,
+    "skin_id2":27968,
+    "skin_name":"Death Orchid",
+    "skin_name_english":"Death Orchid"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"",
+    "ret_msg":null,
+    "skin_id1":118500,
+    "skin_id2":27939,
+    "skin_name":"Default VII",
+    "skin_name_english":"Default VII"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":72313,
+    "skin_id2":28012,
+    "skin_name":"Golden VII",
+    "skin_name_english":"Golden VII"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":72228,
+    "skin_id2":27966,
+    "skin_name":"Ivy Sentinel",
+    "skin_name_english":"Ivy Sentinel"
+  },
+  {
+    "champion_id":2549,
+    "champion_name":"VII",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":113517,
+    "skin_id2":29977,
+    "skin_name":"Pandemonium",
+    "skin_name_english":"Pandemonium"
+  }
+]

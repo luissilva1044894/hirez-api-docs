@@ -1,0 +1,82 @@
+[
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58511,
+    "skin_id2":23755,
+    "skin_name":"Contessa",
+    "skin_name_english":"Contessa"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58499,
+    "skin_id2":23588,
+    "skin_name":"Day Walker",
+    "skin_name_english":"Day Walker"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52264,
+    "skin_id2":20246,
+    "skin_name":"Deceiver",
+    "skin_name_english":"Deceiver"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52280,
+    "skin_id2":22051,
+    "skin_name":"Full Throttle",
+    "skin_name_english":"Full Throttle"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58553,
+    "skin_id2":24353,
+    "skin_name":"Golden Vivian",
+    "skin_name_english":"Golden Vivian"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52272,
+    "skin_id2":20451,
+    "skin_name":"Manipulator",
+    "skin_name_english":"Manipulator"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58537,
+    "skin_id2":24091,
+    "skin_name":"Omega",
+    "skin_name_english":"Omega"
+  },
+  {
+    "champion_id":2480,
+    "champion_name":"Vivian",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52265,
+    "skin_id2":20252,
+    "skin_name":"Silvertongue",
+    "skin_name_english":"Silvertongue"
+  }
+]

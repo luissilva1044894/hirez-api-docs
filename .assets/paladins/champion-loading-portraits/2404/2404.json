@@ -1,0 +1,72 @@
+[
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58482,
+    "skin_id2":23073,
+    "skin_name":"Golden Ash",
+    "skin_name_english":"Golden Ash"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52303,
+    "skin_id2":23042,
+    "skin_name":"Heirloom Crest",
+    "skin_name_english":"Heirloom Crest"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Uncommon",
+    "ret_msg":null,
+    "skin_id1":52168,
+    "skin_id2":18865,
+    "skin_name":"Hellion",
+    "skin_name_english":"Hellion"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52186,
+    "skin_id2":19257,
+    "skin_name":"Ronin",
+    "skin_name_english":"Ronin"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":58549,
+    "skin_id2":24294,
+    "skin_name":"Street Style",
+    "skin_name_english":"Street Style"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52167,
+    "skin_id2":18864,
+    "skin_name":"Tempered",
+    "skin_name_english":"Tempered"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "rarity":"Epic",
+    "ret_msg":null,
+    "skin_id1":52295,
+    "skin_id2":22866,
+    "skin_name":"Xeno-Buster",
+    "skin_name_english":"Xeno-Buster"
+  }
+]
