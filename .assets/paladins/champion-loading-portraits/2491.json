@@ -2,6 +2,7 @@
   {
     "champion_id":2491,
     "champion_name":"Furia",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2491/23521.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58496,
@@ -12,6 +13,7 @@
   {
     "champion_id":2491,
     "champion_name":"Furia",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2491/23940.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58526,
@@ -22,6 +24,7 @@
   {
     "champion_id":2491,
     "champion_name":"Furia",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2491/23884.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":58519,
@@ -32,6 +35,7 @@
   {
     "champion_id":2491,
     "champion_name":"Furia",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2491/23074.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58483,
@@ -42,6 +46,7 @@
   {
     "champion_id":2491,
     "champion_name":"Furia",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2491/23418.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58490,

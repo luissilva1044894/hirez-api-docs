@@ -2,6 +2,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/19743.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52229,
@@ -12,6 +13,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/13266.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52004,
@@ -22,6 +24,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/13297.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52014,
@@ -32,6 +35,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/19055.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52172,
@@ -42,6 +46,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/14847.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52039,
@@ -52,6 +57,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/15216.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52057,
@@ -62,6 +68,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/15863.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52090,
@@ -72,6 +79,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/19054.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52171,
@@ -82,6 +90,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/17162.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52141,
@@ -92,6 +101,7 @@
   {
     "champion_id":2094,
     "champion_name":"Evie",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2094/15211.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52056,

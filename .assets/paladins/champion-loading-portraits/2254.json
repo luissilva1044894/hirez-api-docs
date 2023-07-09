@@ -2,6 +2,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/13275.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52010,
@@ -12,6 +13,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/19727.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52227,
@@ -22,6 +24,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/17082.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52128,
@@ -32,6 +35,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/23045.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52306,
@@ -42,6 +46,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/23948.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58528,
@@ -52,6 +57,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/23558.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58498,
@@ -62,6 +68,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/15598.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52077,
@@ -72,6 +79,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/23046.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52307,
@@ -82,6 +90,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/15597.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52076,
@@ -92,6 +101,7 @@
   {
     "champion_id":2254,
     "champion_name":"Grover",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2254/14144.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52026,

@@ -2,6 +2,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/26833.png",
     "rarity":"",
     "ret_msg":null,
     "skin_id1":67247,
@@ -12,6 +13,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/30988.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":115221,
@@ -22,6 +24,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/26522.png",
     "rarity":"",
     "ret_msg":null,
     "skin_id1":118167,
@@ -32,6 +35,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/26921.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":67584,
@@ -42,6 +46,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/26834.png",
     "rarity":"",
     "ret_msg":null,
     "skin_id1":69656,
@@ -52,6 +57,7 @@
   {
     "champion_id":2538,
     "champion_name":"Yagorath",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2538/27741.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":69843,

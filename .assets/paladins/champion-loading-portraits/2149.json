@@ -2,6 +2,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/13300.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52016,
@@ -12,6 +13,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/18848.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52165,
@@ -22,6 +24,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/15813.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52089,
@@ -32,6 +35,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/13271.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52006,
@@ -42,6 +46,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/23052.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52312,
@@ -52,6 +57,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/24593.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58571,
@@ -62,6 +68,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/22059.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52281,
@@ -72,6 +79,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/15812.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52088,
@@ -82,6 +90,7 @@
   {
     "champion_id":2149,
     "champion_name":"Ruckus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2149/13272.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":52007,

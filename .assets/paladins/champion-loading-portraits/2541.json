@@ -2,6 +2,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/31068.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":115205,
@@ -12,6 +13,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/27178.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118488,
@@ -22,6 +24,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/27205.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":68253,
@@ -32,6 +35,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/27213.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":68265,
@@ -42,6 +46,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/27307.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":68802,
@@ -52,6 +57,7 @@
   {
     "champion_id":2541,
     "champion_name":"Vatu",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2541/27206.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":69653,

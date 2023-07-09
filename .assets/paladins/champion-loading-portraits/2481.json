@@ -2,6 +2,7 @@
   {
     "champion_id":2481,
     "champion_name":"Moji",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2481/23843.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58514,
@@ -12,6 +13,7 @@
   {
     "champion_id":2481,
     "champion_name":"Moji",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2481/23454.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58492,
@@ -22,6 +24,7 @@
   {
     "champion_id":2481,
     "champion_name":"Moji",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2481/21135.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52275,

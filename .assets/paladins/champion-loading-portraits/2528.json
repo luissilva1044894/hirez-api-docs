@@ -2,6 +2,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/24982.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":59782,
@@ -12,6 +13,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/25206.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":61095,
@@ -22,6 +24,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/24900.png",
     "rarity":"",
     "ret_msg":null,
     "skin_id1":118461,
@@ -32,6 +35,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/31557.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":116221,
@@ -42,6 +46,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/25046.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":60001,
@@ -52,6 +57,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/27008.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":67842,
@@ -62,6 +68,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/26705.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":66277,
@@ -72,6 +79,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/26885.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":67589,
@@ -82,6 +90,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/24983.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":67199,
@@ -92,6 +101,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/31556.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":116218,
@@ -102,6 +112,7 @@
   {
     "champion_id":2528,
     "champion_name":"Raum",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2528/25209.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":61098,

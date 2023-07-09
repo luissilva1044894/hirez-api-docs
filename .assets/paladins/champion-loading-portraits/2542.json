@@ -2,6 +2,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27368.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":68864,
@@ -12,6 +13,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27942.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":70323,
@@ -22,6 +24,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27361.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118462,
@@ -32,6 +35,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27370.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":68865,
@@ -42,6 +46,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27369.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":68866,
@@ -52,6 +57,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27497.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":69284,
@@ -62,6 +68,7 @@
   {
     "champion_id":2542,
     "champion_name":"Rei",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2542/27981.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":72259,

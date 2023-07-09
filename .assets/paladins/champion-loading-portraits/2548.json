@@ -2,6 +2,7 @@
   {
     "champion_id":2548,
     "champion_name":"Azaan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2548/27943.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":70313,
@@ -12,6 +13,7 @@
   {
     "champion_id":2548,
     "champion_name":"Azaan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2548/27743.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118251,
@@ -22,6 +24,7 @@
   {
     "champion_id":2548,
     "champion_name":"Azaan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2548/27777.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":69857,
@@ -32,6 +35,7 @@
   {
     "champion_id":2548,
     "champion_name":"Azaan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2548/27781.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":69859,
@@ -42,6 +46,7 @@
   {
     "champion_id":2548,
     "champion_name":"Azaan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2548/27778.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":69855,

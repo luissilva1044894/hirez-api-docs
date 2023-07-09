@@ -2,6 +2,7 @@
   {
     "champion_id":2477,
     "champion_name":"Terminus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2477/23892.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58521,
@@ -12,6 +13,7 @@
   {
     "champion_id":2477,
     "champion_name":"Terminus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2477/20174.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52256,
@@ -22,6 +24,7 @@
   {
     "champion_id":2477,
     "champion_name":"Terminus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2477/19956.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52245,
@@ -32,6 +35,7 @@
   {
     "champion_id":2477,
     "champion_name":"Terminus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2477/23942.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58527,
@@ -42,6 +46,7 @@
   {
     "champion_id":2477,
     "champion_name":"Terminus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2477/24524.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58563,

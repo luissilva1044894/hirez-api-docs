@@ -2,6 +2,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/20145.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52254,
@@ -12,6 +13,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/17079.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52127,
@@ -22,6 +24,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/19424.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52211,
@@ -32,6 +35,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/24280.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58546,
@@ -42,6 +46,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/24512.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58562,
@@ -52,6 +57,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/21268.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52279,
@@ -62,6 +68,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/14359.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52032,
@@ -72,6 +79,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/19422.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52210,
@@ -82,6 +90,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/15568.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52075,
@@ -92,6 +101,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/14943.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52046,
@@ -102,6 +112,7 @@
   {
     "champion_id":2281,
     "champion_name":"Bomb King",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2281/14998.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52049,

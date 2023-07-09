@@ -2,6 +2,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/23412.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":58489,
@@ -12,6 +13,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/14915.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52042,
@@ -22,6 +24,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/23049.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52310,
@@ -32,6 +35,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/17091.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52130,
@@ -42,6 +46,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/15649.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52084,
@@ -52,6 +57,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/19680.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52221,
@@ -62,6 +68,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/14914.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52041,
@@ -72,6 +79,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/17090.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52129,
@@ -82,6 +90,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/24004.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58533,
@@ -92,6 +101,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/15648.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52083,
@@ -102,6 +112,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/20432.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52271,
@@ -112,6 +123,7 @@
   {
     "champion_id":2288,
     "champion_name":"Makoa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2288/16688.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52117,

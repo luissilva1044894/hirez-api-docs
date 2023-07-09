@@ -2,6 +2,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/16096.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52098,
@@ -12,6 +13,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/23184.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52324,
@@ -22,6 +24,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/16571.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52113,
@@ -32,6 +35,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/16094.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52096,
@@ -42,6 +46,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/18678.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52159,
@@ -52,6 +57,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/19003.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52170,
@@ -62,6 +68,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/20142.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52253,
@@ -72,6 +79,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/24006.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58534,
@@ -82,6 +90,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/16095.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52097,
@@ -92,6 +101,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/20423.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52268,
@@ -102,6 +112,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/18677.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52158,
@@ -112,6 +123,7 @@
   {
     "champion_id":2314,
     "champion_name":"Tyra",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2314/19882.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52242,

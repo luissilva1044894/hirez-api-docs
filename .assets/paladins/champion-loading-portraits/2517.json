@@ -2,6 +2,7 @@
   {
     "champion_id":2517,
     "champion_name":"Io",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2517/24476.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58558,
@@ -12,6 +13,7 @@
   {
     "champion_id":2517,
     "champion_name":"Io",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2517/24608.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58572,
@@ -22,6 +24,7 @@
   {
     "champion_id":2517,
     "champion_name":"Io",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2517/24475.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":58557,

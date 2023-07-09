@@ -2,6 +2,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/22531.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52292,
@@ -12,6 +13,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/20061.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52249,
@@ -22,6 +24,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/19667.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52219,
@@ -32,6 +35,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/21155.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52276,
@@ -42,6 +46,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/20200.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52259,
@@ -52,6 +57,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/19668.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52220,
@@ -62,6 +68,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/19734.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52228,
@@ -72,6 +79,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/23927.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58524,
@@ -82,6 +90,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/23693.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58508,
@@ -92,6 +101,7 @@
   {
     "champion_id":2438,
     "champion_name":"Strix",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2438/23330.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58484,

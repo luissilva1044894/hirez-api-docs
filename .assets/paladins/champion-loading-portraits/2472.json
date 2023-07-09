@@ -2,6 +2,7 @@
   {
     "champion_id":2472,
     "champion_name":"Talus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2472/19795.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52238,
@@ -12,6 +13,7 @@
   {
     "champion_id":2472,
     "champion_name":"Talus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2472/19864.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52239,
@@ -22,6 +24,7 @@
   {
     "champion_id":2472,
     "champion_name":"Talus",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2472/23643.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58503,

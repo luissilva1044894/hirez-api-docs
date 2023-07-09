@@ -2,6 +2,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/19316.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52197,
@@ -12,6 +13,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/20208.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52261,
@@ -22,6 +24,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/19486.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52212,
@@ -32,6 +35,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/20419.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52267,
@@ -42,6 +46,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/23865.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58517,
@@ -52,6 +57,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/19315.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52196,
@@ -62,6 +68,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/24569.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58569,
@@ -72,6 +79,7 @@
   {
     "champion_id":2417,
     "champion_name":"Lian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2417/19314.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52195,

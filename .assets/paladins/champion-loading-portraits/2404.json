@@ -2,6 +2,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/23073.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58482,
@@ -12,6 +13,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/23042.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52303,
@@ -22,6 +24,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/18865.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52168,
@@ -32,6 +35,18 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/18863.png",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52166,
+    "skin_id2":18863,
+    "skin_name":"Plated",
+    "skin_name_english":"Plated"
+  },
+  {
+    "champion_id":2404,
+    "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/19257.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52186,
@@ -42,6 +57,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/24294.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58549,
@@ -52,6 +68,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/18864.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52167,
@@ -62,6 +79,7 @@
   {
     "champion_id":2404,
     "champion_name":"Ash",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2404/22866.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52295,

@@ -2,6 +2,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/19347.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52201,
@@ -12,6 +13,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/22863.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52294,
@@ -22,6 +24,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/20204.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52260,
@@ -32,6 +35,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/19085.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52177,
@@ -42,6 +46,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/24092.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58538,
@@ -52,6 +57,7 @@
   {
     "champion_id":2420,
     "champion_name":"Zhin",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2420/19084.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52176,

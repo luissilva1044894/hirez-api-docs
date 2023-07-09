@@ -2,6 +2,7 @@
   {
     "champion_id":2493,
     "champion_name":"Koga",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2493/23476.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58493,
@@ -12,6 +13,7 @@
   {
     "champion_id":2493,
     "champion_name":"Koga",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2493/23477.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58494,
@@ -22,6 +24,7 @@
   {
     "champion_id":2493,
     "champion_name":"Koga",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2493/24108.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58539,
@@ -32,6 +35,7 @@
   {
     "champion_id":2493,
     "champion_name":"Koga",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2493/23593.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58501,
@@ -42,6 +46,7 @@
   {
     "champion_id":2493,
     "champion_name":"Koga",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2493/24571.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58570,

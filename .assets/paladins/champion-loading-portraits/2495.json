@@ -2,6 +2,7 @@
   {
     "champion_id":2495,
     "champion_name":"Dredge",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2495/23363.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58486,
@@ -12,6 +13,7 @@
   {
     "champion_id":2495,
     "champion_name":"Dredge",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2495/23813.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58512,
@@ -22,6 +24,7 @@
   {
     "champion_id":2495,
     "champion_name":"Dredge",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2495/23935.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58525,
@@ -32,6 +35,7 @@
   {
     "champion_id":2495,
     "champion_name":"Dredge",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2495/24001.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58532,

@@ -2,6 +2,7 @@
   {
     "champion_id":2555,
     "champion_name":"Kasumi",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2555/31333.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118434,
@@ -12,6 +13,7 @@
   {
     "champion_id":2555,
     "champion_name":"Kasumi",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2555/31419.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":115827,
@@ -22,6 +24,7 @@
   {
     "champion_id":2555,
     "champion_name":"Kasumi",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2555/31420.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":115824,
@@ -32,6 +35,7 @@
   {
     "champion_id":2555,
     "champion_name":"Kasumi",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2555/31564.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":116224,
@@ -42,6 +46,7 @@
   {
     "champion_id":2555,
     "champion_name":"Kasumi",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2555/31418.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":115829,

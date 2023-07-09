@@ -2,6 +2,7 @@
   {
     "champion_id":2512,
     "champion_name":"Atlas",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2512/24406.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58555,
@@ -12,6 +13,7 @@
   {
     "champion_id":2512,
     "champion_name":"Atlas",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2512/24340.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58552,
@@ -22,6 +24,7 @@
   {
     "champion_id":2512,
     "champion_name":"Atlas",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2512/24502.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58561,
@@ -32,6 +35,7 @@
   {
     "champion_id":2512,
     "champion_name":"Atlas",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2512/24369.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58554,

@@ -2,6 +2,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/23755.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58511,
@@ -12,6 +13,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/23588.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58499,
@@ -22,6 +24,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/20246.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52264,
@@ -32,6 +35,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/22051.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52280,
@@ -42,6 +46,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/24353.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58553,
@@ -52,6 +57,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/20451.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52272,
@@ -62,6 +68,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/24091.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58537,
@@ -72,6 +79,7 @@
   {
     "champion_id":2480,
     "champion_name":"Vivian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2480/20252.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52265,

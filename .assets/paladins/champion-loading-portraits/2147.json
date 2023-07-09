@@ -2,6 +2,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/15608.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52081,
@@ -12,6 +13,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/17144.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52136,
@@ -22,6 +24,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/23677.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58505,
@@ -32,6 +35,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/13273.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52008,
@@ -42,6 +46,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/19127.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52181,
@@ -52,6 +57,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/13274.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52009,
@@ -62,6 +68,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/15602.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52080,
@@ -72,6 +79,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/19126.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52180,
@@ -82,6 +90,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/15601.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52079,
@@ -92,6 +101,7 @@
   {
     "champion_id":2147,
     "champion_name":"Buck",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2147/14314.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52029,

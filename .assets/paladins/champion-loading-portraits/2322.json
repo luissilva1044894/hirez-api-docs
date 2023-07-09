@@ -2,6 +2,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/16296.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52102,
@@ -12,6 +13,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/19233.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52184,
@@ -22,6 +24,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/19284.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52192,
@@ -32,6 +35,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/20069.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52250,
@@ -42,6 +46,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/23054.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52314,
@@ -52,6 +57,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/16294.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52100,
@@ -62,6 +68,7 @@
   {
     "champion_id":2322,
     "champion_name":"Torvald",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2322/19283.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52191,

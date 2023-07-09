@@ -2,6 +2,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/32331.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":118912,
@@ -12,6 +13,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26316.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118492,
@@ -22,6 +24,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26317.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":65279,
@@ -32,6 +35,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26339.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":65208,
@@ -42,6 +46,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26330.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":69255,
@@ -52,6 +57,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26334.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":70179,
@@ -62,6 +68,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/32338.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":118915,
@@ -72,6 +79,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/30925.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":114694,
@@ -82,6 +90,7 @@
   {
     "champion_id":2536,
     "champion_name":"Vora",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2536/26332.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":65202,

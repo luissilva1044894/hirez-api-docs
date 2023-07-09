@@ -2,6 +2,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/19305.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52194,
@@ -12,6 +13,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/21260.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58481,
@@ -22,6 +24,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/23048.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52309,
@@ -32,6 +35,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/14274.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52028,
@@ -42,6 +46,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/13303.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52019,
@@ -52,6 +57,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/16693.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52119,
@@ -62,6 +68,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/15231.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52060,
@@ -72,6 +79,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/19717.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52226,
@@ -82,6 +90,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/15232.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52061,
@@ -92,6 +101,7 @@
   {
     "champion_id":2249,
     "champion_name":"Kinessa",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2249/14335.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52030,

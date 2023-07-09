@@ -2,6 +2,7 @@
   {
     "champion_id":2560,
     "champion_name":"Nyx",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2560/31829.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":116600,
@@ -12,6 +13,7 @@
   {
     "champion_id":2560,
     "champion_name":"Nyx",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2560/31812.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":116597,
@@ -22,6 +24,7 @@
   {
     "champion_id":2560,
     "champion_name":"Nyx",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2560/31831.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":116604,
@@ -32,6 +35,7 @@
   {
     "champion_id":2560,
     "champion_name":"Nyx",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2560/31833.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":116609,

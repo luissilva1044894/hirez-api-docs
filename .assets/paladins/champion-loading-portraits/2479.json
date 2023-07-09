@@ -2,6 +2,7 @@
   {
     "champion_id":2479,
     "champion_name":"Khan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2479/23332.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58485,
@@ -12,6 +13,7 @@
   {
     "champion_id":2479,
     "champion_name":"Khan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2479/19895.png",
     "rarity":"",
     "ret_msg":null,
     "skin_id1":66302,
@@ -22,6 +24,7 @@
   {
     "champion_id":2479,
     "champion_name":"Khan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2479/23681.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58507,
@@ -32,6 +35,7 @@
   {
     "champion_id":2479,
     "champion_name":"Khan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2479/23536.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58497,
@@ -42,6 +46,7 @@
   {
     "champion_id":2479,
     "champion_name":"Khan",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2479/23099.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52321,

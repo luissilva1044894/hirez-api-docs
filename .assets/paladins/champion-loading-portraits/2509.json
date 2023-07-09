@@ -2,6 +2,7 @@
   {
     "champion_id":2509,
     "champion_name":"Imani",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2509/24552.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58568,
@@ -12,6 +13,7 @@
   {
     "champion_id":2509,
     "champion_name":"Imani",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2509/24126.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":58542,
@@ -22,6 +24,7 @@
   {
     "champion_id":2509,
     "champion_name":"Imani",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2509/24269.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58545,
@@ -32,6 +35,7 @@
   {
     "champion_id":2509,
     "champion_name":"Imani",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2509/24123.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":58540,
@@ -42,6 +46,7 @@
   {
     "champion_id":2509,
     "champion_name":"Imani",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2509/24124.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":58541,

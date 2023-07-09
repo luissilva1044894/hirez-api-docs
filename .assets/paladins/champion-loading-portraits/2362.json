@@ -2,6 +2,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/18644.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52154,
@@ -12,6 +13,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/23185.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52325,
@@ -22,6 +24,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/22528.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52289,
@@ -32,6 +35,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/16949.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52123,
@@ -42,6 +46,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/16950.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52124,
@@ -52,6 +57,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/19338.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52199,
@@ -62,6 +68,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/18843.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52163,
@@ -72,6 +79,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/18643.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52153,
@@ -82,6 +90,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/16951.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52125,
@@ -92,6 +101,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/20082.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52252,
@@ -102,6 +112,7 @@
   {
     "champion_id":2362,
     "champion_name":"Lex",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2362/19354.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52202,

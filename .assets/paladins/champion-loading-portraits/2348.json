@@ -2,6 +2,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/16710.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52121,
@@ -12,6 +13,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/16711.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":52122,
@@ -22,6 +24,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/19547.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52218,
@@ -32,6 +35,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/24264.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58543,
@@ -42,6 +46,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/18870.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":52169,
@@ -52,6 +57,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/23672.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":58504,
@@ -62,6 +68,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/19546.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":52217,
@@ -72,6 +79,7 @@
   {
     "champion_id":2348,
     "champion_name":"Inara",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2348/19344.png",
     "rarity":"Uncommon",
     "ret_msg":null,
     "skin_id1":52200,

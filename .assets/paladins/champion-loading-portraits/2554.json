@@ -2,6 +2,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/30995.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":115323,
@@ -12,6 +13,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/30992.png",
     "rarity":"Common",
     "ret_msg":null,
     "skin_id1":118333,
@@ -22,6 +24,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/31104.png",
     "rarity":"Rare",
     "ret_msg":null,
     "skin_id1":115326,
@@ -32,6 +35,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/30993.png",
     "rarity":"Legendary",
     "ret_msg":null,
     "skin_id1":115318,
@@ -42,6 +46,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/32375.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":118954,
@@ -52,6 +57,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/31157.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":115782,
@@ -62,6 +68,7 @@
   {
     "champion_id":2554,
     "champion_name":"Caspian",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2554/30994.png",
     "rarity":"Epic",
     "ret_msg":null,
     "skin_id1":115320,
