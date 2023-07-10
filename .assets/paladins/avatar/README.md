@@ -2043,12 +2043,6 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>Snuggle Up</td>
-    <td><img src="./avatar_winter2021_maeve_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td>Dedicated</td>
     <td><img src="./avatar_ying_anime_i1.png" height="32" width="32"/></td>
   </tr>
