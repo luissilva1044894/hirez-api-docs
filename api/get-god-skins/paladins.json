@@ -2,9 +2,10 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/20156.png",
     "rarity":"Rare",
     "ret_msg":null,
-    "skin_id1":37628,
+    "skin_id1":52255,
     "skin_id2":20156,
     "skin_name":"Arctic",
     "skin_name_english":"Arctic"
@@ -12,19 +13,21 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
-    "rarity":"",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/19959.png",
+    "rarity":"Epic",
     "ret_msg":null,
-    "skin_id1":20943,
-    "skin_id2":12198,
-    "skin_name":"Default Pip",
-    "skin_name_english":"Default Pip"
+    "skin_id1":52247,
+    "skin_id2":19959,
+    "skin_name":"Cosmic Pip",
+    "skin_name_english":"Cosmic Pip"
   },
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/17135.png",
     "rarity":"Epic",
     "ret_msg":null,
-    "skin_id1":24031,
+    "skin_id1":52135,
     "skin_id2":17135,
     "skin_name":"Invader",
     "skin_name_english":"Invader"
@@ -32,9 +35,21 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/14937.png",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52044,
+    "skin_id2":14937,
+    "skin_name":"Iodine",
+    "skin_name_english":"Iodine"
+  },
+  {
+    "champion_id":2056,
+    "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/23050.png",
     "rarity":"Rare",
     "ret_msg":null,
-    "skin_id1":22790,
+    "skin_id1":52311,
     "skin_id2":23050,
     "skin_name":"Love Specs",
     "skin_name_english":"Love Specs"
@@ -42,9 +57,10 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/14832.png",
     "rarity":"Epic",
     "ret_msg":null,
-    "skin_id1":20644,
+    "skin_id1":52038,
     "skin_id2":14832,
     "skin_name":"Mad Scientist",
     "skin_name_english":"Mad Scientist"
@@ -52,9 +68,21 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/19957.png",
     "rarity":"Rare",
     "ret_msg":null,
-    "skin_id1":25345,
+    "skin_id1":52246,
+    "skin_id2":19957,
+    "skin_name":"Obsidian Pip",
+    "skin_name_english":"Obsidian Pip"
+  },
+  {
+    "champion_id":2056,
+    "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/18224.png",
+    "rarity":"Rare",
+    "ret_msg":null,
+    "skin_id1":52146,
     "skin_id2":18224,
     "skin_name":"Pandamonium",
     "skin_name_english":"Pandamonium"
@@ -62,19 +90,10 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/14336.png",
     "rarity":"Rare",
     "ret_msg":null,
-    "skin_id1":26227,
-    "skin_id2":18224,
-    "skin_name":"Pandamonium",
-    "skin_name_english":"Pandamonium"
-  },
-  {
-    "champion_id":2056,
-    "champion_name":"Pip",
-    "rarity":"Rare",
-    "ret_msg":null,
-    "skin_id1":20650,
+    "skin_id1":52031,
     "skin_id2":14336,
     "skin_name":"Raider",
     "skin_name_english":"Raider"
@@ -82,9 +101,21 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/23841.png",
+    "rarity":"Legendary",
+    "ret_msg":null,
+    "skin_id1":58513,
+    "skin_id2":23841,
+    "skin_name":"Remix Pepper",
+    "skin_name_english":"Remix Pepper"
+  },
+  {
+    "champion_id":2056,
+    "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/13277.png",
     "rarity":"Common",
     "ret_msg":null,
-    "skin_id1":18350,
+    "skin_id1":52012,
     "skin_id2":13277,
     "skin_name":"Sulfur",
     "skin_name_english":"Sulfur"
@@ -92,11 +123,23 @@
   {
     "champion_id":2056,
     "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/13276.png",
     "rarity":"Rare",
     "ret_msg":null,
-    "skin_id1":19545,
+    "skin_id1":52011,
     "skin_id2":13276,
     "skin_name":"Tactical",
     "skin_name_english":"Tactical"
+  },
+  {
+    "champion_id":2056,
+    "champion_name":"Pip",
+    "external_skin_url":"https://hirez-api.onrender.com/paladins/skins/2056/14938.png",
+    "rarity":"Common",
+    "ret_msg":null,
+    "skin_id1":52045,
+    "skin_id2":14938,
+    "skin_name":"Uranium",
+    "skin_name_english":"Uranium"
   }
 ]
