@@ -2035,17 +2035,5 @@ Valid values are:
     <td><img src="./avatar_ramadan2021_b_i1.png" height="32" width="32"/></td>
   </tr>
 
-  <tr>
-    <td></td>
-    <td>Queen of the Night</td>
-    <td><img src="./avatar_rankedsplit2022_lillith_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Dedicated</td>
-    <td><img src="./avatar_ying_anime_i1.png" height="32" width="32"/></td>
-  </tr>
-
 </table>
 </details>
