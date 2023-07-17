@@ -1250,6 +1250,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>27820</td>
+    <td>Eye Captain</td>
+    <td><img src="./27820.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>27821</td>
     <td>Snuggle Up</td>
     <td><img src="./27821.png" height="32" width="32"/></td>
@@ -1478,6 +1484,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>30661</td>
+    <td>Justin OH Khan</td>
+    <td><img src="./30661.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>30662</td>
     <td>Bossfight Koga</td>
     <td><img src="./30662.png" height="32" width="32"/></td>
@@ -1658,6 +1670,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>31677</td>
+    <td>Class Puppet</td>
+    <td><img src="./31677.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>31678</td>
     <td>Mine Forever</td>
     <td><img src="./31678.png" height="32" width="32"/></td>
@@ -1667,6 +1685,12 @@ Valid values are:
     <td>31679</td>
     <td>O' Christmas Tree</td>
     <td><img src="./31679.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>31680</td>
+    <td>Hanukkah Sameach!</td>
+    <td><img src="./31680.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1700,9 +1724,21 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32240</td>
+    <td>Intl. Women's Day 2023</td>
+    <td><img src="./32240.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32243</td>
     <td>Ramadan 2023</td>
     <td><img src="./32243.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32244</td>
+    <td>Egg-cellent Easter</td>
+    <td><img src="./32244.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1715,6 +1751,12 @@ Valid values are:
     <td>32246</td>
     <td>Doombringer</td>
     <td><img src="./32246.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32247</td>
+    <td>Abyssal Outcry</td>
+    <td><img src="./32247.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1781,12 +1823,6 @@ Valid values are:
     <td>32344</td>
     <td>Bloody Brilliant</td>
     <td><img src="./32344.gif" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td>32344</td>
-    <td>Class Puppet</td>
-    <td><img src="./32344.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1923,18 +1959,6 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>Eye Captain</td>
-    <td><img src="./Eye_Captain.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Justin OH Khan</td>
-    <td><img src="./Justin_OH_Khan.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td>Sweet Lucipurr</td>
     <td><img src="./Sweet_Lucipurr.gif" height="32" width="32"/></td>
   </tr>
@@ -1965,20 +1989,8 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>Hanukkah Sameach!</td>
-    <td><img src="./avatar_hanukkah2022_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td>Black History 2023</td>
     <td><img src="./avatar_holidays2023_blackhistory_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Egg-cellent Easter</td>
-    <td><img src="./avatar_holidays2023_easter_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1995,12 +2007,6 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>Intl. Women's Day 2023</td>
-    <td><img src="./avatar_holidays2023_womenshistory_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td>Juneteenth 2023</td>
     <td><img src="./avatar_juneteenth2023_i1.png" height="32" width="32"/></td>
   </tr>
@@ -2009,12 +2015,6 @@ Valid values are:
     <td></td>
     <td>Glorious Beard</td>
     <td><img src="./avatar_masquerade_barik_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Abyssal Outcry</td>
-    <td><img src="./avatar_nyxrelease_serisweapon_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
