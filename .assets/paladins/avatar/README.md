@@ -710,6 +710,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>26324</td>
+    <td>Under the Sea</td>
+    <td><img src="./26324.gif" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>26325</td>
     <td>Captain's Guile</td>
     <td><img src="./26325.png" height="32" width="32"/></td>
@@ -755,12 +761,6 @@ Valid values are:
     <td>26351</td>
     <td>Starry Eyed</td>
     <td><img src="./26351.gif" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td>26352</td>
-    <td>Under the Sea</td>
-    <td><img src="./26352.gif" height="32" width="32"/></td>
   </tr>
 
   <tr>
