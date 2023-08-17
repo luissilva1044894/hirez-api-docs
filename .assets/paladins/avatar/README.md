@@ -2035,5 +2035,41 @@ Valid values are:
     <td><img src="./avatar_ramadan2021_b_i1.png" height="32" width="32"/></td>
   </tr>
 
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_holidays2023_hispanicheritage_i1.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_holidays2023_indigenouspeople_i1.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_holidays2023_laborday_i1.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_holidays2023_mentalhealth_i1.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_rankedsplit2023_ruckus_i1.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td><img src="./avatar_som2_scarab_i1.png" height="32" width="32"/></td>
+  </tr>
+
 </table>
 </details>
