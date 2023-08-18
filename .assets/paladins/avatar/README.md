@@ -1946,6 +1946,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32911</td>
+    <td>Golems and Globins</td>
+    <td><img src="./32911.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td></td>
     <td>Bug Out</td>
     <td><img src="./bug_out.png" height="32" width="32"/></td>
@@ -2037,37 +2043,31 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Hispanic Heritage 2023</td>
     <td><img src="./avatar_holidays2023_hispanicheritage_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Indigenous People's Day 2023</td>
     <td><img src="./avatar_holidays2023_indigenouspeople_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Labor Day 2023</td>
     <td><img src="./avatar_holidays2023_laborday_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
+    <td>Mental Health Day 2023</td>
     <td><img src="./avatar_holidays2023_mentalhealth_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
     <td></td>
-    <td></td>
-    <td><img src="./avatar_rankedsplit2023_ruckus_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td></td>
+    <td>Beetle Bauble</td>
     <td><img src="./avatar_som2_scarab_i1.png" height="32" width="32"/></td>
   </tr>
 
