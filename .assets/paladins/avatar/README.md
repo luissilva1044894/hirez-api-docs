@@ -1952,6 +1952,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32913</td>
+    <td>Resting Pharaoh Face</td>
+    <td><img src="./32913.gif" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32914</td>
     <td>Mummified Glare</td>
     <td><img src="./32914.gif" height="32" width="32"/></td>
