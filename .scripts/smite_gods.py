@@ -33,14 +33,13 @@ def http_requests(url, **kw):
   max_retries = kw.pop('max_tries', 5)
   for n in range(max_retries):
     try:
-      r = requests.get(url)
-      return r.content
+      return requests.get(url)
     except:
       time.sleep(n)
 
 def download_img(url):
   try:
-    return Image.open(BytesIO(http_requests(url)))
+    return Image.open(BytesIO(http_requests(url).content))
   except:
     pass
 
@@ -74,7 +73,7 @@ def god_icon(name, god_id, ext='jpg'):
 
 def fetch_all(lang=(1,)):
   for l in lang:
-    for c in  requests.get(f'{API_URL}/all-gods/{l}').json() or {}:
+    for c in  http_requests(f'{API_URL}/all-gods/{l}').json() or {}:
       god_name = fix_name(c.get('god_name_EN') or '')
       god_id = c.get('id') or 0
       if god_id and god_name:

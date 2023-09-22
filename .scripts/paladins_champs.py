@@ -33,18 +33,15 @@ fix_name = lambda name: str(name).lower().replace(' ', '-').replace("'", '').rep
 get_path = lambda d: path.join(PATH, d)
 
 def http_requests(url, **kw):
-  buffer = BytesIO()
-  max_retries = kw.pop('max_tries', 5)
-  for n in range(max_retries):
+  for n in range(kw.pop('max_tries', 5)):
     try:
-      r = requests.get(url)
-      return r.content
+      return requests.get(url)
     except:
       time.sleep(n)
 
 def download_img(url):
   try:
-    return Image.open(BytesIO(http_requests(url)))
+    return Image.open(BytesIO(http_requests(url).content))
   except:
     pass
 
@@ -93,7 +90,7 @@ def talent_icon(name, icon_id, ext='png'):
 
 def fetch_all(lang=(1,)):
   for l in lang:
-    for c in  requests.get(f'{API_URL}/champion-hub/{l}').json() or {}:
+    for c in  http_requests(f'{API_URL}/champion-hub/{l}').json() or {}:
       champ_name = fix_name(c.get('feName') or '')
       champ_id = c.get('id') or 0
       if champ_id and champ_name:
