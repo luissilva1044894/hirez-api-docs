@@ -1598,6 +1598,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>31101</td>
+    <td>Pride</td>
+    <td><img src="./31101.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>31226</td>
     <td>Io Love You</td>
     <td><img src="./31226.gif" height="32" width="32"/></td>
@@ -1724,9 +1730,27 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32239</td>
+    <td>Black History 2023</td>
+    <td><img src="./32239.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32240</td>
     <td>Intl. Women's Day 2023</td>
     <td><img src="./32240.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32241</td>
+    <td>Be My Valentine</td>
+    <td><img src="./32241.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32242</td>
+    <td>Luck of the Irish</td>
+    <td><img src="./32242.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1874,9 +1898,33 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32659</td>
+    <td>Pride 2023</td>
+    <td><img src="./32659.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td>32660</td>
     <td>Paladins' 5th Anniversary</td>
     <td><img src="./32660.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32661</td>
+    <td>Juneteenth 2023</td>
+    <td><img src="./32660.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32662</td>
+    <td>Cinco de Mayo 2023</td>
+    <td><img src="./32662.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
+    <td>32663</td>
+    <td>AAPI Heritage 2023</td>
+    <td><img src="./32663.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -1964,6 +2012,12 @@ Valid values are:
   </tr>
 
   <tr>
+    <td>32918</td>
+    <td>Mental Health Day 2023</td>
+    <td><img src="./32918.png" height="32" width="32"/></td>
+  </tr>
+
+  <tr>
     <td></td>
     <td>Bug Out</td>
     <td><img src="./bug_out.png" height="32" width="32"/></td>
@@ -1983,20 +2037,8 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>AAPI Heritage 2023</td>
-    <td><img src="./avatar_aapi2023_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td></td>
     <td><img src="./avatar_battlebyte_c_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Cinco de Mayo 2023</td>
-    <td><img src="./avatar_cincodemayo2023_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -2007,44 +2049,8 @@ Valid values are:
 
   <tr>
     <td></td>
-    <td>Black History 2023</td>
-    <td><img src="./avatar_holidays2023_blackhistory_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Luck of the Irish</td>
-    <td><img src="./avatar_holidays2023_stpattys_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Be My Valentine</td>
-    <td><img src="./avatar_holidays2023_valentines_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Juneteenth 2023</td>
-    <td><img src="./avatar_juneteenth2023_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
     <td>Glorious Beard</td>
     <td><img src="./avatar_masquerade_barik_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Pride</td>
-    <td><img src="./avatar_pride_rainbow_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Pride 2023</td>
-    <td><img src="./avatar_pride2023_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
@@ -2069,12 +2075,6 @@ Valid values are:
     <td></td>
     <td>Labor Day 2023</td>
     <td><img src="./avatar_holidays2023_laborday_i1.png" height="32" width="32"/></td>
-  </tr>
-
-  <tr>
-    <td></td>
-    <td>Mental Health Day 2023</td>
-    <td><img src="./avatar_holidays2023_mentalhealth_i1.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
