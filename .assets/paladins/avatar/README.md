@@ -1912,7 +1912,7 @@ Valid values are:
   <tr>
     <td>32661</td>
     <td>Juneteenth 2023</td>
-    <td><img src="./32660.png" height="32" width="32"/></td>
+    <td><img src="./32661.png" height="32" width="32"/></td>
   </tr>
 
   <tr>
