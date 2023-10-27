@@ -1,17 +1,17 @@
 
 ## Flask
 # https://github.com/pallets/flask
-Flask[dotenv]==2.3.2;python_version>='3.6'
+Flask[dotenv]==2.3.3;python_version>='3.6'
 
 # https://github.com/pallets/jinja
 Jinja2==3.1.2;python_version>='3.6'
 
 ## Deployment
 # https://github.com/pallets/werkzeug
-Werkzeug==2.3.6;python_version>='3.6'
+Werkzeug==2.3.7;python_version>='3.6'
 
 # https://github.com/benoitc/gunicorn
-gunicorn==20.1.0;python_version>='3.6'
+gunicorn==21.2.0;python_version>='3.6'
 
 # -r ./db.txt
 -r base.txt
